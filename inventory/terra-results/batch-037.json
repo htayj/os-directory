@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":37,"results":[
+{"candidate_id":"windows-vista","disposition":"included-release","path":null,"canonical_title":"Windows Vista","notes":"Windows release."},
+{"candidate_id":"windows-azure","disposition":"not-an-operating-system","path":null,"canonical_title":"Windows Azure","notes":"Cloud-computing platform/service identity, not an OS release concept."},
+{"candidate_id":"windows-home-server","disposition":"included-release","path":null,"canonical_title":"Windows Home Server","notes":"Windows Server product/release line."},
+{"candidate_id":"windows-server-2008","disposition":"included-release","path":null,"canonical_title":"Windows Server 2008","notes":"Windows Server release."},
+{"candidate_id":"windows-7","disposition":"included-release","path":null,"canonical_title":"Windows 7","notes":"Windows release."},
+{"candidate_id":"windows-server-2008-r2","disposition":"included-release","path":null,"canonical_title":"Windows Server 2008 R2","notes":"Windows Server release."},
+{"candidate_id":"windows-home-server-2011","disposition":"included-release","path":null,"canonical_title":"Windows Home Server 2011","notes":"Windows Home Server release."},
+{"candidate_id":"windows-8","disposition":"included-release","path":null,"canonical_title":"Windows 8","notes":"Windows release."},
+{"candidate_id":"windows-rt","disposition":"included-release","path":null,"canonical_title":"Windows RT","notes":"Windows platform/release variant."},
+{"candidate_id":"windows-phone-8","disposition":"included-release","path":null,"canonical_title":"Windows Phone 8","notes":"Windows Phone release."}
+]}

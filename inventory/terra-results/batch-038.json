@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":38,"results":[
+{"candidate_id":"windows-server-2012","disposition":"included-release","path":null,"canonical_title":"Windows Server 2012","notes":"Windows NT-family server release."},
+{"candidate_id":"windows-8-1","disposition":"included-release","path":null,"canonical_title":"Windows 8.1","notes":"Versioned Microsoft Windows release."},
+{"candidate_id":"windows-phone-8-1","disposition":"included-release","path":null,"canonical_title":"Windows Phone 8.1","notes":"Windows Phone release."},
+{"candidate_id":"windows-server-2012-r2","disposition":"included-release","path":null,"canonical_title":"Windows Server 2012 R2","notes":"Windows Server release."},
+{"candidate_id":"windows-10","disposition":"included-release","path":null,"canonical_title":"Windows 10","notes":"Versioned Microsoft Windows release."},
+{"candidate_id":"windows-10-mobile","disposition":"included-release","path":null,"canonical_title":"Windows 10 Mobile","notes":"Windows mobile product/release variant."},
+{"candidate_id":"windows-server-2016","disposition":"included-release","path":null,"canonical_title":"Windows Server 2016","notes":"Windows NT-family server release."},
+{"candidate_id":"windows-server-2019","disposition":"included-release","path":null,"canonical_title":"Windows Server 2019","notes":"Windows NT-family server release."},
+{"candidate_id":"windows-11","disposition":"included-release","path":null,"canonical_title":"Windows 11","notes":"Versioned Microsoft Windows release."},
+{"candidate_id":"windows-server-2022","disposition":"included-release","path":null,"canonical_title":"Windows Server 2022","notes":"Windows NT-family server release."}
+]}
