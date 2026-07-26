@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":33,"results":[
+{"candidate_id":"edinburgh-multiple-access-system","disposition":"included-system","path":"systems/edinburgh-multiple-access-system/","canonical_title":"Edinburgh Multiple Access System","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"executive","disposition":"included-system","path":"systems/executive/","canonical_title":"Executive","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"tme","disposition":"included-system","path":"systems/tme/","canonical_title":"TME","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"icl-vme","disposition":"included-system","path":"systems/icl-vme/","canonical_title":"ICL VME","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"vme-k","disposition":"included-release","path":null,"canonical_title":"VME/K","notes":"VME system variant/release, not a distinct lineage."},
+{"candidate_id":"remix-os","disposition":"included-system","path":"systems/remix-os/","canonical_title":"Remix OS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"sailfish-os","disposition":"included-system","path":"systems/sailfish-os/","canonical_title":"Sailfish OS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"kaios","disposition":"included-system","path":"systems/kaios/","canonical_title":"KaiOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"lynxos","disposition":"included-system","path":"systems/lynxos/","canonical_title":"LynxOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"flyme-os","disposition":"included-system","path":"systems/flyme-os/","canonical_title":"Flyme OS","notes":"Distinct linked operating-system identity."}
+]}
