@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":40,"results":[
+{"candidate_id":"xbox-system-software","disposition":"included-system","path":"systems/xbox-system-software/","canonical_title":"Xbox system software","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"xbox-first-generation-system-software","disposition":"included-release","path":null,"canonical_title":"Original Xbox system software","notes":"Xbox system-software generation/release."},
+{"candidate_id":"xbox-360-system-software","disposition":"included-release","path":null,"canonical_title":"Xbox 360 system software","notes":"Xbox system-software generation/release."},
+{"candidate_id":"xbox-one-system-software","disposition":"included-release","path":null,"canonical_title":"Xbox One system software","notes":"Xbox system-software generation/release."},
+{"candidate_id":"xbox-series-x-s-system-software","disposition":"included-release","path":null,"canonical_title":"Xbox Series X/S system software","notes":"Xbox system-software generation/release."},
+{"candidate_id":"singularity","disposition":"included-system","path":"systems/singularity/","canonical_title":"Singularity","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"midori","disposition":"included-system","path":"systems/midori/","canonical_title":"Midori","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"sonic","disposition":"included-system","path":"systems/sonic/","canonical_title":"SONiC","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"azure-sphere","disposition":"included-system","path":"systems/azure-sphere/","canonical_title":"Azure Sphere","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"cbl-mariner","disposition":"included-system","path":"systems/cbl-mariner/","canonical_title":"CBL-Mariner","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}

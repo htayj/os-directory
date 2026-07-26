@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":39,"results":[
+{"candidate_id":"windows-server-2025","disposition":"included-release","path":null,"canonical_title":"Windows Server 2025","notes":"Windows NT-family server release."},
+{"candidate_id":"windows-ce","disposition":"included-system","path":"systems/windows-ce/","canonical_title":"Windows CE","notes":"Distinct linked embedded Windows operating-system lineage."},
+{"candidate_id":"windows-ce-3-0","disposition":"included-release","path":null,"canonical_title":"Windows CE 3.0","notes":"Windows CE release."},
+{"candidate_id":"windows-ce-5-0","disposition":"included-release","path":null,"canonical_title":"Windows CE 5.0","notes":"Windows CE release."},
+{"candidate_id":"windows-embedded-ce-6-0","disposition":"included-release","path":null,"canonical_title":"Windows Embedded CE 6.0","notes":"Windows CE release."},
+{"candidate_id":"windows-embedded-compact-7","disposition":"included-release","path":null,"canonical_title":"Windows Embedded Compact 7","notes":"Windows CE release/product stream."},
+{"candidate_id":"windows-embedded-compact-2013","disposition":"included-release","path":null,"canonical_title":"Windows Embedded Compact 2013","notes":"Windows CE release/product stream."},
+{"candidate_id":"windows-mobile","disposition":"included-system","path":"systems/windows-mobile/","canonical_title":"Windows Mobile","notes":"Distinct linked mobile operating-system lineage."},
+{"candidate_id":"windows-phone-7","disposition":"included-release","path":null,"canonical_title":"Windows Phone 7","notes":"Windows Phone release."},
+{"candidate_id":"kin-os","disposition":"included-system","path":"systems/kin-os/","canonical_title":"KIN OS","notes":"Distinct linked mobile operating-system identity."}
+]}
