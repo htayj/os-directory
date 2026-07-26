@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":55,"results":[
+{"candidate_id":"vsta","disposition":"included-system","path":"systems/vsta/","canonical_title":"VSTa","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"plurix","disposition":"included-system","path":"systems/plurix/","canonical_title":"Plurix","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"tunis","disposition":"included-system","path":"systems/tunis/","canonical_title":"TUNIS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"xv6","disposition":"included-system","path":"systems/xv6/","canonical_title":"Xv6","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"serenityos","disposition":"included-system","path":"systems/serenityos/","canonical_title":"SerenityOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"cosmos","disposition":"included-system","path":"systems/cosmos/","canonical_title":"Cosmos","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"emutos","disposition":"included-system","path":"systems/emutos/","canonical_title":"EmuTOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"freedos","disposition":"included-system","path":"systems/freedos/","canonical_title":"FreeDOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"genode","disposition":"included-system","path":"systems/genode/","canonical_title":"Genode","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"haiku","disposition":"included-system","path":"systems/haiku/","canonical_title":"Haiku","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}

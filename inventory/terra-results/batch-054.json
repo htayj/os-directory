@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":54,"results":[
+{"candidate_id":"android-x86","disposition":"included-system","path":"systems/android-x86/","canonical_title":"Android-x86","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"nuttx","disposition":"included-system","path":"systems/nuttx/","canonical_title":"NuttX","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"redox","disposition":"included-system","path":"systems/redox/","canonical_title":"Redox","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"opensolaris","disposition":"included-system","path":"systems/opensolaris/","canonical_title":"OpenSolaris","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"illumos","disposition":"included-system","path":"systems/illumos/","canonical_title":"Illumos","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"openindiana","disposition":"included-system","path":"systems/openindiana/","canonical_title":"OpenIndiana","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"nexenta-os","disposition":"included-system","path":"systems/nexenta-os/","canonical_title":"Nexenta OS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"smartos","disposition":"included-system","path":"systems/smartos/","canonical_title":"SmartOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"rtems","disposition":"included-system","path":"systems/rtems/","canonical_title":"RTEMS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"syllable-desktop","disposition":"included-system","path":"systems/syllable-desktop/","canonical_title":"Syllable Desktop","notes":"Distinct linked operating-system identity."}
+]}
