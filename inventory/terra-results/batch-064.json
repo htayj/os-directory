@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":64,"results":[
+{"candidate_id":"osd-xc-by-fujitsu-siemens-bs2000-ported-to-an-emulation-on-a-sun-sparc-platform","disposition":"needs-review","path":null,"canonical_title":"OSD/XC","notes":"Unlinked port/emulation label requiring identity evidence."},
+{"candidate_id":"os-iv-by-fujitsu-based-on-early-versions-of-ibm-s-mvs","disposition":"needs-review","path":null,"canonical_title":"OS/IV","notes":"Unlinked Fujitsu system label requiring identity evidence."},
+{"candidate_id":"pick","disposition":"included-system","path":"systems/pick/","canonical_title":"Pick","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"primos","disposition":"included-system","path":"systems/primos/","canonical_title":"PRIMOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"sinclair-qdos","disposition":"included-system","path":"systems/sinclair-qdos/","canonical_title":"Sinclair QDOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"ssb-dos-by-technical-systems-consultants-tsc-for-smoke-signal-broadcasting-a-variant-of-flex-in-most-respects","disposition":"needs-review","path":null,"canonical_title":"SSB-DOS","notes":"Unlinked descriptive variant label requiring identity evidence."},
+{"candidate_id":"symobi","disposition":"included-system","path":"systems/symobi/","canonical_title":"Symobi","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"tripos","disposition":"included-system","path":"systems/tripos/","canonical_title":"TripOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"ucsd-p-system","disposition":"included-system","path":"systems/ucsd-p-system/","canonical_title":"UCSD p-System","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"vos3-by-hitachi-for-its-ibm-compatible-mainframes-based-on-ibm-s-mvs","disposition":"needs-review","path":null,"canonical_title":"VOS3","notes":"Unlinked descriptive system label requiring identity evidence."}
+]}

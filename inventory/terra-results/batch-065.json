@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":65,"results":[
+{"candidate_id":"vm2000","disposition":"included-system","path":"systems/vm2000/","canonical_title":"VM2000","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"visi-on","disposition":"not-an-operating-system","path":null,"canonical_title":"Visi On","notes":"Graphical operating environment layered on MS-DOS, not an OS."},
+{"candidate_id":"vps-vm","disposition":"included-system","path":"systems/vps-vm/","canonical_title":"VPS/VM","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"539kernel-44","disposition":"needs-review","path":null,"canonical_title":"539kernel","notes":"Unlinked label; identity needs source confirmation."},
+{"candidate_id":"aros","disposition":"included-system","path":"systems/aros/","canonical_title":"AROS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"atheos","disposition":"included-system","path":"systems/atheos/","canonical_title":"AtheOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"syllable-desktop-2","disposition":"included-system","path":"systems/syllable-desktop-2/","canonical_title":"Syllable Desktop","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"baremetal","disposition":"included-system","path":"systems/baremetal/","canonical_title":"BareMetal","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"eros-2","disposition":"not-an-operating-system","path":null,"canonical_title":"EROS microkernel","notes":"Microkernel component; the full EROS system is cataloged separately."},
+{"candidate_id":"lse-os","disposition":"needs-review","path":null,"canonical_title":"LSE/OS","notes":"Unlinked label; identity needs source confirmation."}
+]}
