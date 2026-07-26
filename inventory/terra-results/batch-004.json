@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 4,
+  "results": [
+    {"candidate_id":"rhapsody","disposition":"included-system","path":"systems/rhapsody/","canonical_title":"Rhapsody","notes":"Independently named Apple/NeXT OS project; related later macOS remains distinct."},
+    {"candidate_id":"macos","disposition":"included-system","path":"systems/macos/","canonical_title":"macOS","notes":"Apple Mac operating-system lineage; former names retained."},
+    {"candidate_id":"macos-server","disposition":"included-release","path":null,"canonical_title":"macOS Server","notes":"Server distribution/edition of macOS, not a distinct OS identity; no parent release file created under bounded protocol."},
+    {"candidate_id":"apple-network-server","disposition":"not-an-operating-system","path":null,"canonical_title":"Apple Network Server","notes":"Hardware product; its listed child identifies an Apple-customized AIX deployment."},
+    {"candidate_id":"ibm-aix","disposition":"included-system","path":"systems/ibm-aix/","canonical_title":"IBM AIX","notes":"IBM OS identity; Apple customization is deployment context, not a separate system."},
+    {"candidate_id":"apple-messagepad","disposition":"not-an-operating-system","path":null,"canonical_title":"Apple MessagePad","notes":"Hardware product; Newton OS is cataloged separately."},
+    {"candidate_id":"newton-os","disposition":"included-system","path":"systems/newton-os/","canonical_title":"Newton OS","notes":"Named Apple mobile operating-system identity; both occurrences retained."},
+    {"candidate_id":"iphone","disposition":"not-an-operating-system","path":null,"canonical_title":"iPhone","notes":"Hardware product; iOS is cataloged separately."},
+    {"candidate_id":"ios","disposition":"included-system","path":"systems/ios/","canonical_title":"iOS","notes":"Named Apple mobile operating-system lineage; both occurrences retained."},
+    {"candidate_id":"ipad","disposition":"not-an-operating-system","path":null,"canonical_title":"iPad","notes":"Hardware product, not a distinct operating-system identity."}
+  ]
+}

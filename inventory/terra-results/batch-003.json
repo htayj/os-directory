@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 3,
+  "results": [
+    { "candidate_id": "gno-me", "disposition": "included-system", "path": "systems/gno-me/", "canonical_title": "GNO/ME", "notes": "Distinct named Unix-like Apple IIGS operating-system environment." },
+    { "candidate_id": "apple-iii", "disposition": "not-an-operating-system", "path": null, "canonical_title": "Apple III", "notes": "Computer model/family; Apple SOS is the relevant operating-system identity." },
+    { "candidate_id": "apple-sos", "disposition": "included-system", "path": "systems/apple-sos/", "canonical_title": "Apple SOS", "notes": "Distinct Apple III operating system; preserved Apple SOS source materials consulted." },
+    { "candidate_id": "apple-lisa", "disposition": "not-an-operating-system", "path": null, "canonical_title": "Apple Lisa", "notes": "Computer product; its OS identities must be cataloged separately." },
+    { "candidate_id": "mac", "disposition": "not-an-operating-system", "path": null, "canonical_title": "Mac (computer)", "notes": "Computer-family identity, not an operating system." },
+    { "candidate_id": "classic-mac-os", "disposition": "included-system", "path": "systems/classic-mac-os/", "canonical_title": "Classic Mac OS", "notes": "Distinct historical Macintosh operating-system lineage." },
+    { "candidate_id": "a-ux", "disposition": "included-system", "path": "systems/a-ux/", "canonical_title": "A/UX", "notes": "Distinct Apple Unix distribution; contemporary Apple manual consulted." },
+    { "candidate_id": "copland", "disposition": "included-system", "path": "systems/copland/", "canonical_title": "Copland", "notes": "Named, cancelled Apple operating-system project; record preserves the unreleased identity." },
+    { "candidate_id": "mklinux", "disposition": "included-system", "path": "systems/mklinux/", "canonical_title": "MkLinux", "notes": "Distinct named Macintosh Linux distribution/port; deeper primary-source work remains pending." },
+    { "candidate_id": "pink", "disposition": "needs-review", "path": null, "canonical_title": "Taligent", "notes": "The occurrence says Pink but links Taligent; available evidence conflates a company, Taligent Object Services, and an unreleased native OS concept." }
+  ]
+}
