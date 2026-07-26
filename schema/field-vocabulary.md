@@ -60,6 +60,7 @@ disagreement are separate dimensions.
 | `catalog_completeness` | mapping | Level (`inventory`, `core`, `deep`) and review notes. |
 | `field_dispositions` | list of mappings | Field path, disposition, reason, date checked, and evidence. |
 | `source_list` | mapping | Frozen list revision and all occurrence records. |
+| `discovery_provenance` | list of mappings | Coverage set, method, language, source, native label, date, and candidate disposition. |
 | `same_as` | list of URIs | External authority records for the same identity. |
 
 Field dispositions are `not-researched`, `no-evidence-found`, `unknown`,
@@ -70,11 +71,19 @@ Each `source_list.occurrences` item records `section`, `label`, `position`,
 `target`, nesting context, and optional annotation. Repeated list appearances
 therefore remain visible after identity deduplication.
 
+Discovery methods include `english-list`, `wikidata-query`,
+`multilingual-list`, `multilingual-article`, `hardware-ecosystem`,
+`institutional-history`, `archive-catalog`, `bibliography`, `lineage-link`,
+`category-traversal`, and `manual-search`. Candidate dispositions are
+`included-system`, `included-release`, `included-artifact`, `alias`,
+`duplicate`, `not-an-operating-system`, `insufficient-evidence`, and
+`needs-review`.
+
 # Identity, Origin, and Stewardship
 
 | Field | Shape | Meaning |
 |---|---|---|
-| `names` | list of claims | Official, short, former, development, translated, or alias names. |
+| `names` | list of claims | Official, short, former, development, translated, transliterated, or alias names, with BCP 47 language and ISO 15924 script. |
 | `organizations` | list of claims | Organization path, roles, and time/release scope. |
 | `countries_of_origin` | list of ISO 3166-1 alpha-2 codes | Filterable summary derived from origin-role entries. |
 | `development_origins` | list of claims | Country, place, organization, development role, and scope. |
@@ -89,6 +98,27 @@ Country of origin means where original development occurred, not the present
 headquarters of a later owner. Development-origin roles are `origin`,
 `major-development`, `port`, and `stewardship`. A genuinely multinational
 origin has multiple country codes.
+
+For names written in non-Latin scripts, retain the exact native form,
+`language`, `script`, and any `transliteration_scheme`. An English rendering
+does not replace the source-language name.
+
+# Source-Language Metadata
+
+Each `sources` entry may extend OKF with:
+
+| Field | Meaning |
+|---|---|
+| `language` | BCP 47 language tag of the source. |
+| `original_title` | Title exactly as published. |
+| `translated_title` | Catalog-supplied English title, when useful. |
+| `translation_by` | Human, named translation, or declared machine/tool actor. |
+| `accessed` | Date the source was consulted. |
+| `archived_resource` | Stable archived copy when the live resource is fragile. |
+| `source_kind` | Manual, release note, source tree, article, catalog, oral history, or other kind. |
+
+Translate for discovery and summary, but cite the original-language evidence.
+Machine translation does not elevate a source's trust tier.
 
 # Purpose, Context, and Classification
 

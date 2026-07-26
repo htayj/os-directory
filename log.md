@@ -2,6 +2,8 @@
 
 ## 2026-07-26
 
+* **Scope**: Added a supplemental multilingual discovery corpus for systems absent from the English list, including hardware-ecosystem and national computing-history research.
+* **Schema**: Added native-script names, source-language metadata, translation provenance, discovery methods, and candidate dispositions.
 * **Planning**: Defined the frozen Wikipedia coverage snapshot, normalized field vocabulary, evidence policy, completion levels, and phased cataloging plan.
 * **Schema**: Incorporated an independent field-plan audit: claim envelopes, precise field dispositions, split lifecycle states, organization roles, historically appropriate system organization, interface axes, platform support scope, and expanded technical fields.
 * **Schema**: Added filterable countries of origin plus site-, institution-, role-, and time-scoped development origins.
