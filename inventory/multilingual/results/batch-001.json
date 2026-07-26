@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 1,
+  "manifest": "inventory/multilingual/manifests/batch-001.json",
+  "generated_at": "2026-07-26",
+  "results": [
+    {"candidate_id":"arabbix","disposition":"included-system","path":"systems/arabbix/","title":"عرببكس (Arabbix)","notes":"Arabic live-CD identity skeleton; all manifest discovery sources retained."},
+    {"candidate_id":"haydar-linux","disposition":"included-system","path":"systems/haydar-linux/","title":"حيدر لينكس (Haydar Linux)","notes":"Historical Arabic distribution skeleton; all manifest discovery sources retained."},
+    {"candidate_id":"helwan-linux","disposition":"included-system","path":"systems/helwan-linux/","title":"هليوان لينكس (Helwan Linux)","notes":"Egypt country field is direct from the project source; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"ojuba-linux","disposition":"included-system","path":"systems/ojuba-linux/","title":"أعجوبة لينكس (Ojuba Linux)","notes":"Arabic Fedora-compatible distribution skeleton; all manifest discovery sources retained."},
+    {"candidate_id":"uruk-gnu-linux","disposition":"included-system","path":"systems/uruk-gnu-linux/","title":"أوروك جنو/لينكس (Uruk GNU/Linux-libre)","notes":"Iraq country field is direct from the discovery source; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"waha-linux","disposition":"included-system","path":"systems/waha-linux/","title":"واحــة لينكس","notes":"Arabic-facing distribution skeleton; all manifest discovery sources retained."},
+    {"candidate_id":"diams","disposition":"included-system","path":"systems/diams/","title":"DIAMS","notes":"Czechoslovak historical identity skeleton; country normalization and technical attributes remain unresearched."},
+    {"candidate_id":"dos-ec","disposition":"included-system","path":"systems/dos-ec/","title":"DOS EC","notes":"Czechoslovak DOS family skeleton; named variants are deferred to release research."}
+  ]
+}

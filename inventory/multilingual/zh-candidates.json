@@ -1,0 +1,192 @@
+{
+  "schema_version": "0.1",
+  "language": "zh",
+  "generated_at": "2026-07-26",
+  "scope": "Supplemental Chinese Wikipedia pass, considering simplified and traditional labels; candidates were checked against the frozen English-list manifest corpus.",
+  "source_pages": [
+    {
+      "title": "操作系统列表",
+      "url": "https://zh.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%88%97%E8%A1%A8",
+      "revision": 92527630,
+      "retrieved": "2026-07-26",
+      "snapshot_url": "https://zh.wikipedia.org/w/index.php?title=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%88%97%E8%A1%A8&oldid=92527630"
+    },
+    {
+      "title": "中国操作系统",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+      "revision": 81980351,
+      "retrieved": "2026-07-26",
+      "snapshot_url": "https://zh.wikipedia.org/w/index.php?title=%E4%B8%AD%E5%9B%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F&oldid=81980351"
+    },
+    {
+      "title": "统信操作系统",
+      "url": "https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%BF%A1%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+      "revision": 92798622,
+      "retrieved": "2026-07-26",
+      "snapshot_url": "https://zh.wikipedia.org/w/index.php?title=%E7%BB%9F%E4%BF%A1%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F&oldid=92798622"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "uniontech-os",
+      "native_label": "统信操作系统",
+      "native_aliases": [
+        "统信UOS",
+        "UOS",
+        "统一操作系统"
+      ],
+      "url": "https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%BF%A1%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "included-system",
+      "reason": "Chinese article identifies a distinct Linux-based desktop/server system; no matching frozen English-list candidate was found.",
+      "unusual_chinese_system": true
+    },
+    {
+      "candidate_id": "china-operating-system-cos",
+      "native_label": "中国操作系统",
+      "native_aliases": [
+        "COS",
+        "China Operating System"
+      ],
+      "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "included-system",
+      "reason": "Chinese article describes a separately branded 2014 mobile/tablet/set-top-box OS; the article also records contested provenance claims.",
+      "unusual_chinese_system": true,
+      "caution": "Do not normalize its autonomy or Android/Linux relationship without claim-level sourcing."
+    },
+    {
+      "candidate_id": "red-flag-linux",
+      "native_label": "红旗Linux",
+      "native_aliases": [
+        "红旗操作系统",
+        "Red Flag Linux"
+      ],
+      "url": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E6%97%97Linux",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "included-system",
+      "reason": "Named Chinese Linux distribution absent from the frozen English-list inventory.",
+      "unusual_chinese_system": true
+    },
+    {
+      "candidate_id": "kylin-os",
+      "native_label": "麒麟操作系统",
+      "native_aliases": [
+        "银河麒麟",
+        "Kylin OS"
+      ],
+      "url": "https://zh.wikipedia.org/wiki/%E9%BA%92%E9%BA%9F%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "included-system",
+      "reason": "Named Chinese OS lineage distinct from the generic English-list label scan; later commercial and community lines need separation.",
+      "unusual_chinese_system": true
+    },
+    {
+      "candidate_id": "neokylin",
+      "native_label": "中标麒麟",
+      "native_aliases": [
+        "NeoKylin"
+      ],
+      "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%A0%87%E9%BA%92%E9%BA%9F",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "needs-review",
+      "reason": "Likely a distinct commercial Kylin-derived identity, but its relation to Kylin/UOS needs source review before normalization.",
+      "unusual_chinese_system": true
+    },
+    {
+      "candidate_id": "deepin",
+      "native_label": "深度操作系统",
+      "native_aliases": [
+        "deepin",
+        "Linux Deepin"
+      ],
+      "url": "https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Deepin",
+      "wikidata_qid": null,
+      "disposition": "included-system",
+      "reason": "Named desktop Linux distribution absent from the frozen English-list candidate inventory."
+    },
+    {
+      "candidate_id": "startos",
+      "native_label": "起点操作系统",
+      "native_aliases": [
+        "StartOS",
+        "YLMF OS"
+      ],
+      "url": "https://zh.wikipedia.org/wiki/StartOS",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "included-system",
+      "reason": "Separately named Chinese Linux distribution/lineage; predecessor naming must be recorded rather than silently merged."
+    },
+    {
+      "candidate_id": "ubuntu-kylin",
+      "native_label": "优麒麟",
+      "native_aliases": [
+        "Ubuntu Kylin"
+      ],
+      "url": "https://zh.wikipedia.org/wiki/Ubuntu_Kylin",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Ubuntu_Kylin",
+      "wikidata_qid": null,
+      "disposition": "included-system",
+      "reason": "Named Ubuntu flavor with a distinct Chinese-language identity; it should not be conflated with Kylin OS."
+    },
+    {
+      "candidate_id": "harmonyos-chinese-label",
+      "native_label": "鸿蒙操作系统",
+      "native_aliases": [
+        "鸿蒙",
+        "HarmonyOS"
+      ],
+      "url": "https://zh.wikipedia.org/wiki/%E9%B8%BF%E8%92%99%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+      "english_sitelink": "https://en.wikipedia.org/wiki/HarmonyOS",
+      "wikidata_qid": null,
+      "disposition": "alias",
+      "reason": "Native Chinese label for existing frozen English-list candidate HarmonyOS; retain as an alias, not a new identity."
+    },
+    {
+      "candidate_id": "openharmony-chinese-label",
+      "native_label": "开放原子开源基金会OpenHarmony",
+      "native_aliases": [
+        "OpenHarmony",
+        "开源鸿蒙"
+      ],
+      "url": "https://zh.wikipedia.org/wiki/OpenHarmony",
+      "english_sitelink": "https://en.wikipedia.org/wiki/OpenHarmony",
+      "wikidata_qid": null,
+      "disposition": "alias",
+      "reason": "Chinese-language alias for an existing frozen English-list candidate."
+    },
+    {
+      "candidate_id": "android-chinese-label",
+      "native_label": "安卓",
+      "native_aliases": [
+        "Android",
+        "安致"
+      ],
+      "url": "https://zh.wikipedia.org/wiki/Android",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+      "wikidata_qid": null,
+      "disposition": "alias",
+      "reason": "Chinese label for an existing frozen English-list candidate Android."
+    },
+    {
+      "candidate_id": "mi-som",
+      "native_label": "MI-SOM",
+      "native_aliases": [
+        "MI-SOM1.1",
+        "MI-SOM1.2"
+      ],
+      "url": "https://zh.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%88%97%E8%A1%A8",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "needs-review",
+      "reason": "Only encountered as obscure list labels under Apsom; no stable identity evidence was established in this pass."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "batch": 1,
+    "manifest": "inventory/multilingual/manifests/batch-001.json",
+    "candidate_count": 8,
+    "status": "pending"
+  },
+  {
+    "batch": 2,
+    "manifest": "inventory/multilingual/manifests/batch-002.json",
+    "candidate_count": 8,
+    "status": "pending"
+  },
+  {
+    "batch": 3,
+    "manifest": "inventory/multilingual/manifests/batch-003.json",
+    "candidate_count": 8,
+    "status": "pending"
+  },
+  {
+    "batch": 4,
+    "manifest": "inventory/multilingual/manifests/batch-004.json",
+    "candidate_count": 8,
+    "status": "pending"
+  },
+  {
+    "batch": 5,
+    "manifest": "inventory/multilingual/manifests/batch-005.json",
+    "candidate_count": 8,
+    "status": "pending"
+  },
+  {
+    "batch": 6,
+    "manifest": "inventory/multilingual/manifests/batch-006.json",
+    "candidate_count": 8,
+    "status": "pending"
+  },
+  {
+    "batch": 7,
+    "manifest": "inventory/multilingual/manifests/batch-007.json",
+    "candidate_count": 8,
+    "status": "pending"
+  },
+  {
+    "batch": 8,
+    "manifest": "inventory/multilingual/manifests/batch-008.json",
+    "candidate_count": 8,
+    "status": "pending"
+  },
+  {
+    "batch": 9,
+    "manifest": "inventory/multilingual/manifests/batch-009.json",
+    "candidate_count": 8,
+    "status": "pending"
+  },
+  {
+    "batch": 10,
+    "manifest": "inventory/multilingual/manifests/batch-010.json",
+    "candidate_count": 8,
+    "status": "pending"
+  },
+  {
+    "batch": 11,
+    "manifest": "inventory/multilingual/manifests/batch-011.json",
+    "candidate_count": 8,
+    "status": "pending"
+  },
+  {
+    "batch": 12,
+    "manifest": "inventory/multilingual/manifests/batch-012.json",
+    "candidate_count": 3,
+    "status": "pending"
+  }
+]

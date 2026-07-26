@@ -1,0 +1,842 @@
+{
+  "schema_version": "0.1",
+  "batch": 1,
+  "candidate_count": 8,
+  "candidates": [
+    {
+      "identity_key": "id:arabbix",
+      "candidate_id": "arabbix",
+      "title": "عرببكس (Arabbix)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ar"
+      ],
+      "entries": [
+        {
+          "candidate_id": "arabbix",
+          "native_label": "عرببكس (Arabbix)",
+          "native_url": "https://wiki.arabeyes.org/Arabbix",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "Arabeyes' historical page identifies Arabbix as a fully Arabized live-CD distribution; retain it as a discontinued concrete distribution rather than collapsing it into Arabeyes, its umbrella project.",
+          "source_ids": [
+            "arabeyes-arabbix"
+          ],
+          "language": "ar",
+          "manifest": "inventory/multilingual/ar-candidates.json",
+          "source_document": [
+            {
+              "id": "arabeyes-distros",
+              "title": "Distros",
+              "url": "https://www.arabeyes.org/index.php?title=Distros&oldid=82007",
+              "source_kind": "arabic-community-project-history",
+              "revision": 82007,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "arabeyes-arabbix",
+              "title": "Arabbix",
+              "url": "https://wiki.arabeyes.org/Arabbix",
+              "source_kind": "arabic-community-project-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "waha-project",
+              "title": "مشروع واحــة",
+              "url": "https://wahaproject.org/",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "waha-linux",
+              "title": "واحــة لينكس",
+              "url": "https://linux.wahaproject.org/",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ojuba-project",
+              "title": "نظام التشغيل أعجوبة لينكس",
+              "url": "https://ojuba.org/linux:%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ojuba-releases",
+              "title": "ojuba-releases",
+              "url": "https://ojuba.org/ojuba-releases",
+              "source_kind": "arabic-project-release-policy",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "helwan-project",
+              "title": "About Helwan Linux",
+              "url": "https://helwan-linux.github.io/helwanlinux/about.html",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "uruk-article",
+              "title": "Uruk GNU/Linux",
+              "url": "https://en.wikipedia.org/wiki/Uruk_GNU/Linux",
+              "source_kind": "article",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "kfupm-arabian-linux",
+              "title": "Arabian Linux",
+              "url": "https://faculty.kfupm.edu.sa/ICS/muhtaseb/Teaching/ACStLect.pdf",
+              "source_kind": "arabic-university-course-material",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "hilali-community",
+              "title": "توزيعة هلال Helal لينُكس العربية",
+              "url": "https://www.linuxac.org/node/84",
+              "source_kind": "arabic-community-archive",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "sabily-ubuntu",
+              "title": "Sabily derivative record",
+              "url": "https://wiki.ubuntu.com/DerivativeTeam/Derivatives/Sabily",
+              "source_kind": "upstream-project-wiki",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:haydar-linux",
+      "candidate_id": "haydar-linux",
+      "title": "حيدر لينكس (Haydar Linux)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ar"
+      ],
+      "entries": [
+        {
+          "candidate_id": "haydar-linux",
+          "native_label": "حيدر لينكس (Haydar Linux)",
+          "native_url": "https://www.arabeyes.org/index.php?title=Distros&oldid=82007",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "Arabeyes' preserved project history records beta and final releases and calls it the first Arabic Linux with complete Arabic support; it is a historical distribution, not the Haydar desktop component.",
+          "source_ids": [
+            "arabeyes-distros"
+          ],
+          "language": "ar",
+          "manifest": "inventory/multilingual/ar-candidates.json",
+          "source_document": [
+            {
+              "id": "arabeyes-distros",
+              "title": "Distros",
+              "url": "https://www.arabeyes.org/index.php?title=Distros&oldid=82007",
+              "source_kind": "arabic-community-project-history",
+              "revision": 82007,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "arabeyes-arabbix",
+              "title": "Arabbix",
+              "url": "https://wiki.arabeyes.org/Arabbix",
+              "source_kind": "arabic-community-project-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "waha-project",
+              "title": "مشروع واحــة",
+              "url": "https://wahaproject.org/",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "waha-linux",
+              "title": "واحــة لينكس",
+              "url": "https://linux.wahaproject.org/",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ojuba-project",
+              "title": "نظام التشغيل أعجوبة لينكس",
+              "url": "https://ojuba.org/linux:%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ojuba-releases",
+              "title": "ojuba-releases",
+              "url": "https://ojuba.org/ojuba-releases",
+              "source_kind": "arabic-project-release-policy",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "helwan-project",
+              "title": "About Helwan Linux",
+              "url": "https://helwan-linux.github.io/helwanlinux/about.html",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "uruk-article",
+              "title": "Uruk GNU/Linux",
+              "url": "https://en.wikipedia.org/wiki/Uruk_GNU/Linux",
+              "source_kind": "article",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "kfupm-arabian-linux",
+              "title": "Arabian Linux",
+              "url": "https://faculty.kfupm.edu.sa/ICS/muhtaseb/Teaching/ACStLect.pdf",
+              "source_kind": "arabic-university-course-material",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "hilali-community",
+              "title": "توزيعة هلال Helal لينُكس العربية",
+              "url": "https://www.linuxac.org/node/84",
+              "source_kind": "arabic-community-archive",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "sabily-ubuntu",
+              "title": "Sabily derivative record",
+              "url": "https://wiki.ubuntu.com/DerivativeTeam/Derivatives/Sabily",
+              "source_kind": "upstream-project-wiki",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:helwan-linux",
+      "candidate_id": "helwan-linux",
+      "title": "هليوان لينكس (Helwan Linux)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ar"
+      ],
+      "entries": [
+        {
+          "candidate_id": "helwan-linux",
+          "native_label": "هليوان لينكس (Helwan Linux)",
+          "native_url": "https://helwan-linux.github.io/helwanlinux/about.html",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "Egypt-based Arch distribution with explicit Arabic right-to-left support, built as a concrete developer/maker/gaming OS rather than a desktop environment.",
+          "source_ids": [
+            "helwan-project"
+          ],
+          "language": "ar",
+          "manifest": "inventory/multilingual/ar-candidates.json",
+          "source_document": [
+            {
+              "id": "arabeyes-distros",
+              "title": "Distros",
+              "url": "https://www.arabeyes.org/index.php?title=Distros&oldid=82007",
+              "source_kind": "arabic-community-project-history",
+              "revision": 82007,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "arabeyes-arabbix",
+              "title": "Arabbix",
+              "url": "https://wiki.arabeyes.org/Arabbix",
+              "source_kind": "arabic-community-project-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "waha-project",
+              "title": "مشروع واحــة",
+              "url": "https://wahaproject.org/",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "waha-linux",
+              "title": "واحــة لينكس",
+              "url": "https://linux.wahaproject.org/",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ojuba-project",
+              "title": "نظام التشغيل أعجوبة لينكس",
+              "url": "https://ojuba.org/linux:%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ojuba-releases",
+              "title": "ojuba-releases",
+              "url": "https://ojuba.org/ojuba-releases",
+              "source_kind": "arabic-project-release-policy",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "helwan-project",
+              "title": "About Helwan Linux",
+              "url": "https://helwan-linux.github.io/helwanlinux/about.html",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "uruk-article",
+              "title": "Uruk GNU/Linux",
+              "url": "https://en.wikipedia.org/wiki/Uruk_GNU/Linux",
+              "source_kind": "article",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "kfupm-arabian-linux",
+              "title": "Arabian Linux",
+              "url": "https://faculty.kfupm.edu.sa/ICS/muhtaseb/Teaching/ACStLect.pdf",
+              "source_kind": "arabic-university-course-material",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "hilali-community",
+              "title": "توزيعة هلال Helal لينُكس العربية",
+              "url": "https://www.linuxac.org/node/84",
+              "source_kind": "arabic-community-archive",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "sabily-ubuntu",
+              "title": "Sabily derivative record",
+              "url": "https://wiki.ubuntu.com/DerivativeTeam/Derivatives/Sabily",
+              "source_kind": "upstream-project-wiki",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:ojuba-linux",
+      "candidate_id": "ojuba-linux",
+      "title": "أعجوبة لينكس (Ojuba Linux)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ar"
+      ],
+      "entries": [
+        {
+          "candidate_id": "ojuba-linux",
+          "native_label": "أعجوبة لينكس (Ojuba Linux)",
+          "native_url": "https://ojuba.org/linux:%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "Arabic project documentation describes Ojuba as an Arabic desktop/server OS built compatibly on Fedora, with its own stable release lifecycle and packages; it is not merely a Fedora language pack.",
+          "source_ids": [
+            "ojuba-project",
+            "ojuba-releases"
+          ],
+          "language": "ar",
+          "manifest": "inventory/multilingual/ar-candidates.json",
+          "source_document": [
+            {
+              "id": "arabeyes-distros",
+              "title": "Distros",
+              "url": "https://www.arabeyes.org/index.php?title=Distros&oldid=82007",
+              "source_kind": "arabic-community-project-history",
+              "revision": 82007,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "arabeyes-arabbix",
+              "title": "Arabbix",
+              "url": "https://wiki.arabeyes.org/Arabbix",
+              "source_kind": "arabic-community-project-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "waha-project",
+              "title": "مشروع واحــة",
+              "url": "https://wahaproject.org/",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "waha-linux",
+              "title": "واحــة لينكس",
+              "url": "https://linux.wahaproject.org/",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ojuba-project",
+              "title": "نظام التشغيل أعجوبة لينكس",
+              "url": "https://ojuba.org/linux:%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ojuba-releases",
+              "title": "ojuba-releases",
+              "url": "https://ojuba.org/ojuba-releases",
+              "source_kind": "arabic-project-release-policy",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "helwan-project",
+              "title": "About Helwan Linux",
+              "url": "https://helwan-linux.github.io/helwanlinux/about.html",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "uruk-article",
+              "title": "Uruk GNU/Linux",
+              "url": "https://en.wikipedia.org/wiki/Uruk_GNU/Linux",
+              "source_kind": "article",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "kfupm-arabian-linux",
+              "title": "Arabian Linux",
+              "url": "https://faculty.kfupm.edu.sa/ICS/muhtaseb/Teaching/ACStLect.pdf",
+              "source_kind": "arabic-university-course-material",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "hilali-community",
+              "title": "توزيعة هلال Helal لينُكس العربية",
+              "url": "https://www.linuxac.org/node/84",
+              "source_kind": "arabic-community-archive",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "sabily-ubuntu",
+              "title": "Sabily derivative record",
+              "url": "https://wiki.ubuntu.com/DerivativeTeam/Derivatives/Sabily",
+              "source_kind": "upstream-project-wiki",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "en:/wiki/uruk_gnu/linux",
+      "candidate_id": "uruk-gnu-linux",
+      "title": "أوروك جنو/لينكس (Uruk GNU/Linux-libre)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ar"
+      ],
+      "entries": [
+        {
+          "candidate_id": "uruk-gnu-linux",
+          "native_label": "أوروك جنو/لينكس (Uruk GNU/Linux-libre)",
+          "native_url": "https://urukproject.org/dist/en.html",
+          "disposition": "included-system",
+          "english_sitelink": "https://en.wikipedia.org/wiki/Uruk_GNU/Linux",
+          "wikidata_qid": null,
+          "reason": "Iraqi-origin free Linux distribution whose name and project provenance identify Uruk; it is a separate PureOS-based distribution, not an Arabic translation of another system.",
+          "source_ids": [
+            "uruk-article"
+          ],
+          "language": "ar",
+          "manifest": "inventory/multilingual/ar-candidates.json",
+          "source_document": [
+            {
+              "id": "arabeyes-distros",
+              "title": "Distros",
+              "url": "https://www.arabeyes.org/index.php?title=Distros&oldid=82007",
+              "source_kind": "arabic-community-project-history",
+              "revision": 82007,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "arabeyes-arabbix",
+              "title": "Arabbix",
+              "url": "https://wiki.arabeyes.org/Arabbix",
+              "source_kind": "arabic-community-project-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "waha-project",
+              "title": "مشروع واحــة",
+              "url": "https://wahaproject.org/",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "waha-linux",
+              "title": "واحــة لينكس",
+              "url": "https://linux.wahaproject.org/",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ojuba-project",
+              "title": "نظام التشغيل أعجوبة لينكس",
+              "url": "https://ojuba.org/linux:%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ojuba-releases",
+              "title": "ojuba-releases",
+              "url": "https://ojuba.org/ojuba-releases",
+              "source_kind": "arabic-project-release-policy",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "helwan-project",
+              "title": "About Helwan Linux",
+              "url": "https://helwan-linux.github.io/helwanlinux/about.html",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "uruk-article",
+              "title": "Uruk GNU/Linux",
+              "url": "https://en.wikipedia.org/wiki/Uruk_GNU/Linux",
+              "source_kind": "article",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "kfupm-arabian-linux",
+              "title": "Arabian Linux",
+              "url": "https://faculty.kfupm.edu.sa/ICS/muhtaseb/Teaching/ACStLect.pdf",
+              "source_kind": "arabic-university-course-material",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "hilali-community",
+              "title": "توزيعة هلال Helal لينُكس العربية",
+              "url": "https://www.linuxac.org/node/84",
+              "source_kind": "arabic-community-archive",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "sabily-ubuntu",
+              "title": "Sabily derivative record",
+              "url": "https://wiki.ubuntu.com/DerivativeTeam/Derivatives/Sabily",
+              "source_kind": "upstream-project-wiki",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:waha-linux",
+      "candidate_id": "waha-linux",
+      "title": "واحــة لينكس",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ar"
+      ],
+      "entries": [
+        {
+          "candidate_id": "waha-linux",
+          "native_label": "واحــة لينكس",
+          "native_url": "https://linux.wahaproject.org/",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "Arabic project materials identify Waha as a Debian-based, easy-to-use GNU/Linux distribution created for Arabic-speaking users; no matching frozen candidate or system directory was found.",
+          "source_ids": [
+            "waha-project",
+            "waha-linux"
+          ],
+          "language": "ar",
+          "manifest": "inventory/multilingual/ar-candidates.json",
+          "source_document": [
+            {
+              "id": "arabeyes-distros",
+              "title": "Distros",
+              "url": "https://www.arabeyes.org/index.php?title=Distros&oldid=82007",
+              "source_kind": "arabic-community-project-history",
+              "revision": 82007,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "arabeyes-arabbix",
+              "title": "Arabbix",
+              "url": "https://wiki.arabeyes.org/Arabbix",
+              "source_kind": "arabic-community-project-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "waha-project",
+              "title": "مشروع واحــة",
+              "url": "https://wahaproject.org/",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "waha-linux",
+              "title": "واحــة لينكس",
+              "url": "https://linux.wahaproject.org/",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ojuba-project",
+              "title": "نظام التشغيل أعجوبة لينكس",
+              "url": "https://ojuba.org/linux:%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9",
+              "source_kind": "arabic-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ojuba-releases",
+              "title": "ojuba-releases",
+              "url": "https://ojuba.org/ojuba-releases",
+              "source_kind": "arabic-project-release-policy",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "helwan-project",
+              "title": "About Helwan Linux",
+              "url": "https://helwan-linux.github.io/helwanlinux/about.html",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "uruk-article",
+              "title": "Uruk GNU/Linux",
+              "url": "https://en.wikipedia.org/wiki/Uruk_GNU/Linux",
+              "source_kind": "article",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "kfupm-arabian-linux",
+              "title": "Arabian Linux",
+              "url": "https://faculty.kfupm.edu.sa/ICS/muhtaseb/Teaching/ACStLect.pdf",
+              "source_kind": "arabic-university-course-material",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "hilali-community",
+              "title": "توزيعة هلال Helal لينُكس العربية",
+              "url": "https://www.linuxac.org/node/84",
+              "source_kind": "arabic-community-archive",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "sabily-ubuntu",
+              "title": "Sabily derivative record",
+              "url": "https://wiki.ubuntu.com/DerivativeTeam/Derivatives/Sabily",
+              "source_kind": "upstream-project-wiki",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:diams",
+      "candidate_id": "diams",
+      "title": "DIAMS",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "cs"
+      ],
+      "entries": [
+        {
+          "candidate_id": "diams",
+          "native_label": "DIAMS",
+          "url": "https://www.retrobajty.cz/jednotny-program-smep/",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Czech and Slovak historical sources describe DIAMS as a multiuser, dialog-oriented database operating system for SMEP systems. It is a software identity, not a database or SMEP hardware model.",
+          "regional_or_historical": true,
+          "language": "cs",
+          "manifest": "inventory/multilingual/cs-candidates.json",
+          "source_document": [
+            {
+              "title": "Seznam operačních systémů",
+              "url": "https://cs.wikipedia.org/wiki/Seznam_opera%C4%8Dn%C3%ADch_syst%C3%A9m%C5%AF",
+              "revision": 25917997,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Program JSEP",
+              "url": "https://historiepocitacu.cz/program-jsep.html",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Jednotný program JSEP",
+              "url": "https://www.retrobajty.cz/jednotny-program-jsep/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Jednotný program SMEP",
+              "url": "https://www.retrobajty.cz/jednotny-program-smep/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "SAPI.CZ: MIKROS",
+              "url": "https://sapi.cz/drobnosti/mikros_ppi.php",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Pamätnica k 50. výročiu vzniku VÚVT v Žiline",
+              "url": "https://www.atpjournal.sk/rubriky/prehladove-clanky/pamatnica-k-50.-vyrociu-vzniku-vuvt-v-ziline-7.html?page_id=27626",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:dos-ec",
+      "candidate_id": "dos-ec",
+      "title": "DOS EC",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "cs"
+      ],
+      "entries": [
+        {
+          "candidate_id": "dos-ec",
+          "native_label": "DOS EC",
+          "native_aliases": [
+            "DOS-1/EC",
+            "DOS-2/EC",
+            "DOS-4/EC"
+          ],
+          "url": "https://historiepocitacu.cz/program-jsep.html",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "The Czechoslovak JSEP source identifies DOS EC as a disk operating-system line with named variants. Catalog the family once, with variants retained as releases rather than separate systems.",
+          "regional_or_historical": true,
+          "language": "cs",
+          "manifest": "inventory/multilingual/cs-candidates.json",
+          "source_document": [
+            {
+              "title": "Seznam operačních systémů",
+              "url": "https://cs.wikipedia.org/wiki/Seznam_opera%C4%8Dn%C3%ADch_syst%C3%A9m%C5%AF",
+              "revision": 25917997,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Program JSEP",
+              "url": "https://historiepocitacu.cz/program-jsep.html",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Jednotný program JSEP",
+              "url": "https://www.retrobajty.cz/jednotny-program-jsep/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Jednotný program SMEP",
+              "url": "https://www.retrobajty.cz/jednotny-program-smep/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "SAPI.CZ: MIKROS",
+              "url": "https://sapi.cz/drobnosti/mikros_ppi.php",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Pamätnica k 50. výročiu vzniku VÚVT v Žiline",
+              "url": "https://www.atpjournal.sk/rubriky/prehladove-clanky/pamatnica-k-50.-vyrociu-vzniku-vuvt-v-ziline-7.html?page_id=27626",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    }
+  ]
+}

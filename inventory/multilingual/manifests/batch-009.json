@@ -1,0 +1,1199 @@
+{
+  "schema_version": "0.1",
+  "batch": 9,
+  "candidate_count": 8,
+  "candidates": [
+    {
+      "identity_key": "qid:Q12605576",
+      "candidate_id": "annyung-linux",
+      "title": "안녕 리눅스 (AnNyung Linux)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ko"
+      ],
+      "entries": [
+        {
+          "candidate_id": "annyung-linux",
+          "native_label": "안녕 리눅스 (AnNyung Linux)",
+          "native_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": "Q12605576",
+          "reason": "Korean source identifies a Korean-localized server Linux distribution, distinct from its Red Hat-family upstreams; absent from the frozen inventory and directories.",
+          "source_ids": [
+            "ko-annyung"
+          ],
+          "language": "ko",
+          "manifest": "inventory/multilingual/ko-candidates.json",
+          "source_document": [
+            {
+              "id": "ko-os-list",
+              "title": "운영체제 목록",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+              "source_kind": "language-list",
+              "revision": 41169508,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-gooroom",
+              "title": "구름 플랫폼",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+              "source_kind": "article",
+              "revision": 41145482,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hamonikr",
+              "title": "하모니카 (운영 체제)",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+              "source_kind": "article",
+              "revision": 41084648,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmaxos",
+              "title": "티맥스OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+              "source_kind": "article",
+              "revision": 40438267,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-window",
+              "title": "티맥스 윈도",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+              "source_kind": "article",
+              "revision": 39125497,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-whale-os",
+              "title": "웨일 OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+              "source_kind": "article",
+              "revision": 40002181,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-annyung",
+              "title": "안녕 리눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+              "source_kind": "article",
+              "revision": 39027606,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-ginux",
+              "title": "지눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+              "source_kind": "article",
+              "revision": 39066391,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-linuxone",
+              "title": "리눅스원",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+              "source_kind": "article",
+              "revision": 39040304,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-mizi-research",
+              "title": "미지리서치",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+              "source_kind": "article",
+              "revision": 39038161,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-asianux",
+              "title": "아시아눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+              "source_kind": "article",
+              "revision": 39027607,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hancom-gooroom",
+              "title": "한컴 구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+              "source_kind": "article",
+              "revision": 39619067,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-gooroom",
+              "title": "티맥스구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+              "source_kind": "article",
+              "revision": 39696813,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "navix-repository",
+              "title": "NAVIX (Naver Linux)",
+              "url": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "source_kind": "vendor-project-repository",
+              "revision": "9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-pclinuxos",
+              "title": "PCLinuxOS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+              "source_kind": "article",
+              "revision": 39163287,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "qid:Q1376040",
+      "candidate_id": "asianux",
+      "title": "아시아눅스 (Asianux)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ko"
+      ],
+      "entries": [
+        {
+          "candidate_id": "asianux",
+          "native_label": "아시아눅스 (Asianux)",
+          "native_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4",
+          "disposition": "included-system",
+          "english_sitelink": "https://en.wikipedia.org/wiki/Asianux",
+          "wikidata_qid": "Q1376040",
+          "reason": "A multinational distribution rather than solely Korean, but the Korean account documents Hancom's Korean participation and no matching frozen candidate or directory was found.",
+          "source_ids": [
+            "ko-asianux"
+          ],
+          "language": "ko",
+          "manifest": "inventory/multilingual/ko-candidates.json",
+          "source_document": [
+            {
+              "id": "ko-os-list",
+              "title": "운영체제 목록",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+              "source_kind": "language-list",
+              "revision": 41169508,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-gooroom",
+              "title": "구름 플랫폼",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+              "source_kind": "article",
+              "revision": 41145482,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hamonikr",
+              "title": "하모니카 (운영 체제)",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+              "source_kind": "article",
+              "revision": 41084648,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmaxos",
+              "title": "티맥스OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+              "source_kind": "article",
+              "revision": 40438267,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-window",
+              "title": "티맥스 윈도",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+              "source_kind": "article",
+              "revision": 39125497,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-whale-os",
+              "title": "웨일 OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+              "source_kind": "article",
+              "revision": 40002181,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-annyung",
+              "title": "안녕 리눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+              "source_kind": "article",
+              "revision": 39027606,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-ginux",
+              "title": "지눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+              "source_kind": "article",
+              "revision": 39066391,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-linuxone",
+              "title": "리눅스원",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+              "source_kind": "article",
+              "revision": 39040304,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-mizi-research",
+              "title": "미지리서치",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+              "source_kind": "article",
+              "revision": 39038161,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-asianux",
+              "title": "아시아눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+              "source_kind": "article",
+              "revision": 39027607,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hancom-gooroom",
+              "title": "한컴 구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+              "source_kind": "article",
+              "revision": 39619067,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-gooroom",
+              "title": "티맥스구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+              "source_kind": "article",
+              "revision": 39696813,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "navix-repository",
+              "title": "NAVIX (Naver Linux)",
+              "url": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "source_kind": "vendor-project-repository",
+              "revision": "9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-pclinuxos",
+              "title": "PCLinuxOS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+              "source_kind": "article",
+              "revision": 39163287,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "qid:Q16189908",
+      "candidate_id": "ginux",
+      "title": "지눅스 (Ginux)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ko"
+      ],
+      "entries": [
+        {
+          "candidate_id": "ginux",
+          "native_label": "지눅스 (Ginux)",
+          "native_url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%88%85%EC%8A%A4",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": "Q16189908",
+          "reason": "Korean source identifies Ginux as an SK C&C Linux distribution; absent from the frozen inventory and directories.",
+          "source_ids": [
+            "ko-ginux"
+          ],
+          "language": "ko",
+          "manifest": "inventory/multilingual/ko-candidates.json",
+          "source_document": [
+            {
+              "id": "ko-os-list",
+              "title": "운영체제 목록",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+              "source_kind": "language-list",
+              "revision": 41169508,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-gooroom",
+              "title": "구름 플랫폼",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+              "source_kind": "article",
+              "revision": 41145482,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hamonikr",
+              "title": "하모니카 (운영 체제)",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+              "source_kind": "article",
+              "revision": 41084648,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmaxos",
+              "title": "티맥스OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+              "source_kind": "article",
+              "revision": 40438267,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-window",
+              "title": "티맥스 윈도",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+              "source_kind": "article",
+              "revision": 39125497,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-whale-os",
+              "title": "웨일 OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+              "source_kind": "article",
+              "revision": 40002181,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-annyung",
+              "title": "안녕 리눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+              "source_kind": "article",
+              "revision": 39027606,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-ginux",
+              "title": "지눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+              "source_kind": "article",
+              "revision": 39066391,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-linuxone",
+              "title": "리눅스원",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+              "source_kind": "article",
+              "revision": 39040304,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-mizi-research",
+              "title": "미지리서치",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+              "source_kind": "article",
+              "revision": 39038161,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-asianux",
+              "title": "아시아눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+              "source_kind": "article",
+              "revision": 39027607,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hancom-gooroom",
+              "title": "한컴 구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+              "source_kind": "article",
+              "revision": 39619067,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-gooroom",
+              "title": "티맥스구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+              "source_kind": "article",
+              "revision": 39696813,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "navix-repository",
+              "title": "NAVIX (Naver Linux)",
+              "url": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "source_kind": "vendor-project-repository",
+              "revision": "9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-pclinuxos",
+              "title": "PCLinuxOS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+              "source_kind": "article",
+              "revision": 39163287,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "qid:Q61359498",
+      "candidate_id": "gooroom-platform",
+      "title": "구름 플랫폼 (Gooroom Platform)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ko"
+      ],
+      "entries": [
+        {
+          "candidate_id": "gooroom-platform",
+          "native_label": "구름 플랫폼 (Gooroom Platform)",
+          "native_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": "Q61359498",
+          "reason": "Korean source describes a South Korean Linux distribution and OS platform developed for secure cloud-work environments; no matching frozen candidate or system directory was found.",
+          "source_ids": [
+            "ko-gooroom"
+          ],
+          "language": "ko",
+          "manifest": "inventory/multilingual/ko-candidates.json",
+          "source_document": [
+            {
+              "id": "ko-os-list",
+              "title": "운영체제 목록",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+              "source_kind": "language-list",
+              "revision": 41169508,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-gooroom",
+              "title": "구름 플랫폼",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+              "source_kind": "article",
+              "revision": 41145482,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hamonikr",
+              "title": "하모니카 (운영 체제)",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+              "source_kind": "article",
+              "revision": 41084648,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmaxos",
+              "title": "티맥스OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+              "source_kind": "article",
+              "revision": 40438267,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-window",
+              "title": "티맥스 윈도",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+              "source_kind": "article",
+              "revision": 39125497,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-whale-os",
+              "title": "웨일 OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+              "source_kind": "article",
+              "revision": 40002181,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-annyung",
+              "title": "안녕 리눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+              "source_kind": "article",
+              "revision": 39027606,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-ginux",
+              "title": "지눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+              "source_kind": "article",
+              "revision": 39066391,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-linuxone",
+              "title": "리눅스원",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+              "source_kind": "article",
+              "revision": 39040304,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-mizi-research",
+              "title": "미지리서치",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+              "source_kind": "article",
+              "revision": 39038161,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-asianux",
+              "title": "아시아눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+              "source_kind": "article",
+              "revision": 39027607,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hancom-gooroom",
+              "title": "한컴 구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+              "source_kind": "article",
+              "revision": 39619067,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-gooroom",
+              "title": "티맥스구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+              "source_kind": "article",
+              "revision": 39696813,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "navix-repository",
+              "title": "NAVIX (Naver Linux)",
+              "url": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "source_kind": "vendor-project-repository",
+              "revision": "9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-pclinuxos",
+              "title": "PCLinuxOS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+              "source_kind": "article",
+              "revision": 39163287,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "qid:Q21825364",
+      "candidate_id": "hamonikr",
+      "title": "하모니카 (HamoniKR)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ko"
+      ],
+      "entries": [
+        {
+          "candidate_id": "hamonikr",
+          "native_label": "하모니카 (HamoniKR)",
+          "native_url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": "Q21825364",
+          "reason": "Korean source identifies HamoniKR as a South Korean Linux distribution; no matching frozen candidate or system directory was found.",
+          "source_ids": [
+            "ko-hamonikr"
+          ],
+          "language": "ko",
+          "manifest": "inventory/multilingual/ko-candidates.json",
+          "source_document": [
+            {
+              "id": "ko-os-list",
+              "title": "운영체제 목록",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+              "source_kind": "language-list",
+              "revision": 41169508,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-gooroom",
+              "title": "구름 플랫폼",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+              "source_kind": "article",
+              "revision": 41145482,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hamonikr",
+              "title": "하모니카 (운영 체제)",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+              "source_kind": "article",
+              "revision": 41084648,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmaxos",
+              "title": "티맥스OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+              "source_kind": "article",
+              "revision": 40438267,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-window",
+              "title": "티맥스 윈도",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+              "source_kind": "article",
+              "revision": 39125497,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-whale-os",
+              "title": "웨일 OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+              "source_kind": "article",
+              "revision": 40002181,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-annyung",
+              "title": "안녕 리눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+              "source_kind": "article",
+              "revision": 39027606,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-ginux",
+              "title": "지눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+              "source_kind": "article",
+              "revision": 39066391,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-linuxone",
+              "title": "리눅스원",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+              "source_kind": "article",
+              "revision": 39040304,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-mizi-research",
+              "title": "미지리서치",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+              "source_kind": "article",
+              "revision": 39038161,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-asianux",
+              "title": "아시아눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+              "source_kind": "article",
+              "revision": 39027607,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hancom-gooroom",
+              "title": "한컴 구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+              "source_kind": "article",
+              "revision": 39619067,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-gooroom",
+              "title": "티맥스구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+              "source_kind": "article",
+              "revision": 39696813,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "navix-repository",
+              "title": "NAVIX (Naver Linux)",
+              "url": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "source_kind": "vendor-project-repository",
+              "revision": "9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-pclinuxos",
+              "title": "PCLinuxOS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+              "source_kind": "article",
+              "revision": 39163287,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:maru-linux",
+      "candidate_id": "maru-linux",
+      "title": "마루",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ko"
+      ],
+      "entries": [
+        {
+          "candidate_id": "maru-linux",
+          "native_label": "마루",
+          "native_url": "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "LinuxOne's Korean company article explicitly names 마루 as another Linux operating system it developed; absent from the frozen inventory and directories.",
+          "source_ids": [
+            "ko-linuxone"
+          ],
+          "language": "ko",
+          "manifest": "inventory/multilingual/ko-candidates.json",
+          "source_document": [
+            {
+              "id": "ko-os-list",
+              "title": "운영체제 목록",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+              "source_kind": "language-list",
+              "revision": 41169508,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-gooroom",
+              "title": "구름 플랫폼",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+              "source_kind": "article",
+              "revision": 41145482,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hamonikr",
+              "title": "하모니카 (운영 체제)",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+              "source_kind": "article",
+              "revision": 41084648,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmaxos",
+              "title": "티맥스OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+              "source_kind": "article",
+              "revision": 40438267,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-window",
+              "title": "티맥스 윈도",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+              "source_kind": "article",
+              "revision": 39125497,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-whale-os",
+              "title": "웨일 OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+              "source_kind": "article",
+              "revision": 40002181,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-annyung",
+              "title": "안녕 리눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+              "source_kind": "article",
+              "revision": 39027606,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-ginux",
+              "title": "지눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+              "source_kind": "article",
+              "revision": 39066391,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-linuxone",
+              "title": "리눅스원",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+              "source_kind": "article",
+              "revision": 39040304,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-mizi-research",
+              "title": "미지리서치",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+              "source_kind": "article",
+              "revision": 39038161,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-asianux",
+              "title": "아시아눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+              "source_kind": "article",
+              "revision": 39027607,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hancom-gooroom",
+              "title": "한컴 구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+              "source_kind": "article",
+              "revision": 39619067,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-gooroom",
+              "title": "티맥스구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+              "source_kind": "article",
+              "revision": 39696813,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "navix-repository",
+              "title": "NAVIX (Naver Linux)",
+              "url": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "source_kind": "vendor-project-repository",
+              "revision": "9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-pclinuxos",
+              "title": "PCLinuxOS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+              "source_kind": "article",
+              "revision": 39163287,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:mizi-linux",
+      "candidate_id": "mizi-linux",
+      "title": "미지 리눅스 (Mizi Linux)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ko"
+      ],
+      "entries": [
+        {
+          "candidate_id": "mizi-linux",
+          "native_label": "미지 리눅스 (Mizi Linux)",
+          "native_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "The Korean company article records Mizi Linux as its own distribution and says development has ceased; the label redirects to that supporting history rather than indicating a second entity.",
+          "source_ids": [
+            "ko-mizi-research"
+          ],
+          "language": "ko",
+          "manifest": "inventory/multilingual/ko-candidates.json",
+          "source_document": [
+            {
+              "id": "ko-os-list",
+              "title": "운영체제 목록",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+              "source_kind": "language-list",
+              "revision": 41169508,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-gooroom",
+              "title": "구름 플랫폼",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+              "source_kind": "article",
+              "revision": 41145482,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hamonikr",
+              "title": "하모니카 (운영 체제)",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+              "source_kind": "article",
+              "revision": 41084648,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmaxos",
+              "title": "티맥스OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+              "source_kind": "article",
+              "revision": 40438267,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-window",
+              "title": "티맥스 윈도",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+              "source_kind": "article",
+              "revision": 39125497,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-whale-os",
+              "title": "웨일 OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+              "source_kind": "article",
+              "revision": 40002181,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-annyung",
+              "title": "안녕 리눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+              "source_kind": "article",
+              "revision": 39027606,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-ginux",
+              "title": "지눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+              "source_kind": "article",
+              "revision": 39066391,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-linuxone",
+              "title": "리눅스원",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+              "source_kind": "article",
+              "revision": 39040304,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-mizi-research",
+              "title": "미지리서치",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+              "source_kind": "article",
+              "revision": 39038161,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-asianux",
+              "title": "아시아눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+              "source_kind": "article",
+              "revision": 39027607,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hancom-gooroom",
+              "title": "한컴 구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+              "source_kind": "article",
+              "revision": 39619067,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-gooroom",
+              "title": "티맥스구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+              "source_kind": "article",
+              "revision": 39696813,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "navix-repository",
+              "title": "NAVIX (Naver Linux)",
+              "url": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "source_kind": "vendor-project-repository",
+              "revision": "9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-pclinuxos",
+              "title": "PCLinuxOS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+              "source_kind": "article",
+              "revision": 39163287,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:navix",
+      "candidate_id": "navix",
+      "title": "네빅스 (NAVIX; Naver Linux)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ko"
+      ],
+      "entries": [
+        {
+          "candidate_id": "navix",
+          "native_label": "네빅스 (NAVIX; Naver Linux)",
+          "native_url": "https://github.com/NaverCloudPlatform/Navix",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "Naver Cloud's own repository describes NAVIX as an OpenELA-based, open-source Linux distribution; it is absent from the frozen inventory and directories.",
+          "source_ids": [
+            "navix-repository"
+          ],
+          "language": "ko",
+          "manifest": "inventory/multilingual/ko-candidates.json",
+          "source_document": [
+            {
+              "id": "ko-os-list",
+              "title": "운영체제 목록",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+              "source_kind": "language-list",
+              "revision": 41169508,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-gooroom",
+              "title": "구름 플랫폼",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+              "source_kind": "article",
+              "revision": 41145482,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hamonikr",
+              "title": "하모니카 (운영 체제)",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+              "source_kind": "article",
+              "revision": 41084648,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmaxos",
+              "title": "티맥스OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+              "source_kind": "article",
+              "revision": 40438267,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-window",
+              "title": "티맥스 윈도",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+              "source_kind": "article",
+              "revision": 39125497,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-whale-os",
+              "title": "웨일 OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+              "source_kind": "article",
+              "revision": 40002181,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-annyung",
+              "title": "안녕 리눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+              "source_kind": "article",
+              "revision": 39027606,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-ginux",
+              "title": "지눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+              "source_kind": "article",
+              "revision": 39066391,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-linuxone",
+              "title": "리눅스원",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+              "source_kind": "article",
+              "revision": 39040304,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-mizi-research",
+              "title": "미지리서치",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+              "source_kind": "article",
+              "revision": 39038161,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-asianux",
+              "title": "아시아눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+              "source_kind": "article",
+              "revision": 39027607,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hancom-gooroom",
+              "title": "한컴 구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+              "source_kind": "article",
+              "revision": 39619067,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-gooroom",
+              "title": "티맥스구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+              "source_kind": "article",
+              "revision": 39696813,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "navix-repository",
+              "title": "NAVIX (Naver Linux)",
+              "url": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "source_kind": "vendor-project-repository",
+              "revision": "9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-pclinuxos",
+              "title": "PCLinuxOS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+              "source_kind": "article",
+              "revision": 39163287,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "schema_version": "0.1",
+  "language": "ko",
+  "generated_at": "2026-07-26",
+  "scope": "Bounded Korean-language supplemental discovery. Candidate comparisons were made against the frozen English-list inventory and existing system-directory names; this manifest is not a catalog assertion.",
+  "sources": [
+    {
+      "id": "ko-os-list",
+      "title": "운영체제 목록",
+      "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+      "source_kind": "language-list",
+      "revision": 41169508,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ko-gooroom",
+      "title": "구름 플랫폼",
+      "url": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+      "source_kind": "article",
+      "revision": 41145482,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ko-hamonikr",
+      "title": "하모니카 (운영 체제)",
+      "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+      "source_kind": "article",
+      "revision": 41084648,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ko-tmaxos",
+      "title": "티맥스OS",
+      "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+      "source_kind": "article",
+      "revision": 40438267,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ko-tmax-window",
+      "title": "티맥스 윈도",
+      "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+      "source_kind": "article",
+      "revision": 39125497,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ko-whale-os",
+      "title": "웨일 OS",
+      "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+      "source_kind": "article",
+      "revision": 40002181,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ko-annyung",
+      "title": "안녕 리눅스",
+      "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+      "source_kind": "article",
+      "revision": 39027606,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ko-ginux",
+      "title": "지눅스",
+      "url": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+      "source_kind": "article",
+      "revision": 39066391,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ko-linuxone",
+      "title": "리눅스원",
+      "url": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+      "source_kind": "article",
+      "revision": 39040304,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ko-mizi-research",
+      "title": "미지리서치",
+      "url": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+      "source_kind": "article",
+      "revision": 39038161,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ko-asianux",
+      "title": "아시아눅스",
+      "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+      "source_kind": "article",
+      "revision": 39027607,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ko-hancom-gooroom",
+      "title": "한컴 구름",
+      "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+      "source_kind": "article",
+      "revision": 39619067,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ko-tmax-gooroom",
+      "title": "티맥스구름",
+      "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+      "source_kind": "article",
+      "revision": 39696813,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "navix-repository",
+      "title": "NAVIX (Naver Linux)",
+      "url": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+      "source_kind": "vendor-project-repository",
+      "revision": "9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ko-pclinuxos",
+      "title": "PCLinuxOS",
+      "url": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+      "source_kind": "article",
+      "revision": 39163287,
+      "observed_at": "2026-07-26"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "gooroom-platform",
+      "native_label": "구름 플랫폼 (Gooroom Platform)",
+      "native_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": "Q61359498",
+      "reason": "Korean source describes a South Korean Linux distribution and OS platform developed for secure cloud-work environments; no matching frozen candidate or system directory was found.",
+      "source_ids": ["ko-gooroom"]
+    },
+    {
+      "candidate_id": "hamonikr",
+      "native_label": "하모니카 (HamoniKR)",
+      "native_url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": "Q21825364",
+      "reason": "Korean source identifies HamoniKR as a South Korean Linux distribution; no matching frozen candidate or system directory was found.",
+      "source_ids": ["ko-hamonikr"]
+    },
+    {
+      "candidate_id": "tmaxos",
+      "native_label": "티맥스OS (TmaxOS)",
+      "native_url": "https://ko.wikipedia.org/wiki/%ED%8B%B0%EB%A7%A5%EC%8A%A4OS",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": "Q55735442",
+      "reason": "A Korean software-company OS explicitly documented as a distinct product, rather than a translation of another system; absent from the frozen inventory and existing directories.",
+      "source_ids": ["ko-tmaxos"]
+    },
+    {
+      "candidate_id": "tmax-window",
+      "native_label": "티맥스 윈도 (Tmax Window)",
+      "native_url": "https://ko.wikipedia.org/wiki/%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": "Q3595680",
+      "reason": "Separate Korean Windows-compatible OS project with its own claimed kernel and target releases. The source records that planned releases did not occur, which belongs in lifecycle evidence rather than making it an alias of TmaxOS.",
+      "source_ids": ["ko-tmax-window"]
+    },
+    {
+      "candidate_id": "whale-os",
+      "native_label": "웨일 OS (Whale OS)",
+      "native_url": "https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%9D%BC_OS",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": "Q109458665",
+      "reason": "Naver's Chromium OS-based education distribution for WhaleBook hardware is a concrete OS identity. Its hardware binding is a catalog attribute, not a reason to treat it as the hardware itself.",
+      "source_ids": ["ko-whale-os"]
+    },
+    {
+      "candidate_id": "annyung-linux",
+      "native_label": "안녕 리눅스 (AnNyung Linux)",
+      "native_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": "Q12605576",
+      "reason": "Korean source identifies a Korean-localized server Linux distribution, distinct from its Red Hat-family upstreams; absent from the frozen inventory and directories.",
+      "source_ids": ["ko-annyung"]
+    },
+    {
+      "candidate_id": "ginux",
+      "native_label": "지눅스 (Ginux)",
+      "native_url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%88%85%EC%8A%A4",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": "Q16189908",
+      "reason": "Korean source identifies Ginux as an SK C&C Linux distribution; absent from the frozen inventory and directories.",
+      "source_ids": ["ko-ginux"]
+    },
+    {
+      "candidate_id": "mizi-linux",
+      "native_label": "미지 리눅스 (Mizi Linux)",
+      "native_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "The Korean company article records Mizi Linux as its own distribution and says development has ceased; the label redirects to that supporting history rather than indicating a second entity.",
+      "source_ids": ["ko-mizi-research"]
+    },
+    {
+      "candidate_id": "alzza-linux",
+      "native_label": "알짜 리눅스",
+      "native_url": "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "LinuxOne's Korean company article explicitly names 알짜 리눅스 as one of the Linux operating systems it developed; absent from the frozen inventory and directories.",
+      "source_ids": ["ko-linuxone"]
+    },
+    {
+      "candidate_id": "maru-linux",
+      "native_label": "마루",
+      "native_url": "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "LinuxOne's Korean company article explicitly names 마루 as another Linux operating system it developed; absent from the frozen inventory and directories.",
+      "source_ids": ["ko-linuxone"]
+    },
+    {
+      "candidate_id": "asianux",
+      "native_label": "아시아눅스 (Asianux)",
+      "native_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4",
+      "disposition": "included-system",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Asianux",
+      "wikidata_qid": "Q1376040",
+      "reason": "A multinational distribution rather than solely Korean, but the Korean account documents Hancom's Korean participation and no matching frozen candidate or directory was found.",
+      "source_ids": ["ko-asianux"]
+    },
+    {
+      "candidate_id": "navix",
+      "native_label": "네빅스 (NAVIX; Naver Linux)",
+      "native_url": "https://github.com/NaverCloudPlatform/Navix",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Naver Cloud's own repository describes NAVIX as an OpenELA-based, open-source Linux distribution; it is absent from the frozen inventory and directories.",
+      "source_ids": ["navix-repository"]
+    },
+    {
+      "candidate_id": "hancom-gooroom",
+      "native_label": "한컴 구름 (Hancom Gooroom)",
+      "native_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84",
+      "disposition": "included-release",
+      "english_sitelink": null,
+      "wikidata_qid": "Q109460337",
+      "reason": "Korean source says this Hancom product is a Linux distribution based on Gooroom Platform, so it should be captured as a vendor release/product family of that base system rather than a separate kernel identity.",
+      "base_candidate_id": "gooroom-platform",
+      "source_ids": ["ko-gooroom", "ko-hancom-gooroom"]
+    },
+    {
+      "candidate_id": "tmax-gooroom",
+      "native_label": "티맥스구름 (Tmax Gooroom)",
+      "native_url": "https://ko.wikipedia.org/wiki/%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84",
+      "disposition": "included-release",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Korean source says this Tmax A&C product is a Linux distribution based on Gooroom Platform; record it as a product/release family, not as TmaxOS or a new kernel.",
+      "base_candidate_id": "gooroom-platform",
+      "source_ids": ["ko-gooroom", "ko-tmax-gooroom"]
+    },
+    {
+      "candidate_id": "hancom-linux",
+      "native_label": "한컴 리눅스",
+      "native_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%BB%B4_%EB%A6%AC%EB%88%85%EC%8A%A4",
+      "disposition": "included-release",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Auditable Korean alias/history: the label redirects to Asianux, so it should be researched as a Hancom-branded Asianux line rather than create an unrelated system identity.",
+      "base_candidate_id": "asianux",
+      "source_ids": ["ko-asianux"]
+    },
+    {
+      "candidate_id": "number-one-linux",
+      "native_label": "넘버원 리눅스",
+      "native_url": "https://ko.wikipedia.org/wiki/PCLinuxOS",
+      "disposition": "alias",
+      "english_sitelink": "https://en.wikipedia.org/wiki/PCLinuxOS",
+      "wikidata_qid": "Q324583",
+      "reason": "Auditable exclusion: the Korean label redirects to PCLinuxOS, a non-Korean existing distribution, so it is not a distinct Korean OS identity.",
+      "source_ids": ["ko-pclinuxos"]
+    }
+  ]
+}

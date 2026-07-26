@@ -1,0 +1,198 @@
+{
+  "schema_version": "0.1",
+  "language": "it",
+  "generated_at": "2026-07-26",
+  "scope": "Bounded Italian-language supplemental discovery. Comparisons were made against the frozen English-list inventory and existing system-directory names; this manifest is not a catalog assertion.",
+  "sources": [
+    {"id":"it-os-list","title":"Lista di sistemi operativi","url":"https://it.wikipedia.org/w/index.php?title=Lista_di_sistemi_operativi&oldid=146360255","source_kind":"language-list","revision":146360255,"observed_at":"2026-07-26"},
+    {"id":"it-cosmos-olivetti","title":"Cosmos (sistema operativo Olivetti)","url":"https://it.wikipedia.org/w/index.php?title=Cosmos_(sistema_operativo_Olivetti)&oldid=142147203","source_kind":"article","revision":142147203,"observed_at":"2026-07-26"},
+    {"id":"olivetti-l1-history","title":"L1: una nuova linea di sistemi informatici","url":"https://www.storiaolivetti.it/articolo/57-l1-una-nuova-linea-di-sistemi-informatici/","source_kind":"corporate-history","revision":null,"observed_at":"2026-07-26"},
+    {"id":"treccani-pcos","title":"L'avventura Olivetti","url":"https://www.treccani.it/enciclopedia/l-avventura-olivetti_%28Il-Contributo-italiano-alla-storia-del-Pensiero%3A-Tecnica%29/","source_kind":"reference-work","revision":null,"observed_at":"2026-07-26"},
+    {"id":"it-dynebolic","title":"dyne:bolic","url":"https://it.wikipedia.org/w/index.php?title=Dyne:bolic&oldid=118205003","source_kind":"article","revision":118205003,"observed_at":"2026-07-26"},
+    {"id":"dynebolic-project","title":"About Dynebolic","url":"https://dyne.org/dynebolic/about/","source_kind":"project-site","revision":null,"observed_at":"2026-07-26"},
+    {"id":"it-caine","title":"CAINE Linux","url":"https://it.wikipedia.org/w/index.php?title=CAINE_Linux&oldid=150203377","source_kind":"article","revision":150203377,"observed_at":"2026-07-26"},
+    {"id":"caine-project","title":"CAINE Live USB/DVD","url":"https://www.caine-live.net/index.html","source_kind":"project-site","revision":null,"observed_at":"2026-07-26"},
+    {"id":"it-sabayon","title":"Sabayon Linux","url":"https://it.wikipedia.org/w/index.php?title=Sabayon_Linux&oldid=143974787","source_kind":"article","revision":143974787,"observed_at":"2026-07-26"},
+    {"id":"it-mulinux","title":"MuLinux","url":"https://it.wikipedia.org/w/index.php?title=MuLinux&oldid=138492746","source_kind":"article","revision":138492746,"observed_at":"2026-07-26"},
+    {"id":"mulinux-readme","title":"muLinux: floppy Linux","url":"https://micheleandreoli.org/public/Software/mulinux/mu/italian/readme.html","source_kind":"project-documentation","revision":null,"observed_at":"2026-07-26"},
+    {"id":"it-fuss","title":"FUSS","url":"https://it.wikipedia.org/w/index.php?title=FUSS&oldid=151333088","source_kind":"article","revision":151333088,"observed_at":"2026-07-26"},
+    {"id":"fuss-project","title":"FUSS project pages","url":"https://fuss.bz.it/page/","source_kind":"project-site","revision":null,"observed_at":"2026-07-26"},
+    {"id":"sodilinux-cnr","title":"So.Di.Linux","url":"https://sodilinux.itd.cnr.it/","source_kind":"research-institute-project-site","revision":null,"observed_at":"2026-07-26"},
+    {"id":"it-deft","title":"DEFT Linux","url":"https://it.wikipedia.org/w/index.php?title=DEFT_Linux&oldid=141114570","source_kind":"article","revision":141114570,"observed_at":"2026-07-26"},
+    {"id":"tsurugi-project","title":"Tsurugi Linux","url":"https://tsurugi-linux.org/tsurugi_linux.php","source_kind":"project-site","revision":null,"observed_at":"2026-07-26"},
+    {"id":"ufficiozero-project","title":"Ufficio Zero Linux OS","url":"https://ufficiozero.org/","source_kind":"project-site","revision":null,"observed_at":"2026-07-26"}
+  ],
+  "candidates": [
+    {
+      "candidate_id":"olivetti-cosmos",
+      "native_label":"Cosmos (sistema operativo Olivetti)",
+      "native_url":"https://it.wikipedia.org/wiki/Cosmos_(sistema_operativo_Olivetti)",
+      "disposition":"included-system",
+      "english_sitelink":null,
+      "wikidata_qid":"Q3695205",
+      "reason":"Olivetti's 1970s operating-system family for TC 800 and later office/minicomputer systems. It is distinct from the existing C# Cosmos catalog record, which has a different QID and origin.",
+      "source_ids":["it-cosmos-olivetti","olivetti-l1-history"]
+    },
+    {
+      "candidate_id":"pcos-olivetti",
+      "native_label":"PCOS (Professional Computer Operating System)",
+      "native_url":"https://it.wikipedia.org/wiki/PCOS",
+      "disposition":"included-system",
+      "english_sitelink":null,
+      "wikidata_qid":null,
+      "reason":"Italian historical sources identify PCOS as Olivetti's in-house operating system for the M20; it is a Cosmos-family member, not the generic PCOS label alone.",
+      "source_ids":["it-os-list","it-cosmos-olivetti","treccani-pcos"]
+    },
+    {
+      "candidate_id":"bcos-olivetti",
+      "native_label":"BCOS",
+      "native_url":"https://it.wikipedia.org/wiki/BCOS",
+      "disposition":"included-system",
+      "english_sitelink":null,
+      "wikidata_qid":null,
+      "reason":"Italian list and Olivetti historical account identify BCOS as the Cosmos-family operating system for BCS office-computer systems.",
+      "source_ids":["it-os-list","it-cosmos-olivetti"]
+    },
+    {
+      "candidate_id":"bcos-ii",
+      "native_label":"BCOS II",
+      "native_url":"https://it.wikipedia.org/wiki/BCOS_II",
+      "disposition":"included-release",
+      "english_sitelink":null,
+      "wikidata_qid":null,
+      "reason":"The Italian list labels BCOS II as the multitasking/time-sharing version of BCOS, so it should be cataloged as a BCOS release/variant rather than a separate kernel identity.",
+      "base_candidate_id":"bcos-olivetti",
+      "source_ids":["it-os-list","it-cosmos-olivetti"]
+    },
+    {
+      "candidate_id":"mdos-olivetti",
+      "native_label":"MDOS (Modular Disk Operating System)",
+      "native_url":"https://it.wikipedia.org/wiki/MDOS",
+      "disposition":"included-system",
+      "english_sitelink":"https://en.wikipedia.org/wiki/MDOS",
+      "wikidata_qid":"Q6715179",
+      "reason":"Italian Olivetti-family account lists MDOS for L1 M30/M40 ST systems. The provenance distinguishes it from unrelated DOS-like systems sharing the same short name.",
+      "source_ids":["it-cosmos-olivetti"]
+    },
+    {
+      "candidate_id":"mos-olivetti",
+      "native_label":"MOS (Multifunctional Operating System)",
+      "native_url":"https://www.storiaolivetti.it/articolo/57-l1-una-nuova-linea-di-sistemi-informatici/",
+      "disposition":"included-system",
+      "english_sitelink":null,
+      "wikidata_qid":null,
+      "reason":"Olivetti identifies Cosmos IV's commercial name as MOS. This is a separate identity from the existing Acorn MOS catalog record and must retain its Olivetti provenance.",
+      "source_ids":["it-cosmos-olivetti","olivetti-l1-history"]
+    },
+    {
+      "candidate_id":"xos-olivetti",
+      "native_label":"XOS (Olivetti Unix)",
+      "native_url":"https://it.wikipedia.org/wiki/XOS_(Olivetti)",
+      "disposition":"needs-review",
+      "english_sitelink":null,
+      "wikidata_qid":null,
+      "reason":"Italian historical account says Olivetti replaced MOS with XOS on LSX 3000 systems, but this bounded pass found no independent XOS identity page or primary technical record sufficient to separate it safely from other XOS names.",
+      "source_ids":["it-cosmos-olivetti"]
+    },
+    {
+      "candidate_id":"dynebolic",
+      "native_label":"dyne:bolic",
+      "native_url":"https://it.wikipedia.org/wiki/Dyne:bolic",
+      "disposition":"included-system",
+      "english_sitelink":"https://en.wikipedia.org/wiki/Dyne:bolic",
+      "wikidata_qid":"Q309494",
+      "reason":"Italian-origin free multimedia GNU/Linux distribution; its project site documents current development and a distinct creative-workflow focus.",
+      "source_ids":["it-dynebolic","dynebolic-project"]
+    },
+    {
+      "candidate_id":"caine-linux",
+      "native_label":"CAINE Linux (Computer Aided INvestigative Environment)",
+      "native_url":"https://it.wikipedia.org/wiki/CAINE_Linux",
+      "disposition":"included-system",
+      "english_sitelink":"https://en.wikipedia.org/wiki/CAINE_Linux",
+      "wikidata_qid":"Q20013688",
+      "reason":"Italian digital-forensics GNU/Linux live distribution; official project material identifies a continuing, dedicated DFIR system rather than a tool collection alone.",
+      "source_ids":["it-caine","caine-project"]
+    },
+    {
+      "candidate_id":"deft-linux",
+      "native_label":"DEFT Linux (Digital Evidence & Forensic Toolkit)",
+      "native_url":"https://it.wikipedia.org/wiki/DEFT_Linux",
+      "disposition":"included-system",
+      "english_sitelink":null,
+      "wikidata_qid":null,
+      "reason":"Italian forensic live distribution originating in Bologna academic teaching and later professional DFIR use; the Italian source records its discontinued lifecycle.",
+      "source_ids":["it-deft"]
+    },
+    {
+      "candidate_id":"tsurugi-linux",
+      "native_label":"Tsurugi Linux (Tsurugi LAB)",
+      "native_url":"https://tsurugi-linux.org/tsurugi_linux.php",
+      "disposition":"included-system",
+      "english_sitelink":null,
+      "wikidata_qid":null,
+      "reason":"Concrete Italian DFIR/OSINT Linux distribution with an upstream-customized kernel; not merely a kernel or forensic software suite.",
+      "source_ids":["tsurugi-project"]
+    },
+    {
+      "candidate_id":"sabayon-linux",
+      "native_label":"Sabayon Linux",
+      "native_url":"https://it.wikipedia.org/wiki/Sabayon_Linux",
+      "disposition":"included-system",
+      "english_sitelink":"https://en.wikipedia.org/wiki/Sabayon_Linux",
+      "wikidata_qid":"Q640467",
+      "reason":"Italian Gentoo-based distribution (formerly RR4), distinct from its Gentoo upstream and documented as a discontinued project.",
+      "source_ids":["it-sabayon"]
+    },
+    {
+      "candidate_id":"mulinux",
+      "native_label":"muLinux",
+      "native_url":"https://it.wikipedia.org/wiki/MuLinux",
+      "disposition":"included-system",
+      "english_sitelink":"https://en.wikipedia.org/wiki/MuLinux",
+      "wikidata_qid":"Q769134",
+      "reason":"Italian minimal Linux distribution deliberately fitted to one floppy disk; retained as an unusual concrete distribution, not as hardware media metadata.",
+      "source_ids":["it-mulinux","mulinux-readme"]
+    },
+    {
+      "candidate_id":"fuss-linux",
+      "native_label":"FUSS (Free Upgrade for a digitally Sustainable School)",
+      "native_url":"https://it.wikipedia.org/wiki/FUSS",
+      "disposition":"included-system",
+      "english_sitelink":null,
+      "wikidata_qid":"Q3737390",
+      "reason":"South Tyrol school-focused GNU/Linux distribution with its own live/client/server installation profiles; it is not merely the education project name.",
+      "source_ids":["it-fuss","fuss-project"]
+    },
+    {
+      "candidate_id":"sodilinux",
+      "native_label":"So.Di.Linux Orizzonti",
+      "native_url":"https://sodilinux.itd.cnr.it/",
+      "disposition":"included-system",
+      "english_sitelink":null,
+      "wikidata_qid":null,
+      "reason":"CNR educational/inclusion project distributes a complete customized Ubuntu/Mint-based operating system as a live/installable image, not only learning material.",
+      "source_ids":["sodilinux-cnr"]
+    },
+    {
+      "candidate_id":"ufficio-zero-linux-os",
+      "native_label":"Ufficio Zero Linux OS",
+      "native_url":"https://ufficiozero.org/",
+      "disposition":"included-system",
+      "english_sitelink":null,
+      "wikidata_qid":null,
+      "reason":"Current Italian office/school-oriented Linux distribution with supported Ayah, Anna, Minimal, Lorena, and EDU product lines. Those names are releases/flavors, not separate systems.",
+      "source_ids":["ufficiozero-project"]
+    },
+    {
+      "candidate_id":"sofregrit",
+      "native_label":"SOFregit",
+      "native_url":"https://it.wikipedia.org/wiki/SOFregit",
+      "disposition":"needs-review",
+      "english_sitelink":null,
+      "wikidata_qid":null,
+      "reason":"The Italian operating-system list calls it a didactic OS, but the linked page is a redlink and this bounded pass found no independent historical or project source.",
+      "source_ids":["it-os-list"]
+    }
+  ]
+}

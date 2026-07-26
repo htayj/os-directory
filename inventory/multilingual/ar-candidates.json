@@ -1,0 +1,235 @@
+{
+  "schema_version": "0.1",
+  "language": "ar",
+  "generated_at": "2026-07-26",
+  "scope": "Bounded Arabic-language supplemental discovery. Arabic Wikipedia API requests were rate-limited during this pass, so evidence is primarily revision-addressable Arabeyes material plus Arabic project, university, and preservation sources. This manifest is not a catalog assertion.",
+  "sources": [
+    {
+      "id": "arabeyes-distros",
+      "title": "Distros",
+      "url": "https://www.arabeyes.org/index.php?title=Distros&oldid=82007",
+      "source_kind": "arabic-community-project-history",
+      "revision": 82007,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "arabeyes-arabbix",
+      "title": "Arabbix",
+      "url": "https://wiki.arabeyes.org/Arabbix",
+      "source_kind": "arabic-community-project-history",
+      "revision": null,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "waha-project",
+      "title": "مشروع واحــة",
+      "url": "https://wahaproject.org/",
+      "source_kind": "arabic-project-site",
+      "revision": null,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "waha-linux",
+      "title": "واحــة لينكس",
+      "url": "https://linux.wahaproject.org/",
+      "source_kind": "arabic-project-site",
+      "revision": null,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ojuba-project",
+      "title": "نظام التشغيل أعجوبة لينكس",
+      "url": "https://ojuba.org/linux:%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9",
+      "source_kind": "arabic-project-site",
+      "revision": null,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ojuba-releases",
+      "title": "ojuba-releases",
+      "url": "https://ojuba.org/ojuba-releases",
+      "source_kind": "arabic-project-release-policy",
+      "revision": null,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "helwan-project",
+      "title": "About Helwan Linux",
+      "url": "https://helwan-linux.github.io/helwanlinux/about.html",
+      "source_kind": "project-site",
+      "revision": null,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "uruk-article",
+      "title": "Uruk GNU/Linux",
+      "url": "https://en.wikipedia.org/wiki/Uruk_GNU/Linux",
+      "source_kind": "article",
+      "revision": 1361747256,
+      "observed_at": "2026-07-26",
+      "snapshot_url": "https://en.wikipedia.org/w/index.php?title=Uruk_GNU%2FLinux&oldid=1361747256"
+    },
+    {
+      "id": "kfupm-arabian-linux",
+      "title": "Arabian Linux",
+      "url": "https://faculty.kfupm.edu.sa/ICS/muhtaseb/Teaching/ACStLect.pdf",
+      "source_kind": "arabic-university-course-material",
+      "revision": null,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "hilali-community",
+      "title": "توزيعة هلال Helal لينُكس العربية",
+      "url": "https://www.linuxac.org/node/84",
+      "source_kind": "arabic-community-archive",
+      "revision": null,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "sabily-ubuntu",
+      "title": "Sabily derivative record",
+      "url": "https://wiki.ubuntu.com/DerivativeTeam/Derivatives/Sabily",
+      "source_kind": "upstream-project-wiki",
+      "revision": null,
+      "observed_at": "2026-07-26"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "waha-linux",
+      "native_label": "واحــة لينكس",
+      "native_url": "https://linux.wahaproject.org/",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Arabic project materials identify Waha as a Debian-based, easy-to-use GNU/Linux distribution created for Arabic-speaking users; no matching frozen candidate or system directory was found.",
+      "source_ids": [
+        "waha-project",
+        "waha-linux"
+      ]
+    },
+    {
+      "candidate_id": "ojuba-linux",
+      "native_label": "أعجوبة لينكس (Ojuba Linux)",
+      "native_url": "https://ojuba.org/linux:%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Arabic project documentation describes Ojuba as an Arabic desktop/server OS built compatibly on Fedora, with its own stable release lifecycle and packages; it is not merely a Fedora language pack.",
+      "source_ids": [
+        "ojuba-project",
+        "ojuba-releases"
+      ]
+    },
+    {
+      "candidate_id": "uruk-gnu-linux",
+      "native_label": "أوروك جنو/لينكس (Uruk GNU/Linux-libre)",
+      "native_url": "https://urukproject.org/dist/en.html",
+      "disposition": "included-system",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Uruk_GNU/Linux",
+      "wikidata_qid": null,
+      "reason": "Iraqi-origin free Linux distribution whose name and project provenance identify Uruk; it is a separate PureOS-based distribution, not an Arabic translation of another system.",
+      "source_ids": [
+        "uruk-article"
+      ]
+    },
+    {
+      "candidate_id": "helwan-linux",
+      "native_label": "هليوان لينكس (Helwan Linux)",
+      "native_url": "https://helwan-linux.github.io/helwanlinux/about.html",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Egypt-based Arch distribution with explicit Arabic right-to-left support, built as a concrete developer/maker/gaming OS rather than a desktop environment.",
+      "source_ids": [
+        "helwan-project"
+      ]
+    },
+    {
+      "candidate_id": "haydar-linux",
+      "native_label": "حيدر لينكس (Haydar Linux)",
+      "native_url": "https://www.arabeyes.org/index.php?title=Distros&oldid=82007",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Arabeyes' preserved project history records beta and final releases and calls it the first Arabic Linux with complete Arabic support; it is a historical distribution, not the Haydar desktop component.",
+      "source_ids": [
+        "arabeyes-distros"
+      ]
+    },
+    {
+      "candidate_id": "arabbix",
+      "native_label": "عرببكس (Arabbix)",
+      "native_url": "https://wiki.arabeyes.org/Arabbix",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Arabeyes' historical page identifies Arabbix as a fully Arabized live-CD distribution; retain it as a discontinued concrete distribution rather than collapsing it into Arabeyes, its umbrella project.",
+      "source_ids": [
+        "arabeyes-arabbix"
+      ]
+    },
+    {
+      "candidate_id": "arabian-linux",
+      "native_label": "أرابيان لينكس (Arabian Linux)",
+      "native_url": "https://faculty.kfupm.edu.sa/ICS/muhtaseb/Teaching/ACStLect.pdf",
+      "disposition": "needs-review",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Arabic university course material identifies Arabian Linux as an ArabicOS-team distribution, but this bounded pass found no project archive or release evidence sufficient to establish its independent identity and lifecycle.",
+      "source_ids": [
+        "kfupm-arabian-linux"
+      ]
+    },
+    {
+      "candidate_id": "hilali-linux",
+      "native_label": "هلال لينُكس (Hilali Linux)",
+      "native_url": "https://www.linuxac.org/node/84",
+      "disposition": "needs-review",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Arabic community archive documents a Hilali Linux repository for Ubuntu releases, but the bounded evidence cannot establish whether it was a complete distribution or only an Ubuntu package/repository customization.",
+      "source_ids": [
+        "hilali-community"
+      ]
+    },
+    {
+      "candidate_id": "sabily",
+      "native_label": "سبيلي (Sabily)",
+      "native_url": "https://wiki.ubuntu.com/DerivativeTeam/Derivatives/Sabily",
+      "disposition": "included-release",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Sabily",
+      "wikidata_qid": null,
+      "reason": "Arabic-localized Islamic Ubuntu customization with a distinct product name and lifecycle. Upstream documentation characterizes it as a package set customizing Ubuntu, so it belongs as a distribution/release family rather than a new kernel identity.",
+      "base_system": "Ubuntu",
+      "source_ids": [
+        "sabily-ubuntu"
+      ]
+    },
+    {
+      "candidate_id": "arabeyes",
+      "native_label": "عرب آيز (Arabeyes)",
+      "native_url": "https://www.arabeyes.org/",
+      "disposition": "grouping",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Arabeyes",
+      "wikidata_qid": null,
+      "reason": "Auditable non-OS exclusion: Arabeyes is the Arabic Unix/Linux localization umbrella and hosted distribution projects such as Arabbix and Haydar Linux; it is not itself one operating-system identity.",
+      "source_ids": [
+        "arabeyes-distros",
+        "arabeyes-arabbix"
+      ]
+    },
+    {
+      "candidate_id": "haydar-desktop-environment",
+      "native_label": "بيئة سطح مكتب حيدر (HDE)",
+      "native_url": "https://www.arabeyes.org/index.php?title=Distros&oldid=82007",
+      "disposition": "non-os",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Auditable non-OS exclusion: the Arabeyes record distinguishes Haydar Desktop Environment from Haydar Linux, so it is a desktop component rather than a system identity.",
+      "source_ids": [
+        "arabeyes-distros"
+      ]
+    }
+  ]
+}

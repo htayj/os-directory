@@ -1,0 +1,184 @@
+{
+  "schema_version": "0.1",
+  "language": "fr",
+  "generated_at": "2026-07-26",
+  "scope": "French Wikipedia supplemental pass compared against the frozen English-list manifest corpus; no concept directories are created here.",
+  "source_pages": [
+    {
+      "title": "Liste des systèmes d'exploitation",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "revision": 237673769,
+      "retrieved": "2026-07-26",
+      "snapshot_url": "https://fr.wikipedia.org/w/index.php?title=Liste_des_syst%C3%A8mes_d%27exploitation&oldid=237673769"
+    },
+    {
+      "title": "Liste des noyaux de systèmes d'exploitation",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation",
+      "revision": 178492200,
+      "retrieved": "2026-07-26",
+      "snapshot_url": "https://fr.wikipedia.org/w/index.php?title=Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation&oldid=178492200"
+    },
+    {
+      "title": "Chronologie des systèmes d'exploitation",
+      "url": "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation",
+      "revision": 227195544,
+      "retrieved": "2026-07-26",
+      "snapshot_url": "https://fr.wikipedia.org/w/index.php?title=Chronologie_des_syst%C3%A8mes_d%27exploitation&oldid=227195544"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "hyperpanel-os",
+      "native_label": "Hyperpanel OS",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "French list calls it both RTOS and GPOS, developed by HyperPanel Lab; no matching English-list candidate found.",
+      "unusual_french_system": true
+    },
+    {
+      "candidate_id": "jemao",
+      "native_label": "JemaOS",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "French list identifies it as a French OS intended to extend the usable life of older computers.",
+      "unusual_french_system": true
+    },
+    {
+      "candidate_id": "isaac-os",
+      "native_label": "Isaac",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "French list identifies an OS written in Lisaac; absent from the English frozen corpus.",
+      "unusual_french_system": true
+    },
+    {
+      "candidate_id": "lepton-os",
+      "native_label": "Lepton",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "French list describes a POSIX open-source OS for real-time embedded systems, associated with O10ée.",
+      "unusual_french_system": true
+    },
+    {
+      "candidate_id": "smaky-os",
+      "native_label": "Smaky",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "French list calls it a French-language OS made free in 2008; identity is absent from the English corpus.",
+      "unusual_french_system": true
+    },
+    {
+      "candidate_id": "sysmic",
+      "native_label": "SYSMIC",
+      "native_aliases": [
+        "Prologue"
+      ],
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "French list identifies R2E's early microcomputer OS and says it became Prologue in 1978; preserve the rename relationship.",
+      "unusual_french_system": true
+    },
+    {
+      "candidate_id": "clip-os",
+      "native_label": "CLIP OS",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "French list describes the ANSSI-developed French OS published as open source; absent from English inventory scan.",
+      "unusual_french_system": true
+    },
+    {
+      "candidate_id": "acidos",
+      "native_label": "AcidOS",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "French list describes an industrial/IoT-oriented French OS; needs later primary-source validation.",
+      "unusual_french_system": true
+    },
+    {
+      "candidate_id": "cpcdos-os2",
+      "native_label": "Cpcdos OS2",
+      "native_aliases": [
+        "CpcdosC+"
+      ],
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "needs-review",
+      "reason": "French list presents several experimental systems as running above DOS or based on Cpcdos; determine whether Cpcdos OS2 itself is a distinct OS before inclusion.",
+      "unusual_french_system": true
+    },
+    {
+      "candidate_id": "tunes-os",
+      "native_label": "Tunes OS",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Listed as an experimental operating system and absent from the English frozen corpus."
+    },
+    {
+      "candidate_id": "unununium",
+      "native_label": "Unununium",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Listed as an experimental operating system and absent from the English frozen corpus."
+    },
+    {
+      "candidate_id": "adaos",
+      "native_label": "AdaOS",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Listed as an experimental operating system; later sources should establish its implementation and historical status."
+    },
+    {
+      "candidate_id": "harmonyos-fr-label",
+      "native_label": "Harmony OS",
+      "native_aliases": [
+        "Hongmeng OS"
+      ],
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": "https://en.wikipedia.org/wiki/HarmonyOS",
+      "wikidata_qid": null,
+      "disposition": "already-covered",
+      "reason": "French-list label maps to existing frozen English-list HarmonyOS candidate."
+    },
+    {
+      "candidate_id": "isos-fr-listing",
+      "native_label": "Isotop",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "non-OS",
+      "reason": "French list describes an OpenBSD-oriented graphical interface project, not a complete independent OS."
+    },
+    {
+      "candidate_id": "fuguita-fr-listing",
+      "native_label": "FuguIta",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "already-covered",
+      "reason": "French list mentions it as an OpenBSD derivative; it is already preserved as a review candidate in the frozen English-derived inventory."
+    }
+  ]
+}

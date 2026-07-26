@@ -1,0 +1,205 @@
+{
+  "schema_version": "0.1",
+  "language": "de",
+  "generated_at": "2026-07-26",
+  "scope": "German-language supplemental discovery only. Dispositions compare candidates against the frozen English-list inventory manifests; no system records are created by this file.",
+  "source_pages": [
+    {
+      "title": "Liste von Betriebssystemen",
+      "url": "https://de.wikipedia.org/wiki/Liste_von_Betriebssystemen",
+      "revision": 264807064,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Single User Control Program",
+      "url": "https://de.wikipedia.org/wiki/Single_User_Control_Program",
+      "revision": 228074619,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "MicroOS",
+      "url": "https://de.wikipedia.org/wiki/MicroOS",
+      "revision": 244414927,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "TCOS",
+      "url": "https://de.wikipedia.org/wiki/TCOS",
+      "revision": 260533054,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Rodos (Betriebssystem)",
+      "url": "https://de.wikipedia.org/wiki/Rodos_(Betriebssystem)",
+      "revision": 266134994,
+      "retrieved": "2026-07-26",
+      "snapshot_url": "https://de.wikipedia.org/w/index.php?title=Rodos_%28Betriebssystem%29&oldid=266134994"
+    },
+    {
+      "title": "TR 440",
+      "url": "https://de.wikipedia.org/wiki/TR_440",
+      "revision": 268383943,
+      "retrieved": "2026-07-26",
+      "snapshot_url": "https://de.wikipedia.org/w/index.php?title=TR_440&oldid=268383943"
+    },
+    {
+      "title": "COQOS Hypervisor SDK",
+      "url": "https://www.presseportal.de/en/pm/122143/4888462",
+      "revision": null,
+      "retrieved": "2026-07-26"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "single-user-control-program-scp",
+      "native_label": "SCP (Single User Control Program)",
+      "native_aliases": [
+        "SCPxxx"
+      ],
+      "url": "https://de.wikipedia.org/wiki/Single_User_Control_Program",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "A German article directly identifies SCP as a CP/M-compatible operating system developed by Kombinat Robotron for DDR computers; no matching English-list manifest identity was found.",
+      "unusual_german_system": true
+    },
+    {
+      "candidate_id": "microos-mos-freedos",
+      "native_label": "MicroOS (MOS)",
+      "url": "https://de.wikipedia.org/wiki/MicroOS",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "The German article defines MicroOS/MOS as a FreeDOS-based retro operating system; no matching English-list manifest identity was found. It is distinct from openSUSE MicroOS.",
+      "unusual_german_system": true
+    },
+    {
+      "candidate_id": "tcos-telesec-chipcard-operating-system",
+      "native_label": "TCOS (TeleSec Chipcard Operating System)",
+      "url": "https://de.wikipedia.org/wiki/TCOS",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "The German article explicitly identifies TCOS as T-Systems' chip-card operating system; no matching English-list manifest identity was found.",
+      "unusual_german_system": true
+    },
+    {
+      "candidate_id": "amboss-siemens-process-computer",
+      "native_label": "Amboss",
+      "url": "https://de.wikipedia.org/wiki/Amboss_(Betriebssystem)",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "needs-review",
+      "reason": "The German list calls Amboss a Siemens process-computer operating system, but its target is a red link and no independent identity source was established in this pass.",
+      "unusual_german_system": true
+    },
+    {
+      "candidate_id": "cospas-siemens-rail-signalling",
+      "native_label": "COSPAS",
+      "url": null,
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "needs-review",
+      "reason": "The German list names COSPAS as a Siemens real-time system used in railway signalling, but it is unlinked; distinguish it from the unrelated COSPAS-SARSAT rescue satellite system before creating an identity.",
+      "unusual_german_system": true
+    },
+    {
+      "candidate_id": "dipos-nixdorf-8862-8864",
+      "native_label": "DIPOS",
+      "url": "https://de.wikipedia.org/wiki/DIPOS",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "needs-review",
+      "reason": "The German list describes DIPOS for Nixdorf 8862/8864 Banking Network Computers, but its target is a red link; identity, expansion, and relationship to the hardware remain unverified.",
+      "unusual_german_system": true
+    },
+    {
+      "candidate_id": "coqos-hypervisor-sdk",
+      "native_label": "COQOS",
+      "url": "https://www.presseportal.de/en/pm/122143/4888462",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "non-OS",
+      "reason": "Although the German list calls COQOS a real-time OS, the vendor describes the current product as a hypervisor/virtualization SDK that runs guest operating systems; do not catalog it as a standalone OS without a historical-product identity check.",
+      "unusual_german_system": true
+    },
+    {
+      "candidate_id": "martos-aeg-process-computer-family",
+      "native_label": "MARTOS / MARTOS-K",
+      "native_aliases": [
+        "MARTOS",
+        "MARTOS-K"
+      ],
+      "url": null,
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "needs-review",
+      "reason": "The German list assigns MARTOS to AEG 80-60 process computers and MARTOS-K to AEG 80-20 process computers, but both links are red; verify whether these are separate systems, hardware ports, or releases of one family.",
+      "unusual_german_system": true
+    },
+    {
+      "candidate_id": "rmos2-rmos3-siemens",
+      "native_label": "RMOS2 / RMOS3",
+      "native_aliases": [
+        "RMOS2",
+        "RMOS3"
+      ],
+      "url": null,
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "needs-review",
+      "reason": "The German list calls RMOS2 and RMOS3 Siemens real-time operating systems but provides no identity links; establish whether the numerals denote releases or distinct system lines.",
+      "unusual_german_system": true
+    },
+    {
+      "candidate_id": "bs3-tr440",
+      "native_label": "BS 3",
+      "url": "https://de.wikipedia.org/wiki/TR_440",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "needs-review",
+      "reason": "The German list names BS 3 as an AEG-Telefunken time-sharing OS, but its link resolves to the TR 440 hardware article where it is described as that machine's OS. Preserve the hardware/system boundary pending a dedicated identity decision.",
+      "unusual_german_system": true
+    },
+    {
+      "candidate_id": "bs1000-siemens",
+      "native_label": "BS1000",
+      "url": "https://de.wikipedia.org/wiki/BS1000",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "already-covered",
+      "reason": "The German list calls BS1000 a historic Siemens batch operating system; it is already represented in English inventory manifest batch-062.",
+      "unusual_german_system": true
+    },
+    {
+      "candidate_id": "bs2000",
+      "native_label": "BS2000",
+      "url": "https://de.wikipedia.org/wiki/BS2000",
+      "english_sitelink": "https://en.wikipedia.org/wiki/BS2000",
+      "wikidata_qid": null,
+      "disposition": "already-covered",
+      "reason": "Already represented in English inventory manifest batch-062 (and OSD/XC related coverage in batch-064); the German source is retained as regional discovery evidence.",
+      "unusual_german_system": true
+    },
+    {
+      "candidate_id": "bs3000-siemens",
+      "native_label": "BS3000",
+      "url": "https://de.wikipedia.org/wiki/BS3000",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "already-covered",
+      "reason": "Already represented in English inventory manifest batch-063; the German red link does not establish a separate system identity.",
+      "unusual_german_system": true
+    },
+    {
+      "candidate_id": "rodos",
+      "native_label": "Rodos",
+      "url": "https://de.wikipedia.org/wiki/Rodos_(Betriebssystem)",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Rodos_(operating_system)",
+      "wikidata_qid": null,
+      "disposition": "already-covered",
+      "reason": "The German article establishes an embedded real-time operating system, but Rodos is already in English inventory manifest batch-002.",
+      "unusual_german_system": true
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "schema_version": "0.1",
+  "language": "ja",
+  "generated_at": "2026-07-26",
+  "scope": "Bounded supplemental discovery from the Japanese Wikipedia operating-system list, checked against the frozen English-list candidate inventory. This is a discovery manifest, not a catalog assertion.",
+  "sources": [
+    {
+      "id": "ja-os-list",
+      "title": "オペレーティングシステムの一覧",
+      "url": "https://ja.wikipedia.org/w/index.php?title=%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E4%B8%80%E8%A6%A7&oldid=109838165",
+      "source_kind": "language-list",
+      "revision": 109838165,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ja-human68k",
+      "title": "Human68k",
+      "url": "https://ja.wikipedia.org/w/index.php?title=Human68k&oldid=107376143",
+      "source_kind": "article",
+      "revision": 107376143,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ja-ptos",
+      "title": "PTOS",
+      "url": "https://ja.wikipedia.org/w/index.php?title=PTOS&oldid=71685188",
+      "source_kind": "article",
+      "revision": 71685188,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ja-townsos",
+      "title": "TownsOS",
+      "url": "https://ja.wikipedia.org/w/index.php?title=TownsOS&oldid=75421418",
+      "source_kind": "article",
+      "revision": 75421418,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ja-acos-2",
+      "title": "ACOS-2",
+      "url": "https://ja.wikipedia.org/w/index.php?title=ACOS-2&oldid=103684529",
+      "source_kind": "article",
+      "revision": 103684529,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ja-btron",
+      "title": "BTRON",
+      "url": "https://ja.wikipedia.org/w/index.php?title=BTRON&oldid=109887557",
+      "source_kind": "article",
+      "revision": 109887557,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ja-itron",
+      "title": "ITRON",
+      "url": "https://ja.wikipedia.org/w/index.php?title=ITRON&oldid=110317753",
+      "source_kind": "article",
+      "revision": 110317753,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ja-t-kernel",
+      "title": "T-Kernel",
+      "url": "https://ja.wikipedia.org/w/index.php?title=T-Kernel&oldid=107371894",
+      "source_kind": "article",
+      "revision": 107371894,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "ja-tron-project",
+      "title": "TRONプロジェクト",
+      "url": "https://ja.wikipedia.org/w/index.php?title=TRON%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&oldid=110359990",
+      "source_kind": "article",
+      "revision": 110359990,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "pmc-history",
+      "title": "沿革",
+      "url": "https://www.personal-media.co.jp/info/history.html",
+      "source_kind": "vendor-history",
+      "revision": null,
+      "observed_at": "2026-07-26"
+    },
+    {
+      "id": "pmc-btron-products",
+      "title": "超漢字・BTRON関連書の選び方",
+      "url": "https://www.personal-media.co.jp/book/tron/b_presen.html",
+      "source_kind": "vendor-product-history",
+      "revision": null,
+      "observed_at": "2026-07-26"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "human68k",
+      "native_label": "Human68k",
+      "native_url": "https://ja.wikipedia.org/wiki/Human68k",
+      "disposition": "included-system",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Human68k",
+      "wikidata_qid": "Q11223583",
+      "reason": "Japanese list identifies it as the OS used by Sharp's X68000 series; no matching frozen English-list candidate was found.",
+      "source_ids": ["ja-os-list", "ja-human68k"]
+    },
+    {
+      "candidate_id": "ptos-nec",
+      "native_label": "PTOS",
+      "native_url": "https://ja.wikipedia.org/wiki/PTOS",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Japanese list classifies PTOS as an NEC operating system for the N5200 series; no matching frozen English-list candidate was found.",
+      "source_ids": ["ja-os-list", "ja-ptos"]
+    },
+    {
+      "candidate_id": "townsos",
+      "native_label": "TownsOS",
+      "native_url": "https://ja.wikipedia.org/wiki/TownsOS",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Japanese list classifies TownsOS as Fujitsu's operating system for the FM TOWNS series; no matching frozen English-list candidate was found.",
+      "source_ids": ["ja-os-list", "ja-townsos"]
+    },
+    {
+      "candidate_id": "acos-2",
+      "native_label": "ACOS-2",
+      "native_url": "https://ja.wikipedia.org/wiki/ACOS-2",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": "Q11188877",
+      "reason": "Japanese list classifies ACOS-2 as an NEC operating system for small mainframes; no matching frozen English-list candidate was found.",
+      "source_ids": ["ja-os-list", "ja-acos-2"]
+    },
+    {
+      "candidate_id": "apcs",
+      "native_label": "APCS",
+      "native_url": null,
+      "disposition": "needs-review",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "The Japanese list names APCS for Fujitsu FACOM 9450, but the linked label is a redlink and this bounded pass found no independent identity source.",
+      "source_ids": ["ja-os-list"]
+    },
+    {
+      "candidate_id": "1b",
+      "native_label": "1B（電房具1B）",
+      "native_url": null,
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Personal Media's Japanese product history distinguishes its 16-bit BTRON-specification PC OS/product line from later B-right/V and 超漢字; absent from the frozen English list.",
+      "source_ids": ["pmc-history", "pmc-btron-products"]
+    },
+    {
+      "candidate_id": "b-right",
+      "native_label": "B-right",
+      "native_url": null,
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Personal Media records B-right as a BTRON-specification OS for mobile devices, distinct from B-right/V; absent from the frozen English list.",
+      "source_ids": ["pmc-history"]
+    },
+    {
+      "candidate_id": "b-right-v",
+      "native_label": "B-right/V",
+      "native_url": "https://ja.wikipedia.org/wiki/B-right/V",
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Personal Media identifies B-right/V as its 32-bit BTRON-specification OS; the Japanese list points to it as BTRON's implementation and it is absent from the frozen English list.",
+      "source_ids": ["ja-os-list", "pmc-history", "pmc-btron-products"]
+    },
+    {
+      "candidate_id": "j-right-v",
+      "native_label": "J-right/V",
+      "native_url": null,
+      "disposition": "included-system",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "reason": "Personal Media's history records J-right/V as a JTRON-specification OS; absent from the frozen English list.",
+      "source_ids": ["pmc-history"]
+    },
+    {
+      "candidate_id": "chokanji",
+      "native_label": "超漢字",
+      "native_url": "https://ja.wikipedia.org/wiki/%E8%B6%85%E6%BC%A2%E5%AD%97",
+      "disposition": "included-release",
+      "english_sitelink": null,
+      "wikidata_qid": "Q11636282",
+      "reason": "Vendor product history identifies 超漢字 as the successor product series to B-right/V (B-right/V R2 onward), so it should be cataloged as that system's release/product family rather than a second system.",
+      "source_ids": ["ja-btron", "pmc-history", "pmc-btron-products"]
+    },
+    {
+      "candidate_id": "btron",
+      "native_label": "BTRON",
+      "native_url": "https://ja.wikipedia.org/wiki/BTRON",
+      "disposition": "grouping",
+      "english_sitelink": "https://en.wikipedia.org/wiki/BTRON",
+      "wikidata_qid": "Q4836724",
+      "reason": "The Japanese list explicitly treats B-right/V as BTRON's implementation; BTRON itself is a specification/project family, not a single OS record.",
+      "source_ids": ["ja-os-list", "ja-btron", "pmc-btron-products"]
+    },
+    {
+      "candidate_id": "itron",
+      "native_label": "ITRON（μITRON）",
+      "native_url": "https://ja.wikipedia.org/wiki/ITRON",
+      "disposition": "grouping",
+      "english_sitelink": "https://en.wikipedia.org/wiki/ITRON_project",
+      "wikidata_qid": "Q25101",
+      "reason": "The Japanese list describes ITRON/μITRON as used in device categories, while the linked material is a specification/project rather than one concrete operating-system product.",
+      "source_ids": ["ja-os-list", "ja-itron"]
+    },
+    {
+      "candidate_id": "t-kernel",
+      "native_label": "T-Kernel",
+      "native_url": "https://ja.wikipedia.org/wiki/T-Kernel",
+      "disposition": "already-in-frozen-inventory",
+      "english_sitelink": "https://en.wikipedia.org/wiki/T-Kernel",
+      "wikidata_qid": "Q7667807",
+      "reason": "Auditable exclusion: the Japanese source is useful context, but T-Kernel already has frozen English-list candidate t-kernel.",
+      "frozen_candidate_id": "t-kernel",
+      "source_ids": ["ja-t-kernel"]
+    },
+    {
+      "candidate_id": "tron-project",
+      "native_label": "TRONプロジェクト",
+      "native_url": "https://ja.wikipedia.org/wiki/TRON%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88",
+      "disposition": "already-in-frozen-inventory",
+      "english_sitelink": "https://en.wikipedia.org/wiki/TRON_project",
+      "wikidata_qid": "Q17056255",
+      "reason": "Auditable exclusion: it is the umbrella project and already has frozen English-list candidate tron; it is not a concrete OS identity.",
+      "frozen_candidate_id": "tron",
+      "source_ids": ["ja-os-list", "ja-tron-project"]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "schema_version": "0.1",
+  "language": "es",
+  "generated_at": "2026-07-26",
+  "scope": "Spanish-language supplemental discovery only. This pass retains distribution identity while distinguishing derivatives, editions, releases, and the Linux kernel; no system records are created by this file.",
+  "source_pages": [
+    {
+      "title": "Anexo:Sistemas operativos",
+      "url": "https://es.wikipedia.org/wiki/Anexo:Sistemas_operativos",
+      "revision": 172604468,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Huayra GNU/Linux",
+      "url": "https://huayra.educar.gob.ar/",
+      "revision": null,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Huayra: historia",
+      "url": "https://huayra.educar.gob.ar/historia/",
+      "revision": null,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Nova (sistema operativo)",
+      "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+      "revision": 167070520,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Canaima GNU/Linux",
+      "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+      "revision": 174543417,
+      "retrieved": "2026-07-26",
+      "snapshot_url": "https://es.wikipedia.org/w/index.php?title=Canaima_GNU%2FLinux&oldid=174543417"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "huayra-gnu-linux",
+      "native_label": "Huayra GNU/Linux",
+      "url": "https://es.wikipedia.org/wiki/Huayra_GNU/Linux",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Argentine state educational GNU/Linux distribution. Educ.ar identifies it as a free operating system developed by EDUCAR Sociedad del Estado; it is a Debian-based distribution, not a separate kernel.",
+      "regional_or_educational": true
+    },
+    {
+      "candidate_id": "lihuen-gnu-linux",
+      "native_label": "Lihuen GNU/Linux",
+      "url": "https://es.wikipedia.org/wiki/Lihuen_GNU/Linux",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Argentine Debian-based GNU/Linux distribution developed by the Facultad de Informática of the Universidad Nacional de La Plata; no matching English-list manifest identity was found.",
+      "regional_or_educational": true
+    },
+    {
+      "candidate_id": "quirinux",
+      "native_label": "Quirinux",
+      "url": "https://es.wikipedia.org/wiki/Quirinux",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Argentine open-source distribution created at the Instituto de Diseño y Arte Cinematográfico for animation-oriented educational use; retain as a distribution identity rather than a new kernel.",
+      "regional_or_educational": true
+    },
+    {
+      "candidate_id": "ututo",
+      "native_label": "Ututo",
+      "url": "https://es.wikipedia.org/wiki/Ututo",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Ututo",
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Argentine GNU/Linux distribution associated with the Universidad Nacional de Salta. It is a distribution identity, not a separate operating-system kernel.",
+      "regional_or_educational": true
+    },
+    {
+      "candidate_id": "tuquito",
+      "native_label": "Tuquito",
+      "url": "https://es.wikipedia.org/wiki/Tuquito_(distribuci%C3%B3n_Linux)",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Defunct Argentine GNU/Linux distribution from Tucumán, based on Debian and Ubuntu. The identity is cataloged as a distribution, not as a replacement kernel or merely a LiveCD release.",
+      "regional_or_educational": true
+    },
+    {
+      "candidate_id": "etertics-gnu-linux",
+      "native_label": "EterTICs GNU/Linux",
+      "url": "https://es.wikipedia.org/wiki/EterTICs_GNU/Linux",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Argentine radio-oriented GNU/Linux distribution derived from Canaima. Its derivative relationship is retained; it is not a release of Canaima itself.",
+      "regional_or_educational": true
+    },
+    {
+      "candidate_id": "musix-gnu-linux",
+      "native_label": "Musix GNU+Linux",
+      "native_aliases": [
+        "Musix"
+      ],
+      "url": "https://es.wikipedia.org/wiki/Musix",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Argentina-origin, artist and music-education oriented GNU/Linux distribution. It is a discontinued distribution lineage based on Knoppix, Kanotix, and Debian, not an independent kernel.",
+      "regional_or_educational": true
+    },
+    {
+      "candidate_id": "dragora",
+      "native_label": "Dragora GNU/Linux-Libre",
+      "native_aliases": [
+        "Dragora"
+      ],
+      "url": "https://es.wikipedia.org/wiki/Dragora",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Dragora_GNU/Linux-Libre",
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Argentine freedom-focused GNU/Linux distribution described as built without an earlier distribution base. It remains a GNU/Linux distribution identity, distinct from the Linux-libre kernel it uses.",
+      "regional_or_educational": true
+    },
+    {
+      "candidate_id": "nova-cuban-gnu-linux",
+      "native_label": "Nova Distribución Cubana de GNU/Linux",
+      "native_aliases": [
+        "Nova"
+      ],
+      "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Cuban GNU/Linux distribution developed at the Universidad de las Ciencias Informáticas by students and faculty for national free-software migration. Treat as a distribution, not a standalone operating-system family.",
+      "regional_or_educational": true
+    },
+    {
+      "candidate_id": "canaima-gnu-linux",
+      "native_label": "Canaima GNU/Linux",
+      "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Canaima_(operating_system)",
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Venezuelan government GNU/Linux distribution based on Debian, used for public administration and education. Catalog as a distribution identity rather than conflating it with the Canaima Educativo deployment program.",
+      "regional_or_educational": true
+    },
+    {
+      "candidate_id": "trisquel-gnu-linux",
+      "native_label": "Trisquel GNU/Linux",
+      "url": "https://es.wikipedia.org/wiki/Trisquel_GNU/Linux",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Trisquel",
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Spanish free GNU/Linux distribution originally sponsored by the Universidad de Vigo. It is a distribution with Linux-libre, not the kernel itself.",
+      "regional_or_educational": true
+    },
+    {
+      "candidate_id": "canaima-educativo",
+      "native_label": "Canaima Educativo",
+      "url": "https://es.wikipedia.org/wiki/Canaima_Educativo",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "release",
+      "reason": "An educational deployment and customized image of Canaima GNU/Linux for school laptops, rather than a separate operating-system identity.",
+      "regional_or_educational": true
+    },
+    {
+      "candidate_id": "huayra-bonaerense",
+      "native_label": "Huayra Bonaerense",
+      "url": "https://huayra.educar.gob.ar/historia/",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "release",
+      "reason": "The official Huayra history describes it as a version designed for Programa Conectar Igualdad Bonaerense; retain beneath Huayra rather than as a separate system.",
+      "regional_or_educational": true
+    }
+  ]
+}

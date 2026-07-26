@@ -1,0 +1,205 @@
+{
+  "schema_version": "0.1",
+  "language": "pt",
+  "generated_at": "2026-07-26",
+  "scope": "Portuguese-language supplemental discovery covering Brazil and Portugal. Distribution identities are retained while deployments, releases, kernels, and hardware are kept distinct; no system records are created by this file.",
+  "source_pages": [
+    {
+      "title": "SOX (sistema operacional)",
+      "url": "https://pt.wikipedia.org/wiki/SOX_(sistema_operacional)",
+      "revision": 71031358,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "BBTS: 50 Anos",
+      "url": "https://www.bbts.com.br/50-anos-bbts/",
+      "revision": null,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "SISNE plus",
+      "url": "https://pt.wikipedia.org/wiki/SISNE_plus",
+      "revision": 69836605,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Linux Caixa Mágica",
+      "url": "https://pt.wikipedia.org/wiki/Linux_Caixa_Mágica",
+      "revision": 72540934,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Conectiva",
+      "url": "https://pt.wikipedia.org/wiki/Conectiva",
+      "revision": 71003442,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "GoboLinux",
+      "url": "https://pt.wikipedia.org/wiki/GoboLinux",
+      "revision": 67482799,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Kurumin",
+      "url": "https://pt.wikipedia.org/wiki/Kurumin",
+      "revision": 71738213,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "BigLinux",
+      "url": "https://pt.wikipedia.org/wiki/BigLinux",
+      "revision": 71525040,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Dizinha Linux",
+      "url": "https://pt.wikipedia.org/wiki/Dizinha_Linux",
+      "revision": 71732737,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Dreamlinux",
+      "url": "https://pt.wikipedia.org/wiki/Dreamlinux",
+      "revision": 71511912,
+      "retrieved": "2026-07-26"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "sox-sistema-operacional-x",
+      "native_label": "SOX (Sistema Operacional X)",
+      "url": "https://pt.wikipedia.org/wiki/SOX_(sistema_operacional)",
+      "english_sitelink": "https://en.wikipedia.org/wiki/SOX_(operating_system)",
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Brazilian UNIX-compatible operating system independently developed by COBRA for its own computers. The successor company BBTS records its X/Open certification; it is neither COBRA hardware nor an upstream UNIX release.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "sisne-plus",
+      "native_label": "SISNE Plus",
+      "native_aliases": ["Sisne", "SISNE"],
+      "url": "https://pt.wikipedia.org/wiki/SISNE_plus",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Brazilian DOS 3.3-compatible clone made by Itautec and Scopus during the market-reserve period. Preserve it as a local OS identity, not as MS-DOS or merely a hardware brand.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "conectiva-linux",
+      "native_label": "Conectiva Linux",
+      "native_aliases": ["Conectiva"],
+      "url": "https://pt.wikipedia.org/wiki/Conectiva",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Conectiva",
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Brazilian Linux distribution and Latin-American localized distribution lineage. Catalog it as a GNU/Linux distribution identity, not the Linux kernel or its later Mandrake/Mandriva corporate relationship.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "gobolinux",
+      "native_label": "GoboLinux",
+      "url": "https://pt.wikipedia.org/wiki/GoboLinux",
+      "english_sitelink": "https://en.wikipedia.org/wiki/GoboLinux",
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Brazilian GNU/Linux distribution with its own filesystem hierarchy approach. It is a distribution identity using the Linux kernel, not a kernel candidate.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "kurumin-linux",
+      "native_label": "Kurumin Linux",
+      "native_aliases": ["Kurumin"],
+      "url": "https://pt.wikipedia.org/wiki/Kurumin",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Kurumin",
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Brazilian GNU/Linux distribution derived from Knoppix and Debian. Treat the distribution as the identity; its LiveCD form is a delivery medium, not a separate OS.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "biglinux",
+      "native_label": "BigLinux",
+      "url": "https://pt.wikipedia.org/wiki/BigLinux",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Brazilian Linux distribution with a lineage through Kurumin and other distribution bases. Keep it distinct from upstream bases and the Linux kernel.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "dizinha-linux",
+      "native_label": "Dizinha Linux",
+      "url": "https://pt.wikipedia.org/wiki/Dizinha_Linux",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Brazilian GNU/Linux distribution identified in Portuguese-language distribution coverage; retain as a distribution-level identity pending detailed lifecycle research.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "dreamlinux",
+      "native_label": "Dreamlinux",
+      "url": "https://pt.wikipedia.org/wiki/Dreamlinux",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Dreamlinux",
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Brazilian GNU/Linux distribution lineage; catalog as a distribution, not as a separate kernel or a generic translated alias.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "libertas-gnu-linux",
+      "native_label": "Libertas GNU/Linux",
+      "url": "https://pt.wikipedia.org/wiki/Libertas_(sistema_operacional)",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Brazilian municipal and educational Debian customization developed for Belo Horizonte. It is a distribution/project identity, rather than an independent kernel or the city-government program itself.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "linux-caixa-magica",
+      "native_label": "Linux Caixa Mágica",
+      "native_aliases": ["Caixa Mágica", "Linux CM"],
+      "url": "https://pt.wikipedia.org/wiki/Linux_Caixa_Mágica",
+      "english_sitelink": "https://en.wikipedia.org/wiki/Linux_Caixa_M%C3%A1gica",
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Portuguese Linux distribution developed by Caixa Mágica Software for public administration, education, and general use. The distribution's various Ubuntu-era releases remain one system identity.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "linius-cm",
+      "native_label": "Linius CM",
+      "url": "https://pt.wikipedia.org/wiki/Linux_Caixa_Mágica",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "release",
+      "reason": "A Linux Caixa Mágica adaptation for Portugal's Ministry of Justice, so it is a deployment/derivative of the Caixa Mágica system rather than a distinct OS identity.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "linux-caixa-magica-mag",
+      "native_label": "Linux Caixa Mágica Mag",
+      "url": "https://pt.wikipedia.org/wiki/Linux_Caixa_Mágica",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "release",
+      "reason": "A Linux Caixa Mágica 12-based edition supplied for the Magalhães school laptop; it is an edition for hardware/education deployment, not a separate operating system.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "som-sod-cobra",
+      "native_label": "SOM / SOD",
+      "native_aliases": ["Sistema Operacional Monoprogramável", "Sistema Operacional em Disco"],
+      "url": "https://imagem.camara.gov.br/Imagem/d/pdf/DCD06JUN1989.pdf",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "needs-review",
+      "reason": "Brazilian congressional material names COBRA's earlier 8-bit SOM and SOD systems, but the evidence does not yet establish their exact expansions, separate identities, host hardware, or relationship to SOX.",
+      "regional_or_historical": true
+    }
+  ]
+}

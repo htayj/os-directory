@@ -1,0 +1,63 @@
+{
+  "schema_version": "0.1",
+  "batch": 2,
+  "candidate_count": 8,
+  "results": [
+    {
+      "candidate_id": "dos-rv",
+      "disposition": "included-system",
+      "path": "systems/dos-rv/",
+      "title": "DOS RV",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "mikros-czechoslovak-cpm",
+      "disposition": "included-system",
+      "path": "systems/mikros-czechoslovak-cpm/",
+      "title": "MIKROS",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "mos-ec",
+      "disposition": "included-system",
+      "path": "systems/mos-ec/",
+      "title": "MOS EC",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "os-10-ec",
+      "disposition": "included-system",
+      "path": "systems/os-10-ec/",
+      "title": "OS-10 EC",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "os-ec",
+      "disposition": "included-system",
+      "path": "systems/os-ec/",
+      "title": "OS EC",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "plos-rv",
+      "disposition": "included-system",
+      "path": "systems/plos-rv/",
+      "title": "PLOS-RV",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "bs1000-siemens",
+      "disposition": "included-system",
+      "path": "systems/bs1000-siemens/",
+      "title": "BS1000",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "microos-mos-freedos",
+      "disposition": "included-system",
+      "path": "systems/microos-mos-freedos/",
+      "title": "MicroOS (MOS)",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    }
+  ]
+}

@@ -1,0 +1,981 @@
+{
+  "schema_version": "0.1",
+  "batch": 8,
+  "candidate_count": 8,
+  "candidates": [
+    {
+      "identity_key": "id:1b",
+      "candidate_id": "1b",
+      "title": "1B（電房具1B）",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ja"
+      ],
+      "entries": [
+        {
+          "candidate_id": "1b",
+          "native_label": "1B（電房具1B）",
+          "native_url": null,
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "Personal Media's Japanese product history distinguishes its 16-bit BTRON-specification PC OS/product line from later B-right/V and 超漢字; absent from the frozen English list.",
+          "source_ids": [
+            "pmc-history",
+            "pmc-btron-products"
+          ],
+          "language": "ja",
+          "manifest": "inventory/multilingual/ja-candidates.json",
+          "source_document": [
+            {
+              "id": "ja-os-list",
+              "title": "オペレーティングシステムの一覧",
+              "url": "https://ja.wikipedia.org/w/index.php?title=%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E4%B8%80%E8%A6%A7&oldid=109838165",
+              "source_kind": "language-list",
+              "revision": 109838165,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-human68k",
+              "title": "Human68k",
+              "url": "https://ja.wikipedia.org/w/index.php?title=Human68k&oldid=107376143",
+              "source_kind": "article",
+              "revision": 107376143,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-ptos",
+              "title": "PTOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=PTOS&oldid=71685188",
+              "source_kind": "article",
+              "revision": 71685188,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-townsos",
+              "title": "TownsOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TownsOS&oldid=75421418",
+              "source_kind": "article",
+              "revision": 75421418,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-acos-2",
+              "title": "ACOS-2",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ACOS-2&oldid=103684529",
+              "source_kind": "article",
+              "revision": 103684529,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-btron",
+              "title": "BTRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=BTRON&oldid=109887557",
+              "source_kind": "article",
+              "revision": 109887557,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-itron",
+              "title": "ITRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ITRON&oldid=110317753",
+              "source_kind": "article",
+              "revision": 110317753,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-t-kernel",
+              "title": "T-Kernel",
+              "url": "https://ja.wikipedia.org/w/index.php?title=T-Kernel&oldid=107371894",
+              "source_kind": "article",
+              "revision": 107371894,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-tron-project",
+              "title": "TRONプロジェクト",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TRON%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&oldid=110359990",
+              "source_kind": "article",
+              "revision": 110359990,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-history",
+              "title": "沿革",
+              "url": "https://www.personal-media.co.jp/info/history.html",
+              "source_kind": "vendor-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-btron-products",
+              "title": "超漢字・BTRON関連書の選び方",
+              "url": "https://www.personal-media.co.jp/book/tron/b_presen.html",
+              "source_kind": "vendor-product-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "qid:Q11188877",
+      "candidate_id": "acos-2",
+      "title": "ACOS-2",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ja"
+      ],
+      "entries": [
+        {
+          "candidate_id": "acos-2",
+          "native_label": "ACOS-2",
+          "native_url": "https://ja.wikipedia.org/wiki/ACOS-2",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": "Q11188877",
+          "reason": "Japanese list classifies ACOS-2 as an NEC operating system for small mainframes; no matching frozen English-list candidate was found.",
+          "source_ids": [
+            "ja-os-list",
+            "ja-acos-2"
+          ],
+          "language": "ja",
+          "manifest": "inventory/multilingual/ja-candidates.json",
+          "source_document": [
+            {
+              "id": "ja-os-list",
+              "title": "オペレーティングシステムの一覧",
+              "url": "https://ja.wikipedia.org/w/index.php?title=%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E4%B8%80%E8%A6%A7&oldid=109838165",
+              "source_kind": "language-list",
+              "revision": 109838165,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-human68k",
+              "title": "Human68k",
+              "url": "https://ja.wikipedia.org/w/index.php?title=Human68k&oldid=107376143",
+              "source_kind": "article",
+              "revision": 107376143,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-ptos",
+              "title": "PTOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=PTOS&oldid=71685188",
+              "source_kind": "article",
+              "revision": 71685188,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-townsos",
+              "title": "TownsOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TownsOS&oldid=75421418",
+              "source_kind": "article",
+              "revision": 75421418,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-acos-2",
+              "title": "ACOS-2",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ACOS-2&oldid=103684529",
+              "source_kind": "article",
+              "revision": 103684529,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-btron",
+              "title": "BTRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=BTRON&oldid=109887557",
+              "source_kind": "article",
+              "revision": 109887557,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-itron",
+              "title": "ITRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ITRON&oldid=110317753",
+              "source_kind": "article",
+              "revision": 110317753,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-t-kernel",
+              "title": "T-Kernel",
+              "url": "https://ja.wikipedia.org/w/index.php?title=T-Kernel&oldid=107371894",
+              "source_kind": "article",
+              "revision": 107371894,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-tron-project",
+              "title": "TRONプロジェクト",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TRON%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&oldid=110359990",
+              "source_kind": "article",
+              "revision": 110359990,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-history",
+              "title": "沿革",
+              "url": "https://www.personal-media.co.jp/info/history.html",
+              "source_kind": "vendor-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-btron-products",
+              "title": "超漢字・BTRON関連書の選び方",
+              "url": "https://www.personal-media.co.jp/book/tron/b_presen.html",
+              "source_kind": "vendor-product-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:b-right",
+      "candidate_id": "b-right",
+      "title": "B-right",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ja"
+      ],
+      "entries": [
+        {
+          "candidate_id": "b-right",
+          "native_label": "B-right",
+          "native_url": null,
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "Personal Media records B-right as a BTRON-specification OS for mobile devices, distinct from B-right/V; absent from the frozen English list.",
+          "source_ids": [
+            "pmc-history"
+          ],
+          "language": "ja",
+          "manifest": "inventory/multilingual/ja-candidates.json",
+          "source_document": [
+            {
+              "id": "ja-os-list",
+              "title": "オペレーティングシステムの一覧",
+              "url": "https://ja.wikipedia.org/w/index.php?title=%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E4%B8%80%E8%A6%A7&oldid=109838165",
+              "source_kind": "language-list",
+              "revision": 109838165,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-human68k",
+              "title": "Human68k",
+              "url": "https://ja.wikipedia.org/w/index.php?title=Human68k&oldid=107376143",
+              "source_kind": "article",
+              "revision": 107376143,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-ptos",
+              "title": "PTOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=PTOS&oldid=71685188",
+              "source_kind": "article",
+              "revision": 71685188,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-townsos",
+              "title": "TownsOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TownsOS&oldid=75421418",
+              "source_kind": "article",
+              "revision": 75421418,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-acos-2",
+              "title": "ACOS-2",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ACOS-2&oldid=103684529",
+              "source_kind": "article",
+              "revision": 103684529,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-btron",
+              "title": "BTRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=BTRON&oldid=109887557",
+              "source_kind": "article",
+              "revision": 109887557,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-itron",
+              "title": "ITRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ITRON&oldid=110317753",
+              "source_kind": "article",
+              "revision": 110317753,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-t-kernel",
+              "title": "T-Kernel",
+              "url": "https://ja.wikipedia.org/w/index.php?title=T-Kernel&oldid=107371894",
+              "source_kind": "article",
+              "revision": 107371894,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-tron-project",
+              "title": "TRONプロジェクト",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TRON%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&oldid=110359990",
+              "source_kind": "article",
+              "revision": 110359990,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-history",
+              "title": "沿革",
+              "url": "https://www.personal-media.co.jp/info/history.html",
+              "source_kind": "vendor-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-btron-products",
+              "title": "超漢字・BTRON関連書の選び方",
+              "url": "https://www.personal-media.co.jp/book/tron/b_presen.html",
+              "source_kind": "vendor-product-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:b-right-v",
+      "candidate_id": "b-right-v",
+      "title": "B-right/V",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ja"
+      ],
+      "entries": [
+        {
+          "candidate_id": "b-right-v",
+          "native_label": "B-right/V",
+          "native_url": "https://ja.wikipedia.org/wiki/B-right/V",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "Personal Media identifies B-right/V as its 32-bit BTRON-specification OS; the Japanese list points to it as BTRON's implementation and it is absent from the frozen English list.",
+          "source_ids": [
+            "ja-os-list",
+            "pmc-history",
+            "pmc-btron-products"
+          ],
+          "language": "ja",
+          "manifest": "inventory/multilingual/ja-candidates.json",
+          "source_document": [
+            {
+              "id": "ja-os-list",
+              "title": "オペレーティングシステムの一覧",
+              "url": "https://ja.wikipedia.org/w/index.php?title=%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E4%B8%80%E8%A6%A7&oldid=109838165",
+              "source_kind": "language-list",
+              "revision": 109838165,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-human68k",
+              "title": "Human68k",
+              "url": "https://ja.wikipedia.org/w/index.php?title=Human68k&oldid=107376143",
+              "source_kind": "article",
+              "revision": 107376143,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-ptos",
+              "title": "PTOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=PTOS&oldid=71685188",
+              "source_kind": "article",
+              "revision": 71685188,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-townsos",
+              "title": "TownsOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TownsOS&oldid=75421418",
+              "source_kind": "article",
+              "revision": 75421418,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-acos-2",
+              "title": "ACOS-2",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ACOS-2&oldid=103684529",
+              "source_kind": "article",
+              "revision": 103684529,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-btron",
+              "title": "BTRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=BTRON&oldid=109887557",
+              "source_kind": "article",
+              "revision": 109887557,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-itron",
+              "title": "ITRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ITRON&oldid=110317753",
+              "source_kind": "article",
+              "revision": 110317753,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-t-kernel",
+              "title": "T-Kernel",
+              "url": "https://ja.wikipedia.org/w/index.php?title=T-Kernel&oldid=107371894",
+              "source_kind": "article",
+              "revision": 107371894,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-tron-project",
+              "title": "TRONプロジェクト",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TRON%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&oldid=110359990",
+              "source_kind": "article",
+              "revision": 110359990,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-history",
+              "title": "沿革",
+              "url": "https://www.personal-media.co.jp/info/history.html",
+              "source_kind": "vendor-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-btron-products",
+              "title": "超漢字・BTRON関連書の選び方",
+              "url": "https://www.personal-media.co.jp/book/tron/b_presen.html",
+              "source_kind": "vendor-product-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "qid:Q11223583",
+      "candidate_id": "human68k",
+      "title": "Human68k",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ja"
+      ],
+      "entries": [
+        {
+          "candidate_id": "human68k",
+          "native_label": "Human68k",
+          "native_url": "https://ja.wikipedia.org/wiki/Human68k",
+          "disposition": "included-system",
+          "english_sitelink": "https://en.wikipedia.org/wiki/Human68k",
+          "wikidata_qid": "Q11223583",
+          "reason": "Japanese list identifies it as the OS used by Sharp's X68000 series; no matching frozen English-list candidate was found.",
+          "source_ids": [
+            "ja-os-list",
+            "ja-human68k"
+          ],
+          "language": "ja",
+          "manifest": "inventory/multilingual/ja-candidates.json",
+          "source_document": [
+            {
+              "id": "ja-os-list",
+              "title": "オペレーティングシステムの一覧",
+              "url": "https://ja.wikipedia.org/w/index.php?title=%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E4%B8%80%E8%A6%A7&oldid=109838165",
+              "source_kind": "language-list",
+              "revision": 109838165,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-human68k",
+              "title": "Human68k",
+              "url": "https://ja.wikipedia.org/w/index.php?title=Human68k&oldid=107376143",
+              "source_kind": "article",
+              "revision": 107376143,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-ptos",
+              "title": "PTOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=PTOS&oldid=71685188",
+              "source_kind": "article",
+              "revision": 71685188,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-townsos",
+              "title": "TownsOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TownsOS&oldid=75421418",
+              "source_kind": "article",
+              "revision": 75421418,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-acos-2",
+              "title": "ACOS-2",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ACOS-2&oldid=103684529",
+              "source_kind": "article",
+              "revision": 103684529,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-btron",
+              "title": "BTRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=BTRON&oldid=109887557",
+              "source_kind": "article",
+              "revision": 109887557,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-itron",
+              "title": "ITRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ITRON&oldid=110317753",
+              "source_kind": "article",
+              "revision": 110317753,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-t-kernel",
+              "title": "T-Kernel",
+              "url": "https://ja.wikipedia.org/w/index.php?title=T-Kernel&oldid=107371894",
+              "source_kind": "article",
+              "revision": 107371894,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-tron-project",
+              "title": "TRONプロジェクト",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TRON%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&oldid=110359990",
+              "source_kind": "article",
+              "revision": 110359990,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-history",
+              "title": "沿革",
+              "url": "https://www.personal-media.co.jp/info/history.html",
+              "source_kind": "vendor-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-btron-products",
+              "title": "超漢字・BTRON関連書の選び方",
+              "url": "https://www.personal-media.co.jp/book/tron/b_presen.html",
+              "source_kind": "vendor-product-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:j-right-v",
+      "candidate_id": "j-right-v",
+      "title": "J-right/V",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ja"
+      ],
+      "entries": [
+        {
+          "candidate_id": "j-right-v",
+          "native_label": "J-right/V",
+          "native_url": null,
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "Personal Media's history records J-right/V as a JTRON-specification OS; absent from the frozen English list.",
+          "source_ids": [
+            "pmc-history"
+          ],
+          "language": "ja",
+          "manifest": "inventory/multilingual/ja-candidates.json",
+          "source_document": [
+            {
+              "id": "ja-os-list",
+              "title": "オペレーティングシステムの一覧",
+              "url": "https://ja.wikipedia.org/w/index.php?title=%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E4%B8%80%E8%A6%A7&oldid=109838165",
+              "source_kind": "language-list",
+              "revision": 109838165,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-human68k",
+              "title": "Human68k",
+              "url": "https://ja.wikipedia.org/w/index.php?title=Human68k&oldid=107376143",
+              "source_kind": "article",
+              "revision": 107376143,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-ptos",
+              "title": "PTOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=PTOS&oldid=71685188",
+              "source_kind": "article",
+              "revision": 71685188,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-townsos",
+              "title": "TownsOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TownsOS&oldid=75421418",
+              "source_kind": "article",
+              "revision": 75421418,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-acos-2",
+              "title": "ACOS-2",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ACOS-2&oldid=103684529",
+              "source_kind": "article",
+              "revision": 103684529,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-btron",
+              "title": "BTRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=BTRON&oldid=109887557",
+              "source_kind": "article",
+              "revision": 109887557,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-itron",
+              "title": "ITRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ITRON&oldid=110317753",
+              "source_kind": "article",
+              "revision": 110317753,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-t-kernel",
+              "title": "T-Kernel",
+              "url": "https://ja.wikipedia.org/w/index.php?title=T-Kernel&oldid=107371894",
+              "source_kind": "article",
+              "revision": 107371894,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-tron-project",
+              "title": "TRONプロジェクト",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TRON%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&oldid=110359990",
+              "source_kind": "article",
+              "revision": 110359990,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-history",
+              "title": "沿革",
+              "url": "https://www.personal-media.co.jp/info/history.html",
+              "source_kind": "vendor-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-btron-products",
+              "title": "超漢字・BTRON関連書の選び方",
+              "url": "https://www.personal-media.co.jp/book/tron/b_presen.html",
+              "source_kind": "vendor-product-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:ptos-nec",
+      "candidate_id": "ptos-nec",
+      "title": "PTOS",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ja"
+      ],
+      "entries": [
+        {
+          "candidate_id": "ptos-nec",
+          "native_label": "PTOS",
+          "native_url": "https://ja.wikipedia.org/wiki/PTOS",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "Japanese list classifies PTOS as an NEC operating system for the N5200 series; no matching frozen English-list candidate was found.",
+          "source_ids": [
+            "ja-os-list",
+            "ja-ptos"
+          ],
+          "language": "ja",
+          "manifest": "inventory/multilingual/ja-candidates.json",
+          "source_document": [
+            {
+              "id": "ja-os-list",
+              "title": "オペレーティングシステムの一覧",
+              "url": "https://ja.wikipedia.org/w/index.php?title=%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E4%B8%80%E8%A6%A7&oldid=109838165",
+              "source_kind": "language-list",
+              "revision": 109838165,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-human68k",
+              "title": "Human68k",
+              "url": "https://ja.wikipedia.org/w/index.php?title=Human68k&oldid=107376143",
+              "source_kind": "article",
+              "revision": 107376143,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-ptos",
+              "title": "PTOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=PTOS&oldid=71685188",
+              "source_kind": "article",
+              "revision": 71685188,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-townsos",
+              "title": "TownsOS",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TownsOS&oldid=75421418",
+              "source_kind": "article",
+              "revision": 75421418,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-acos-2",
+              "title": "ACOS-2",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ACOS-2&oldid=103684529",
+              "source_kind": "article",
+              "revision": 103684529,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-btron",
+              "title": "BTRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=BTRON&oldid=109887557",
+              "source_kind": "article",
+              "revision": 109887557,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-itron",
+              "title": "ITRON",
+              "url": "https://ja.wikipedia.org/w/index.php?title=ITRON&oldid=110317753",
+              "source_kind": "article",
+              "revision": 110317753,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-t-kernel",
+              "title": "T-Kernel",
+              "url": "https://ja.wikipedia.org/w/index.php?title=T-Kernel&oldid=107371894",
+              "source_kind": "article",
+              "revision": 107371894,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ja-tron-project",
+              "title": "TRONプロジェクト",
+              "url": "https://ja.wikipedia.org/w/index.php?title=TRON%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&oldid=110359990",
+              "source_kind": "article",
+              "revision": 110359990,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-history",
+              "title": "沿革",
+              "url": "https://www.personal-media.co.jp/info/history.html",
+              "source_kind": "vendor-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "pmc-btron-products",
+              "title": "超漢字・BTRON関連書の選び方",
+              "url": "https://www.personal-media.co.jp/book/tron/b_presen.html",
+              "source_kind": "vendor-product-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:alzza-linux",
+      "candidate_id": "alzza-linux",
+      "title": "알짜 리눅스",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ko"
+      ],
+      "entries": [
+        {
+          "candidate_id": "alzza-linux",
+          "native_label": "알짜 리눅스",
+          "native_url": "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "LinuxOne's Korean company article explicitly names 알짜 리눅스 as one of the Linux operating systems it developed; absent from the frozen inventory and directories.",
+          "source_ids": [
+            "ko-linuxone"
+          ],
+          "language": "ko",
+          "manifest": "inventory/multilingual/ko-candidates.json",
+          "source_document": [
+            {
+              "id": "ko-os-list",
+              "title": "운영체제 목록",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+              "source_kind": "language-list",
+              "revision": 41169508,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-gooroom",
+              "title": "구름 플랫폼",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+              "source_kind": "article",
+              "revision": 41145482,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hamonikr",
+              "title": "하모니카 (운영 체제)",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+              "source_kind": "article",
+              "revision": 41084648,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmaxos",
+              "title": "티맥스OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+              "source_kind": "article",
+              "revision": 40438267,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-window",
+              "title": "티맥스 윈도",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+              "source_kind": "article",
+              "revision": 39125497,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-whale-os",
+              "title": "웨일 OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+              "source_kind": "article",
+              "revision": 40002181,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-annyung",
+              "title": "안녕 리눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+              "source_kind": "article",
+              "revision": 39027606,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-ginux",
+              "title": "지눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+              "source_kind": "article",
+              "revision": 39066391,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-linuxone",
+              "title": "리눅스원",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+              "source_kind": "article",
+              "revision": 39040304,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-mizi-research",
+              "title": "미지리서치",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+              "source_kind": "article",
+              "revision": 39038161,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-asianux",
+              "title": "아시아눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+              "source_kind": "article",
+              "revision": 39027607,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hancom-gooroom",
+              "title": "한컴 구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+              "source_kind": "article",
+              "revision": 39619067,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-gooroom",
+              "title": "티맥스구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+              "source_kind": "article",
+              "revision": 39696813,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "navix-repository",
+              "title": "NAVIX (Naver Linux)",
+              "url": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "source_kind": "vendor-project-repository",
+              "revision": "9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-pclinuxos",
+              "title": "PCLinuxOS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+              "source_kind": "article",
+              "revision": 39163287,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    }
+  ]
+}

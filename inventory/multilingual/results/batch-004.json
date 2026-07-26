@@ -1,0 +1,63 @@
+{
+  "schema_version": "0.1",
+  "batch": 4,
+  "candidate_count": 8,
+  "results": [
+    {
+      "candidate_id": "musix-gnu-linux",
+      "disposition": "included-system",
+      "path": "systems/musix-gnu-linux/",
+      "title": "Musix GNU+Linux",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "nova-cuban-gnu-linux",
+      "disposition": "included-system",
+      "path": "systems/nova-cuban-gnu-linux/",
+      "title": "Nova Distribución Cubana de GNU/Linux",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "quirinux",
+      "disposition": "included-system",
+      "path": "systems/quirinux/",
+      "title": "Quirinux",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "trisquel-gnu-linux",
+      "disposition": "included-system",
+      "path": "systems/trisquel-gnu-linux/",
+      "title": "Trisquel GNU/Linux",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "tuquito",
+      "disposition": "included-system",
+      "path": "systems/tuquito/",
+      "title": "Tuquito",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "ututo",
+      "disposition": "included-system",
+      "path": "systems/ututo/",
+      "title": "Ututo",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "acidos",
+      "disposition": "included-system",
+      "path": "systems/acidos/",
+      "title": "AcidOS",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "adaos",
+      "disposition": "included-system",
+      "path": "systems/adaos/",
+      "title": "AdaOS",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    }
+  ]
+}

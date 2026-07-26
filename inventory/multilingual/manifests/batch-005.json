@@ -1,0 +1,369 @@
+{
+  "schema_version": "0.1",
+  "batch": 5,
+  "candidate_count": 8,
+  "candidates": [
+    {
+      "identity_key": "id:clip-os",
+      "candidate_id": "clip-os",
+      "title": "CLIP OS",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "fr"
+      ],
+      "entries": [
+        {
+          "candidate_id": "clip-os",
+          "native_label": "CLIP OS",
+          "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "French list describes the ANSSI-developed French OS published as open source; absent from English inventory scan.",
+          "unusual_french_system": true,
+          "language": "fr",
+          "manifest": "inventory/multilingual/fr-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Liste des noyaux de systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Chronologie des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:fuguita-fr-listing",
+      "candidate_id": "fuguita-fr-listing",
+      "title": "FuguIta",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "fr"
+      ],
+      "entries": [
+        {
+          "candidate_id": "fuguita-fr-listing",
+          "native_label": "FuguIta",
+          "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "already-covered",
+          "reason": "French list mentions it as an OpenBSD derivative; it is already preserved as a review candidate in the frozen English-derived inventory.",
+          "language": "fr",
+          "manifest": "inventory/multilingual/fr-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Liste des noyaux de systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Chronologie des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "alias"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:hyperpanel-os",
+      "candidate_id": "hyperpanel-os",
+      "title": "Hyperpanel OS",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "fr"
+      ],
+      "entries": [
+        {
+          "candidate_id": "hyperpanel-os",
+          "native_label": "Hyperpanel OS",
+          "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "French list calls it both RTOS and GPOS, developed by HyperPanel Lab; no matching English-list candidate found.",
+          "unusual_french_system": true,
+          "language": "fr",
+          "manifest": "inventory/multilingual/fr-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Liste des noyaux de systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Chronologie des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:isaac-os",
+      "candidate_id": "isaac-os",
+      "title": "Isaac",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "fr"
+      ],
+      "entries": [
+        {
+          "candidate_id": "isaac-os",
+          "native_label": "Isaac",
+          "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "French list identifies an OS written in Lisaac; absent from the English frozen corpus.",
+          "unusual_french_system": true,
+          "language": "fr",
+          "manifest": "inventory/multilingual/fr-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Liste des noyaux de systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Chronologie des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:jemao",
+      "candidate_id": "jemao",
+      "title": "JemaOS",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "fr"
+      ],
+      "entries": [
+        {
+          "candidate_id": "jemao",
+          "native_label": "JemaOS",
+          "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "French list identifies it as a French OS intended to extend the usable life of older computers.",
+          "unusual_french_system": true,
+          "language": "fr",
+          "manifest": "inventory/multilingual/fr-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Liste des noyaux de systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Chronologie des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:lepton-os",
+      "candidate_id": "lepton-os",
+      "title": "Lepton",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "fr"
+      ],
+      "entries": [
+        {
+          "candidate_id": "lepton-os",
+          "native_label": "Lepton",
+          "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "French list describes a POSIX open-source OS for real-time embedded systems, associated with O10ée.",
+          "unusual_french_system": true,
+          "language": "fr",
+          "manifest": "inventory/multilingual/fr-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Liste des noyaux de systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Chronologie des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:smaky-os",
+      "candidate_id": "smaky-os",
+      "title": "Smaky",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "fr"
+      ],
+      "entries": [
+        {
+          "candidate_id": "smaky-os",
+          "native_label": "Smaky",
+          "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "French list calls it a French-language OS made free in 2008; identity is absent from the English corpus.",
+          "unusual_french_system": true,
+          "language": "fr",
+          "manifest": "inventory/multilingual/fr-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Liste des noyaux de systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Chronologie des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:sysmic",
+      "candidate_id": "sysmic",
+      "title": "SYSMIC",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "fr"
+      ],
+      "entries": [
+        {
+          "candidate_id": "sysmic",
+          "native_label": "SYSMIC",
+          "native_aliases": [
+            "Prologue"
+          ],
+          "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "French list identifies R2E's early microcomputer OS and says it became Prologue in 1978; preserve the rename relationship.",
+          "unusual_french_system": true,
+          "language": "fr",
+          "manifest": "inventory/multilingual/fr-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Liste des noyaux de systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Chronologie des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    }
+  ]
+}

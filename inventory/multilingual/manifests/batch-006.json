@@ -1,0 +1,1089 @@
+{
+  "schema_version": "0.1",
+  "batch": 6,
+  "candidate_count": 8,
+  "candidates": [
+    {
+      "identity_key": "id:tunes-os",
+      "candidate_id": "tunes-os",
+      "title": "Tunes OS",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "fr"
+      ],
+      "entries": [
+        {
+          "candidate_id": "tunes-os",
+          "native_label": "Tunes OS",
+          "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Listed as an experimental operating system and absent from the English frozen corpus.",
+          "language": "fr",
+          "manifest": "inventory/multilingual/fr-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Liste des noyaux de systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Chronologie des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:unununium",
+      "candidate_id": "unununium",
+      "title": "Unununium",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "fr"
+      ],
+      "entries": [
+        {
+          "candidate_id": "unununium",
+          "native_label": "Unununium",
+          "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Listed as an experimental operating system and absent from the English frozen corpus.",
+          "language": "fr",
+          "manifest": "inventory/multilingual/fr-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Liste des noyaux de systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Chronologie des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:bcos-olivetti",
+      "candidate_id": "bcos-olivetti",
+      "title": "BCOS",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "it"
+      ],
+      "entries": [
+        {
+          "candidate_id": "bcos-olivetti",
+          "native_label": "BCOS",
+          "native_url": "https://it.wikipedia.org/wiki/BCOS",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "Italian list and Olivetti historical account identify BCOS as the Cosmos-family operating system for BCS office-computer systems.",
+          "source_ids": [
+            "it-os-list",
+            "it-cosmos-olivetti"
+          ],
+          "language": "it",
+          "manifest": "inventory/multilingual/it-candidates.json",
+          "source_document": [
+            {
+              "id": "it-os-list",
+              "title": "Lista di sistemi operativi",
+              "url": "https://it.wikipedia.org/w/index.php?title=Lista_di_sistemi_operativi&oldid=146360255",
+              "source_kind": "language-list",
+              "revision": 146360255,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-cosmos-olivetti",
+              "title": "Cosmos (sistema operativo Olivetti)",
+              "url": "https://it.wikipedia.org/w/index.php?title=Cosmos_(sistema_operativo_Olivetti)&oldid=142147203",
+              "source_kind": "article",
+              "revision": 142147203,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "olivetti-l1-history",
+              "title": "L1: una nuova linea di sistemi informatici",
+              "url": "https://www.storiaolivetti.it/articolo/57-l1-una-nuova-linea-di-sistemi-informatici/",
+              "source_kind": "corporate-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "treccani-pcos",
+              "title": "L'avventura Olivetti",
+              "url": "https://www.treccani.it/enciclopedia/l-avventura-olivetti_%28Il-Contributo-italiano-alla-storia-del-Pensiero%3A-Tecnica%29/",
+              "source_kind": "reference-work",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-dynebolic",
+              "title": "dyne:bolic",
+              "url": "https://it.wikipedia.org/w/index.php?title=Dyne:bolic&oldid=118205003",
+              "source_kind": "article",
+              "revision": 118205003,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "dynebolic-project",
+              "title": "About Dynebolic",
+              "url": "https://dyne.org/dynebolic/about/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-caine",
+              "title": "CAINE Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=CAINE_Linux&oldid=150203377",
+              "source_kind": "article",
+              "revision": 150203377,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "caine-project",
+              "title": "CAINE Live USB/DVD",
+              "url": "https://www.caine-live.net/index.html",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-sabayon",
+              "title": "Sabayon Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=Sabayon_Linux&oldid=143974787",
+              "source_kind": "article",
+              "revision": 143974787,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-mulinux",
+              "title": "MuLinux",
+              "url": "https://it.wikipedia.org/w/index.php?title=MuLinux&oldid=138492746",
+              "source_kind": "article",
+              "revision": 138492746,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "mulinux-readme",
+              "title": "muLinux: floppy Linux",
+              "url": "https://micheleandreoli.org/public/Software/mulinux/mu/italian/readme.html",
+              "source_kind": "project-documentation",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-fuss",
+              "title": "FUSS",
+              "url": "https://it.wikipedia.org/w/index.php?title=FUSS&oldid=151333088",
+              "source_kind": "article",
+              "revision": 151333088,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "fuss-project",
+              "title": "FUSS project pages",
+              "url": "https://fuss.bz.it/page/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "sodilinux-cnr",
+              "title": "So.Di.Linux",
+              "url": "https://sodilinux.itd.cnr.it/",
+              "source_kind": "research-institute-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-deft",
+              "title": "DEFT Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=DEFT_Linux&oldid=141114570",
+              "source_kind": "article",
+              "revision": 141114570,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "tsurugi-project",
+              "title": "Tsurugi Linux",
+              "url": "https://tsurugi-linux.org/tsurugi_linux.php",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ufficiozero-project",
+              "title": "Ufficio Zero Linux OS",
+              "url": "https://ufficiozero.org/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "qid:Q20013688",
+      "candidate_id": "caine-linux",
+      "title": "CAINE Linux (Computer Aided INvestigative Environment)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "it"
+      ],
+      "entries": [
+        {
+          "candidate_id": "caine-linux",
+          "native_label": "CAINE Linux (Computer Aided INvestigative Environment)",
+          "native_url": "https://it.wikipedia.org/wiki/CAINE_Linux",
+          "disposition": "included-system",
+          "english_sitelink": "https://en.wikipedia.org/wiki/CAINE_Linux",
+          "wikidata_qid": "Q20013688",
+          "reason": "Italian digital-forensics GNU/Linux live distribution; official project material identifies a continuing, dedicated DFIR system rather than a tool collection alone.",
+          "source_ids": [
+            "it-caine",
+            "caine-project"
+          ],
+          "language": "it",
+          "manifest": "inventory/multilingual/it-candidates.json",
+          "source_document": [
+            {
+              "id": "it-os-list",
+              "title": "Lista di sistemi operativi",
+              "url": "https://it.wikipedia.org/w/index.php?title=Lista_di_sistemi_operativi&oldid=146360255",
+              "source_kind": "language-list",
+              "revision": 146360255,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-cosmos-olivetti",
+              "title": "Cosmos (sistema operativo Olivetti)",
+              "url": "https://it.wikipedia.org/w/index.php?title=Cosmos_(sistema_operativo_Olivetti)&oldid=142147203",
+              "source_kind": "article",
+              "revision": 142147203,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "olivetti-l1-history",
+              "title": "L1: una nuova linea di sistemi informatici",
+              "url": "https://www.storiaolivetti.it/articolo/57-l1-una-nuova-linea-di-sistemi-informatici/",
+              "source_kind": "corporate-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "treccani-pcos",
+              "title": "L'avventura Olivetti",
+              "url": "https://www.treccani.it/enciclopedia/l-avventura-olivetti_%28Il-Contributo-italiano-alla-storia-del-Pensiero%3A-Tecnica%29/",
+              "source_kind": "reference-work",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-dynebolic",
+              "title": "dyne:bolic",
+              "url": "https://it.wikipedia.org/w/index.php?title=Dyne:bolic&oldid=118205003",
+              "source_kind": "article",
+              "revision": 118205003,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "dynebolic-project",
+              "title": "About Dynebolic",
+              "url": "https://dyne.org/dynebolic/about/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-caine",
+              "title": "CAINE Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=CAINE_Linux&oldid=150203377",
+              "source_kind": "article",
+              "revision": 150203377,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "caine-project",
+              "title": "CAINE Live USB/DVD",
+              "url": "https://www.caine-live.net/index.html",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-sabayon",
+              "title": "Sabayon Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=Sabayon_Linux&oldid=143974787",
+              "source_kind": "article",
+              "revision": 143974787,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-mulinux",
+              "title": "MuLinux",
+              "url": "https://it.wikipedia.org/w/index.php?title=MuLinux&oldid=138492746",
+              "source_kind": "article",
+              "revision": 138492746,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "mulinux-readme",
+              "title": "muLinux: floppy Linux",
+              "url": "https://micheleandreoli.org/public/Software/mulinux/mu/italian/readme.html",
+              "source_kind": "project-documentation",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-fuss",
+              "title": "FUSS",
+              "url": "https://it.wikipedia.org/w/index.php?title=FUSS&oldid=151333088",
+              "source_kind": "article",
+              "revision": 151333088,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "fuss-project",
+              "title": "FUSS project pages",
+              "url": "https://fuss.bz.it/page/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "sodilinux-cnr",
+              "title": "So.Di.Linux",
+              "url": "https://sodilinux.itd.cnr.it/",
+              "source_kind": "research-institute-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-deft",
+              "title": "DEFT Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=DEFT_Linux&oldid=141114570",
+              "source_kind": "article",
+              "revision": 141114570,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "tsurugi-project",
+              "title": "Tsurugi Linux",
+              "url": "https://tsurugi-linux.org/tsurugi_linux.php",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ufficiozero-project",
+              "title": "Ufficio Zero Linux OS",
+              "url": "https://ufficiozero.org/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:deft-linux",
+      "candidate_id": "deft-linux",
+      "title": "DEFT Linux (Digital Evidence & Forensic Toolkit)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "it"
+      ],
+      "entries": [
+        {
+          "candidate_id": "deft-linux",
+          "native_label": "DEFT Linux (Digital Evidence & Forensic Toolkit)",
+          "native_url": "https://it.wikipedia.org/wiki/DEFT_Linux",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "reason": "Italian forensic live distribution originating in Bologna academic teaching and later professional DFIR use; the Italian source records its discontinued lifecycle.",
+          "source_ids": [
+            "it-deft"
+          ],
+          "language": "it",
+          "manifest": "inventory/multilingual/it-candidates.json",
+          "source_document": [
+            {
+              "id": "it-os-list",
+              "title": "Lista di sistemi operativi",
+              "url": "https://it.wikipedia.org/w/index.php?title=Lista_di_sistemi_operativi&oldid=146360255",
+              "source_kind": "language-list",
+              "revision": 146360255,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-cosmos-olivetti",
+              "title": "Cosmos (sistema operativo Olivetti)",
+              "url": "https://it.wikipedia.org/w/index.php?title=Cosmos_(sistema_operativo_Olivetti)&oldid=142147203",
+              "source_kind": "article",
+              "revision": 142147203,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "olivetti-l1-history",
+              "title": "L1: una nuova linea di sistemi informatici",
+              "url": "https://www.storiaolivetti.it/articolo/57-l1-una-nuova-linea-di-sistemi-informatici/",
+              "source_kind": "corporate-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "treccani-pcos",
+              "title": "L'avventura Olivetti",
+              "url": "https://www.treccani.it/enciclopedia/l-avventura-olivetti_%28Il-Contributo-italiano-alla-storia-del-Pensiero%3A-Tecnica%29/",
+              "source_kind": "reference-work",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-dynebolic",
+              "title": "dyne:bolic",
+              "url": "https://it.wikipedia.org/w/index.php?title=Dyne:bolic&oldid=118205003",
+              "source_kind": "article",
+              "revision": 118205003,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "dynebolic-project",
+              "title": "About Dynebolic",
+              "url": "https://dyne.org/dynebolic/about/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-caine",
+              "title": "CAINE Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=CAINE_Linux&oldid=150203377",
+              "source_kind": "article",
+              "revision": 150203377,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "caine-project",
+              "title": "CAINE Live USB/DVD",
+              "url": "https://www.caine-live.net/index.html",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-sabayon",
+              "title": "Sabayon Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=Sabayon_Linux&oldid=143974787",
+              "source_kind": "article",
+              "revision": 143974787,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-mulinux",
+              "title": "MuLinux",
+              "url": "https://it.wikipedia.org/w/index.php?title=MuLinux&oldid=138492746",
+              "source_kind": "article",
+              "revision": 138492746,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "mulinux-readme",
+              "title": "muLinux: floppy Linux",
+              "url": "https://micheleandreoli.org/public/Software/mulinux/mu/italian/readme.html",
+              "source_kind": "project-documentation",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-fuss",
+              "title": "FUSS",
+              "url": "https://it.wikipedia.org/w/index.php?title=FUSS&oldid=151333088",
+              "source_kind": "article",
+              "revision": 151333088,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "fuss-project",
+              "title": "FUSS project pages",
+              "url": "https://fuss.bz.it/page/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "sodilinux-cnr",
+              "title": "So.Di.Linux",
+              "url": "https://sodilinux.itd.cnr.it/",
+              "source_kind": "research-institute-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-deft",
+              "title": "DEFT Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=DEFT_Linux&oldid=141114570",
+              "source_kind": "article",
+              "revision": 141114570,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "tsurugi-project",
+              "title": "Tsurugi Linux",
+              "url": "https://tsurugi-linux.org/tsurugi_linux.php",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ufficiozero-project",
+              "title": "Ufficio Zero Linux OS",
+              "url": "https://ufficiozero.org/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "qid:Q309494",
+      "candidate_id": "dynebolic",
+      "title": "dyne:bolic",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "it"
+      ],
+      "entries": [
+        {
+          "candidate_id": "dynebolic",
+          "native_label": "dyne:bolic",
+          "native_url": "https://it.wikipedia.org/wiki/Dyne:bolic",
+          "disposition": "included-system",
+          "english_sitelink": "https://en.wikipedia.org/wiki/Dyne:bolic",
+          "wikidata_qid": "Q309494",
+          "reason": "Italian-origin free multimedia GNU/Linux distribution; its project site documents current development and a distinct creative-workflow focus.",
+          "source_ids": [
+            "it-dynebolic",
+            "dynebolic-project"
+          ],
+          "language": "it",
+          "manifest": "inventory/multilingual/it-candidates.json",
+          "source_document": [
+            {
+              "id": "it-os-list",
+              "title": "Lista di sistemi operativi",
+              "url": "https://it.wikipedia.org/w/index.php?title=Lista_di_sistemi_operativi&oldid=146360255",
+              "source_kind": "language-list",
+              "revision": 146360255,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-cosmos-olivetti",
+              "title": "Cosmos (sistema operativo Olivetti)",
+              "url": "https://it.wikipedia.org/w/index.php?title=Cosmos_(sistema_operativo_Olivetti)&oldid=142147203",
+              "source_kind": "article",
+              "revision": 142147203,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "olivetti-l1-history",
+              "title": "L1: una nuova linea di sistemi informatici",
+              "url": "https://www.storiaolivetti.it/articolo/57-l1-una-nuova-linea-di-sistemi-informatici/",
+              "source_kind": "corporate-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "treccani-pcos",
+              "title": "L'avventura Olivetti",
+              "url": "https://www.treccani.it/enciclopedia/l-avventura-olivetti_%28Il-Contributo-italiano-alla-storia-del-Pensiero%3A-Tecnica%29/",
+              "source_kind": "reference-work",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-dynebolic",
+              "title": "dyne:bolic",
+              "url": "https://it.wikipedia.org/w/index.php?title=Dyne:bolic&oldid=118205003",
+              "source_kind": "article",
+              "revision": 118205003,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "dynebolic-project",
+              "title": "About Dynebolic",
+              "url": "https://dyne.org/dynebolic/about/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-caine",
+              "title": "CAINE Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=CAINE_Linux&oldid=150203377",
+              "source_kind": "article",
+              "revision": 150203377,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "caine-project",
+              "title": "CAINE Live USB/DVD",
+              "url": "https://www.caine-live.net/index.html",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-sabayon",
+              "title": "Sabayon Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=Sabayon_Linux&oldid=143974787",
+              "source_kind": "article",
+              "revision": 143974787,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-mulinux",
+              "title": "MuLinux",
+              "url": "https://it.wikipedia.org/w/index.php?title=MuLinux&oldid=138492746",
+              "source_kind": "article",
+              "revision": 138492746,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "mulinux-readme",
+              "title": "muLinux: floppy Linux",
+              "url": "https://micheleandreoli.org/public/Software/mulinux/mu/italian/readme.html",
+              "source_kind": "project-documentation",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-fuss",
+              "title": "FUSS",
+              "url": "https://it.wikipedia.org/w/index.php?title=FUSS&oldid=151333088",
+              "source_kind": "article",
+              "revision": 151333088,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "fuss-project",
+              "title": "FUSS project pages",
+              "url": "https://fuss.bz.it/page/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "sodilinux-cnr",
+              "title": "So.Di.Linux",
+              "url": "https://sodilinux.itd.cnr.it/",
+              "source_kind": "research-institute-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-deft",
+              "title": "DEFT Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=DEFT_Linux&oldid=141114570",
+              "source_kind": "article",
+              "revision": 141114570,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "tsurugi-project",
+              "title": "Tsurugi Linux",
+              "url": "https://tsurugi-linux.org/tsurugi_linux.php",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ufficiozero-project",
+              "title": "Ufficio Zero Linux OS",
+              "url": "https://ufficiozero.org/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "qid:Q3737390",
+      "candidate_id": "fuss-linux",
+      "title": "FUSS (Free Upgrade for a digitally Sustainable School)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "it"
+      ],
+      "entries": [
+        {
+          "candidate_id": "fuss-linux",
+          "native_label": "FUSS (Free Upgrade for a digitally Sustainable School)",
+          "native_url": "https://it.wikipedia.org/wiki/FUSS",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": "Q3737390",
+          "reason": "South Tyrol school-focused GNU/Linux distribution with its own live/client/server installation profiles; it is not merely the education project name.",
+          "source_ids": [
+            "it-fuss",
+            "fuss-project"
+          ],
+          "language": "it",
+          "manifest": "inventory/multilingual/it-candidates.json",
+          "source_document": [
+            {
+              "id": "it-os-list",
+              "title": "Lista di sistemi operativi",
+              "url": "https://it.wikipedia.org/w/index.php?title=Lista_di_sistemi_operativi&oldid=146360255",
+              "source_kind": "language-list",
+              "revision": 146360255,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-cosmos-olivetti",
+              "title": "Cosmos (sistema operativo Olivetti)",
+              "url": "https://it.wikipedia.org/w/index.php?title=Cosmos_(sistema_operativo_Olivetti)&oldid=142147203",
+              "source_kind": "article",
+              "revision": 142147203,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "olivetti-l1-history",
+              "title": "L1: una nuova linea di sistemi informatici",
+              "url": "https://www.storiaolivetti.it/articolo/57-l1-una-nuova-linea-di-sistemi-informatici/",
+              "source_kind": "corporate-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "treccani-pcos",
+              "title": "L'avventura Olivetti",
+              "url": "https://www.treccani.it/enciclopedia/l-avventura-olivetti_%28Il-Contributo-italiano-alla-storia-del-Pensiero%3A-Tecnica%29/",
+              "source_kind": "reference-work",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-dynebolic",
+              "title": "dyne:bolic",
+              "url": "https://it.wikipedia.org/w/index.php?title=Dyne:bolic&oldid=118205003",
+              "source_kind": "article",
+              "revision": 118205003,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "dynebolic-project",
+              "title": "About Dynebolic",
+              "url": "https://dyne.org/dynebolic/about/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-caine",
+              "title": "CAINE Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=CAINE_Linux&oldid=150203377",
+              "source_kind": "article",
+              "revision": 150203377,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "caine-project",
+              "title": "CAINE Live USB/DVD",
+              "url": "https://www.caine-live.net/index.html",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-sabayon",
+              "title": "Sabayon Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=Sabayon_Linux&oldid=143974787",
+              "source_kind": "article",
+              "revision": 143974787,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-mulinux",
+              "title": "MuLinux",
+              "url": "https://it.wikipedia.org/w/index.php?title=MuLinux&oldid=138492746",
+              "source_kind": "article",
+              "revision": 138492746,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "mulinux-readme",
+              "title": "muLinux: floppy Linux",
+              "url": "https://micheleandreoli.org/public/Software/mulinux/mu/italian/readme.html",
+              "source_kind": "project-documentation",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-fuss",
+              "title": "FUSS",
+              "url": "https://it.wikipedia.org/w/index.php?title=FUSS&oldid=151333088",
+              "source_kind": "article",
+              "revision": 151333088,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "fuss-project",
+              "title": "FUSS project pages",
+              "url": "https://fuss.bz.it/page/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "sodilinux-cnr",
+              "title": "So.Di.Linux",
+              "url": "https://sodilinux.itd.cnr.it/",
+              "source_kind": "research-institute-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-deft",
+              "title": "DEFT Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=DEFT_Linux&oldid=141114570",
+              "source_kind": "article",
+              "revision": 141114570,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "tsurugi-project",
+              "title": "Tsurugi Linux",
+              "url": "https://tsurugi-linux.org/tsurugi_linux.php",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ufficiozero-project",
+              "title": "Ufficio Zero Linux OS",
+              "url": "https://ufficiozero.org/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "qid:Q6715179",
+      "candidate_id": "mdos-olivetti",
+      "title": "MDOS (Modular Disk Operating System)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "it"
+      ],
+      "entries": [
+        {
+          "candidate_id": "mdos-olivetti",
+          "native_label": "MDOS (Modular Disk Operating System)",
+          "native_url": "https://it.wikipedia.org/wiki/MDOS",
+          "disposition": "included-system",
+          "english_sitelink": "https://en.wikipedia.org/wiki/MDOS",
+          "wikidata_qid": "Q6715179",
+          "reason": "Italian Olivetti-family account lists MDOS for L1 M30/M40 ST systems. The provenance distinguishes it from unrelated DOS-like systems sharing the same short name.",
+          "source_ids": [
+            "it-cosmos-olivetti"
+          ],
+          "language": "it",
+          "manifest": "inventory/multilingual/it-candidates.json",
+          "source_document": [
+            {
+              "id": "it-os-list",
+              "title": "Lista di sistemi operativi",
+              "url": "https://it.wikipedia.org/w/index.php?title=Lista_di_sistemi_operativi&oldid=146360255",
+              "source_kind": "language-list",
+              "revision": 146360255,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-cosmos-olivetti",
+              "title": "Cosmos (sistema operativo Olivetti)",
+              "url": "https://it.wikipedia.org/w/index.php?title=Cosmos_(sistema_operativo_Olivetti)&oldid=142147203",
+              "source_kind": "article",
+              "revision": 142147203,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "olivetti-l1-history",
+              "title": "L1: una nuova linea di sistemi informatici",
+              "url": "https://www.storiaolivetti.it/articolo/57-l1-una-nuova-linea-di-sistemi-informatici/",
+              "source_kind": "corporate-history",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "treccani-pcos",
+              "title": "L'avventura Olivetti",
+              "url": "https://www.treccani.it/enciclopedia/l-avventura-olivetti_%28Il-Contributo-italiano-alla-storia-del-Pensiero%3A-Tecnica%29/",
+              "source_kind": "reference-work",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-dynebolic",
+              "title": "dyne:bolic",
+              "url": "https://it.wikipedia.org/w/index.php?title=Dyne:bolic&oldid=118205003",
+              "source_kind": "article",
+              "revision": 118205003,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "dynebolic-project",
+              "title": "About Dynebolic",
+              "url": "https://dyne.org/dynebolic/about/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-caine",
+              "title": "CAINE Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=CAINE_Linux&oldid=150203377",
+              "source_kind": "article",
+              "revision": 150203377,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "caine-project",
+              "title": "CAINE Live USB/DVD",
+              "url": "https://www.caine-live.net/index.html",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-sabayon",
+              "title": "Sabayon Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=Sabayon_Linux&oldid=143974787",
+              "source_kind": "article",
+              "revision": 143974787,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-mulinux",
+              "title": "MuLinux",
+              "url": "https://it.wikipedia.org/w/index.php?title=MuLinux&oldid=138492746",
+              "source_kind": "article",
+              "revision": 138492746,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "mulinux-readme",
+              "title": "muLinux: floppy Linux",
+              "url": "https://micheleandreoli.org/public/Software/mulinux/mu/italian/readme.html",
+              "source_kind": "project-documentation",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-fuss",
+              "title": "FUSS",
+              "url": "https://it.wikipedia.org/w/index.php?title=FUSS&oldid=151333088",
+              "source_kind": "article",
+              "revision": 151333088,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "fuss-project",
+              "title": "FUSS project pages",
+              "url": "https://fuss.bz.it/page/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "sodilinux-cnr",
+              "title": "So.Di.Linux",
+              "url": "https://sodilinux.itd.cnr.it/",
+              "source_kind": "research-institute-project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "it-deft",
+              "title": "DEFT Linux",
+              "url": "https://it.wikipedia.org/w/index.php?title=DEFT_Linux&oldid=141114570",
+              "source_kind": "article",
+              "revision": 141114570,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "tsurugi-project",
+              "title": "Tsurugi Linux",
+              "url": "https://tsurugi-linux.org/tsurugi_linux.php",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ufficiozero-project",
+              "title": "Ufficio Zero Linux OS",
+              "url": "https://ufficiozero.org/",
+              "source_kind": "project-site",
+              "revision": null,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    }
+  ]
+}

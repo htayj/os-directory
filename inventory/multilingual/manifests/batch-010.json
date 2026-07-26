@@ -1,0 +1,892 @@
+{
+  "schema_version": "0.1",
+  "batch": 10,
+  "candidate_count": 8,
+  "candidates": [
+    {
+      "identity_key": "qid:Q3595680",
+      "candidate_id": "tmax-window",
+      "title": "티맥스 윈도 (Tmax Window)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ko"
+      ],
+      "entries": [
+        {
+          "candidate_id": "tmax-window",
+          "native_label": "티맥스 윈도 (Tmax Window)",
+          "native_url": "https://ko.wikipedia.org/wiki/%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": "Q3595680",
+          "reason": "Separate Korean Windows-compatible OS project with its own claimed kernel and target releases. The source records that planned releases did not occur, which belongs in lifecycle evidence rather than making it an alias of TmaxOS.",
+          "source_ids": [
+            "ko-tmax-window"
+          ],
+          "language": "ko",
+          "manifest": "inventory/multilingual/ko-candidates.json",
+          "source_document": [
+            {
+              "id": "ko-os-list",
+              "title": "운영체제 목록",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+              "source_kind": "language-list",
+              "revision": 41169508,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-gooroom",
+              "title": "구름 플랫폼",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+              "source_kind": "article",
+              "revision": 41145482,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hamonikr",
+              "title": "하모니카 (운영 체제)",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+              "source_kind": "article",
+              "revision": 41084648,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmaxos",
+              "title": "티맥스OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+              "source_kind": "article",
+              "revision": 40438267,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-window",
+              "title": "티맥스 윈도",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+              "source_kind": "article",
+              "revision": 39125497,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-whale-os",
+              "title": "웨일 OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+              "source_kind": "article",
+              "revision": 40002181,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-annyung",
+              "title": "안녕 리눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+              "source_kind": "article",
+              "revision": 39027606,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-ginux",
+              "title": "지눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+              "source_kind": "article",
+              "revision": 39066391,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-linuxone",
+              "title": "리눅스원",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+              "source_kind": "article",
+              "revision": 39040304,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-mizi-research",
+              "title": "미지리서치",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+              "source_kind": "article",
+              "revision": 39038161,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-asianux",
+              "title": "아시아눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+              "source_kind": "article",
+              "revision": 39027607,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hancom-gooroom",
+              "title": "한컴 구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+              "source_kind": "article",
+              "revision": 39619067,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-gooroom",
+              "title": "티맥스구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+              "source_kind": "article",
+              "revision": 39696813,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "navix-repository",
+              "title": "NAVIX (Naver Linux)",
+              "url": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "source_kind": "vendor-project-repository",
+              "revision": "9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-pclinuxos",
+              "title": "PCLinuxOS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+              "source_kind": "article",
+              "revision": 39163287,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "qid:Q55735442",
+      "candidate_id": "tmaxos",
+      "title": "티맥스OS (TmaxOS)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ko"
+      ],
+      "entries": [
+        {
+          "candidate_id": "tmaxos",
+          "native_label": "티맥스OS (TmaxOS)",
+          "native_url": "https://ko.wikipedia.org/wiki/%ED%8B%B0%EB%A7%A5%EC%8A%A4OS",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": "Q55735442",
+          "reason": "A Korean software-company OS explicitly documented as a distinct product, rather than a translation of another system; absent from the frozen inventory and existing directories.",
+          "source_ids": [
+            "ko-tmaxos"
+          ],
+          "language": "ko",
+          "manifest": "inventory/multilingual/ko-candidates.json",
+          "source_document": [
+            {
+              "id": "ko-os-list",
+              "title": "운영체제 목록",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+              "source_kind": "language-list",
+              "revision": 41169508,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-gooroom",
+              "title": "구름 플랫폼",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+              "source_kind": "article",
+              "revision": 41145482,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hamonikr",
+              "title": "하모니카 (운영 체제)",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+              "source_kind": "article",
+              "revision": 41084648,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmaxos",
+              "title": "티맥스OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+              "source_kind": "article",
+              "revision": 40438267,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-window",
+              "title": "티맥스 윈도",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+              "source_kind": "article",
+              "revision": 39125497,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-whale-os",
+              "title": "웨일 OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+              "source_kind": "article",
+              "revision": 40002181,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-annyung",
+              "title": "안녕 리눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+              "source_kind": "article",
+              "revision": 39027606,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-ginux",
+              "title": "지눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+              "source_kind": "article",
+              "revision": 39066391,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-linuxone",
+              "title": "리눅스원",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+              "source_kind": "article",
+              "revision": 39040304,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-mizi-research",
+              "title": "미지리서치",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+              "source_kind": "article",
+              "revision": 39038161,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-asianux",
+              "title": "아시아눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+              "source_kind": "article",
+              "revision": 39027607,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hancom-gooroom",
+              "title": "한컴 구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+              "source_kind": "article",
+              "revision": 39619067,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-gooroom",
+              "title": "티맥스구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+              "source_kind": "article",
+              "revision": 39696813,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "navix-repository",
+              "title": "NAVIX (Naver Linux)",
+              "url": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "source_kind": "vendor-project-repository",
+              "revision": "9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-pclinuxos",
+              "title": "PCLinuxOS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+              "source_kind": "article",
+              "revision": 39163287,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "qid:Q109458665",
+      "candidate_id": "whale-os",
+      "title": "웨일 OS (Whale OS)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "ko"
+      ],
+      "entries": [
+        {
+          "candidate_id": "whale-os",
+          "native_label": "웨일 OS (Whale OS)",
+          "native_url": "https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%9D%BC_OS",
+          "disposition": "included-system",
+          "english_sitelink": null,
+          "wikidata_qid": "Q109458665",
+          "reason": "Naver's Chromium OS-based education distribution for WhaleBook hardware is a concrete OS identity. Its hardware binding is a catalog attribute, not a reason to treat it as the hardware itself.",
+          "source_ids": [
+            "ko-whale-os"
+          ],
+          "language": "ko",
+          "manifest": "inventory/multilingual/ko-candidates.json",
+          "source_document": [
+            {
+              "id": "ko-os-list",
+              "title": "운영체제 목록",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+              "source_kind": "language-list",
+              "revision": 41169508,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-gooroom",
+              "title": "구름 플랫폼",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+              "source_kind": "article",
+              "revision": 41145482,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hamonikr",
+              "title": "하모니카 (운영 체제)",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+              "source_kind": "article",
+              "revision": 41084648,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmaxos",
+              "title": "티맥스OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+              "source_kind": "article",
+              "revision": 40438267,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-window",
+              "title": "티맥스 윈도",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+              "source_kind": "article",
+              "revision": 39125497,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-whale-os",
+              "title": "웨일 OS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+              "source_kind": "article",
+              "revision": 40002181,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-annyung",
+              "title": "안녕 리눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+              "source_kind": "article",
+              "revision": 39027606,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-ginux",
+              "title": "지눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+              "source_kind": "article",
+              "revision": 39066391,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-linuxone",
+              "title": "리눅스원",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+              "source_kind": "article",
+              "revision": 39040304,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-mizi-research",
+              "title": "미지리서치",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+              "source_kind": "article",
+              "revision": 39038161,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-asianux",
+              "title": "아시아눅스",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+              "source_kind": "article",
+              "revision": 39027607,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-hancom-gooroom",
+              "title": "한컴 구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+              "source_kind": "article",
+              "revision": 39619067,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-tmax-gooroom",
+              "title": "티맥스구름",
+              "url": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+              "source_kind": "article",
+              "revision": 39696813,
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "navix-repository",
+              "title": "NAVIX (Naver Linux)",
+              "url": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "source_kind": "vendor-project-repository",
+              "revision": "9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+              "observed_at": "2026-07-26"
+            },
+            {
+              "id": "ko-pclinuxos",
+              "title": "PCLinuxOS",
+              "url": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+              "source_kind": "article",
+              "revision": 39163287,
+              "observed_at": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:biglinux",
+      "candidate_id": "biglinux",
+      "title": "BigLinux",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "pt"
+      ],
+      "entries": [
+        {
+          "candidate_id": "biglinux",
+          "native_label": "BigLinux",
+          "url": "https://pt.wikipedia.org/wiki/BigLinux",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Brazilian Linux distribution with a lineage through Kurumin and other distribution bases. Keep it distinct from upstream bases and the Linux kernel.",
+          "regional_or_historical": true,
+          "language": "pt",
+          "manifest": "inventory/multilingual/pt-candidates.json",
+          "source_document": [
+            {
+              "title": "SOX (sistema operacional)",
+              "url": "https://pt.wikipedia.org/wiki/SOX_(sistema_operacional)",
+              "revision": 71031358,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "BBTS: 50 Anos",
+              "url": "https://www.bbts.com.br/50-anos-bbts/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "SISNE plus",
+              "url": "https://pt.wikipedia.org/wiki/SISNE_plus",
+              "revision": 69836605,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Linux Caixa Mágica",
+              "url": "https://pt.wikipedia.org/wiki/Linux_Caixa_Mágica",
+              "revision": 72540934,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Conectiva",
+              "url": "https://pt.wikipedia.org/wiki/Conectiva",
+              "revision": 71003442,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "GoboLinux",
+              "url": "https://pt.wikipedia.org/wiki/GoboLinux",
+              "revision": 67482799,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Kurumin",
+              "url": "https://pt.wikipedia.org/wiki/Kurumin",
+              "revision": 71738213,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "BigLinux",
+              "url": "https://pt.wikipedia.org/wiki/BigLinux",
+              "revision": 71525040,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Dizinha Linux",
+              "url": "https://pt.wikipedia.org/wiki/Dizinha_Linux",
+              "revision": 71732737,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Dreamlinux",
+              "url": "https://pt.wikipedia.org/wiki/Dreamlinux",
+              "revision": 71511912,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "en:/wiki/conectiva",
+      "candidate_id": "conectiva-linux",
+      "title": "Conectiva Linux",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "pt"
+      ],
+      "entries": [
+        {
+          "candidate_id": "conectiva-linux",
+          "native_label": "Conectiva Linux",
+          "native_aliases": [
+            "Conectiva"
+          ],
+          "url": "https://pt.wikipedia.org/wiki/Conectiva",
+          "english_sitelink": "https://en.wikipedia.org/wiki/Conectiva",
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Brazilian Linux distribution and Latin-American localized distribution lineage. Catalog it as a GNU/Linux distribution identity, not the Linux kernel or its later Mandrake/Mandriva corporate relationship.",
+          "regional_or_historical": true,
+          "language": "pt",
+          "manifest": "inventory/multilingual/pt-candidates.json",
+          "source_document": [
+            {
+              "title": "SOX (sistema operacional)",
+              "url": "https://pt.wikipedia.org/wiki/SOX_(sistema_operacional)",
+              "revision": 71031358,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "BBTS: 50 Anos",
+              "url": "https://www.bbts.com.br/50-anos-bbts/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "SISNE plus",
+              "url": "https://pt.wikipedia.org/wiki/SISNE_plus",
+              "revision": 69836605,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Linux Caixa Mágica",
+              "url": "https://pt.wikipedia.org/wiki/Linux_Caixa_Mágica",
+              "revision": 72540934,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Conectiva",
+              "url": "https://pt.wikipedia.org/wiki/Conectiva",
+              "revision": 71003442,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "GoboLinux",
+              "url": "https://pt.wikipedia.org/wiki/GoboLinux",
+              "revision": 67482799,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Kurumin",
+              "url": "https://pt.wikipedia.org/wiki/Kurumin",
+              "revision": 71738213,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "BigLinux",
+              "url": "https://pt.wikipedia.org/wiki/BigLinux",
+              "revision": 71525040,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Dizinha Linux",
+              "url": "https://pt.wikipedia.org/wiki/Dizinha_Linux",
+              "revision": 71732737,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Dreamlinux",
+              "url": "https://pt.wikipedia.org/wiki/Dreamlinux",
+              "revision": 71511912,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:dizinha-linux",
+      "candidate_id": "dizinha-linux",
+      "title": "Dizinha Linux",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "pt"
+      ],
+      "entries": [
+        {
+          "candidate_id": "dizinha-linux",
+          "native_label": "Dizinha Linux",
+          "url": "https://pt.wikipedia.org/wiki/Dizinha_Linux",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Brazilian GNU/Linux distribution identified in Portuguese-language distribution coverage; retain as a distribution-level identity pending detailed lifecycle research.",
+          "regional_or_historical": true,
+          "language": "pt",
+          "manifest": "inventory/multilingual/pt-candidates.json",
+          "source_document": [
+            {
+              "title": "SOX (sistema operacional)",
+              "url": "https://pt.wikipedia.org/wiki/SOX_(sistema_operacional)",
+              "revision": 71031358,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "BBTS: 50 Anos",
+              "url": "https://www.bbts.com.br/50-anos-bbts/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "SISNE plus",
+              "url": "https://pt.wikipedia.org/wiki/SISNE_plus",
+              "revision": 69836605,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Linux Caixa Mágica",
+              "url": "https://pt.wikipedia.org/wiki/Linux_Caixa_Mágica",
+              "revision": 72540934,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Conectiva",
+              "url": "https://pt.wikipedia.org/wiki/Conectiva",
+              "revision": 71003442,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "GoboLinux",
+              "url": "https://pt.wikipedia.org/wiki/GoboLinux",
+              "revision": 67482799,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Kurumin",
+              "url": "https://pt.wikipedia.org/wiki/Kurumin",
+              "revision": 71738213,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "BigLinux",
+              "url": "https://pt.wikipedia.org/wiki/BigLinux",
+              "revision": 71525040,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Dizinha Linux",
+              "url": "https://pt.wikipedia.org/wiki/Dizinha_Linux",
+              "revision": 71732737,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Dreamlinux",
+              "url": "https://pt.wikipedia.org/wiki/Dreamlinux",
+              "revision": 71511912,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "en:/wiki/dreamlinux",
+      "candidate_id": "dreamlinux",
+      "title": "Dreamlinux",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "pt"
+      ],
+      "entries": [
+        {
+          "candidate_id": "dreamlinux",
+          "native_label": "Dreamlinux",
+          "url": "https://pt.wikipedia.org/wiki/Dreamlinux",
+          "english_sitelink": "https://en.wikipedia.org/wiki/Dreamlinux",
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Brazilian GNU/Linux distribution lineage; catalog as a distribution, not as a separate kernel or a generic translated alias.",
+          "regional_or_historical": true,
+          "language": "pt",
+          "manifest": "inventory/multilingual/pt-candidates.json",
+          "source_document": [
+            {
+              "title": "SOX (sistema operacional)",
+              "url": "https://pt.wikipedia.org/wiki/SOX_(sistema_operacional)",
+              "revision": 71031358,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "BBTS: 50 Anos",
+              "url": "https://www.bbts.com.br/50-anos-bbts/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "SISNE plus",
+              "url": "https://pt.wikipedia.org/wiki/SISNE_plus",
+              "revision": 69836605,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Linux Caixa Mágica",
+              "url": "https://pt.wikipedia.org/wiki/Linux_Caixa_Mágica",
+              "revision": 72540934,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Conectiva",
+              "url": "https://pt.wikipedia.org/wiki/Conectiva",
+              "revision": 71003442,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "GoboLinux",
+              "url": "https://pt.wikipedia.org/wiki/GoboLinux",
+              "revision": 67482799,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Kurumin",
+              "url": "https://pt.wikipedia.org/wiki/Kurumin",
+              "revision": 71738213,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "BigLinux",
+              "url": "https://pt.wikipedia.org/wiki/BigLinux",
+              "revision": 71525040,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Dizinha Linux",
+              "url": "https://pt.wikipedia.org/wiki/Dizinha_Linux",
+              "revision": 71732737,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Dreamlinux",
+              "url": "https://pt.wikipedia.org/wiki/Dreamlinux",
+              "revision": 71511912,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "en:/wiki/gobolinux",
+      "candidate_id": "gobolinux",
+      "title": "GoboLinux",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "pt"
+      ],
+      "entries": [
+        {
+          "candidate_id": "gobolinux",
+          "native_label": "GoboLinux",
+          "url": "https://pt.wikipedia.org/wiki/GoboLinux",
+          "english_sitelink": "https://en.wikipedia.org/wiki/GoboLinux",
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Brazilian GNU/Linux distribution with its own filesystem hierarchy approach. It is a distribution identity using the Linux kernel, not a kernel candidate.",
+          "regional_or_historical": true,
+          "language": "pt",
+          "manifest": "inventory/multilingual/pt-candidates.json",
+          "source_document": [
+            {
+              "title": "SOX (sistema operacional)",
+              "url": "https://pt.wikipedia.org/wiki/SOX_(sistema_operacional)",
+              "revision": 71031358,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "BBTS: 50 Anos",
+              "url": "https://www.bbts.com.br/50-anos-bbts/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "SISNE plus",
+              "url": "https://pt.wikipedia.org/wiki/SISNE_plus",
+              "revision": 69836605,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Linux Caixa Mágica",
+              "url": "https://pt.wikipedia.org/wiki/Linux_Caixa_Mágica",
+              "revision": 72540934,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Conectiva",
+              "url": "https://pt.wikipedia.org/wiki/Conectiva",
+              "revision": 71003442,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "GoboLinux",
+              "url": "https://pt.wikipedia.org/wiki/GoboLinux",
+              "revision": 67482799,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Kurumin",
+              "url": "https://pt.wikipedia.org/wiki/Kurumin",
+              "revision": 71738213,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "BigLinux",
+              "url": "https://pt.wikipedia.org/wiki/BigLinux",
+              "revision": 71525040,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Dizinha Linux",
+              "url": "https://pt.wikipedia.org/wiki/Dizinha_Linux",
+              "revision": 71732737,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Dreamlinux",
+              "url": "https://pt.wikipedia.org/wiki/Dreamlinux",
+              "revision": 71511912,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 3,
+  "manifest": "inventory/multilingual/manifests/batch-003.json",
+  "generated_at": "2026-07-26",
+  "results": [
+    {"candidate_id":"rodos","disposition":"included-system","path":"systems/rodos/","title":"Rodos","notes":"German-source real-time operating-system skeleton; core attributes are explicitly unresearched."},
+    {"candidate_id":"single-user-control-program-scp","disposition":"included-system","path":"systems/single-user-control-program-scp/","title":"SCP (Single User Control Program)","notes":"DDR historical system skeleton; country normalization and technical attributes remain unresearched."},
+    {"candidate_id":"tcos-telesec-chipcard-operating-system","disposition":"included-system","path":"systems/tcos-telesec-chipcard-operating-system/","title":"TCOS (TeleSec Chipcard Operating System)","notes":"Chip-card operating-system skeleton; core attributes are explicitly unresearched."},
+    {"candidate_id":"canaima-gnu-linux","disposition":"included-system","path":"systems/canaima-gnu-linux/","title":"Canaima GNU/Linux","notes":"Venezuela country field is direct from the multilingual manifest; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"dragora","disposition":"included-system","path":"systems/dragora/","title":"Dragora GNU/Linux-Libre","notes":"Argentina country field is direct from the multilingual manifest; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"etertics-gnu-linux","disposition":"included-system","path":"systems/etertics-gnu-linux/","title":"EterTICs GNU/Linux","notes":"Argentina country field is direct from the multilingual manifest; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"huayra-gnu-linux","disposition":"included-system","path":"systems/huayra-gnu-linux/","title":"Huayra GNU/Linux","notes":"Argentina country field is direct from the multilingual manifest; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"lihuen-gnu-linux","disposition":"included-system","path":"systems/lihuen-gnu-linux/","title":"Lihuen GNU/Linux","notes":"Argentina country field is direct from the multilingual manifest; remaining first-pass attributes are explicitly unresearched."}
+  ]
+}

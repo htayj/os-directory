@@ -1,0 +1,152 @@
+{
+  "schema_version": "0.1",
+  "batch": 12,
+  "candidate_count": 3,
+  "candidates": [
+    {
+      "identity_key": "id:startos",
+      "candidate_id": "startos",
+      "title": "起点操作系统",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "zh"
+      ],
+      "entries": [
+        {
+          "candidate_id": "startos",
+          "native_label": "起点操作系统",
+          "native_aliases": [
+            "StartOS",
+            "YLMF OS"
+          ],
+          "url": "https://zh.wikipedia.org/wiki/StartOS",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "included-system",
+          "reason": "Separately named Chinese Linux distribution/lineage; predecessor naming must be recorded rather than silently merged.",
+          "language": "zh",
+          "manifest": "inventory/multilingual/zh-candidates.json",
+          "source_document": [
+            {
+              "title": "操作系统列表",
+              "url": "https://zh.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%88%97%E8%A1%A8",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "中国操作系统",
+              "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "统信操作系统",
+              "url": "https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%BF%A1%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "en:/wiki/ubuntu_kylin",
+      "candidate_id": "ubuntu-kylin",
+      "title": "优麒麟",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "zh"
+      ],
+      "entries": [
+        {
+          "candidate_id": "ubuntu-kylin",
+          "native_label": "优麒麟",
+          "native_aliases": [
+            "Ubuntu Kylin"
+          ],
+          "url": "https://zh.wikipedia.org/wiki/Ubuntu_Kylin",
+          "english_sitelink": "https://en.wikipedia.org/wiki/Ubuntu_Kylin",
+          "wikidata_qid": null,
+          "disposition": "included-system",
+          "reason": "Named Ubuntu flavor with a distinct Chinese-language identity; it should not be conflated with Kylin OS.",
+          "language": "zh",
+          "manifest": "inventory/multilingual/zh-candidates.json",
+          "source_document": [
+            {
+              "title": "操作系统列表",
+              "url": "https://zh.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%88%97%E8%A1%A8",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "中国操作系统",
+              "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "统信操作系统",
+              "url": "https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%BF%A1%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:uniontech-os",
+      "candidate_id": "uniontech-os",
+      "title": "统信操作系统",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "zh"
+      ],
+      "entries": [
+        {
+          "candidate_id": "uniontech-os",
+          "native_label": "统信操作系统",
+          "native_aliases": [
+            "统信UOS",
+            "UOS",
+            "统一操作系统"
+          ],
+          "url": "https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%BF%A1%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "included-system",
+          "reason": "Chinese article identifies a distinct Linux-based desktop/server system; no matching frozen English-list candidate was found.",
+          "unusual_chinese_system": true,
+          "language": "zh",
+          "manifest": "inventory/multilingual/zh-candidates.json",
+          "source_document": [
+            {
+              "title": "操作系统列表",
+              "url": "https://zh.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%88%97%E8%A1%A8",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "中国操作系统",
+              "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "统信操作系统",
+              "url": "https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%BF%A1%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    }
+  ]
+}

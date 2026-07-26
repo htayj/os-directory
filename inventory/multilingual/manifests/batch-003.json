@@ -1,0 +1,505 @@
+{
+  "schema_version": "0.1",
+  "batch": 3,
+  "candidate_count": 8,
+  "candidates": [
+    {
+      "identity_key": "en:/wiki/rodos_(operating_system)",
+      "candidate_id": "rodos",
+      "title": "Rodos",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "de"
+      ],
+      "entries": [
+        {
+          "candidate_id": "rodos",
+          "native_label": "Rodos",
+          "url": "https://de.wikipedia.org/wiki/Rodos_(Betriebssystem)",
+          "english_sitelink": "https://en.wikipedia.org/wiki/Rodos_(operating_system)",
+          "wikidata_qid": null,
+          "disposition": "already-covered",
+          "reason": "The German article establishes an embedded real-time operating system, but Rodos is already in English inventory manifest batch-002.",
+          "unusual_german_system": true,
+          "language": "de",
+          "manifest": "inventory/multilingual/de-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste von Betriebssystemen",
+              "url": "https://de.wikipedia.org/wiki/Liste_von_Betriebssystemen",
+              "revision": 264807064,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Single User Control Program",
+              "url": "https://de.wikipedia.org/wiki/Single_User_Control_Program",
+              "revision": 228074619,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "MicroOS",
+              "url": "https://de.wikipedia.org/wiki/MicroOS",
+              "revision": 244414927,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "TCOS",
+              "url": "https://de.wikipedia.org/wiki/TCOS",
+              "revision": 260533054,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Rodos (Betriebssystem)",
+              "url": "https://de.wikipedia.org/wiki/Rodos_(Betriebssystem)",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "TR 440",
+              "url": "https://de.wikipedia.org/wiki/TR_440",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "COQOS Hypervisor SDK",
+              "url": "https://www.presseportal.de/en/pm/122143/4888462",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "alias"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:single-user-control-program-scp",
+      "candidate_id": "single-user-control-program-scp",
+      "title": "SCP (Single User Control Program)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "de"
+      ],
+      "entries": [
+        {
+          "candidate_id": "single-user-control-program-scp",
+          "native_label": "SCP (Single User Control Program)",
+          "native_aliases": [
+            "SCPxxx"
+          ],
+          "url": "https://de.wikipedia.org/wiki/Single_User_Control_Program",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "A German article directly identifies SCP as a CP/M-compatible operating system developed by Kombinat Robotron for DDR computers; no matching English-list manifest identity was found.",
+          "unusual_german_system": true,
+          "language": "de",
+          "manifest": "inventory/multilingual/de-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste von Betriebssystemen",
+              "url": "https://de.wikipedia.org/wiki/Liste_von_Betriebssystemen",
+              "revision": 264807064,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Single User Control Program",
+              "url": "https://de.wikipedia.org/wiki/Single_User_Control_Program",
+              "revision": 228074619,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "MicroOS",
+              "url": "https://de.wikipedia.org/wiki/MicroOS",
+              "revision": 244414927,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "TCOS",
+              "url": "https://de.wikipedia.org/wiki/TCOS",
+              "revision": 260533054,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Rodos (Betriebssystem)",
+              "url": "https://de.wikipedia.org/wiki/Rodos_(Betriebssystem)",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "TR 440",
+              "url": "https://de.wikipedia.org/wiki/TR_440",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "COQOS Hypervisor SDK",
+              "url": "https://www.presseportal.de/en/pm/122143/4888462",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:tcos-telesec-chipcard-operating-system",
+      "candidate_id": "tcos-telesec-chipcard-operating-system",
+      "title": "TCOS (TeleSec Chipcard Operating System)",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "de"
+      ],
+      "entries": [
+        {
+          "candidate_id": "tcos-telesec-chipcard-operating-system",
+          "native_label": "TCOS (TeleSec Chipcard Operating System)",
+          "url": "https://de.wikipedia.org/wiki/TCOS",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "The German article explicitly identifies TCOS as T-Systems' chip-card operating system; no matching English-list manifest identity was found.",
+          "unusual_german_system": true,
+          "language": "de",
+          "manifest": "inventory/multilingual/de-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste von Betriebssystemen",
+              "url": "https://de.wikipedia.org/wiki/Liste_von_Betriebssystemen",
+              "revision": 264807064,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Single User Control Program",
+              "url": "https://de.wikipedia.org/wiki/Single_User_Control_Program",
+              "revision": 228074619,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "MicroOS",
+              "url": "https://de.wikipedia.org/wiki/MicroOS",
+              "revision": 244414927,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "TCOS",
+              "url": "https://de.wikipedia.org/wiki/TCOS",
+              "revision": 260533054,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Rodos (Betriebssystem)",
+              "url": "https://de.wikipedia.org/wiki/Rodos_(Betriebssystem)",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "TR 440",
+              "url": "https://de.wikipedia.org/wiki/TR_440",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "COQOS Hypervisor SDK",
+              "url": "https://www.presseportal.de/en/pm/122143/4888462",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "en:/wiki/canaima_(operating_system)",
+      "candidate_id": "canaima-gnu-linux",
+      "title": "Canaima GNU/Linux",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "es"
+      ],
+      "entries": [
+        {
+          "candidate_id": "canaima-gnu-linux",
+          "native_label": "Canaima GNU/Linux",
+          "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+          "english_sitelink": "https://en.wikipedia.org/wiki/Canaima_(operating_system)",
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Venezuelan government GNU/Linux distribution based on Debian, used for public administration and education. Catalog as a distribution identity rather than conflating it with the Canaima Educativo deployment program.",
+          "regional_or_educational": true,
+          "language": "es",
+          "manifest": "inventory/multilingual/es-candidates.json",
+          "source_document": [
+            {
+              "title": "Anexo:Sistemas operativos",
+              "url": "https://es.wikipedia.org/wiki/Anexo:Sistemas_operativos",
+              "revision": 172604468,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra GNU/Linux",
+              "url": "https://huayra.educar.gob.ar/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra: historia",
+              "url": "https://huayra.educar.gob.ar/historia/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Nova (sistema operativo)",
+              "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+              "revision": 167070520,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Canaima GNU/Linux",
+              "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "en:/wiki/dragora_gnu/linux-libre",
+      "candidate_id": "dragora",
+      "title": "Dragora GNU/Linux-Libre",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "es"
+      ],
+      "entries": [
+        {
+          "candidate_id": "dragora",
+          "native_label": "Dragora GNU/Linux-Libre",
+          "native_aliases": [
+            "Dragora"
+          ],
+          "url": "https://es.wikipedia.org/wiki/Dragora",
+          "english_sitelink": "https://en.wikipedia.org/wiki/Dragora_GNU/Linux-Libre",
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Argentine freedom-focused GNU/Linux distribution described as built without an earlier distribution base. It remains a GNU/Linux distribution identity, distinct from the Linux-libre kernel it uses.",
+          "regional_or_educational": true,
+          "language": "es",
+          "manifest": "inventory/multilingual/es-candidates.json",
+          "source_document": [
+            {
+              "title": "Anexo:Sistemas operativos",
+              "url": "https://es.wikipedia.org/wiki/Anexo:Sistemas_operativos",
+              "revision": 172604468,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra GNU/Linux",
+              "url": "https://huayra.educar.gob.ar/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra: historia",
+              "url": "https://huayra.educar.gob.ar/historia/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Nova (sistema operativo)",
+              "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+              "revision": 167070520,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Canaima GNU/Linux",
+              "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:etertics-gnu-linux",
+      "candidate_id": "etertics-gnu-linux",
+      "title": "EterTICs GNU/Linux",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "es"
+      ],
+      "entries": [
+        {
+          "candidate_id": "etertics-gnu-linux",
+          "native_label": "EterTICs GNU/Linux",
+          "url": "https://es.wikipedia.org/wiki/EterTICs_GNU/Linux",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Argentine radio-oriented GNU/Linux distribution derived from Canaima. Its derivative relationship is retained; it is not a release of Canaima itself.",
+          "regional_or_educational": true,
+          "language": "es",
+          "manifest": "inventory/multilingual/es-candidates.json",
+          "source_document": [
+            {
+              "title": "Anexo:Sistemas operativos",
+              "url": "https://es.wikipedia.org/wiki/Anexo:Sistemas_operativos",
+              "revision": 172604468,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra GNU/Linux",
+              "url": "https://huayra.educar.gob.ar/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra: historia",
+              "url": "https://huayra.educar.gob.ar/historia/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Nova (sistema operativo)",
+              "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+              "revision": 167070520,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Canaima GNU/Linux",
+              "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:huayra-gnu-linux",
+      "candidate_id": "huayra-gnu-linux",
+      "title": "Huayra GNU/Linux",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "es"
+      ],
+      "entries": [
+        {
+          "candidate_id": "huayra-gnu-linux",
+          "native_label": "Huayra GNU/Linux",
+          "url": "https://es.wikipedia.org/wiki/Huayra_GNU/Linux",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Argentine state educational GNU/Linux distribution. Educ.ar identifies it as a free operating system developed by EDUCAR Sociedad del Estado; it is a Debian-based distribution, not a separate kernel.",
+          "regional_or_educational": true,
+          "language": "es",
+          "manifest": "inventory/multilingual/es-candidates.json",
+          "source_document": [
+            {
+              "title": "Anexo:Sistemas operativos",
+              "url": "https://es.wikipedia.org/wiki/Anexo:Sistemas_operativos",
+              "revision": 172604468,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra GNU/Linux",
+              "url": "https://huayra.educar.gob.ar/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra: historia",
+              "url": "https://huayra.educar.gob.ar/historia/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Nova (sistema operativo)",
+              "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+              "revision": 167070520,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Canaima GNU/Linux",
+              "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:lihuen-gnu-linux",
+      "candidate_id": "lihuen-gnu-linux",
+      "title": "Lihuen GNU/Linux",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "es"
+      ],
+      "entries": [
+        {
+          "candidate_id": "lihuen-gnu-linux",
+          "native_label": "Lihuen GNU/Linux",
+          "url": "https://es.wikipedia.org/wiki/Lihuen_GNU/Linux",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Argentine Debian-based GNU/Linux distribution developed by the Facultad de Informática of the Universidad Nacional de La Plata; no matching English-list manifest identity was found.",
+          "regional_or_educational": true,
+          "language": "es",
+          "manifest": "inventory/multilingual/es-candidates.json",
+          "source_document": [
+            {
+              "title": "Anexo:Sistemas operativos",
+              "url": "https://es.wikipedia.org/wiki/Anexo:Sistemas_operativos",
+              "revision": 172604468,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra GNU/Linux",
+              "url": "https://huayra.educar.gob.ar/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra: historia",
+              "url": "https://huayra.educar.gob.ar/historia/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Nova (sistema operativo)",
+              "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+              "revision": 167070520,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Canaima GNU/Linux",
+              "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    }
+  ]
+}

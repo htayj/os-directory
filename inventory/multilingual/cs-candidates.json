@@ -1,0 +1,171 @@
+{
+  "schema_version": "0.1",
+  "language": "cs",
+  "generated_at": "2026-07-26",
+  "scope": "Czech and Slovak supplemental discovery only. The pass distinguishes named operating systems from their host computers, known clone relationships, and uncertain implementation families; no system records are created by this file.",
+  "source_pages": [
+    {
+      "title": "Seznam operačních systémů",
+      "url": "https://cs.wikipedia.org/wiki/Seznam_opera%C4%8Dn%C3%ADch_syst%C3%A9m%C5%AF",
+      "revision": 25917997,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Program JSEP",
+      "url": "https://historiepocitacu.cz/program-jsep.html",
+      "revision": null,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Jednotný program JSEP",
+      "url": "https://www.retrobajty.cz/jednotny-program-jsep/",
+      "revision": null,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Jednotný program SMEP",
+      "url": "https://www.retrobajty.cz/jednotny-program-smep/",
+      "revision": null,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "SAPI.CZ: MIKROS",
+      "url": "https://sapi.cz/drobnosti/mikros_ppi.php",
+      "revision": null,
+      "retrieved": "2026-07-26"
+    },
+    {
+      "title": "Pamätnica k 50. výročiu vzniku VÚVT v Žiline",
+      "url": "https://www.atpjournal.sk/rubriky/prehladove-clanky/pamatnica-k-50.-vyrociu-vzniku-vuvt-v-ziline-7.html?page_id=27626",
+      "revision": null,
+      "retrieved": "2026-07-26"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "mikros-czechoslovak-cpm",
+      "native_label": "MIKROS",
+      "url": "https://sapi.cz/drobnosti/mikros_ppi.php",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Czechoslovak microcomputer operating-system implementation documented by the SAPI historical site; independent sources describe it as the locally widespread CP/M-derived system. Retain it separately from upstream CP/M.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "os-10-ec",
+      "native_label": "OS-10 EC",
+      "native_aliases": ["OS-10"],
+      "url": "https://historiepocitacu.cz/program-jsep.html",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "JSEP historical documentation names OS-10 EC as the operating system for the EC 1010. It is a system identity tied to a computer line, not the EC 1010 hardware itself.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "mos-ec",
+      "native_label": "MOS EC",
+      "url": "https://historiepocitacu.cz/program-jsep.html",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "JSEP documentation identifies MOS EC as the small operating system developed at VÚMS for EC 1021. Do not conflate it with similarly named MOS systems or later Unix experiments.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "dos-ec",
+      "native_label": "DOS EC",
+      "native_aliases": ["DOS-1/EC", "DOS-2/EC", "DOS-4/EC"],
+      "url": "https://historiepocitacu.cz/program-jsep.html",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "The Czechoslovak JSEP source identifies DOS EC as a disk operating-system line with named variants. Catalog the family once, with variants retained as releases rather than separate systems.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "os-ec",
+      "native_label": "OS EC",
+      "native_aliases": ["OS 2 EC", "OS 4 EC", "OS 6 EC", "OS 7 EC"],
+      "url": "https://historiepocitacu.cz/program-jsep.html",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "JSEP historical documentation identifies OS EC as the large multiuser operating-system line outside EC 1010 and EC 1021. Numbered forms are variants, not independent candidate identities.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "plos-rv",
+      "native_label": "PLOS-RV",
+      "url": "https://www.retrobajty.cz/jednotny-program-smep/",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "SMEP documentation identifies PLOS-RV as a diskless real-time operating system. It is distinct from the non-real-time PLOS entry, which is not promoted here without further identity research.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "diams",
+      "native_label": "DIAMS",
+      "url": "https://www.retrobajty.cz/jednotny-program-smep/",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "Czech and Slovak historical sources describe DIAMS as a multiuser, dialog-oriented database operating system for SMEP systems. It is a software identity, not a database or SMEP hardware model.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "dos-rv",
+      "native_label": "DOS RV",
+      "native_aliases": ["DOS RV 3"],
+      "url": "https://www.retrobajty.cz/jednotny-program-smep/",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "supplemental-system",
+      "reason": "SMEP documentation identifies DOS RV as a disk operating system for real-time tasks; Slovak VÚVT material specifically records DOS RV 3. Treat the numeral as a release/version.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "fobos-rafos-fodos-smep",
+      "native_label": "FOBOS / RAFOS / FODOS",
+      "native_aliases": ["FOBOS", "RAFOS", "FODOS"],
+      "url": "https://www.retrobajty.cz/jednotny-program-smep/",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "needs-review",
+      "reason": "The SMEP source groups the names as multitasking, multiuser systems and specifically calls FODOS an RT-11 clone. Verify whether they are separate systems, names of a shared implementation family, or compatibility modes before record creation.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "rv-os-smep",
+      "native_label": "RV OS",
+      "url": "https://www.retrobajty.cz/jednotny-program-smep/",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "needs-review",
+      "reason": "The SMEP source calls RV OS a multitasking multiuser RSX-11 clone. It may warrant a derivative system record, but provenance and whether it is a port versus a local clone remain unverified.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "rte-ii-smep",
+      "native_label": "RTE-II",
+      "url": "https://www.retrobajty.cz/jednotny-program-smep/",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "needs-review",
+      "reason": "The SMEP source describes RTE-II as a modified OS for M-6000, M-7000, and SM-1 machines built on HP-2000-compatible computers. Determine its relationship to the already cataloged HP RTE family before treating it as distinct.",
+      "regional_or_historical": true
+    },
+    {
+      "candidate_id": "smep-ec-hardware",
+      "native_label": "SMEP / JSEP",
+      "url": "https://www.retrobajty.cz/jednotny-program-smep/",
+      "english_sitelink": null,
+      "wikidata_qid": null,
+      "disposition": "non-OS",
+      "reason": "SMEP and JSEP are regional computer-system programs and hardware families, not operating-system identities; their named OS components are recorded separately above.",
+      "regional_or_historical": true
+    }
+  ]
+}

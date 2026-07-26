@@ -1,0 +1,444 @@
+{
+  "schema_version": "0.1",
+  "batch": 4,
+  "candidate_count": 8,
+  "candidates": [
+    {
+      "identity_key": "id:musix-gnu-linux",
+      "candidate_id": "musix-gnu-linux",
+      "title": "Musix GNU+Linux",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "es"
+      ],
+      "entries": [
+        {
+          "candidate_id": "musix-gnu-linux",
+          "native_label": "Musix GNU+Linux",
+          "native_aliases": [
+            "Musix"
+          ],
+          "url": "https://es.wikipedia.org/wiki/Musix",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Argentina-origin, artist and music-education oriented GNU/Linux distribution. It is a discontinued distribution lineage based on Knoppix, Kanotix, and Debian, not an independent kernel.",
+          "regional_or_educational": true,
+          "language": "es",
+          "manifest": "inventory/multilingual/es-candidates.json",
+          "source_document": [
+            {
+              "title": "Anexo:Sistemas operativos",
+              "url": "https://es.wikipedia.org/wiki/Anexo:Sistemas_operativos",
+              "revision": 172604468,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra GNU/Linux",
+              "url": "https://huayra.educar.gob.ar/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra: historia",
+              "url": "https://huayra.educar.gob.ar/historia/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Nova (sistema operativo)",
+              "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+              "revision": 167070520,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Canaima GNU/Linux",
+              "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:nova-cuban-gnu-linux",
+      "candidate_id": "nova-cuban-gnu-linux",
+      "title": "Nova Distribución Cubana de GNU/Linux",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "es"
+      ],
+      "entries": [
+        {
+          "candidate_id": "nova-cuban-gnu-linux",
+          "native_label": "Nova Distribución Cubana de GNU/Linux",
+          "native_aliases": [
+            "Nova"
+          ],
+          "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Cuban GNU/Linux distribution developed at the Universidad de las Ciencias Informáticas by students and faculty for national free-software migration. Treat as a distribution, not a standalone operating-system family.",
+          "regional_or_educational": true,
+          "language": "es",
+          "manifest": "inventory/multilingual/es-candidates.json",
+          "source_document": [
+            {
+              "title": "Anexo:Sistemas operativos",
+              "url": "https://es.wikipedia.org/wiki/Anexo:Sistemas_operativos",
+              "revision": 172604468,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra GNU/Linux",
+              "url": "https://huayra.educar.gob.ar/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra: historia",
+              "url": "https://huayra.educar.gob.ar/historia/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Nova (sistema operativo)",
+              "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+              "revision": 167070520,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Canaima GNU/Linux",
+              "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:quirinux",
+      "candidate_id": "quirinux",
+      "title": "Quirinux",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "es"
+      ],
+      "entries": [
+        {
+          "candidate_id": "quirinux",
+          "native_label": "Quirinux",
+          "url": "https://es.wikipedia.org/wiki/Quirinux",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Argentine open-source distribution created at the Instituto de Diseño y Arte Cinematográfico for animation-oriented educational use; retain as a distribution identity rather than a new kernel.",
+          "regional_or_educational": true,
+          "language": "es",
+          "manifest": "inventory/multilingual/es-candidates.json",
+          "source_document": [
+            {
+              "title": "Anexo:Sistemas operativos",
+              "url": "https://es.wikipedia.org/wiki/Anexo:Sistemas_operativos",
+              "revision": 172604468,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra GNU/Linux",
+              "url": "https://huayra.educar.gob.ar/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra: historia",
+              "url": "https://huayra.educar.gob.ar/historia/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Nova (sistema operativo)",
+              "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+              "revision": 167070520,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Canaima GNU/Linux",
+              "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "en:/wiki/trisquel",
+      "candidate_id": "trisquel-gnu-linux",
+      "title": "Trisquel GNU/Linux",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "es"
+      ],
+      "entries": [
+        {
+          "candidate_id": "trisquel-gnu-linux",
+          "native_label": "Trisquel GNU/Linux",
+          "url": "https://es.wikipedia.org/wiki/Trisquel_GNU/Linux",
+          "english_sitelink": "https://en.wikipedia.org/wiki/Trisquel",
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Spanish free GNU/Linux distribution originally sponsored by the Universidad de Vigo. It is a distribution with Linux-libre, not the kernel itself.",
+          "regional_or_educational": true,
+          "language": "es",
+          "manifest": "inventory/multilingual/es-candidates.json",
+          "source_document": [
+            {
+              "title": "Anexo:Sistemas operativos",
+              "url": "https://es.wikipedia.org/wiki/Anexo:Sistemas_operativos",
+              "revision": 172604468,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra GNU/Linux",
+              "url": "https://huayra.educar.gob.ar/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra: historia",
+              "url": "https://huayra.educar.gob.ar/historia/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Nova (sistema operativo)",
+              "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+              "revision": 167070520,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Canaima GNU/Linux",
+              "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:tuquito",
+      "candidate_id": "tuquito",
+      "title": "Tuquito",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "es"
+      ],
+      "entries": [
+        {
+          "candidate_id": "tuquito",
+          "native_label": "Tuquito",
+          "url": "https://es.wikipedia.org/wiki/Tuquito_(distribuci%C3%B3n_Linux)",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Defunct Argentine GNU/Linux distribution from Tucumán, based on Debian and Ubuntu. The identity is cataloged as a distribution, not as a replacement kernel or merely a LiveCD release.",
+          "regional_or_educational": true,
+          "language": "es",
+          "manifest": "inventory/multilingual/es-candidates.json",
+          "source_document": [
+            {
+              "title": "Anexo:Sistemas operativos",
+              "url": "https://es.wikipedia.org/wiki/Anexo:Sistemas_operativos",
+              "revision": 172604468,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra GNU/Linux",
+              "url": "https://huayra.educar.gob.ar/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra: historia",
+              "url": "https://huayra.educar.gob.ar/historia/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Nova (sistema operativo)",
+              "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+              "revision": 167070520,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Canaima GNU/Linux",
+              "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "en:/wiki/ututo",
+      "candidate_id": "ututo",
+      "title": "Ututo",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "es"
+      ],
+      "entries": [
+        {
+          "candidate_id": "ututo",
+          "native_label": "Ututo",
+          "url": "https://es.wikipedia.org/wiki/Ututo",
+          "english_sitelink": "https://en.wikipedia.org/wiki/Ututo",
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Argentine GNU/Linux distribution associated with the Universidad Nacional de Salta. It is a distribution identity, not a separate operating-system kernel.",
+          "regional_or_educational": true,
+          "language": "es",
+          "manifest": "inventory/multilingual/es-candidates.json",
+          "source_document": [
+            {
+              "title": "Anexo:Sistemas operativos",
+              "url": "https://es.wikipedia.org/wiki/Anexo:Sistemas_operativos",
+              "revision": 172604468,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra GNU/Linux",
+              "url": "https://huayra.educar.gob.ar/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Huayra: historia",
+              "url": "https://huayra.educar.gob.ar/historia/",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Nova (sistema operativo)",
+              "url": "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)",
+              "revision": 167070520,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Canaima GNU/Linux",
+              "url": "https://es.wikipedia.org/wiki/Canaima_GNU/Linux",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:acidos",
+      "candidate_id": "acidos",
+      "title": "AcidOS",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "fr"
+      ],
+      "entries": [
+        {
+          "candidate_id": "acidos",
+          "native_label": "AcidOS",
+          "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "French list describes an industrial/IoT-oriented French OS; needs later primary-source validation.",
+          "unusual_french_system": true,
+          "language": "fr",
+          "manifest": "inventory/multilingual/fr-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Liste des noyaux de systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Chronologie des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    },
+    {
+      "identity_key": "id:adaos",
+      "candidate_id": "adaos",
+      "title": "AdaOS",
+      "disposition": "included-system",
+      "existing_path": null,
+      "languages": [
+        "fr"
+      ],
+      "entries": [
+        {
+          "candidate_id": "adaos",
+          "native_label": "AdaOS",
+          "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+          "english_sitelink": null,
+          "wikidata_qid": null,
+          "disposition": "supplemental-system",
+          "reason": "Listed as an experimental operating system; later sources should establish its implementation and historical status.",
+          "language": "fr",
+          "manifest": "inventory/multilingual/fr-candidates.json",
+          "source_document": [
+            {
+              "title": "Liste des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Liste des noyaux de systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            },
+            {
+              "title": "Chronologie des systèmes d'exploitation",
+              "url": "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation",
+              "revision": null,
+              "retrieved": "2026-07-26"
+            }
+          ],
+          "normalized_disposition": "included-system"
+        }
+      ]
+    }
+  ]
+}
