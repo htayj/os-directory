@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":36,"results":[
+{"candidate_id":"windows-millennium-edition","disposition":"included-release","path":null,"canonical_title":"Windows ME","notes":"Versioned Microsoft Windows release."},
+{"candidate_id":"windows-nt","disposition":"included-system","path":"systems/windows-nt/","canonical_title":"Windows NT","notes":"Distinct linked Windows operating-system lineage."},
+{"candidate_id":"windows-nt-3-1","disposition":"included-release","path":null,"canonical_title":"Windows NT 3.1","notes":"Windows NT release."},
+{"candidate_id":"windows-nt-3-5","disposition":"included-release","path":null,"canonical_title":"Windows NT 3.5","notes":"Windows NT release."},
+{"candidate_id":"windows-nt-3-51","disposition":"included-release","path":null,"canonical_title":"Windows NT 3.51","notes":"Windows NT release."},
+{"candidate_id":"windows-nt-4-0","disposition":"included-release","path":null,"canonical_title":"Windows NT 4.0","notes":"Windows NT release."},
+{"candidate_id":"windows-2000","disposition":"included-release","path":null,"canonical_title":"Windows 2000","notes":"Windows NT-family release."},
+{"candidate_id":"windows-xp","disposition":"included-release","path":null,"canonical_title":"Windows XP","notes":"Windows NT-family release."},
+{"candidate_id":"windows-server-2003","disposition":"included-release","path":null,"canonical_title":"Windows Server 2003","notes":"Windows NT-family server release."},
+{"candidate_id":"windows-fundamentals-for-legacy-pcs","disposition":"included-release","path":null,"canonical_title":"Windows Fundamentals for Legacy PCs","notes":"Windows XP-derived product/release variant."}
+]}

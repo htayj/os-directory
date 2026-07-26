@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":34,"results":[
+{"candidate_id":"xenix","disposition":"included-system","path":"systems/xenix/","canonical_title":"Xenix","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"ms-dos","disposition":"included-system","path":"systems/ms-dos/","canonical_title":"MS-DOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"z-dos","disposition":"included-system","path":"systems/z-dos/","canonical_title":"Z-DOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"ms-net","disposition":"included-system","path":"systems/ms-net/","canonical_title":"MS-Net","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"ms-dos-4-0-multitasking","disposition":"included-release","path":null,"canonical_title":"MS-DOS 4.0 (multitasking)","notes":"MS-DOS release variant."},
+{"candidate_id":"ms-dos-7","disposition":"included-release","path":null,"canonical_title":"MS-DOS 7","notes":"MS-DOS release variant."},
+{"candidate_id":"msx-dos","disposition":"included-system","path":"systems/msx-dos/","canonical_title":"MSX-DOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"dos-v","disposition":"included-system","path":"systems/dos-v/","canonical_title":"DOS/V","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"lan-manager","disposition":"included-system","path":"systems/lan-manager/","canonical_title":"LAN Manager","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"windows","disposition":"included-system","path":"systems/windows/","canonical_title":"Microsoft Windows","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}

@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":35,"results":[
+{"candidate_id":"windows-1-0","disposition":"included-release","path":null,"canonical_title":"Windows 1.0","notes":"Versioned Microsoft Windows release; no parent record is invented outside this batch."},
+{"candidate_id":"windows-2-0","disposition":"included-release","path":null,"canonical_title":"Windows 2.0","notes":"Versioned Microsoft Windows release."},
+{"candidate_id":"windows-2-1","disposition":"included-release","path":null,"canonical_title":"Windows 2.1","notes":"Versioned Microsoft Windows release."},
+{"candidate_id":"windows-3-0","disposition":"included-release","path":null,"canonical_title":"Windows 3.0","notes":"Versioned Microsoft Windows release."},
+{"candidate_id":"windows-3-1x","disposition":"included-release","path":null,"canonical_title":"Windows 3.1x","notes":"Versioned Microsoft Windows release stream."},
+{"candidate_id":"windows-for-workgroups-3-1","disposition":"included-release","path":null,"canonical_title":"Windows for Workgroups 3.1","notes":"Windows 3.1 product/release variant."},
+{"candidate_id":"windows-3-2","disposition":"included-release","path":null,"canonical_title":"Windows 3.2","notes":"Versioned Microsoft Windows release."},
+{"candidate_id":"windows-for-workgroups-3-11","disposition":"included-release","path":null,"canonical_title":"Windows for Workgroups 3.11","notes":"Windows 3.1 product/release variant."},
+{"candidate_id":"windows-95","disposition":"included-release","path":null,"canonical_title":"Windows 95","notes":"Versioned Microsoft Windows release."},
+{"candidate_id":"windows-98","disposition":"included-release","path":null,"canonical_title":"Windows 98","notes":"Versioned Microsoft Windows release."}
+]}
