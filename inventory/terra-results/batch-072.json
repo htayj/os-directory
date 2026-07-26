@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":72,"results":[
+{"candidate_id":"gargoyle","disposition":"included-system","path":"systems/gargoyle/","canonical_title":"Gargoyle","notes":"Distinct linked router-firmware operating-system identity."},
+{"candidate_id":"librecmc","disposition":"included-system","path":"systems/librecmc/","canonical_title":"LibreCMC","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"zeroshell","disposition":"included-system","path":"systems/zeroshell/","canonical_title":"Zeroshell","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"ftos","disposition":"included-system","path":"systems/ftos/","canonical_title":"FTOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"freebsd-2","disposition":"included-release","path":null,"canonical_title":"FreeBSD 2","notes":"Versioned FreeBSD release; parent FreeBSD is cataloged."},
+{"candidate_id":"huawei-vrp-versatile-routing-platform-that-many-huawei-devices-operate-on-50","disposition":"needs-review","path":null,"canonical_title":"Huawei VRP","notes":"Unlinked descriptive label requiring identity evidence."},
+{"candidate_id":"m0n0wall","disposition":"included-system","path":"systems/m0n0wall/","canonical_title":"M0n0wall","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"opnsense","disposition":"included-system","path":"systems/opnsense/","canonical_title":"OPNsense","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"pfsense","disposition":"included-system","path":"systems/pfsense/","canonical_title":"pfSense","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"list-of-wireless-router-firmware-projects","disposition":"grouping","path":null,"canonical_title":"List of wireless router firmware projects","notes":"List/reference grouping, not an OS identity."}
+]}
