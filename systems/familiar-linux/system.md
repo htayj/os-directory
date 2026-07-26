@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Familiar_Linux, title: "Familiar Linux", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Familiar_Linux
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: null
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: v0.8.4 / / March, 2007
+    last_updated: v0.8.4 / / March, 2007
+    development_status: null
+    source_model: Open source
+    os_family: Linux ( Unix-like )
+    gui: OPIE, GPE
+    platforms: null
+    kernel_type: null
+    license: GNU GPL
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

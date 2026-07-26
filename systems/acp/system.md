@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/IBM_Airline_Control_Program, title: "IBM Airline Control Program", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/IBM_Airline_Control_Program
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM
+    country_of_origin: United States
+    purpose: Programmed Airline Reservations System
+    programming_languages: null
+    first_release: 1968 ; 58 years ago ( 1968 ) (as part of PARS ; separated in 1969)
+    latest_release: 9.2.1 / February 1979 ; 47 years ago ( 1979-02 )
+    last_updated: 9.2.1 / February 1979 ; 47 years ago ( 1979-02 )
+    development_status: Discontinued
+    source_model: null
+    os_family: Transaction Processing Facility (TPF)
+    gui: null
+    platforms: most models of the IBM System/360 mainframe computer family
+    kernel_type: null
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q37156
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

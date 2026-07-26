@@ -13,6 +13,34 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "MS-DOS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/MS-DOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Microsoft
+    country_of_origin: United States
+    purpose: null
+    programming_languages: x86 assembly , later versions also used C
+    first_release: August 12, 1981 ; 44 years ago ( 1981-08-12 )
+    latest_release: null
+    last_updated: null
+    development_status: Preserved pieces exist in 32-bit Windows
+    source_model: Closed source ; Partially open source for versions 1.25, 2.11 and
+      4.00
+    os_family: DOS
+    gui: Command-line ( COMMAND.COM ), text ( DOS Shell )
+    platforms: x86
+    kernel_type: Monolithic
+    license: Proprietary MIT License (v1.25, v2.0 & v4.00)
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q2283
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # MS-DOS

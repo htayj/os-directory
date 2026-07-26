@@ -18,6 +18,33 @@ development_status: { value: discontinued, evidence: [discovery], assertion_stat
 interfaces: [{ name: "Multiuser DOS command interface", style: command-line, modalities: [keyboard], provisioning: bundled, access: terminal, evidence: [discovery], assertion_status: provisional }]
 platforms: []
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }, { id: discovery, resource: "https://en.wikipedia.org/wiki/Multiuser_DOS", title: "Multiuser DOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Multiuser_DOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Research , Novell
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: CP/M
+    gui: Command-line interface ( COMMAND.COM )
+    platforms: x86 , 68000
+    kernel_type: Monolithic kernel
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-headquarters
+    source: https://www.wikidata.org/wiki/Q117514
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Multiuser DOS

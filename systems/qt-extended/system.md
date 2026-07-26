@@ -13,6 +13,33 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Qt Extended", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Qt_Extended
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: The Qt Company
+    country_of_origin: Finland
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: 4.4.3 / March 5, 2009 ; 17 years ago ( 2009-03-05 )
+    last_updated: 4.4.3 / March 5, 2009 ; 17 years ago ( 2009-03-05 )
+    development_status: Discontinued
+    source_model: null
+    os_family: Linux
+    gui: null
+    platforms: null
+    kernel_type: Monolithic kernel
+    license: GPL and proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q946607
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Qt Extended

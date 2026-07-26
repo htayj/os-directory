@@ -31,6 +31,31 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Toshiba_4690_OS, title: Toshiba 4690 OS, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Toshiba_4690_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: ( Digital Research , Novell , IMS ), IBM , Toshiba
+    country_of_origin: null
+    purpose: Point of sale
+    programming_languages: 'C Supported languages: IBM 4680 BASIC , Metaware High-
+      C , Java 2'
+    first_release: July 1993 ; 33 years ago ( 1993-07 )
+    latest_release: null
+    last_updated: null
+    development_status: Current
+    source_model: Proprietary
+    os_family: null
+    gui: Command-line interface , some screens spawn a Java-based graphical user interface
+      (GUI)
+    platforms: Point of sale terminals
+    kernel_type: Real-time operating system
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

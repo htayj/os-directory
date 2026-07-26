@@ -13,6 +13,36 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Android", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Android_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Google
+    country_of_origin: United States
+    purpose: Smartphones , tablets , laptops , desktops , smart TVs ( Android TV ),
+      cars ( Android Automotive ), smartwatches ( Wear OS ), and VR headsets ( Android
+      XR )
+    programming_languages: Java , Kotlin , C , C++ , Rust , Assembly
+    first_release: Android 1.0 / September 23, 2008 ; 17 years ago ( 2008-09-23 )
+    latest_release: Android 17 / June 16, 2026 ; 40 days ago ( 2026-06-16 )
+    last_updated: Android 17 / June 16, 2026 ; 40 days ago ( 2026-06-16 )
+    development_status: Active
+    source_model: Open-source
+    os_family: Linux
+    gui: Graphical ( multi-touch )
+    platforms: '64-bit : ARM64 , x86-64 32-bit : ARMv7 , x86'
+    kernel_type: Monolithic ( Linux kernel )
+    license: Apache License 2.0 for userspace software GNU GPL v2 for the Linux kernel
+      modifications
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q95
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Android

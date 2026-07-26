@@ -13,6 +13,36 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "ChromeOS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/ChromeOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Google
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C , C++ , assembly , JavaScript , HTML5 , Python , Rust
+    first_release: June 15, 2011 ; 15 years ago ( 2011-06-15 )
+    latest_release: 150.0.7871.150 (July 16, 2026 ; 6 days ago ( 2026-07-16 ) ) [
+      ± ]
+    last_updated: 150.0.7871.150 (July 16, 2026 ; 6 days ago ( 2026-07-16 ) ) [ ±
+      ]
+    development_status: Preinstalled on Chromebooks , Chromeboxes , Chromebits , Chromebases
+      , Google meet hardware
+    source_model: Closed-source with open-source components
+    os_family: Unix-like ( Linux )
+    gui: Google Chrome
+    platforms: ARM32 , ARM64 , IA-32 , x86-64
+    kernel_type: Monolithic ( Linux kernel )
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q95
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # ChromeOS

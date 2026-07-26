@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/TOPS-10, title: "TOPS-10", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/TOPS-10
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Equipment Corporation
+    country_of_origin: United States
+    purpose: null
+    programming_languages: MACRO-10 , BLISS
+    first_release: 1970 ; 56 years ago ( 1970 )
+    latest_release: 7.04 / July 1988 ; 38 years ago ( 1988-07 )
+    last_updated: 7.04 / July 1988 ; 38 years ago ( 1988-07 )
+    development_status: Discontinued
+    source_model: null
+    os_family: null
+    gui: CCL Command-line interface
+    platforms: PDP-10
+    kernel_type: null
+    license: Proprietary Free for personal use
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q690079
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

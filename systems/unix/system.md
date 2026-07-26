@@ -29,6 +29,40 @@ platforms: [{ value: "PDP-11/40 and PDP-11/45", evidence: [unix-paper], assertio
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: unix-paper, resource: "https://web.eecs.umich.edu/~prabal/teaching/eecs582-w13/readings/ritchie74unix.pdf", title: "The UNIX Time-Sharing System", author: "Dennis M. Ritchie and Ken Thompson", source_kind: paper }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Unix
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Ken Thompson , Dennis Ritchie , Brian Kernighan , Douglas McIlroy ,
+      and Joe Ossanna at Bell Labs
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C and assembly language
+    first_release: Development started in 1969 First manual published internally in
+      November 1971 ( 1971-11 ) Announced outside Bell Labs in October 1973 ( 1973-10
+      )
+    latest_release: null
+    last_updated: null
+    development_status: null
+    source_model: Historically proprietary software , while some Unix projects (including
+      BSD family and Illumos ) are open-source and historical Unix source code is
+      archived.
+    os_family: Unix
+    gui: Command-line interface and Graphical ( Wayland and X Window System ; Android
+      SurfaceFlinger ; macOS Quartz )
+    platforms: null
+    kernel_type: Varies; monolithic , microkernel , hybrid
+    license: Varies; some versions are proprietary , others are free/libre or open-source
+      software
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q217365
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Unix

@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/IPodLinux, title: "iPodLinux", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/IPodLinux
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: null
+    country_of_origin: null
+    purpose: null
+    programming_languages: C , assembly language
+    first_release: null
+    latest_release: 2.3 (x86) / January 7, 2007 ; 19 years ago ( 2007-01-07 )
+    last_updated: 2.3 (x86) / January 7, 2007 ; 19 years ago ( 2007-01-07 )
+    development_status: null
+    source_model: null
+    os_family: Linux ( Unix-like )
+    gui: null
+    platforms: see Compatibility
+    kernel_type: Monolithic (modified μClinux )
+    license: GNU GPLv2 +
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

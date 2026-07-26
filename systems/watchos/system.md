@@ -30,6 +30,33 @@ platforms: [{ value: "Apple Watch", evidence: [apple-watchos], assertion_status:
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: apple-watchos, resource: "https://developer.apple.com/watchos/", title: "watchOS", author: organization:Apple, source_kind: project-site }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/WatchOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apple
+    country_of_origin: United States
+    purpose: Smartwatch
+    programming_languages: C C++ Objective-C Swift assembly language
+    first_release: April 24, 2015 ; 11 years ago ( 2015-04-24 )
+    latest_release: 26.5 (May 11, 2026 ; 2 months ago ( 2026-05-11 ) ) [ ± ]
+    last_updated: 26.5 (May 11, 2026 ; 2 months ago ( 2026-05-11 ) ) [ ± ]
+    development_status: Current
+    source_model: Closed , with open-source components
+    os_family: Unix-like , iOS based on Darwin
+    gui: Cocoa Touch ( GUI )
+    platforms: ARMv8-A (5.0–present) ARMv7-A (1.0–8.8.2)
+    kernel_type: Hybrid ( XNU )
+    license: Proprietary software except for open-source components
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q312
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # watchOS

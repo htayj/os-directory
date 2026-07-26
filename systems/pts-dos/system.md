@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/PTS-DOS, title: "PTS-DOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/PTS-DOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: PhysTechSoft Paragon Technology Systems
+    country_of_origin: Germany
+    purpose: null
+    programming_languages: null
+    first_release: 1993 ; 33 years ago ( 1993 )
+    latest_release: PTS-DOS 32
+    last_updated: PTS-DOS 32
+    development_status: Current
+    source_model: Closed source
+    os_family: DOS
+    gui: Command-line interface ( COMMAND.COM )
+    platforms: x86
+    kernel_type: Monolithic kernel
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q1972950
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

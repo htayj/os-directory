@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/DragonFly_BSD, title: "DragonFly BSD", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/DragonFly_BSD
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Matthew Dillon
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: 1.0 / 12 July 2004 ; 22 years ago ( 2004-07-12 )
+    latest_release: 6.4.2 / 9 May 2025 ; 14 months ago ( 2025-05-09 )
+    last_updated: 6.4.2 / 9 May 2025 ; 14 months ago ( 2025-05-09 )
+    development_status: Current
+    source_model: Open source
+    os_family: Unix-like ( BSD )
+    gui: Unix shell
+    platforms: x86-64
+    kernel_type: Hybrid
+    license: BSD
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -13,6 +13,33 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "TOPS-20", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/TOPS-20
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Equipment Corporation
+    country_of_origin: United States
+    purpose: Mainframe computers
+    programming_languages: Assembly language
+    first_release: 1976 ; 50 years ago ( 1976 )
+    latest_release: 7.1 / June 1988 ; 38 years ago ( 1988-06 )
+    last_updated: 7.1 / June 1988 ; 38 years ago ( 1988-06 )
+    development_status: Discontinued
+    source_model: null
+    os_family: TENEX
+    gui: Command-line interface
+    platforms: PDP-10
+    kernel_type: null
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q690079
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # TOPS-20

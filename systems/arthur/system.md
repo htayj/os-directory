@@ -46,6 +46,29 @@ architectures:
 sources:
   - { id: wikipedia, resource: https://en.wikipedia.org/wiki/Arthur_(operating_system), title: Arthur (operating system), source_kind: article }
   - { id: chm, resource: https://www.computerhistory.org/collections/catalog/102696284, title: Operating system ROM chip for Acorn Archimedes, author: organization:computer-history-museum, source_kind: catalog }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Arthur_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: null
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: null
+    last_updated: null
+    development_status: null
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: null
+    kernel_type: null
+    license: null
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

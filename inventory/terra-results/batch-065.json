@@ -5,7 +5,7 @@
 {"candidate_id":"539kernel-44","disposition":"needs-review","path":null,"canonical_title":"539kernel","notes":"Unlinked label; identity needs source confirmation."},
 {"candidate_id":"aros","disposition":"included-system","path":"systems/aros/","canonical_title":"AROS","notes":"Clear linked OS identity; draft fields remain unverified."},
 {"candidate_id":"atheos","disposition":"included-system","path":"systems/atheos/","canonical_title":"AtheOS","notes":"Clear linked OS identity; draft fields remain unverified."},
-{"candidate_id":"syllable-desktop-2","disposition":"included-system","path":"systems/syllable-desktop-2/","canonical_title":"Syllable Desktop","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"syllable-desktop-2","disposition":"alias","path":"systems/syllable-desktop/","canonical_title":"Syllable Desktop","notes":"The parenthetical Wikipedia title redirects to Syllable Desktop; this occurrence maps to the existing record."},
 {"candidate_id":"baremetal","disposition":"included-system","path":"systems/baremetal/","canonical_title":"BareMetal","notes":"Clear linked OS identity; draft fields remain unverified."},
 {"candidate_id":"eros-2","disposition":"not-an-operating-system","path":null,"canonical_title":"EROS microkernel","notes":"Microkernel component; the full EROS system is cataloged separately."},
 {"candidate_id":"lse-os","disposition":"needs-review","path":null,"canonical_title":"LSE/OS","notes":"Unlinked label; identity needs source confirmation."}

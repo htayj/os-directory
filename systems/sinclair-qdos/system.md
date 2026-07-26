@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Sinclair_QDOS, title: "Sinclair QDOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Sinclair_QDOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Tony Tebby whilst working at Sinclair Research
+    country_of_origin: United Kingdom
+    purpose: null
+    programming_languages: Motorola 68000 assembly language
+    first_release: April 1984 ; 42 years ago ( 1984-04 )
+    latest_release: '1.13'
+    last_updated: '1.13'
+    development_status: null
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: Motorola 68008
+    kernel_type: null
+    license: proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q4409
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

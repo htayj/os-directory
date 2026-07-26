@@ -13,6 +13,33 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "TRSDOS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/TRSDOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Tandy
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: Model I in 1977 ; 49 years ago ( 1977 )
+    latest_release: Model 4 Version 6.2 / 1984 ; 42 years ago ( 1984 )
+    last_updated: Model 4 Version 6.2 / 1984 ; 42 years ago ( 1984 )
+    development_status: Historic
+    source_model: Closed source , Source-available software
+    os_family: null
+    gui: Command-line interface
+    platforms: Zilog Z80 -based TRS-80s
+    kernel_type: Monolithic
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q587502
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # TRSDOS

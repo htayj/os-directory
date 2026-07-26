@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/EXEC_8, title: "EXEC 8", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/EXEC_8
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Unisys
+    country_of_origin: null
+    purpose: Enterprise / Mainframes
+    programming_languages: null
+    first_release: 1967 ; 59 years ago ( 1967 ) as Exec 8
+    latest_release: 20.0 (EXEC 50R1) / March 30, 2023 ; 3 years ago ( 2023-03-30 )
+    last_updated: 20.0 (EXEC 50R1) / March 30, 2023 ; 3 years ago ( 2023-03-30 )
+    development_status: Current
+    source_model: Closed source . Most source is available to clients under license.
+    os_family: OS 2200
+    gui: Command-line interface
+    platforms: UNIVAC 1100/2200 series; Unisys ClearPath Dorado systems; ClearPath
+      Software Series 2.1 and 3.0 (over VMware)
+    kernel_type: Monolithic kernel
+    license: Proprietary . Term license or pay for use (metered) licenses
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

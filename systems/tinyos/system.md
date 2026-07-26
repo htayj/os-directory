@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/TinyOS, title: "TinyOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/TinyOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: TinyOS Alliance
+    country_of_origin: null
+    purpose: Wireless sensor networks
+    programming_languages: nesC
+    first_release: 2000 ; 26 years ago ( 2000 )
+    latest_release: 2.1.2 / August 20, 2012 ; 13 years ago ( 2012-08-20 )
+    last_updated: 2.1.2 / August 20, 2012 ; 13 years ago ( 2012-08-20 )
+    development_status: Current
+    source_model: Open source
+    os_family: Embedded operating systems
+    gui: null
+    platforms: null
+    kernel_type: null
+    license: BSD
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

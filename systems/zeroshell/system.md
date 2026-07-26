@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Zeroshell, title: "Zeroshell", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Zeroshell
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Fulvio Ricciardi
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: June 2006 ; 20 years ago ( 2006-06 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Open source
+    os_family: Linux ( Unix-like )
+    gui: null
+    platforms: IA-32 , x86-64 , ARM
+    kernel_type: Monolithic
+    license: GNU GPL
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/SCO_OpenServer, title: "SCO OpenServer", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/SCO_OpenServer
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: SCO , Caldera Systems , Caldera International , The SCO Group , Xinuos
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: 1989 ; 37 years ago ( 1989 )
+    latest_release: OpenServer 6 Definitive 2018 SVR5 / 2017 ; 9 years ago ( 2017
+      )
+    last_updated: OpenServer 6 Definitive 2018 SVR5 / 2017 ; 9 years ago ( 2017 )
+    development_status: Current
+    source_model: Closed source
+    os_family: UNIX System V ( SVR3.2 / SVR5 ), BSD
+    gui: null
+    platforms: IA-32
+    kernel_type: Monolithic kernel
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

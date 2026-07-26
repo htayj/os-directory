@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/OS/8, title: "OS/8", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/OS/8
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Equipment Corporation
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: 1971 ; 55 years ago ( 1971 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: null
+    gui: Concise Command Language (CCL) ( Command-line interface )
+    platforms: PDP-8
+    kernel_type: null
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q690079
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

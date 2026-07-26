@@ -29,6 +29,33 @@ platforms: [{ value: Macintosh, evidence: [apple-archive], assertion_status: doc
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: apple-archive, resource: "https://developer.apple.com/library/archive/navigation/index.html", title: "Apple Developer Documentation Archive", author: organization:Apple, source_kind: archive }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Classic_Mac_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apple Computer
+    country_of_origin: United States
+    purpose: Personal computing
+    programming_languages: null
+    first_release: January 24, 1984 ; 42 years ago ( 1984-01-24 )
+    latest_release: null
+    last_updated: null
+    development_status: Historic, not supported
+    source_model: Closed source
+    os_family: Macintosh
+    gui: Graphical
+    platforms: Motorola 68k ( 1.0 – 8.1 ) PowerPC ( 7.1.2 – 9.2.2 )
+    kernel_type: Monolithic for 68k, nanokernel for PowerPC
+    license: Commercial software , proprietary software
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q312
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Classic Mac OS

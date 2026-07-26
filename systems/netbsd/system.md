@@ -13,6 +13,30 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "NetBSD", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/NetBSD
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: The NetBSD Foundation, Inc.
+    country_of_origin: null
+    purpose: null
+    programming_languages: C
+    first_release: 19 April 1993 ; 33 years ago ( 1993-04-19 )
+    latest_release: 10.1 / 16 December 2024 ; 19 months ago ( 2024-12-16 )
+    last_updated: 10.1 / 16 December 2024 ; 19 months ago ( 2024-12-16 )
+    development_status: Current
+    source_model: Open source
+    os_family: Unix-like ( BSD )
+    gui: ash , X11 ( CTWM )
+    platforms: Alpha , ARM , x86 ( IA-32 and x86-64 ), PA-RISC , 68k , MIPS , PowerPC
+      , SH3 , SPARC , VAX
+    kernel_type: Monolithic with dynamically loadable modules , rump kernel
+    license: 2-clause BSD license
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # NetBSD

@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Redox_(operating_system), title: "Redox", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Redox_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Jeremy Soller, Redox Developers
+    country_of_origin: null
+    purpose: Desktop , workstation , server
+    programming_languages: Rust , assembly
+    first_release: 20 April 2015 ; 11 years ago ( 2015-04-20 )
+    latest_release: null
+    last_updated: null
+    development_status: Current
+    source_model: Free software
+    os_family: Unix-like
+    gui: Command-line , Orbital
+    platforms: IA-32 , AMD64 , AArch64 , RISC-V
+    kernel_type: Microkernel
+    license: MIT
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

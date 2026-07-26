@@ -1,0 +1,1892 @@
+{
+  "schema_version": "0.1",
+  "as_of": "2026-07-26",
+  "candidate_count": 115,
+  "candidates": [
+    {
+      "source_term": "10-foot user interface",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/tvos",
+          "system_title": "tvOS",
+          "source": "https://en.wikipedia.org/wiki/TvOS"
+        }
+      ]
+    },
+    {
+      "source_term": "16-color graphics, specifically created for TempleOS",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/templeos",
+          "system_title": "TempleOS",
+          "source": "https://en.wikipedia.org/wiki/TempleOS"
+        }
+      ]
+    },
+    {
+      "source_term": "3215 3270",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/tpf",
+          "system_title": "Transaction Processing Facility",
+          "source": "https://en.wikipedia.org/wiki/Transaction_Processing_Facility"
+        },
+        {
+          "system": "systems/z-tpf",
+          "system_title": "Z/TPF",
+          "source": "https://en.wikipedia.org/wiki/Z/TPF"
+        }
+      ]
+    },
+    {
+      "source_term": "Ambient",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/morphos",
+          "system_title": "MorphOS",
+          "source": "https://en.wikipedia.org/wiki/MorphOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Aqua ( graphical )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/macos",
+          "system_title": "macOS",
+          "source": "https://en.wikipedia.org/wiki/MacOS"
+        }
+      ]
+    },
+    {
+      "source_term": "ash , X11 ( CTWM )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/netbsd",
+          "system_title": "NetBSD",
+          "source": "https://en.wikipedia.org/wiki/NetBSD"
+        }
+      ]
+    },
+    {
+      "source_term": "basic command interpreter",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/edinburgh-multiple-access-system",
+          "system_title": "Edinburgh Multiple Access System",
+          "source": "https://en.wikipedia.org/wiki/Edinburgh_Multiple_Access_System"
+        }
+      ]
+    },
+    {
+      "source_term": "Batch processing",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/exec-i",
+          "system_title": "UNIVAC EXEC I",
+          "source": "https://en.wikipedia.org/wiki/UNIVAC_EXEC_I"
+        },
+        {
+          "system": "systems/exec-ii",
+          "system_title": "UNIVAC EXEC II",
+          "source": "https://en.wikipedia.org/wiki/UNIVAC_EXEC_II"
+        }
+      ]
+    },
+    {
+      "source_term": "CCL Command-line interface",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/tops-10",
+          "system_title": "TOPS-10",
+          "source": "https://en.wikipedia.org/wiki/TOPS-10"
+        }
+      ]
+    },
+    {
+      "source_term": "Chromium , Aura Shell (Ash)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/chromiumos",
+          "system_title": "ChromiumOS",
+          "source": "https://en.wikipedia.org/wiki/ChromiumOS"
+        }
+      ]
+    },
+    {
+      "source_term": "CLI (teletype or block mode terminal)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/george",
+          "system_title": "GEORGE",
+          "source": "https://en.wikipedia.org/wiki/GEORGE_(operating_system)"
+        }
+      ]
+    },
+    {
+      "source_term": "CLI , WebUI",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/gargoyle",
+          "system_title": "Gargoyle",
+          "source": "https://en.wikipedia.org/wiki/Gargoyle_(router_firmware)"
+        }
+      ]
+    },
+    {
+      "source_term": "CLI , WebUIs (LuCI)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/lede",
+          "system_title": "LEDE",
+          "source": "https://en.wikipedia.org/wiki/LEDE"
+        },
+        {
+          "system": "systems/openwrt",
+          "system_title": "OpenWrt",
+          "source": "https://en.wikipedia.org/wiki/OpenWrt"
+        }
+      ]
+    },
+    {
+      "source_term": "CLI - OS4000 JCL",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/os4000",
+          "system_title": "OS4000",
+          "source": "https://en.wikipedia.org/wiki/OS4000"
+        }
+      ]
+    },
+    {
+      "source_term": "CLI in all versions, some platforms support a GUI",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/os-9",
+          "system_title": "OS-9",
+          "source": "https://en.wikipedia.org/wiki/OS-9"
+        },
+        {
+          "system": "systems/os-9000",
+          "system_title": "OS-9000",
+          "source": "https://en.wikipedia.org/wiki/OS-9000"
+        }
+      ]
+    },
+    {
+      "source_term": "CLI, web",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/osv",
+          "system_title": "OSv",
+          "source": "https://en.wikipedia.org/wiki/OSv"
+        }
+      ]
+    },
+    {
+      "source_term": "Cocoa Touch ( GUI )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/watchos",
+          "system_title": "watchOS",
+          "source": "https://en.wikipedia.org/wiki/WatchOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Cocoa Touch ( multi-touch , GUI )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/ipados",
+          "system_title": "iPadOS",
+          "source": "https://en.wikipedia.org/wiki/IPadOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Command line / GNOME",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/nexenta-os",
+          "system_title": "Nexenta OS",
+          "source": "https://en.wikipedia.org/wiki/Nexenta_OS"
+        }
+      ]
+    },
+    {
+      "source_term": "Command line interface",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/isis",
+          "system_title": "ISIS",
+          "source": "https://en.wikipedia.org/wiki/ISIS_(operating_system)"
+        },
+        {
+          "system": "systems/lynxos",
+          "system_title": "LynxOS",
+          "source": "https://en.wikipedia.org/wiki/LynxOS"
+        },
+        {
+          "system": "systems/unicos",
+          "system_title": "Unicos",
+          "source": "https://en.wikipedia.org/wiki/Unicos"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/baremetal",
+          "system_title": "BareMetal",
+          "source": "https://en.wikipedia.org/wiki/BareMetal"
+        },
+        {
+          "system": "systems/dos-plus",
+          "system_title": "DOS Plus",
+          "source": "https://en.wikipedia.org/wiki/DOS_Plus"
+        },
+        {
+          "system": "systems/rtems",
+          "system_title": "RTEMS",
+          "source": "https://en.wikipedia.org/wiki/RTEMS"
+        },
+        {
+          "system": "systems/sintran-iii",
+          "system_title": "SINTRAN III",
+          "source": "https://en.wikipedia.org/wiki/SINTRAN_III"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line ( COMMAND.COM ), text ( DOS Shell )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/ms-dos",
+          "system_title": "MS-DOS",
+          "source": "https://en.wikipedia.org/wiki/MS-DOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line ( KornShell )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/coherent",
+          "system_title": "Coherent",
+          "source": "https://en.wikipedia.org/wiki/Coherent_(operating_system)"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line , Orbital",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/redox",
+          "system_title": "Redox",
+          "source": "https://en.wikipedia.org/wiki/Redox_(operating_system)"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/batch-11-dos-11",
+          "system_title": "DEC BATCH-11/DOS-11",
+          "source": "https://en.wikipedia.org/wiki/DEC_BATCH-11/DOS-11"
+        },
+        {
+          "system": "systems/business-operating-system",
+          "system_title": "Business Operating System",
+          "source": "https://en.wikipedia.org/wiki/Business_Operating_System_(software)"
+        },
+        {
+          "system": "systems/cb-unix",
+          "system_title": "CB Unix",
+          "source": "https://en.wikipedia.org/wiki/CB_Unix"
+        },
+        {
+          "system": "systems/cisco-ios",
+          "system_title": "Cisco IOS",
+          "source": "https://en.wikipedia.org/wiki/Cisco_IOS"
+        },
+        {
+          "system": "systems/compatible-time-sharing-system",
+          "system_title": "Compatible Time-Sharing System",
+          "source": "https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System"
+        },
+        {
+          "system": "systems/concurrent-cp-m",
+          "system_title": "Concurrent CP/M",
+          "source": "https://en.wikipedia.org/wiki/Concurrent_CP/M"
+        },
+        {
+          "system": "systems/concurrent-cp-m-86",
+          "system_title": "Concurrent CP/M-86",
+          "source": "https://en.wikipedia.org/wiki/Concurrent_CP/M-86"
+        },
+        {
+          "system": "systems/cp-40",
+          "system_title": "CP-40",
+          "source": "https://en.wikipedia.org/wiki/CP-40"
+        },
+        {
+          "system": "systems/cp-6",
+          "system_title": "Honeywell CP-6",
+          "source": "https://en.wikipedia.org/wiki/Honeywell_CP-6"
+        },
+        {
+          "system": "systems/cp-67",
+          "system_title": "CP-67",
+          "source": "https://en.wikipedia.org/wiki/CP-67"
+        },
+        {
+          "system": "systems/cp-cms",
+          "system_title": "CP/CMS",
+          "source": "https://en.wikipedia.org/wiki/CP/CMS"
+        },
+        {
+          "system": "systems/cp-m-86",
+          "system_title": "CP/M-86",
+          "source": "https://en.wikipedia.org/wiki/CP/M-86"
+        },
+        {
+          "system": "systems/cpf",
+          "system_title": "Control Program Facility",
+          "source": "https://en.wikipedia.org/wiki/Control_Program_Facility"
+        },
+        {
+          "system": "systems/digital-unix",
+          "system_title": "Tru64 UNIX",
+          "source": "https://en.wikipedia.org/wiki/Tru64_UNIX"
+        },
+        {
+          "system": "systems/distributed-processing-programming-executive-370",
+          "system_title": "IBM DPPX",
+          "source": "https://en.wikipedia.org/wiki/IBM_DPPX"
+        },
+        {
+          "system": "systems/dos-v",
+          "system_title": "DOS/V",
+          "source": "https://en.wikipedia.org/wiki/DOS/V"
+        },
+        {
+          "system": "systems/dppx",
+          "system_title": "DPPX",
+          "source": "https://en.wikipedia.org/wiki/IBM_8100_DPPX"
+        },
+        {
+          "system": "systems/edos",
+          "system_title": "Edos",
+          "source": "https://en.wikipedia.org/wiki/Edos"
+        },
+        {
+          "system": "systems/eros",
+          "system_title": "Extremely Reliable Operating System",
+          "source": "https://en.wikipedia.org/wiki/Extremely_Reliable_Operating_System"
+        },
+        {
+          "system": "systems/exec-8",
+          "system_title": "EXEC 8",
+          "source": "https://en.wikipedia.org/wiki/EXEC_8"
+        },
+        {
+          "system": "systems/extremexos",
+          "system_title": "ExtremeXOS",
+          "source": "https://en.wikipedia.org/wiki/ExtremeXOS"
+        },
+        {
+          "system": "systems/fabric-os",
+          "system_title": "Fabric OS",
+          "source": "https://en.wikipedia.org/wiki/Fabric_OS"
+        },
+        {
+          "system": "systems/hp-multi-programming-executive",
+          "system_title": "HP Multi-Programming Executive",
+          "source": "https://en.wikipedia.org/wiki/HP_Multi-Programming_Executive"
+        },
+        {
+          "system": "systems/hydra",
+          "system_title": "Hydra",
+          "source": "https://en.wikipedia.org/wiki/Hydra_(operating_system)"
+        },
+        {
+          "system": "systems/irmx",
+          "system_title": "RMX",
+          "source": "https://en.wikipedia.org/wiki/RMX_(operating_system)"
+        },
+        {
+          "system": "systems/junos",
+          "system_title": "JunOS",
+          "source": "https://en.wikipedia.org/wiki/JunOS"
+        },
+        {
+          "system": "systems/keykos",
+          "system_title": "KeyKOS",
+          "source": "https://en.wikipedia.org/wiki/KeyKOS"
+        },
+        {
+          "system": "systems/mp-m",
+          "system_title": "MP/M",
+          "source": "https://en.wikipedia.org/wiki/MP/M"
+        },
+        {
+          "system": "systems/mp-m-86",
+          "system_title": "MP/M-86",
+          "source": "https://en.wikipedia.org/wiki/MP/M-86"
+        },
+        {
+          "system": "systems/mts",
+          "system_title": "Michigan Terminal System",
+          "source": "https://en.wikipedia.org/wiki/Michigan_Terminal_System"
+        },
+        {
+          "system": "systems/multics",
+          "system_title": "Multics",
+          "source": "https://en.wikipedia.org/wiki/Multics"
+        },
+        {
+          "system": "systems/newdos-80",
+          "system_title": "NewDos/80",
+          "source": "https://en.wikipedia.org/wiki/NewDos/80"
+        },
+        {
+          "system": "systems/sharpos",
+          "system_title": "SharpOS",
+          "source": "https://en.wikipedia.org/wiki/SharpOS"
+        },
+        {
+          "system": "systems/singularity",
+          "system_title": "Singularity",
+          "source": "https://en.wikipedia.org/wiki/Singularity_(operating_system)"
+        },
+        {
+          "system": "systems/sprite",
+          "system_title": "Sprite",
+          "source": "https://en.wikipedia.org/wiki/Sprite_(operating_system)"
+        },
+        {
+          "system": "systems/ssp",
+          "system_title": "System Support Program",
+          "source": "https://en.wikipedia.org/wiki/System_Support_Program"
+        },
+        {
+          "system": "systems/tenex",
+          "system_title": "TENEX",
+          "source": "https://en.wikipedia.org/wiki/TENEX_(operating_system)"
+        },
+        {
+          "system": "systems/time-sharing-operating-system",
+          "system_title": "Time Sharing Operating System",
+          "source": "https://en.wikipedia.org/wiki/Time_Sharing_Operating_System"
+        },
+        {
+          "system": "systems/tops-20",
+          "system_title": "TOPS-20",
+          "source": "https://en.wikipedia.org/wiki/TOPS-20"
+        },
+        {
+          "system": "systems/trsdos",
+          "system_title": "TRSDOS",
+          "source": "https://en.wikipedia.org/wiki/TRSDOS"
+        },
+        {
+          "system": "systems/tss-360",
+          "system_title": "TSS/360",
+          "source": "https://en.wikipedia.org/wiki/TSS/360"
+        },
+        {
+          "system": "systems/tss-370",
+          "system_title": "TSS/370",
+          "source": "https://en.wikipedia.org/wiki/TSS/370"
+        },
+        {
+          "system": "systems/turbodos",
+          "system_title": "TurboDOS",
+          "source": "https://en.wikipedia.org/wiki/TurboDOS"
+        },
+        {
+          "system": "systems/universal-time-sharing-system",
+          "system_title": "Universal Time-Sharing System",
+          "source": "https://en.wikipedia.org/wiki/Universal_Time-Sharing_System"
+        },
+        {
+          "system": "systems/unix-system-v",
+          "system_title": "UNIX System V",
+          "source": "https://en.wikipedia.org/wiki/UNIX_System_V"
+        },
+        {
+          "system": "systems/uts",
+          "system_title": "Amdahl UTS",
+          "source": "https://en.wikipedia.org/wiki/Amdahl_UTS"
+        },
+        {
+          "system": "systems/versados",
+          "system_title": "VERSAdos",
+          "source": "https://en.wikipedia.org/wiki/VERSAdos"
+        },
+        {
+          "system": "systems/vs-9",
+          "system_title": "VS/9",
+          "source": "https://en.wikipedia.org/wiki/VS/9"
+        },
+        {
+          "system": "systems/xenix",
+          "system_title": "Xenix",
+          "source": "https://en.wikipedia.org/wiki/Xenix"
+        },
+        {
+          "system": "systems/xinu",
+          "system_title": "Xinu",
+          "source": "https://en.wikipedia.org/wiki/Xinu"
+        },
+        {
+          "system": "systems/xv6",
+          "system_title": "Xv6",
+          "source": "https://en.wikipedia.org/wiki/Xv6"
+        },
+        {
+          "system": "systems/z-dos",
+          "system_title": "Z-DOS",
+          "source": "https://en.wikipedia.org/wiki/Z-DOS"
+        },
+        {
+          "system": "systems/z80-rio",
+          "system_title": "Z80-RIO",
+          "source": "https://en.wikipedia.org/wiki/Z80-RIO"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface ( COMMAND.COM )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/86-dos",
+          "system_title": "86-DOS",
+          "source": "https://en.wikipedia.org/wiki/86-DOS"
+        },
+        {
+          "system": "systems/concurrent-dos",
+          "system_title": "Concurrent DOS",
+          "source": "https://en.wikipedia.org/wiki/Concurrent_DOS"
+        },
+        {
+          "system": "systems/dr-dos",
+          "system_title": "DR-DOS",
+          "source": "https://en.wikipedia.org/wiki/DR-DOS"
+        },
+        {
+          "system": "systems/freedos",
+          "system_title": "FreeDOS",
+          "source": "https://en.wikipedia.org/wiki/FreeDOS"
+        },
+        {
+          "system": "systems/multiuser-dos",
+          "system_title": "Multiuser DOS",
+          "source": "https://en.wikipedia.org/wiki/Multiuser_DOS"
+        },
+        {
+          "system": "systems/novell-dos",
+          "system_title": "Novell DOS",
+          "source": "https://en.wikipedia.org/wiki/Novell_DOS"
+        },
+        {
+          "system": "systems/pc-dos",
+          "system_title": "PC DOS",
+          "source": "https://en.wikipedia.org/wiki/PC_DOS"
+        },
+        {
+          "system": "systems/pc-mos-386",
+          "system_title": "PC-MOS/386",
+          "source": "https://en.wikipedia.org/wiki/PC-MOS/386"
+        },
+        {
+          "system": "systems/pts-dos",
+          "system_title": "PTS-DOS",
+          "source": "https://en.wikipedia.org/wiki/PTS-DOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface ( COMMAND.COM ), Text user interface",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/msx-dos",
+          "system_title": "MSX-DOS",
+          "source": "https://en.wikipedia.org/wiki/MSX-DOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface ( DDT )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/incompatible-timesharing-system",
+          "system_title": "Incompatible Timesharing System",
+          "source": "https://en.wikipedia.org/wiki/Incompatible_Timesharing_System"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface ( PowerShell , SSH , Serial console ) Graphical user interfaces over Web-based user interfaces , REST API",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/data-ontap",
+          "system_title": "Data ONTAP",
+          "source": "https://en.wikipedia.org/wiki/Data_ONTAP"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface ( PWB shell )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/pwb-unix",
+          "system_title": "PWB/UNIX",
+          "source": "https://en.wikipedia.org/wiki/PWB/UNIX"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface ( Unix shell )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/darwin",
+          "system_title": "Darwin",
+          "source": "https://en.wikipedia.org/wiki/Darwin_(operating_system)"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface (CCP.COM)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/cp-m",
+          "system_title": "CP/M",
+          "source": "https://en.wikipedia.org/wiki/CP/M"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface (CONPROC.COM)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/cromemco-dos",
+          "system_title": "Cromemco DOS",
+          "source": "https://en.wikipedia.org/wiki/Cromemco_DOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface (v3, v4, v5)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/mos",
+          "system_title": "Acorn MOS",
+          "source": "https://en.wikipedia.org/wiki/Acorn_MOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface , DECwindows GUI",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/ultrix",
+          "system_title": "Ultrix",
+          "source": "https://en.wikipedia.org/wiki/Ultrix"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface , some screens spawn a Java-based graphical user interface (GUI)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/ibm-4690-os",
+          "system_title": "IBM 4690 OS",
+          "source": "https://en.wikipedia.org/wiki/IBM_4690_OS"
+        },
+        {
+          "system": "systems/toshiba-4690-os",
+          "system_title": "Toshiba 4690 OS",
+          "source": "https://en.wikipedia.org/wiki/Toshiba_4690_OS"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface , text user interface",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/netware",
+          "system_title": "NetWare",
+          "source": "https://en.wikipedia.org/wiki/NetWare"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface : DCL (Digital Command Language)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/rsts-e",
+          "system_title": "RSTS/E",
+          "source": "https://en.wikipedia.org/wiki/RSTS/E"
+        }
+      ]
+    },
+    {
+      "source_term": "Command-line interface and Graphical ( Wayland and X Window System ; Android SurfaceFlinger ; macOS Quartz )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/unix",
+          "system_title": "Unix",
+          "source": "https://en.wikipedia.org/wiki/Unix"
+        }
+      ]
+    },
+    {
+      "source_term": "Concise Command Language (CCL) ( Command-line interface )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/os-8",
+          "system_title": "OS/8",
+          "source": "https://en.wikipedia.org/wiki/OS/8"
+        }
+      ]
+    },
+    {
+      "source_term": "Console , X Window System , GPE , OPIE",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/angstrom-distribution",
+          "system_title": "Ångström distribution",
+          "source": "https://en.wikipedia.org/wiki/%C3%85ngstr%C3%B6m_distribution"
+        },
+        {
+          "system": "systems/openzaurus",
+          "system_title": "OpenZaurus",
+          "source": "https://en.wikipedia.org/wiki/OpenZaurus"
+        }
+      ]
+    },
+    {
+      "source_term": "Console , X11",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/mklinux",
+          "system_title": "MkLinux",
+          "source": "https://en.wikipedia.org/wiki/MkLinux"
+        }
+      ]
+    },
+    {
+      "source_term": "DCL , Unix shell , DECwindows",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/dec-mica",
+          "system_title": "DEC MICA",
+          "source": "https://en.wikipedia.org/wiki/DEC_MICA"
+        }
+      ]
+    },
+    {
+      "source_term": "DCL and MCR Command-line interface",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/rsx-11",
+          "system_title": "RSX-11",
+          "source": "https://en.wikipedia.org/wiki/RSX-11"
+        }
+      ]
+    },
+    {
+      "source_term": "DCL CLI and DECwindows GUI",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/vms",
+          "system_title": "OpenVMS",
+          "source": "https://en.wikipedia.org/wiki/OpenVMS"
+        }
+      ]
+    },
+    {
+      "source_term": "Disk Master or BK Shell graphical non-windowing file managers",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/andos",
+          "system_title": "ANDOS",
+          "source": "https://en.wikipedia.org/wiki/ANDOS"
+        }
+      ]
+    },
+    {
+      "source_term": "DM windowing system , CLI",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/domain-os",
+          "system_title": "Domain/OS",
+          "source": "https://en.wikipedia.org/wiki/Domain/OS"
+        }
+      ]
+    },
+    {
+      "source_term": "Eikon et al.",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/epoc",
+          "system_title": "EPOC",
+          "source": "https://en.wikipedia.org/wiki/EPOC_(operating_system)"
+        }
+      ]
+    },
+    {
+      "source_term": "Embedded UI support (GUIX)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/threadx",
+          "system_title": "ThreadX",
+          "source": "https://en.wikipedia.org/wiki/ThreadX"
+        }
+      ]
+    },
+    {
+      "source_term": "Ermine",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/fuchsia",
+          "system_title": "Fuchsia",
+          "source": "https://en.wikipedia.org/wiki/Fuchsia_(operating_system)"
+        }
+      ]
+    },
+    {
+      "source_term": "Full screen text mode",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/apple-sos",
+          "system_title": "Apple SOS",
+          "source": "https://en.wikipedia.org/wiki/Apple_SOS"
+        }
+      ]
+    },
+    {
+      "source_term": "GEM",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/atari-multitos",
+          "system_title": "Atari MultiTOS",
+          "source": "https://en.wikipedia.org/wiki/MultiTOS"
+        },
+        {
+          "system": "systems/atari-tos",
+          "system_title": "Atari TOS",
+          "source": "https://en.wikipedia.org/wiki/Atari_TOS"
+        },
+        {
+          "system": "systems/emutos",
+          "system_title": "EmuTOS",
+          "source": "https://en.wikipedia.org/wiki/EmuTOS"
+        },
+        {
+          "system": "systems/mint",
+          "system_title": "MiNT",
+          "source": "https://en.wikipedia.org/wiki/MiNT"
+        }
+      ]
+    },
+    {
+      "source_term": "GNOME",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/opensolaris",
+          "system_title": "OpenSolaris",
+          "source": "https://en.wikipedia.org/wiki/OpenSolaris"
+        },
+        {
+          "system": "systems/solaris",
+          "system_title": "Solaris",
+          "source": "https://en.wikipedia.org/wiki/Solaris_(operating_system)"
+        }
+      ]
+    },
+    {
+      "source_term": "GNOME , Phosh , Sway , Sxmo",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/postmarketos",
+          "system_title": "PostmarketOS",
+          "source": "https://en.wikipedia.org/wiki/PostmarketOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Google Chrome",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/chromeos",
+          "system_title": "ChromeOS",
+          "source": "https://en.wikipedia.org/wiki/ChromeOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Graphical",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/blackberry-10",
+          "system_title": "BlackBerry 10",
+          "source": "https://en.wikipedia.org/wiki/BlackBerry_10"
+        },
+        {
+          "system": "systems/classic-mac-os",
+          "system_title": "Classic Mac OS",
+          "source": "https://en.wikipedia.org/wiki/Classic_Mac_OS"
+        },
+        {
+          "system": "systems/firefox-os",
+          "system_title": "Firefox OS",
+          "source": "https://en.wikipedia.org/wiki/Firefox_OS"
+        },
+        {
+          "system": "systems/hyperos",
+          "system_title": "HyperOS",
+          "source": "https://en.wikipedia.org/wiki/HyperOS"
+        },
+        {
+          "system": "systems/kaios",
+          "system_title": "KaiOS",
+          "source": "https://en.wikipedia.org/wiki/KaiOS"
+        },
+        {
+          "system": "systems/nextstep",
+          "system_title": "NeXTSTEP",
+          "source": "https://en.wikipedia.org/wiki/NeXTSTEP"
+        },
+        {
+          "system": "systems/windows-mobile",
+          "system_title": "Windows Mobile",
+          "source": "https://en.wikipedia.org/wiki/Windows_Mobile"
+        }
+      ]
+    },
+    {
+      "source_term": "Graphical ( multi-touch )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/android",
+          "system_title": "Android",
+          "source": "https://en.wikipedia.org/wiki/Android_(operating_system)"
+        }
+      ]
+    },
+    {
+      "source_term": "Graphical ( Multi-touch )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/fire-os",
+          "system_title": "Fire OS",
+          "source": "https://en.wikipedia.org/wiki/Fire_OS"
+        },
+        {
+          "system": "systems/wear-os",
+          "system_title": "Wear OS",
+          "source": "https://en.wikipedia.org/wiki/Wear_OS"
+        }
+      ]
+    },
+    {
+      "source_term": "Graphical ( Windows shell )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/windows-nt",
+          "system_title": "Windows NT",
+          "source": "https://en.wikipedia.org/wiki/Windows_NT"
+        }
+      ]
+    },
+    {
+      "source_term": "Graphical ( Workbench )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/amigaos",
+          "system_title": "AmigaOS",
+          "source": "https://en.wikipedia.org/wiki/AmigaOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Graphical (Luna)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/webos",
+          "system_title": "WebOS",
+          "source": "https://en.wikipedia.org/wiki/WebOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Graphical (native and web applications), One UI for Smartwatch, Television and Smartphone",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/tizen",
+          "system_title": "Tizen",
+          "source": "https://en.wikipedia.org/wiki/Tizen"
+        }
+      ]
+    },
+    {
+      "source_term": "Graphical (ReactOS Explorer)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/reactos",
+          "system_title": "ReactOS",
+          "source": "https://en.wikipedia.org/wiki/ReactOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Graphical user interface",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/geos",
+          "system_title": "GEOS",
+          "source": "https://en.wikipedia.org/wiki/GEOS_(8-bit_operating_system)"
+        },
+        {
+          "system": "systems/nemesis",
+          "system_title": "Nemesis",
+          "source": "https://en.wikipedia.org/wiki/Nemesis_(computing)"
+        },
+        {
+          "system": "systems/openmoko-linux",
+          "system_title": "Openmoko Linux",
+          "source": "https://en.wikipedia.org/wiki/Openmoko_Linux"
+        },
+        {
+          "system": "systems/penpoint-os",
+          "system_title": "PenPoint OS",
+          "source": "https://en.wikipedia.org/wiki/PenPoint_OS"
+        },
+        {
+          "system": "systems/pilot",
+          "system_title": "Pilot",
+          "source": "https://en.wikipedia.org/wiki/Pilot_(operating_system)"
+        },
+        {
+          "system": "systems/risc-ix",
+          "system_title": "RISC iX",
+          "source": "https://en.wikipedia.org/wiki/RISC_iX"
+        },
+        {
+          "system": "systems/symbos",
+          "system_title": "SymbOS",
+          "source": "https://en.wikipedia.org/wiki/SymbOS"
+        },
+        {
+          "system": "systems/vsta",
+          "system_title": "VSTa",
+          "source": "https://en.wikipedia.org/wiki/VSTa"
+        }
+      ]
+    },
+    {
+      "source_term": "Graphical user interface and special keyboard keys",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/arx",
+          "system_title": "ARX",
+          "source": "https://en.wikipedia.org/wiki/ARX_(operating_system)"
+        }
+      ]
+    },
+    {
+      "source_term": "Graphical user interface by Yamen Nasr",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/menuetos",
+          "system_title": "MenuetOS",
+          "source": "https://en.wikipedia.org/wiki/MenuetOS"
+        }
+      ]
+    },
+    {
+      "source_term": "GUI",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/newton-os",
+          "system_title": "Newton OS",
+          "source": "https://en.wikipedia.org/wiki/Newton_OS"
+        },
+        {
+          "system": "systems/risc-os",
+          "system_title": "RISC OS",
+          "source": "https://en.wikipedia.org/wiki/RISC_OS"
+        },
+        {
+          "system": "systems/rockbox",
+          "system_title": "Rockbox",
+          "source": "https://en.wikipedia.org/wiki/RockBox"
+        },
+        {
+          "system": "systems/serenityos",
+          "system_title": "SerenityOS",
+          "source": "https://en.wikipedia.org/wiki/SerenityOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Harmony Design (Design System) ( multi-touch , GUI )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/harmonyos",
+          "system_title": "HarmonyOS",
+          "source": "https://en.wikipedia.org/wiki/HarmonyOS"
+        }
+      ]
+    },
+    {
+      "source_term": "HarmonyOS Design (Design System) for OpenHarmony modified ( multi-touch , GUI )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/openharmony",
+          "system_title": "OpenHarmony",
+          "source": "https://en.wikipedia.org/wiki/OpenHarmony"
+        }
+      ]
+    },
+    {
+      "source_term": "Hildon UI",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/mmo",
+          "system_title": "Maemo",
+          "source": "https://en.wikipedia.org/wiki/Maemo"
+        }
+      ]
+    },
+    {
+      "source_term": "IRIX Interactive Desktop",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/irix",
+          "system_title": "IRIX",
+          "source": "https://en.wikipedia.org/wiki/IRIX"
+        }
+      ]
+    },
+    {
+      "source_term": "ISPF , z/OS Management Facility",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/z-os",
+          "system_title": "z/OS",
+          "source": "https://en.wikipedia.org/wiki/Z/OS"
+        }
+      ]
+    },
+    {
+      "source_term": "KDE Plasma , GNOME and CDE",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/hp-ux",
+          "system_title": "HP-UX",
+          "source": "https://en.wikipedia.org/wiki/HP-UX"
+        }
+      ]
+    },
+    {
+      "source_term": "Keyboard Monitor (KMON) Command-line interface",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/rt-11",
+          "system_title": "RT-11",
+          "source": "https://en.wikipedia.org/wiki/RT-11"
+        }
+      ]
+    },
+    {
+      "source_term": "KolibriOS Kernel API",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/kolibrios",
+          "system_title": "KolibriOS",
+          "source": "https://en.wikipedia.org/wiki/KolibriOS"
+        }
+      ]
+    },
+    {
+      "source_term": "KornShell (ksh88), Common Desktop Environment , ( Plasma Workspaces and GNOME optional)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/ibm-aix",
+          "system_title": "IBM AIX",
+          "source": "https://en.wikipedia.org/wiki/IBM_AIX"
+        }
+      ]
+    },
+    {
+      "source_term": "LiveArea",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/playstation-vita-system-software",
+          "system_title": "PlayStation Vita system software",
+          "source": "https://en.wikipedia.org/wiki/PlayStation_Vita_system_software"
+        }
+      ]
+    },
+    {
+      "source_term": "Lomiri",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/ubuntu-touch",
+          "system_title": "Ubuntu Touch",
+          "source": "https://en.wikipedia.org/wiki/Ubuntu_Touch"
+        }
+      ]
+    },
+    {
+      "source_term": "Lumina",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/trueos",
+          "system_title": "TrueOS",
+          "source": "https://en.wikipedia.org/wiki/TrueOS"
+        }
+      ]
+    },
+    {
+      "source_term": "MATE and Xfce",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/ghostbsd",
+          "system_title": "GhostBSD",
+          "source": "https://en.wikipedia.org/wiki/GhostBSD"
+        }
+      ]
+    },
+    {
+      "source_term": "Menu",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/atari-dos",
+          "system_title": "Atari DOS",
+          "source": "https://en.wikipedia.org/wiki/Atari_DOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Micro Commander dual-panel graphical file manager",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/mk-dos",
+          "system_title": "MK-DOS",
+          "source": "https://en.wikipedia.org/wiki/MK-DOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Modified pdksh , X11 ( FVWM )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/openbsd",
+          "system_title": "OpenBSD",
+          "source": "https://en.wikipedia.org/wiki/OpenBSD"
+        }
+      ]
+    },
+    {
+      "source_term": "Motif or \"Win95 clone\"",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/pen-geos",
+          "system_title": "PEN/GEOS",
+          "source": "https://en.wikipedia.org/wiki/PEN/GEOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Multi-touch GUI",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/ios",
+          "system_title": "iOS",
+          "source": "https://en.wikipedia.org/wiki/IOS"
+        }
+      ]
+    },
+    {
+      "source_term": "none documented",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/container-optimized-os-cos-is-an-operating-system-that-is-optimized-for-running-docker-containers-based-on-chromiumos-13",
+          "system_title": "Container-Optimized OS",
+          "source": "https://docs.cloud.google.com/container-optimized-os/docs"
+        }
+      ]
+    },
+    {
+      "source_term": "None, access through BASIC and firmware calls",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/amsdos",
+          "system_title": "AMSDOS",
+          "source": "https://en.wikipedia.org/wiki/AMSDOS"
+        }
+      ]
+    },
+    {
+      "source_term": "oi_147 - 2016.04: GNOME 2 since 2016.10: MATE",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/openindiana",
+          "system_title": "OpenIndiana",
+          "source": "https://en.wikipedia.org/wiki/OpenIndiana"
+        }
+      ]
+    },
+    {
+      "source_term": "OpenTracker",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/haiku",
+          "system_title": "Haiku",
+          "source": "https://en.wikipedia.org/wiki/Haiku_(operating_system)"
+        }
+      ]
+    },
+    {
+      "source_term": "OPIE, GPE",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/familiar-linux",
+          "system_title": "Familiar Linux",
+          "source": "https://en.wikipedia.org/wiki/Familiar_Linux"
+        }
+      ]
+    },
+    {
+      "source_term": "Paper tape",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/the-multiprogramming-system",
+          "system_title": "THE multiprogramming system",
+          "source": "https://en.wikipedia.org/wiki/THE_multiprogramming_system"
+        }
+      ]
+    },
+    {
+      "source_term": "PlayStation Dynamic Menu",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/playstation-4-system-software",
+          "system_title": "PlayStation 4 system software",
+          "source": "https://en.wikipedia.org/wiki/PlayStation_4_system_software"
+        }
+      ]
+    },
+    {
+      "source_term": "primarily text user interface",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/prodos",
+          "system_title": "ProDOS",
+          "source": "https://en.wikipedia.org/wiki/Apple_ProDOS"
+        }
+      ]
+    },
+    {
+      "source_term": "rio / rc",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/9front",
+          "system_title": "9front",
+          "source": "https://en.wikipedia.org/wiki/9front"
+        },
+        {
+          "system": "systems/plan-9-from-bell-labs",
+          "system_title": "Plan 9 from Bell Labs",
+          "source": "https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs"
+        }
+      ]
+    },
+    {
+      "source_term": "RISC OS",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/ncos",
+          "system_title": "NCOS",
+          "source": "https://en.wikipedia.org/wiki/NCOS"
+        }
+      ]
+    },
+    {
+      "source_term": "S60 (from 2009)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/symbian-os",
+          "system_title": "Symbian OS",
+          "source": "https://en.wikipedia.org/wiki/Symbian_OS"
+        },
+        {
+          "system": "systems/symbian-platform",
+          "system_title": "Symbian platform",
+          "source": "https://en.wikipedia.org/wiki/Symbian_platform"
+        }
+      ]
+    },
+    {
+      "source_term": "Several GUIs , see below",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/meego",
+          "system_title": "MeeGo",
+          "source": "https://en.wikipedia.org/wiki/MeeGo"
+        }
+      ]
+    },
+    {
+      "source_term": "SunView , OpenWindows",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/sunos",
+          "system_title": "SunOS",
+          "source": "https://en.wikipedia.org/wiki/SunOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Text user interface",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/burroughs-mcp",
+          "system_title": "Burroughs MCP",
+          "source": "https://en.wikipedia.org/wiki/Burroughs_MCP"
+        }
+      ]
+    },
+    {
+      "source_term": "Text-based",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/pick",
+          "system_title": "Pick",
+          "source": "https://en.wikipedia.org/wiki/Pick_operating_system"
+        }
+      ]
+    },
+    {
+      "source_term": "Text-based user interface",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/ibm-i",
+          "system_title": "IBM i",
+          "source": "https://en.wikipedia.org/wiki/IBM_i"
+        },
+        {
+          "system": "systems/oberon-operating-system",
+          "system_title": "Oberon",
+          "source": "https://en.wikipedia.org/wiki/Oberon_(operating_system)"
+        },
+        {
+          "system": "systems/primos",
+          "system_title": "PRIMOS",
+          "source": "https://en.wikipedia.org/wiki/PRIMOS"
+        }
+      ]
+    },
+    {
+      "source_term": "TouchWiz , graphical ( touchscreen )",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/bada",
+          "system_title": "Bada",
+          "source": "https://en.wikipedia.org/wiki/Bada_(operating_system)"
+        }
+      ]
+    },
+    {
+      "source_term": "Unix shell",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/berkeley-software-distribution",
+          "system_title": "Berkeley Software Distribution",
+          "source": "https://en.wikipedia.org/wiki/Berkeley_Software_Distribution"
+        },
+        {
+          "system": "systems/dragonfly-bsd",
+          "system_title": "DragonFly BSD",
+          "source": "https://en.wikipedia.org/wiki/DragonFly_BSD"
+        }
+      ]
+    },
+    {
+      "source_term": "Unix shells : sh or tcsh (user-selectable) csh (in the past)",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/freebsd",
+          "system_title": "FreeBSD",
+          "source": "https://en.wikipedia.org/wiki/FreeBSD"
+        }
+      ]
+    },
+    {
+      "source_term": "various frontends, X/GEM",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/flexos",
+          "system_title": "FlexOS",
+          "source": "https://en.wikipedia.org/wiki/FlexOS"
+        },
+        {
+          "system": "systems/ibm-4680-os",
+          "system_title": "IBM 4680 OS",
+          "source": "https://en.wikipedia.org/wiki/IBM_4680_OS"
+        }
+      ]
+    },
+    {
+      "source_term": "VGTS",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/v",
+          "system_title": "V",
+          "source": "https://en.wikipedia.org/wiki/V_(operating_system)"
+        }
+      ]
+    },
+    {
+      "source_term": "Web",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/pfsense",
+          "system_title": "pfSense",
+          "source": "https://en.wikipedia.org/wiki/PfSense"
+        }
+      ]
+    },
+    {
+      "source_term": "Wii U Menu",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/wii-u-system-software",
+          "system_title": "Wii U system software",
+          "source": "https://en.wikipedia.org/wiki/Wii_U_system_software"
+        }
+      ]
+    },
+    {
+      "source_term": "Windows shell",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/windows",
+          "system_title": "Microsoft Windows",
+          "source": "https://en.wikipedia.org/wiki/Microsoft_Windows"
+        }
+      ]
+    },
+    {
+      "source_term": "Workplace Shell",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/os-2",
+          "system_title": "OS/2",
+          "source": "https://en.wikipedia.org/wiki/OS/2"
+        },
+        {
+          "system": "systems/osfree",
+          "system_title": "osFree",
+          "source": "https://en.wikipedia.org/wiki/OS/2#Future"
+        },
+        {
+          "system": "systems/workplace-os",
+          "system_title": "Workplace OS",
+          "source": "https://en.wikipedia.org/wiki/Workplace_OS"
+        }
+      ]
+    },
+    {
+      "source_term": "Workplace Shell , cmd",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/arcaos",
+          "system_title": "ArcaOS",
+          "source": "https://en.wikipedia.org/wiki/ArcaOS"
+        }
+      ]
+    },
+    {
+      "source_term": "X-Shell graphical file manager",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/csi-dos",
+          "system_title": "CSI-DOS",
+          "source": "https://en.wikipedia.org/wiki/CSI-DOS"
+        }
+      ]
+    },
+    {
+      "source_term": "Xfce",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/midnightbsd",
+          "system_title": "MidnightBSD",
+          "source": "https://en.wikipedia.org/wiki/MidnightBSD"
+        }
+      ]
+    },
+    {
+      "source_term": "XrossMediaBar",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/playstation-3-system-software",
+          "system_title": "PlayStation 3 system software",
+          "source": "https://en.wikipedia.org/wiki/PlayStation_3_system_software"
+        }
+      ]
+    },
+    {
+      "source_term": "μC/ GUI",
+      "disposition": "needs-review",
+      "note": "Raw infobox interface term; review whether it names a desktop environment, window system, shell, generic interface style, or mixture.",
+      "hosts": [
+        {
+          "system": "systems/c-os-iii",
+          "system_title": "μC/OS-III",
+          "source": "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#%CE%BCC/OS-III"
+        },
+        {
+          "system": "systems/micrium-os",
+          "system_title": "Micrium OS",
+          "source": "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#History"
+        }
+      ]
+    }
+  ]
+}

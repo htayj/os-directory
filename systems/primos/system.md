@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/PRIMOS, title: "PRIMOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/PRIMOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Prime Computer
+    country_of_origin: United States
+    purpose: null
+    programming_languages: FORTRAN , Assembly language
+    first_release: null
+    latest_release: 24.0.0.R52 / July 3, 1997 ; 29 years ago ( 1997-07-03 )
+    last_updated: 24.0.0.R52 / July 3, 1997 ; 29 years ago ( 1997-07-03 )
+    development_status: Discontinued
+    source_model: null
+    os_family: Multics-like
+    gui: Text-based user interface
+    platforms: Prime Computer
+    kernel_type: Monolithic
+    license: Proprietary commercial software
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q1270618
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

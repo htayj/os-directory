@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/ArcaOS, title: "ArcaOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/ArcaOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Arca Noae, LLC (based on code from IBM , Microsoft , and other developers)
+    country_of_origin: null
+    purpose: null
+    programming_languages: C , C++ , REXX , Java , assembly language
+    first_release: May 15, 2017 ; 9 years ago ( 2017-05-15 )
+    latest_release: 5.1.2 / March 8, 2026 ; 4 months ago ( 2026-03-08 )
+    last_updated: 5.1.2 / March 8, 2026 ; 4 months ago ( 2026-03-08 )
+    development_status: Current
+    source_model: Closed source with open-source components
+    os_family: OS/2
+    gui: Workplace Shell , cmd
+    platforms: 32-bit x86
+    kernel_type: Hybrid
+    license: Proprietary software
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

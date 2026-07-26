@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/PX5_RTOS, title: "PX5 RTOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/PX5_RTOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: William Lamie
+    country_of_origin: null
+    purpose: Embedded systems , IoT
+    programming_languages: ANSI C
+    first_release: January 2023 ; 3 years ago ( 2023-01 )
+    latest_release: null
+    last_updated: null
+    development_status: Current
+    source_model: Source-available
+    os_family: POSIX
+    gui: null
+    platforms: ARM , AMD , NXP , Renesas , RISC-V , STM32
+    kernel_type: Embedded , deterministic , real-time microkernel
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

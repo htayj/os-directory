@@ -42,6 +42,33 @@ architectures:
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: apple-iigs-reference, resource: "https://apple2.gs/downloads/library/Apple%20IIGS%20Toolbox%20Reference%20Volume%201.pdf", title: "Apple IIGS Toolbox Reference", author: organization:Apple, source_kind: manual }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Apple_ProDOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apple Computer
+    country_of_origin: United States
+    purpose: null
+    programming_languages: Assembly language
+    first_release: October 1983 ; 42 years ago ( 1983-10 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Closed source (but version 1.7)
+    os_family: SOS
+    gui: primarily text user interface
+    platforms: Apple II
+    kernel_type: Monolithic kernel
+    license: Apple Software License Agreement
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q312
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # ProDOS

@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/VS/9, title: "VS/9", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/VS/9
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Univac
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: late 1960s
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Unknown
+    os_family: TSOS
+    gui: Command-line interface
+    platforms: UNIVAC Series 90 mainframe computers
+    kernel_type: null
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

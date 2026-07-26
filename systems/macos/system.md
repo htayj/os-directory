@@ -42,6 +42,36 @@ architectures: []
 sources:
   - { id: wikipedia, resource: https://en.wikipedia.org/wiki/MacOS, title: MacOS, source_kind: article }
   - { id: apple-support, resource: https://support.apple.com/en-us/109033, title: Find out which macOS your Mac is using, author: organization:apple, source_kind: documentation }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/MacOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apple
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C C++ Objective-C Swift assembly language
+    first_release: March 24, 2001 ; 25 years ago ( 2001-03-24 )
+    latest_release: 26.5.2 (June 29, 2026 ; 27 days ago ( 2026-06-29 ) ) [ ± ]
+    last_updated: 26.5.2 (June 29, 2026 ; 27 days ago ( 2026-06-29 ) ) [ ± ]
+    development_status: null
+    source_model: Proprietary with open source components
+    os_family: Mac Darwin BSD Unix-like Unix
+    gui: Aqua ( graphical )
+    platforms: 'Apple silicon ( ARM64 ) ARMv9-A ( 15.0 –present) ARMv8-A ( 11.0 –present)
+      Intel (64-bit) x86-64 ( 10.4.7 – 26.x ) Previously supported: Intel (32-bit)
+      IA-32 ( 10.4.4 – 10.6.8 ) PowerPC 64-bit ppc970 ( 10.4 – 10.5.8 ) 32-bit ppc7400
+      ( 10.0 – 10.5.8 ) 32-bit ppc ( 10.0 – 10.4.11 )'
+    kernel_type: Hybrid ( XNU )
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q312
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Thoth_(operating_system), title: "Thoth", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Thoth_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: University of Waterloo
+    country_of_origin: Canada
+    purpose: Research
+    programming_languages: Eh, Zed, assembly language
+    first_release: October 1976 ; 49 years ago ( 1976-10 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: null
+    os_family: RTOS
+    gui: null
+    platforms: Honeywell 6050 Data General Nova 2 Texas Instruments TI990/10
+    kernel_type: Microkernel
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q1049470
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

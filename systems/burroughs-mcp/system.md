@@ -28,6 +28,33 @@ platforms: []
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: mcp-discovery, resource: "https://en.wikipedia.org/wiki/Burroughs_MCP", title: "Burroughs MCP", source_kind: article }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Burroughs_MCP
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Burroughs / Unisys
+    country_of_origin: United States
+    purpose: null
+    programming_languages: ESPOL , NEWP
+    first_release: 1961 ; 65 years ago ( 1961 )
+    latest_release: 21.0 / June 2023
+    last_updated: 21.0 / June 2023
+    development_status: Current
+    source_model: Source available
+    os_family: null
+    gui: Text user interface
+    platforms: Burroughs large systems including the Unisys Clearpath/MCP
+    kernel_type: null
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q256593
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Burroughs MCP

@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/NOS_(operating_system), title: NOS (operating system), source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/NOS_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Control Data Corporation
+    country_of_origin: United States
+    purpose: Mainframe computers
+    programming_languages: null
+    first_release: 1975 ; 51 years ago ( 1975 )
+    latest_release: NOS 2.8.7 L871 ( Y2K fixed)
+    last_updated: NOS 2.8.7 L871 ( Y2K fixed)
+    development_status: Historic
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: CDC 6000 series and successors
+    kernel_type: null
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q1129191
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

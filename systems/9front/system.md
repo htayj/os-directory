@@ -13,6 +13,31 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "9front", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/9front
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Plan 9 Foundation, succeeding Bell Labs
+    country_of_origin: null
+    purpose: Operating systems research, networked environments, general-purpose use
+    programming_languages: Dialect of ANSI C
+    first_release: 1992 ; 34 years ago ( 1992 ) (universities) / 1995 ; 31 years ago
+      ( 1995 ) (general public)
+    latest_release: null
+    last_updated: null
+    development_status: Current
+    source_model: Open source
+    os_family: null
+    gui: rio / rc
+    platforms: 'x86 / Vx32 , x86-64 , ARM , RISC-V , MIPS Historical: DEC Alpha ,
+      SPARC , PowerPC'
+    kernel_type: Monolithic
+    license: '2021: MIT 2014: GPL-2.0-only 2002: LPL-1.02 2000: Plan 9 OSL'
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # 9front

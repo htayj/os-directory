@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/JunOS, title: "JunOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/JunOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Juniper Networks
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: July 7, 1998 ; 28 years ago ( 1998-07-07 )
+    latest_release: 25.4 / December 22, 2025 ; 7 months ago ( 2025-12-22 )
+    last_updated: 25.4 / December 22, 2025 ; 7 months ago ( 2025-12-22 )
+    development_status: Current
+    source_model: Closed source and open source
+    os_family: Unix-like
+    gui: Command-line interface
+    platforms: null
+    kernel_type: null
+    license: Proprietary , FreeBSD License , GPL License
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

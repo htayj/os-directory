@@ -29,6 +29,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/IBM_4680_OS, title: IBM 4680 OS, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/IBM_4680_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Research
+    country_of_origin: null
+    purpose: Industrial, PoS
+    programming_languages: C
+    first_release: 1986 ; 40 years ago ( 1986 )
+    latest_release: 2.33 / May 1998 ; 28 years ago ( 1998-05 )
+    last_updated: 2.33 / May 1998 ; 28 years ago ( 1998-05 )
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: null
+    gui: various frontends, X/GEM
+    platforms: Intel 80186 , Intel 80286 , Intel 80386 , Motorola 68000 , V60 , V70
+    kernel_type: modular
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

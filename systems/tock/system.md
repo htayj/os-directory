@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Tock_(operating_system), title: "Tock", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Tock_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Amit Levy and the Tock community
+    country_of_origin: null
+    purpose: Embedded systems
+    programming_languages: Rust
+    first_release: February 13, 2018 ; 8 years ago ( 2018-02-13 )
+    latest_release: 2.1.1
+    last_updated: 2.1.1
+    development_status: Current
+    source_model: Open source
+    os_family: Embedded operating system
+    gui: null
+    platforms: ARM , RISC-V , X86
+    kernel_type: Microkernel
+    license: MIT License , Apache Software License 2.0
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

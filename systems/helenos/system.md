@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/HelenOS, title: "HelenOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/HelenOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: null
+    country_of_origin: null
+    purpose: null
+    programming_languages: C
+    first_release: June 11, 2006 ; 20 years ago ( 2006-06-11 )
+    latest_release: null
+    last_updated: null
+    development_status: null
+    source_model: Open source
+    os_family: Multiserver operating systems
+    gui: null
+    platforms: IA-32 , AMD64 , IA-64 , ARM , MIPS , PowerPC , SPARC V9, RISC-V
+    kernel_type: Microkernel
+    license: BSD-3-Clause
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

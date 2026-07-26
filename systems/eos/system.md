@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/EOS_(operating_system), title: "EOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/EOS_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: ETA Systems
+    country_of_origin: United States
+    purpose: Vector supercomputer
+    programming_languages: null
+    first_release: null
+    latest_release: null
+    last_updated: null
+    development_status: null
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: null
+    kernel_type: null
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q5324443
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

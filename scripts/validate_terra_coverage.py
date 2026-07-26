@@ -132,6 +132,20 @@ def main() -> int:
                         f"{result_path.relative_to(ROOT)}:{candidate_id}: "
                         f"record path does not exist: {raw_path}"
                     )
+                elif disposition == "included-system":
+                    required = (
+                        path / "system.md",
+                        path / "index.md",
+                        path / "releases" / "index.md",
+                        path / "artifacts" / "index.md",
+                    )
+                    for required_path in required:
+                        if not required_path.exists():
+                            errors.append(
+                                f"{result_path.relative_to(ROOT)}:{candidate_id}: "
+                                "included-system skeleton is missing "
+                                f"{required_path.relative_to(ROOT)}"
+                            )
         reviewed_candidates += len(items)
 
     duplicate_manifest_ids = [

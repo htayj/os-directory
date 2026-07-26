@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/PenPoint_OS, title: "PenPoint OS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/PenPoint_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: GO Corporation
+    country_of_origin: null
+    purpose: Tablet computer
+    programming_languages: null
+    first_release: 1991 ; 35 years ago ( 1991 )
+    latest_release: null
+    last_updated: null
+    development_status: Abandoned
+    source_model: Closed source
+    os_family: null
+    gui: Graphical user interface
+    platforms: EO Personal Communicator , IBM 's ThinkPad 700T series, NCR 's 3125,
+      3130 and some of GRiD Systems ' pen-based portables
+    kernel_type: null
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

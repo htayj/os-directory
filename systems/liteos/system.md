@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/LiteOS, title: "LiteOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/LiteOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Huawei Technologies Co., Ltd.
+    country_of_origin: null
+    purpose: Internet of things , smartwatches
+    programming_languages: C , assembly language , Shell
+    first_release: 20 May 2015 ; 11 years ago ( 2015-05-20 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Open source
+    os_family: POSIX
+    gui: null
+    platforms: null
+    kernel_type: Real-time Microkernel
+    license: BSD 3-clause
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

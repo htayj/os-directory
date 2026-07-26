@@ -29,6 +29,33 @@ platforms: []
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: pwb-manual, resource: "https://bitsavers.org/pdf/att/unix/PWB_UNIX/PWB_UNIX_Users_Manual_Edition_1.0_197705.pdf", title: "PWB/UNIX User's Manual, Edition 1.0", author: organization:Bell-Telephone-Laboratories, source_kind: manual }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/PWB/UNIX
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: AT&T Bell Laboratories
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C
+    first_release: July 1, 1977 ; 49 years ago ( 1977-07-01 )
+    latest_release: '2.0'
+    last_updated: '2.0'
+    development_status: Discontinued
+    source_model: null
+    os_family: Unix
+    gui: Command-line interface ( PWB shell )
+    platforms: DEC PDP-11
+    kernel_type: null
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q217365
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # PWB/UNIX

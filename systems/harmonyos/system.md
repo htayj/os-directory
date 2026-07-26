@@ -33,6 +33,35 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/HarmonyOS, title: "HarmonyOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/HarmonyOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Huawei
+    country_of_origin: People's Republic of China
+    purpose: Embedded systems , smartphones , tablet computers , Laptops , wearable
+      devices , Personal computers , Cars , Audio equipments , smart TVs
+    programming_languages: C , C++ , JavaScript (Lite), ArkTS , Cangjie , Rust and
+      others
+    first_release: August 9, 2019 ; 6 years ago ( 2019-08-09 )
+    latest_release: 6.0.0 / November 25, 2025 ; 7 months ago ( 2025-11-25 )
+    last_updated: 6.0.0 / November 25, 2025 ; 7 months ago ( 2025-11-25 )
+    development_status: Current
+    source_model: Closed , with open source components
+    os_family: OpenHarmony
+    gui: Harmony Design (Design System) ( multi-touch , GUI )
+    platforms: 64-bit ARM
+    kernel_type: Microkernel ( HongMeng Kernel )
+    license: Commercial software , Proprietary software except for open-source components
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q160120
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

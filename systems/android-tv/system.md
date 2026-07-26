@@ -13,6 +13,33 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Android TV", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Android_TV
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Google
+    country_of_origin: United States
+    purpose: Smart TVs , digital media players , set-top boxes , USB dongles
+    programming_languages: null
+    first_release: June 25, 2014 ; 12 years ago ( 2014-06-25 )
+    latest_release: Android TV 16 / July 27, 2025 ; 11 months ago ( 2025-07-27 )
+    last_updated: Android TV 16 / July 27, 2025 ; 11 months ago ( 2025-07-27 )
+    development_status: null
+    source_model: null
+    os_family: Unix-like ( Linux )
+    gui: null
+    platforms: null
+    kernel_type: Monolithic ( Linux kernel )
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q95
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Android TV

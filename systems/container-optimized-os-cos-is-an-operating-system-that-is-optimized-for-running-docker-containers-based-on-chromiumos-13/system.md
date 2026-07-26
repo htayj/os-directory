@@ -13,6 +13,30 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Container-Optimized OS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+first_pass_attributes:
+  source: https://docs.cloud.google.com/container-optimized-os/docs
+  retrieved_at: 2026-07-26
+  assertion_status: provisional
+  note: First-pass values from Google Cloud product and release documentation; normalize into scoped claims before marking verified.
+  fields:
+    developer: Google
+    country_of_origin: United States
+    purpose: Running containerized applications on Google Cloud
+    programming_languages: null
+    first_release: null
+    latest_release: Milestone 129 release stream
+    last_updated: 2026-07-17
+    development_status: current
+    source_model: source available
+    os_family: Linux
+    gui: none documented
+    platforms: Google Cloud virtual machines and supported Arm-based images
+    kernel_type: Linux kernel
+    license: null
+  country_evidence:
+    source: https://www.wikidata.org/wiki/Q95
+    method: inferred-from-developer-country
+    assertion_status: inferred
 ---
 
 # Container-Optimized OS

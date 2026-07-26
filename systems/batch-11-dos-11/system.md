@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/DEC_BATCH-11/DOS-11, title: "DEC BATCH-11/DOS-11", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/DEC_BATCH-11/DOS-11
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Equipment Corporation
+    country_of_origin: United States
+    purpose: null
+    programming_languages: FOCAL , Fortran -IV, MACRO-11 , TECO
+    first_release: 1970 ; 56 years ago ( 1970 )
+    latest_release: V09-20C / June 1974 ; 52 years ago ( 1974-06 )
+    last_updated: V09-20C / June 1974 ; 52 years ago ( 1974-06 )
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: null
+    gui: Command-line interface
+    platforms: PDP-11
+    kernel_type: null
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q690079
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

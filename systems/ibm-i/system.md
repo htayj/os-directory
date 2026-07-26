@@ -33,6 +33,34 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/IBM_i, title: "IBM i", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/IBM_i
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM
+    country_of_origin: United States
+    purpose: Minicomputer , midrange computer and enterprise server
+    programming_languages: C++ , C , PL/MI , Java , Assembly language , Modula-2 ,
+      PL/MP
+    first_release: August 26, 1988 ; 37 years ago ( 1988-08-26 )
+    latest_release: 7.6 / April 18, 2025 ; 15 months ago ( 2025-04-18 )
+    last_updated: 7.6 / April 18, 2025 ; 15 months ago ( 2025-04-18 )
+    development_status: Current
+    source_model: Closed source
+    os_family: IBM CPF
+    gui: Text-based user interface
+    platforms: IBM AS/400 , IBM Power Systems
+    kernel_type: Monolithic
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q37156
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

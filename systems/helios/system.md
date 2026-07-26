@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/HeliOS, title: "HeliOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/HeliOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Perihelion Software
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: 1988 ; 38 years ago ( 1988 )
+    latest_release: 1.3.1 / September 1992
+    last_updated: 1.3.1 / September 1992
+    development_status: Historic
+    source_model: Open source
+    os_family: Unix-like
+    gui: null
+    platforms: null
+    kernel_type: Microkernel
+    license: GPL v3
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

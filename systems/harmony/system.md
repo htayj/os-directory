@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Harmony_(operating_system), title: "Harmony", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Harmony_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: National Research Council Canada
+    country_of_origin: null
+    purpose: Research
+    programming_languages: C , Assembly language
+    first_release: 1985 ; 41 years ago ( 1985 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: Motorola 68000 ( VMEbus , Multibus ), Atari ST (520, 1040), Digital
+      Equipment Corporation VAX
+    kernel_type: Microkernel
+    license: null
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

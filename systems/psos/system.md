@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/PSOS_(real-time_operating_system), title: "PSOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/PSOS_(real-time_operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Alfred Chao, Software Components Group (SCG) Integrated Systems Inc.
+      (ISI) Wind River Systems
+    country_of_origin: null
+    purpose: Embedded systems
+    programming_languages: 68000 assembly language
+    first_release: 1982 ; 44 years ago ( 1982 )
+    latest_release: Reliant (RoweBots) / August 2007 ; 18 years ago ( 2007-08 )
+    last_updated: Reliant (RoweBots) / August 2007 ; 18 years ago ( 2007-08 )
+    development_status: Discontinued
+    source_model: Closed source (original) Open source (later variants)
+    os_family: null
+    gui: null
+    platforms: Motorola 68000 series
+    kernel_type: Real-time monolithic
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

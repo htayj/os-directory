@@ -29,6 +29,34 @@ platforms: [{ value: "Intel 8080, Intel 8085, Zilog Z80", evidence: [cp-m-manual
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: cp-m-manual, resource: "https://www.gaby.de/cpm/manuals/archive/cpm22htm/", title: "CP/M 2.2 Alteration Guide and User Manual", author: organization:Digital-Research, source_kind: manual }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/CP/M
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Research, Inc. , Gary Kildall
+    country_of_origin: United States
+    purpose: null
+    programming_languages: PL/M , Assembly language
+    first_release: 1974 ; 52 years ago ( 1974 )
+    latest_release: 3.1 / 1983 ; 43 years ago ( 1983 )
+    last_updated: 3.1 / 1983 ; 43 years ago ( 1983 )
+    development_status: Historical
+    source_model: Originally closed source , now open source
+    os_family: null
+    gui: Command-line interface (CCP.COM)
+    platforms: Intel 8080 , Intel 8085 , Zilog Z80 , Zilog Z8000 , Intel 8086 , Motorola
+      68000
+    kernel_type: Monolithic kernel
+    license: Originally proprietary , now BSD -like
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-headquarters
+    source: https://www.wikidata.org/wiki/Q117514
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # CP/M

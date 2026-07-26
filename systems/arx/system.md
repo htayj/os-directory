@@ -46,6 +46,34 @@ architectures:
   - { value: ARM, execution_mode: native, evidence: [wikipedia], assertion_status: provisional }
 sources:
   - { id: wikipedia, resource: https://en.wikipedia.org/wiki/ARX_(operating_system), title: ARX (operating system), source_kind: article }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/ARX_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Acorn Computers Ltd.
+    country_of_origin: United Kingdom; Kingdom of Great Britain; Kingdom of England;
+      United Kingdom of Great Britain and Ireland
+    purpose: Low cost paperless office computing workstation
+    programming_languages: Modula-2+
+    first_release: null
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: null
+    os_family: Unix-like
+    gui: Graphical user interface and special keyboard keys
+    platforms: ARM
+    kernel_type: Microkernel
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-headquarters
+    source: https://www.wikidata.org/wiki/Q350
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

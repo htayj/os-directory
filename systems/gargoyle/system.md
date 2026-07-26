@@ -33,6 +33,31 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Gargoyle_(router_firmware), title: "Gargoyle", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Gargoyle_(router_firmware)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Eric Bishop
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: 14 July 2008 ( 2008-07-14 )
+    latest_release: 1.14.0 (May 31, 2023 ( 2023-05-31 ) )
+    last_updated: 1.14.0 (May 31, 2023 ( 2023-05-31 ) )
+    development_status: Current
+    source_model: Open source
+    os_family: Linux ( Unix-like )
+    gui: CLI , WebUI
+    platforms: ar71xx, bcm27xx, bcm47xx, ipq40xx, ipq806x, mediatek, mvebu , ramips,
+      rockchip, x86/x64; potentially compatible with more as OpenWrt but requires
+      8 MB of Flash and 32 MB of RAM
+    kernel_type: Monolithic ( Linux )
+    license: Free software licenses (mainly GPL ), and other licenses
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

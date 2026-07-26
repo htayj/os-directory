@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/HP-UX, title: "HP-UX", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/HP-UX
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Hewlett Packard Enterprise
+    country_of_origin: United States
+    purpose: Server
+    programming_languages: C
+    first_release: 1982 ; 44 years ago ( 1982 )
+    latest_release: 2505.11iv3 / May 22, 2025 ; 13 months ago ( 2025-05-22 )
+    last_updated: 2505.11iv3 / May 22, 2025 ; 13 months ago ( 2025-05-22 )
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: Unix ( System V )
+    gui: KDE Plasma , GNOME and CDE
+    platforms: Motorola 68k , FOCUS , PA-RISC , IA-64
+    kernel_type: Monolithic with dynamically loadable modules
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q19923099
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

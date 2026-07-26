@@ -33,6 +33,31 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Remix_OS, title: "Remix OS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Remix_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Jide Technology
+    country_of_origin: null
+    purpose: PC , tablets
+    programming_languages: C (core), C++ , Java (UI)
+    first_release: null
+    latest_release: 3.0 for ARM devices, 3.0.207 for PCs / November 25, 2016 ; 9 years
+      ago ( 2016-11-25 )
+    last_updated: 3.0 for ARM devices, 3.0.207 for PCs / November 25, 2016 ; 9 years
+      ago ( 2016-11-25 )
+    development_status: Discontinued
+    source_model: Closed source with open source parts
+    os_family: Android ( Linux )
+    gui: null
+    platforms: IA-32 , x86-64 , ARM
+    kernel_type: Monolithic
+    license: Freeware
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

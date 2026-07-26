@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Phantom_OS, title: "Phantom OS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Phantom_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Zone
+    country_of_origin: null
+    purpose: null
+    programming_languages: C , Phantom, Java
+    first_release: null
+    latest_release: latest / October 17, 2019 ; 6 years ago ( 2019-10-17 )
+    last_updated: latest / October 17, 2019 ; 6 years ago ( 2019-10-17 )
+    development_status: Active
+    source_model: FOSS
+    os_family: RTOS
+    gui: null
+    platforms: IA-32
+    kernel_type: Microkernel
+    license: LGPL
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

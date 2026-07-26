@@ -13,6 +13,29 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "μC/OS-III", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#%CE%BCC/OS-III
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Micrium, Inc., Silicon Labs
+    country_of_origin: null
+    purpose: Embedded devices
+    programming_languages: ANSI C
+    first_release: 1991 ; 35 years ago ( 1991 )
+    latest_release: OS-III / 2016 ; 10 years ago ( 2016 )
+    last_updated: OS-III / 2016 ; 10 years ago ( 2016 )
+    development_status: Current
+    source_model: Open-source as of 2020
+    os_family: null
+    gui: μC/ GUI
+    platforms: ARM Cortex-M3 , -M4F , ARM7TDMI ; Atmel AVR ; eSi-RISC , and many others
+    kernel_type: Real-time microkernel
+    license: Apache as of 2020; former Commercial , freeware education use
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # μC/OS-III

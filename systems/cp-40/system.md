@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/CP-40, title: "CP-40", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/CP-40
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM Cambridge Scientific Center (CSC)
+    country_of_origin: null
+    purpose: IBM mainframe computers
+    programming_languages: null
+    first_release: January 1967 ; 59 years ago ( 1967-01 )
+    latest_release: null
+    last_updated: null
+    development_status: Historic
+    source_model: null
+    os_family: CP/CMS
+    gui: Command-line interface
+    platforms: A unique, specially modified IBM System/360 Model 40
+    kernel_type: null
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

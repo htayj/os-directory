@@ -30,6 +30,33 @@ platforms: [{ value: iPad, evidence: [apple-platforms], assertion_status: docume
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: apple-platforms, resource: "https://developer.apple.com/platforms/", title: "Apple platforms", author: organization:Apple, source_kind: project-site }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/IPadOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apple
+    country_of_origin: United States
+    purpose: Tablet computers
+    programming_languages: C , C++ , Objective-C , Swift , assembly language
+    first_release: September 24, 2019 ; 6 years ago ( 2019-09-24 )
+    latest_release: 26.5.2 (June 29, 2026 ; 26 days ago ( 2026-06-29 ) ) [ ± ]
+    last_updated: 26.5.2 (June 29, 2026 ; 26 days ago ( 2026-06-29 ) ) [ ± ]
+    development_status: Current
+    source_model: Closed with open-source components
+    os_family: Unix-like , based on Darwin ( BSD ), iOS , macOS
+    gui: Cocoa Touch ( multi-touch , GUI )
+    platforms: ARMv9-A ( 17.4 –present) ARMv8-A ( 13.0 –present)
+    kernel_type: Hybrid ( XNU )
+    license: Proprietary software except for open-source components
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q312
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # iPadOS

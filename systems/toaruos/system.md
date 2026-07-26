@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/ToaruOS, title: "ToaruOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/ToaruOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: K. Lange
+    country_of_origin: null
+    purpose: null
+    programming_languages: C
+    first_release: January 30, 2017 ; 9 years ago ( 2017-01-30 )
+    latest_release: 2.3.2 / May 13, 2026 ; 2 months ago ( 2026-05-13 )
+    last_updated: 2.3.2 / May 13, 2026 ; 2 months ago ( 2026-05-13 )
+    development_status: Current
+    source_model: Open source
+    os_family: Unix-like
+    gui: null
+    platforms: x86-64 aarch64
+    kernel_type: Hybrid
+    license: UIUC License
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

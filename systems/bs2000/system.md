@@ -33,6 +33,36 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/BS2000, title: "BS2000", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/BS2000
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Siemens , Fujitsu Siemens Computers , Fujitsu Technology Solutions
+    country_of_origin: Germany
+    purpose: Mainframe computers
+    programming_languages: SPL , C , Assembler
+    first_release: 1975 ; 51 years ago ( 1975 )
+    latest_release: BS2000 OS DX V1.0B(v21.0B) / November 30, 2023 ; 2 years ago (
+      2023-11-30 )
+    last_updated: BS2000 OS DX V1.0B(v21.0B) / November 30, 2023 ; 2 years ago ( 2023-11-30
+      )
+    development_status: Current
+    source_model: null
+    os_family: TSOS
+    gui: null
+    platforms: Fujitsu Technology Solutions SE-Series, with /390 and/or x86 . Formerly
+      Siemens 4004, 7.700 and 7.500 mainframes, /370 , MIPS , and SPARC .
+    kernel_type: null
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q164152
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

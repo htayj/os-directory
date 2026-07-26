@@ -13,6 +13,40 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Microsoft Windows", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Microsoft_Windows
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Microsoft
+    country_of_origin: United States
+    purpose: Personal computing
+    programming_languages: null
+    first_release: November 20, 1985 ; 40 years ago ( 1985-11-20 )
+    latest_release: Windows 11 26H1 (10.0.28000.2525) (July 14, 2026 ; 12 days ago
+      ( 2026-07-14 ) ) [ ± ] 25H2 (10.0.26200.8894) (July 18, 2026 ; 8 days ago (
+      2026-07-18 ) ) [ ± ]
+    last_updated: Windows 11 26H1 (10.0.28000.2525) (July 14, 2026 ; 12 days ago (
+      2026-07-14 ) ) [ ± ] 25H2 (10.0.26200.8894) (July 18, 2026 ; 8 days ago ( 2026-07-18
+      ) ) [ ± ]
+    development_status: null
+    source_model: Closed-source Source-available (through Shared Source Initiative
+      )
+    os_family: null
+    gui: Windows shell
+    platforms: 'IA-32 , x86-64 , ARM , ARM64 Previously: 16-bit x86 , DEC Alpha ,
+      MIPS , PowerPC , Itanium'
+    kernel_type: 'Windows NT family: Hybrid Windows Embedded Compact /Windows CE:
+      Hybrid or Monolithic Windows 9x and earlier: Monolithic ( MS-DOS and VMM32 )'
+    license: Proprietary commercial software
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q2283
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Microsoft Windows

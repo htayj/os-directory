@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Symbian_OS, title: "Symbian OS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Symbian_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Symbian (1998–2008) Symbian Foundation (2008–11) Nokia (2010–11) Accenture
+      on behalf of Nokia (2011–13)
+    country_of_origin: null
+    purpose: Feature phones Smartphones
+    programming_languages: C++
+    first_release: 5 June 1997 ; 29 years ago ( 1997-06-05 ) (as EPOC32)
+    latest_release: null
+    last_updated: null
+    development_status: No longer supported
+    source_model: Proprietary software , formerly Free software (2010–11)
+    os_family: EPOC (Symbian)
+    gui: S60 (from 2009)
+    platforms: ARM , x86
+    kernel_type: Real-time microkernel , EKA2
+    license: Proprietary software , formerly Eclipse Public
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

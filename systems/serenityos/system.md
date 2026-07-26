@@ -13,6 +13,29 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "SerenityOS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/SerenityOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: the SerenityOS community
+    country_of_origin: null
+    purpose: null
+    programming_languages: Serenity C++
+    first_release: October 10, 2018 ; 7 years ago ( 2018-10-10 )
+    latest_release: null
+    last_updated: null
+    development_status: Current
+    source_model: Open source
+    os_family: Unix-like
+    gui: GUI
+    platforms: x86-64 , ARM , RISC-V
+    kernel_type: Monolithic
+    license: BSD-2-Clause
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # SerenityOS

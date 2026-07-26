@@ -33,6 +33,34 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Sailfish_OS, title: "Sailfish OS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Sailfish_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Jolla
+    country_of_origin: Finland
+    purpose: Mobile and general purpose
+    programming_languages: Qt/QML , C++
+    first_release: 16 November 2013 ; 12 years ago ( 2013-11-16 )
+    latest_release: 5.1 / 16 June 2026 ; 35 days ago ( 16 June 2026 )
+    last_updated: 5.1 / 16 June 2026 ; 35 days ago ( 16 June 2026 )
+    development_status: Current
+    source_model: Proprietary , with open-source components
+    os_family: Linux ( Unix-like )
+    gui: null
+    platforms: 32-bit and 64-bit ARM and 64-bit x86
+    kernel_type: Linux kernel
+    license: For end-user the EULA defines used open source and other licences components
+      with a component's origin.
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q62299
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

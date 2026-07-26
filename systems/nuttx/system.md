@@ -33,6 +33,34 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/NuttX, title: "NuttX", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/NuttX
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apache Software Foundation
+    country_of_origin: United States
+    purpose: Embedded systems
+    programming_languages: C , C++ , assembly
+    first_release: 2007 ; 19 years ago ( 2007 )
+    latest_release: 12.13.0 / April 2, 2026 ; 3 months ago ( 2026-04-02 )
+    last_updated: 12.13.0 / April 2, 2026 ; 3 months ago ( 2026-04-02 )
+    development_status: Current
+    source_model: Open source
+    os_family: POSIX
+    gui: null
+    platforms: ARM , AVR , AVR32 , HCS12 , LM32 , MIPS , RISC-V , OpenRISC , SuperH
+      , Xtensa , x86 , x86-64 , Z80
+    kernel_type: Real-time monolithic kernel
+    license: Apache License 2.0
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q489709
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Syllable_Desktop, title: "Syllable Desktop", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Syllable_Desktop
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Kristian Van Der Vliet, Kaj de Vos, Rick Caudill, Arno Klenke, Henrik
+      Isaksson
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: 0.4.0 / July 2002 ; 24 years ago ( 2002-07 )
+    latest_release: 0.6.7 / April 12, 2012 ; 14 years ago ( 2012-04-12 )
+    last_updated: 0.6.7 / April 12, 2012 ; 14 years ago ( 2012-04-12 )
+    development_status: Alpha
+    source_model: Open source
+    os_family: Unix-like
+    gui: null
+    platforms: IA-32
+    kernel_type: Hybrid
+    license: GNU General Public License
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

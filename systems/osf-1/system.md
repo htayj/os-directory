@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/OSF/1, title: "OSF/1", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/OSF/1
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Open Software Foundation
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: January 1992 ; 34 years ago ( 1992-01 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: null
+    os_family: Unix
+    gui: null
+    platforms: MIPS , DEC Alpha , PA-RISC
+    kernel_type: Hybrid, Microkernel
+    license: null
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/BeOS, title: BeOS, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/BeOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Be Inc.
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C++
+    first_release: October 3, 1995 ; 30 years ago ( 1995-10-03 )
+    latest_release: R5.0.3 / May 26, 2000 ; 26 years ago ( 2000-05-26 )
+    last_updated: R5.0.3 / May 26, 2000 ; 26 years ago ( 2000-05-26 )
+    development_status: Discontinued
+    source_model: Proprietary
+    os_family: null
+    gui: null
+    platforms: IA-32 PowerPC
+    kernel_type: Monolithic
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q791615
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

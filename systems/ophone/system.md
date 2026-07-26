@@ -13,6 +13,29 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "OPhone", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/OPhone
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: OPhone Software Developers Network
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: 2 August 2009 ; 16 years ago ( 2009-08-02 )
+    latest_release: OPhone 2.5 / 22 April 2011 ; 15 years ago ( 2011-04-22 )
+    last_updated: OPhone 2.5 / 22 April 2011 ; 15 years ago ( 2011-04-22 )
+    development_status: No longer supported
+    source_model: Open source
+    os_family: null
+    gui: null
+    platforms: ARM , MIPS , Power ISA , x86
+    kernel_type: Monolithic ( Linux )
+    license: Apache 2.0 and GPL v2
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # OPhone

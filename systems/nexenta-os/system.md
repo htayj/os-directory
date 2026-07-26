@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Nexenta_OS, title: "Nexenta OS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Nexenta_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Nexenta Systems / HackZone members
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Open source
+    os_family: Unix-like ( SVR4 and Linux )
+    gui: Command line / GNOME
+    platforms: i386 , AMD64 , SPARC
+    kernel_type: Monolithic (illumos)
+    license: Various
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q16928036
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

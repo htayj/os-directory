@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia-netbsd, resource: https://en.wikipedia.org/wiki/NetBSD, title: NetBSD, source_kind: article }]
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/NetBSD
+  retrieved_at: 2026-07-26
+  assertion_status: provisional
+  note: Descriptive source-list entry; values apply only to the unnamed Apple appliance variant, not NetBSD generally.
+  fields:
+    developer: Apple
+    country_of_origin: United States
+    purpose: Appliance firmware for AirPort Extreme and Time Capsule
+    programming_languages: null
+    first_release: null
+    latest_release: null
+    last_updated: null
+    development_status: unknown
+    source_model: unknown
+    os_family: NetBSD-derived
+    gui: null
+    platforms: Apple AirPort Extreme and Time Capsule
+    kernel_type: null
+    license: null
+  country_evidence:
+    source: https://www.wikidata.org/wiki/Q312
+    method: inferred-from-developer-country
+    assertion_status: inferred
 ---
 
 ## Overview

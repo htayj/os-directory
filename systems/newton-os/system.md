@@ -38,6 +38,33 @@ hardware_platforms: [{ platform: Apple MessagePad, support_origin: original-targ
 architectures: []
 sources:
   - { id: wikipedia, resource: https://en.wikipedia.org/wiki/Newton_OS, title: Newton OS, source_kind: article }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Newton_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apple Computer, Inc.
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C++
+    first_release: 3 August 1993 ; 32 years ago ( 1993-08-03 )
+    latest_release: null
+    last_updated: null
+    development_status: Historical
+    source_model: Closed source
+    os_family: null
+    gui: GUI
+    platforms: ARM
+    kernel_type: Microkernel
+    license: Proprietary EULA
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q312
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

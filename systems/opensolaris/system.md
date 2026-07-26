@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/OpenSolaris, title: "OpenSolaris", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/OpenSolaris
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Sun Microsystems
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C
+    first_release: May 5, 2008 ; 18 years ago ( 2008-05-05 )
+    latest_release: 2009.06 / June 1, 2009 ; 17 years ago ( 2009-06-01 )
+    last_updated: 2009.06 / June 1, 2009 ; 17 years ago ( 2009-06-01 )
+    development_status: Discontinued, continued by illumos
+    source_model: Open source
+    os_family: Unix ( System V Release 4 )
+    gui: GNOME
+    platforms: SPARC , IA-32 , x86-64
+    kernel_type: Monolithic
+    license: Mostly CDDL with proprietary components and other licenses
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q14647
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

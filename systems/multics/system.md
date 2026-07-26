@@ -31,6 +31,34 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Multics, title: Multics, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Multics
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: MIT , GE , Honeywell , Bell Labs
+    country_of_origin: United States
+    purpose: null
+    programming_languages: PL/I , Assembly language
+    first_release: 1969 ; 57 years ago ( 1969 )
+    latest_release: 12.8 / August 10, 2023 ; 2 years ago ( 2023-08-10 )
+    last_updated: 12.8 / August 10, 2023 ; 2 years ago ( 2023-08-10 )
+    development_status: Mature, current, historic, emulator available
+    source_model: Open source
+    os_family: null
+    gui: Command-line interface
+    platforms: GE-645 , Honeywell 6000 series machines ( Honeywell 6180 , Series-60/Level-68,
+      DPS-8/M mainframes)
+    kernel_type: Monolithic kernel
+    license: Originally proprietary , Free software Multics License since 2007
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q217365
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -13,6 +13,33 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "JavaOS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/JavaOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Sun Microsystems
+    country_of_origin: United States
+    purpose: null
+    programming_languages: Java (primarily) C and C++ (parts of kernel)
+    first_release: May 29, 1996 ; 30 years ago ( 1996-05-29 )
+    latest_release: Final / August 23, 1999 ; 26 years ago ( 1999-08-23 )
+    last_updated: Final / August 23, 1999 ; 26 years ago ( 1999-08-23 )
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: Java
+    gui: null
+    platforms: ARM , PowerPC , SPARC , IA-32 ( x86 )
+    kernel_type: Microkernel
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q14647
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # JavaOS

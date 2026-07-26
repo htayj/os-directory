@@ -33,6 +33,42 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Windows_NT, title: "Windows NT", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Windows_NT
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Microsoft , with Dave Cutler as the lead architect
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C , Assembly language (core) C++ , Rust (user mode applications,
+      kernel graphical subsystem) C++ , C# (user mode applications, shell)
+    first_release: July 27, 1993 ; 32 years ago ( 1993-07-27 ) (as Windows NT 3.1
+      )
+    latest_release: 26H1 (10.0.28000.2525) (July 14, 2026 ; 12 days ago ( 2026-07-14
+      ) ) [ ± ] 25H2 (10.0.26200.8894) (July 18, 2026 ; 8 days ago ( 2026-07-18 )
+      ) [ ± ]
+    last_updated: 26H1 (10.0.28000.2525) (July 14, 2026 ; 12 days ago ( 2026-07-14
+      ) ) [ ± ] 25H2 (10.0.26200.8894) (July 18, 2026 ; 8 days ago ( 2026-07-18 )
+      ) [ ± ]
+    development_status: Current
+    source_model: Closed-source Source-available (through Shared Source Initiative
+      )
+    os_family: null
+    gui: Graphical ( Windows shell )
+    platforms: x86-64 and ARM64 (and historically Intel i860 , DEC Alpha , Itanium
+      , MIPS , PowerPC , IA-32 and ARM32 )
+    kernel_type: Hybrid [ citation needed ]
+    license: 'Depending on version, edition or customer choice: Trialware , commercial
+      software , volume licensing , OEM -only, SaaS , S+S [ a ]'
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q2283
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

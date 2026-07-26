@@ -37,6 +37,33 @@ platforms:
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: apple-manuals, resource: "https://www.applelogic.org/UserManuals.html", title: "Apple II user-manual collection", author: organization:Apple, source_kind: manual }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Apple_Pascal
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apple Computer
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: August 1979 ; 46 years ago ( 1979-08 )
+    latest_release: 1.3 (Apple II) 1.1 (Apple III) / 1984 ; 42 years ago ( 1984 )
+    last_updated: 1.3 (Apple II) 1.1 (Apple III) / 1984 ; 42 years ago ( 1984 )
+    development_status: Historic
+    source_model: Closed source
+    os_family: UCSD Pascal
+    gui: null
+    platforms: null
+    kernel_type: Monolithic
+    license: Apple Software License Agreement
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q312
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Apple Pascal

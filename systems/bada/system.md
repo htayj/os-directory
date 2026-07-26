@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Bada_(operating_system), title: "Bada", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Bada_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Samsung Electronics
+    country_of_origin: South Korea
+    purpose: Smartphone
+    programming_languages: C++
+    first_release: null
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued (replaced by Tizen )
+    source_model: 'Mixed: proprietary and open source components'
+    os_family: TRON , Linux
+    gui: TouchWiz , graphical ( touchscreen )
+    platforms: null
+    kernel_type: Monolithic ( Linux Kernel )
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q20718
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

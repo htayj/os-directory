@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/%C3%85ngstr%C3%B6m_distribution, title: "Ångström distribution", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/%C3%85ngstr%C3%B6m_distribution
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: null
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: 2017.12 / December 30, 2017 ; 8 years ago ( 2017-12-30 )
+    last_updated: 2017.12 / December 30, 2017 ; 8 years ago ( 2017-12-30 )
+    development_status: Unmaintained
+    source_model: Open source
+    os_family: Linux ( Unix-like )
+    gui: Console , X Window System , GPE , OPIE
+    platforms: ARM
+    kernel_type: Monolithic kernel
+    license: Free software licenses (mainly GPL )
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

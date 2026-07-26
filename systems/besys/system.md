@@ -29,6 +29,34 @@ platforms: [{ value: "IBM 7090", evidence: [besys-discovery], assertion_status: 
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: besys-discovery, resource: "https://en.wikipedia.org/wiki/BESYS", title: BESYS, source_kind: article }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/BESYS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Bell Labs
+    country_of_origin: United States
+    purpose: null
+    programming_languages: IBM 's FORTRAN and North American 's Symbolic Assembly
+      Program (SAP)
+    first_release: 1957 ; 69 years ago ( 1957 )
+    latest_release: BE90 / 1968 ; 58 years ago ( 1968 )
+    last_updated: BE90 / 1968 ; 58 years ago ( 1968 )
+    development_status: Discontinued
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: IBM 704
+    kernel_type: null
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q217365
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # BESYS

@@ -1,0 +1,3544 @@
+{
+  "https://en.wikipedia.org/wiki/%C3%85ngstr%C3%B6m_distribution": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q130329"
+  },
+  "https://en.wikipedia.org/wiki/%C3%89sope_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q97368006"
+  },
+  "https://en.wikipedia.org/wiki/86-DOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1550345"
+  },
+  "https://en.wikipedia.org/wiki/9front": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/A/ROSE": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q4648765"
+  },
+  "https://en.wikipedia.org/wiki/A/UX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1140097"
+  },
+  "https://en.wikipedia.org/wiki/A2_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Switzerland"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q885978"
+  },
+  "https://en.wikipedia.org/wiki/AMSDOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United Kingdom"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q577303"
+  },
+  "https://en.wikipedia.org/wiki/ANDOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1962569"
+  },
+  "https://en.wikipedia.org/wiki/AROS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/ARX_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United Kingdom",
+      "Kingdom of Great Britain",
+      "Kingdom of England",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q281222"
+  },
+  "https://en.wikipedia.org/wiki/Academic_Operating_System": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Access_Linux_Platform": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q338953"
+  },
+  "https://en.wikipedia.org/wiki/Acorn_MOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United Kingdom",
+      "Kingdom of Great Britain",
+      "Kingdom of England",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q4674556"
+  },
+  "https://en.wikipedia.org/wiki/Amdahl_UTS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7876034"
+  },
+  "https://en.wikipedia.org/wiki/AmigaOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States",
+      "Germany",
+      "Belgium",
+      "United Kingdom of the Netherlands",
+      "France",
+      "Austrian Netherlands",
+      "Spanish Netherlands",
+      "Habsburg Netherlands",
+      "Burgundian Netherlands",
+      "Duchy of Brabant"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q380526"
+  },
+  "https://en.wikipedia.org/wiki/Amiga_Unix": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q295179"
+  },
+  "https://en.wikipedia.org/wiki/Amoeba_distributed_operating_system": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Android-x86": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q877084"
+  },
+  "https://en.wikipedia.org/wiki/Android_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q94"
+  },
+  "https://en.wikipedia.org/wiki/Android_TV": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q17298682"
+  },
+  "https://en.wikipedia.org/wiki/Apache_Mynewt": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q25110481"
+  },
+  "https://en.wikipedia.org/wiki/Apple_DOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q621234"
+  },
+  "https://en.wikipedia.org/wiki/Apple_GS/OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q352308"
+  },
+  "https://en.wikipedia.org/wiki/Apple_Pascal": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q178896"
+  },
+  "https://en.wikipedia.org/wiki/Apple_ProDOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q621328"
+  },
+  "https://en.wikipedia.org/wiki/Apple_SOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q352106"
+  },
+  "https://en.wikipedia.org/wiki/ArcaOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q29342781"
+  },
+  "https://en.wikipedia.org/wiki/Arthur_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Atari_DOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q753609"
+  },
+  "https://en.wikipedia.org/wiki/Atari_TOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1574899"
+  },
+  "https://en.wikipedia.org/wiki/AtheOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q754972"
+  },
+  "https://en.wikipedia.org/wiki/Aurora_OS_(Russian_mobile_platform)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q111174217"
+  },
+  "https://en.wikipedia.org/wiki/Azure_Sphere": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q52432834"
+  },
+  "https://en.wikipedia.org/wiki/BESYS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1152431"
+  },
+  "https://en.wikipedia.org/wiki/BLIS/COBOL": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q4835853"
+  },
+  "https://en.wikipedia.org/wiki/BOS/360": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q4836225"
+  },
+  "https://en.wikipedia.org/wiki/BS2000": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Germany"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q338229"
+  },
+  "https://en.wikipedia.org/wiki/Bada_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "South Korea"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q242157"
+  },
+  "https://en.wikipedia.org/wiki/Banyan_VINES": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q731220"
+  },
+  "https://en.wikipedia.org/wiki/BareMetal": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q3634939"
+  },
+  "https://en.wikipedia.org/wiki/Barrelfish_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q808858"
+  },
+  "https://en.wikipedia.org/wiki/BeIA": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q812801"
+  },
+  "https://en.wikipedia.org/wiki/BeOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q62563"
+  },
+  "https://en.wikipedia.org/wiki/Berkeley_Software_Distribution": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q34264"
+  },
+  "https://en.wikipedia.org/wiki/Berkeley_Timesharing_System": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q4892120"
+  },
+  "https://en.wikipedia.org/wiki/Bitrig": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q19867217"
+  },
+  "https://en.wikipedia.org/wiki/BlackBerry_10": {
+    "assertion_status": "provisional",
+    "countries": [
+      "Canada"
+    ],
+    "method": "wikidata-country-of-origin",
+    "property": "P495",
+    "wikidata_entity": "Q879989"
+  },
+  "https://en.wikipedia.org/wiki/BlackBerry_OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Canada"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q880016"
+  },
+  "https://en.wikipedia.org/wiki/BrickOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q4965878"
+  },
+  "https://en.wikipedia.org/wiki/BridgeOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q62554938"
+  },
+  "https://en.wikipedia.org/wiki/Burroughs_MCP": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1326534"
+  },
+  "https://en.wikipedia.org/wiki/Business_Operating_System_(software)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q5001770"
+  },
+  "https://en.wikipedia.org/wiki/CBL-Mariner": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/CB_Unix": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/CDC_Kronos": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q4035589"
+  },
+  "https://en.wikipedia.org/wiki/CP-40": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/CP-67": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5013581"
+  },
+  "https://en.wikipedia.org/wiki/CP/CMS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5013590"
+  },
+  "https://en.wikipedia.org/wiki/CP/M": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q219528"
+  },
+  "https://en.wikipedia.org/wiki/CP/M-86": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q2706791"
+  },
+  "https://en.wikipedia.org/wiki/CSI-DOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q4035692"
+  },
+  "https://en.wikipedia.org/wiki/CTOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/CalyxOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q105543963"
+  },
+  "https://en.wikipedia.org/wiki/CatOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/ChibiOS/RT": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1603924"
+  },
+  "https://en.wikipedia.org/wiki/ChorusOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "France",
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q670316"
+  },
+  "https://en.wikipedia.org/wiki/ChromeOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q79531"
+  },
+  "https://en.wikipedia.org/wiki/ChromiumOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q79534"
+  },
+  "https://en.wikipedia.org/wiki/Cisco_IOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q753576"
+  },
+  "https://en.wikipedia.org/wiki/Cisco_NX-OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q3869717"
+  },
+  "https://en.wikipedia.org/wiki/Classic_Mac_OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q13522376"
+  },
+  "https://en.wikipedia.org/wiki/Coherent_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q380473"
+  },
+  "https://en.wikipedia.org/wiki/ColorOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "People's Republic of China"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q17352119"
+  },
+  "https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1121396"
+  },
+  "https://en.wikipedia.org/wiki/Concurrent_CP/M": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Concurrent_CP/M-86": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Concurrent_DOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Contiki": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q121088"
+  },
+  "https://en.wikipedia.org/wiki/Control_Program_Facility": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1129169"
+  },
+  "https://en.wikipedia.org/wiki/Convergent_Technologies_Operating_System": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1024509"
+  },
+  "https://en.wikipedia.org/wiki/Copland_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1131259"
+  },
+  "https://en.wikipedia.org/wiki/Cosmos_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q2354375"
+  },
+  "https://en.wikipedia.org/wiki/Cromemco_DOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q96375688"
+  },
+  "https://en.wikipedia.org/wiki/Cromix": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/DC/OSx": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5204457"
+  },
+  "https://en.wikipedia.org/wiki/DD-WRT": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1152232"
+  },
+  "https://en.wikipedia.org/wiki/DEC_BATCH-11/DOS-11": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q3499440"
+  },
+  "https://en.wikipedia.org/wiki/DEC_MICA": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q109406976"
+  },
+  "https://en.wikipedia.org/wiki/DIP_DOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/DNIX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Sweden"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5205789"
+  },
+  "https://en.wikipedia.org/wiki/DOS/360_and_successors": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q3487917"
+  },
+  "https://en.wikipedia.org/wiki/DOS/360_and_successors#TOS/360": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q3487917"
+  },
+  "https://en.wikipedia.org/wiki/DOS/V": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1049628"
+  },
+  "https://en.wikipedia.org/wiki/DOS/VS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/DOS/VSE": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/DOS_Plus": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q5205892"
+  },
+  "https://en.wikipedia.org/wiki/DR-DOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q1046873"
+  },
+  "https://en.wikipedia.org/wiki/Darwin_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q14581"
+  },
+  "https://en.wikipedia.org/wiki/Data_ONTAP": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/DivestOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q112623395"
+  },
+  "https://en.wikipedia.org/wiki/Domain/OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5289795"
+  },
+  "https://en.wikipedia.org/wiki/DragonFly_BSD": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q751067"
+  },
+  "https://en.wikipedia.org/wiki/Dynix": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/EComStation": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Netherlands"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q307032"
+  },
+  "https://en.wikipedia.org/wiki/ECos": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q285237"
+  },
+  "https://en.wikipedia.org/wiki/EMUI": {
+    "assertion_status": "inferred",
+    "countries": [
+      "People's Republic of China"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q4040805"
+  },
+  "https://en.wikipedia.org/wiki/EOS_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5323796"
+  },
+  "https://en.wikipedia.org/wiki/EPOC_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United Kingdom"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q200647"
+  },
+  "https://en.wikipedia.org/wiki/ERIKA_Enterprise": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q5324042"
+  },
+  "https://en.wikipedia.org/wiki/EXEC_8": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Edinburgh_Multiple_Access_System": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q5338225"
+  },
+  "https://en.wikipedia.org/wiki/Edos": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q5322860"
+  },
+  "https://en.wikipedia.org/wiki/EmuTOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q5374842"
+  },
+  "https://en.wikipedia.org/wiki/EulerOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "People's Republic of China"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q31079406"
+  },
+  "https://en.wikipedia.org/wiki/Executive_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/ExtremeWare": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/ExtremeXOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5422303"
+  },
+  "https://en.wikipedia.org/wiki/Extremely_Reliable_Operating_System": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/FTOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q5427205"
+  },
+  "https://en.wikipedia.org/wiki/Fabric_OS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q5428124"
+  },
+  "https://en.wikipedia.org/wiki/Familiar_Linux": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q2992499"
+  },
+  "https://en.wikipedia.org/wiki/Fire_OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q15089879"
+  },
+  "https://en.wikipedia.org/wiki/Firefox_OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q550303"
+  },
+  "https://en.wikipedia.org/wiki/FlexOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q2560413"
+  },
+  "https://en.wikipedia.org/wiki/Flyme_OS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/FreeBSD": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q34236"
+  },
+  "https://en.wikipedia.org/wiki/FreeDOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q473751"
+  },
+  "https://en.wikipedia.org/wiki/FreeRTOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1186761"
+  },
+  "https://en.wikipedia.org/wiki/Fuchsia_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q26267190"
+  },
+  "https://en.wikipedia.org/wiki/GEORGE_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q582845"
+  },
+  "https://en.wikipedia.org/wiki/GEOS_(8-bit_operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q572117"
+  },
+  "https://en.wikipedia.org/wiki/GLinux": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q48815284"
+  },
+  "https://en.wikipedia.org/wiki/GM-NAA_I/O": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q3093244"
+  },
+  "https://en.wikipedia.org/wiki/GNO/ME": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q5513970"
+  },
+  "https://en.wikipedia.org/wiki/GNU": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q44571"
+  },
+  "https://en.wikipedia.org/wiki/Gargoyle_(router_firmware)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q5523200"
+  },
+  "https://en.wikipedia.org/wiki/General_Comprehensive_Operating_System": {
+    "assertion_status": "provisional",
+    "countries": [
+      "United States"
+    ],
+    "method": "wikidata-country-of-origin",
+    "property": "P495",
+    "wikidata_entity": "Q1501565"
+  },
+  "https://en.wikipedia.org/wiki/Genode": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q16527380"
+  },
+  "https://en.wikipedia.org/wiki/GhostBSD": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1190822"
+  },
+  "https://en.wikipedia.org/wiki/GrapheneOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q85764357"
+  },
+  "https://en.wikipedia.org/wiki/HDOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q913744"
+  },
+  "https://en.wikipedia.org/wiki/HP-UX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q847593"
+  },
+  "https://en.wikipedia.org/wiki/HP_Multi-Programming_Executive": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1429846"
+  },
+  "https://en.wikipedia.org/wiki/Haiku_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q215448"
+  },
+  "https://en.wikipedia.org/wiki/HarmonyOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "People's Republic of China"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q63986220"
+  },
+  "https://en.wikipedia.org/wiki/Harmony_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q99485424"
+  },
+  "https://en.wikipedia.org/wiki/HelenOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q3243004"
+  },
+  "https://en.wikipedia.org/wiki/HeliOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Honeywell_CP-6": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q18148810"
+  },
+  "https://en.wikipedia.org/wiki/Hydra_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q5954168"
+  },
+  "https://en.wikipedia.org/wiki/HyperOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/IBM_1130#Operating_procedure": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q3146513"
+  },
+  "https://en.wikipedia.org/wiki/IBM_4680_OS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/IBM_4690_OS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/IBM_7090/94_IBSYS": {
+    "assertion_status": "provisional",
+    "countries": [
+      "United States"
+    ],
+    "method": "wikidata-country-of-origin",
+    "property": "P495",
+    "wikidata_entity": "Q620465"
+  },
+  "https://en.wikipedia.org/wiki/IBM_8100_DPCX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5968740"
+  },
+  "https://en.wikipedia.org/wiki/IBM_8100_DPPX": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/IBM_AIX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q269856"
+  },
+  "https://en.wikipedia.org/wiki/IBM_Airline_Control_Program": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q3146515"
+  },
+  "https://en.wikipedia.org/wiki/IBM_DPPX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5968743"
+  },
+  "https://en.wikipedia.org/wiki/IBM_i": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q15637561"
+  },
+  "https://en.wikipedia.org/wiki/ICL_VME": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United Kingdom"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q4052546"
+  },
+  "https://en.wikipedia.org/wiki/ILIOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q5971767"
+  },
+  "https://en.wikipedia.org/wiki/IMAX_432": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q17142945"
+  },
+  "https://en.wikipedia.org/wiki/INTEGRITY-178B": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/IOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q48493"
+  },
+  "https://en.wikipedia.org/wiki/IOS-XR": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/IPFire": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1249280"
+  },
+  "https://en.wikipedia.org/wiki/IPadOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q64350339"
+  },
+  "https://en.wikipedia.org/wiki/IPodLinux": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q306085"
+  },
+  "https://en.wikipedia.org/wiki/IPod_software": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/IRIX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q627611"
+  },
+  "https://en.wikipedia.org/wiki/ISIS_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5973993"
+  },
+  "https://en.wikipedia.org/wiki/Illumos": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q2274332"
+  },
+  "https://en.wikipedia.org/wiki/Incompatible_Timesharing_System": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1660989"
+  },
+  "https://en.wikipedia.org/wiki/Inferno_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States",
+      "United Kingdom",
+      "Canada"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q908615"
+  },
+  "https://en.wikipedia.org/wiki/Integrity_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q3152988"
+  },
+  "https://en.wikipedia.org/wiki/Interactive_Unix": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q655624"
+  },
+  "https://en.wikipedia.org/wiki/JX_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Germany"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q751898"
+  },
+  "https://en.wikipedia.org/wiki/J_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/JavaOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1684163"
+  },
+  "https://en.wikipedia.org/wiki/JunOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/K42": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q381745"
+  },
+  "https://en.wikipedia.org/wiki/KIN_OS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/KaiOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "People's Republic of China",
+      "British Empire"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q48774201"
+  },
+  "https://en.wikipedia.org/wiki/Kali_NetHunter": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q23680076"
+  },
+  "https://en.wikipedia.org/wiki/KeyKOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q6398001"
+  },
+  "https://en.wikipedia.org/wiki/KolibriOS": {
+    "assertion_status": "provisional",
+    "countries": [
+      "Russia"
+    ],
+    "method": "wikidata-country-of-origin",
+    "property": "P495",
+    "wikidata_entity": "Q1290448"
+  },
+  "https://en.wikipedia.org/wiki/LAN_Manager": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q888073"
+  },
+  "https://en.wikipedia.org/wiki/LEDE": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q26335456"
+  },
+  "https://en.wikipedia.org/wiki/LeJOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q287456"
+  },
+  "https://en.wikipedia.org/wiki/LibreCMC": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q16655648"
+  },
+  "https://en.wikipedia.org/wiki/LineageOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q28059734"
+  },
+  "https://en.wikipedia.org/wiki/Linux": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q388"
+  },
+  "https://en.wikipedia.org/wiki/LiteOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q17067554"
+  },
+  "https://en.wikipedia.org/wiki/LynxOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1878937"
+  },
+  "https://en.wikipedia.org/wiki/M0n0wall": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q263666"
+  },
+  "https://en.wikipedia.org/wiki/MINIX": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/MIPS_RISC/os": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q3433109"
+  },
+  "https://en.wikipedia.org/wiki/MIUI": {
+    "assertion_status": "inferred",
+    "countries": [
+      "People's Republic of China"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1187721"
+  },
+  "https://en.wikipedia.org/wiki/MK-DOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q4043437"
+  },
+  "https://en.wikipedia.org/wiki/MP/M": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q3317219"
+  },
+  "https://en.wikipedia.org/wiki/MP/M-86": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/MS-DOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q47604"
+  },
+  "https://en.wikipedia.org/wiki/MS-Net": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q18351115"
+  },
+  "https://en.wikipedia.org/wiki/MSP_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/MSX-DOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2445525"
+  },
+  "https://en.wikipedia.org/wiki/MUSIC/SP": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Canada"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q629795"
+  },
+  "https://en.wikipedia.org/wiki/MacOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q14116"
+  },
+  "https://en.wikipedia.org/wiki/Maemo": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Finland"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q239749"
+  },
+  "https://en.wikipedia.org/wiki/MagiC": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1884068"
+  },
+  "https://en.wikipedia.org/wiki/Magic_Cap": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q6730657"
+  },
+  "https://en.wikipedia.org/wiki/Magnussoft_ZETA": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/MeeGo": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Finland",
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q241874"
+  },
+  "https://en.wikipedia.org/wiki/MeikOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/MenuetOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q587135"
+  },
+  "https://en.wikipedia.org/wiki/MiNT": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1926549"
+  },
+  "https://en.wikipedia.org/wiki/Michigan_Terminal_System": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q6837755"
+  },
+  "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#History": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q6839097"
+  },
+  "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#μC/OS-III": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q6839097"
+  },
+  "https://en.wikipedia.org/wiki/Microport_(software)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Microsoft_Windows": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1406"
+  },
+  "https://en.wikipedia.org/wiki/MidnightBSD": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1978306"
+  },
+  "https://en.wikipedia.org/wiki/Midori_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1049148"
+  },
+  "https://en.wikipedia.org/wiki/MkLinux": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1348118"
+  },
+  "https://en.wikipedia.org/wiki/Mobilinux": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q179612"
+  },
+  "https://en.wikipedia.org/wiki/MorphOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q646795"
+  },
+  "https://en.wikipedia.org/wiki/MotoMagx": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1048784"
+  },
+  "https://en.wikipedia.org/wiki/MultiTOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Multics": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q739186"
+  },
+  "https://en.wikipedia.org/wiki/Multiuser_DOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q3867065"
+  },
+  "https://en.wikipedia.org/wiki/NCOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United Kingdom",
+      "Kingdom of Great Britain",
+      "Kingdom of England",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q6953165"
+  },
+  "https://en.wikipedia.org/wiki/NCR_VRX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2615989"
+  },
+  "https://en.wikipedia.org/wiki/NOS/VE": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q17136341"
+  },
+  "https://en.wikipedia.org/wiki/NOS_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q3338564"
+  },
+  "https://en.wikipedia.org/wiki/NeXTSTEP": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q831367"
+  },
+  "https://en.wikipedia.org/wiki/Nemesis_(computing)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/NetBSD": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q34225"
+  },
+  "https://en.wikipedia.org/wiki/NetWare": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q691990"
+  },
+  "https://en.wikipedia.org/wiki/NewDos/80": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7005105"
+  },
+  "https://en.wikipedia.org/wiki/Newton_OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1185591"
+  },
+  "https://en.wikipedia.org/wiki/Nexenta_OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1750938"
+  },
+  "https://en.wikipedia.org/wiki/Nintendo_3DS_system_software": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Japan"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q3138061"
+  },
+  "https://en.wikipedia.org/wiki/Nintendo_DSi_system_software": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Japan"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7039149"
+  },
+  "https://en.wikipedia.org/wiki/Nintendo_Switch_system_software": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Japan"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q28869610"
+  },
+  "https://en.wikipedia.org/wiki/Novell_%22Corsair%22": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Novell_%22Expos%C3%A9%22": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Novell_%22SuperNOS%22": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Novell_DOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Novell_Open_Enterprise_Server": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Nucleus_RTOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1144225"
+  },
+  "https://en.wikipedia.org/wiki/NuttX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7070560"
+  },
+  "https://en.wikipedia.org/wiki/OPENSTEP": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/OPNsense": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q19348696"
+  },
+  "https://en.wikipedia.org/wiki/OPhone": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q3124912"
+  },
+  "https://en.wikipedia.org/wiki/ORVYL_and_WYLBUR": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7072951"
+  },
+  "https://en.wikipedia.org/wiki/OS-9": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q2008085"
+  },
+  "https://en.wikipedia.org/wiki/OS-9000": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/OS/2": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q189794"
+  },
+  "https://en.wikipedia.org/wiki/OS/2#Future": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q189794"
+  },
+  "https://en.wikipedia.org/wiki/OS/360": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/OS/390": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1726891"
+  },
+  "https://en.wikipedia.org/wiki/OS/4": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q118874565"
+  },
+  "https://en.wikipedia.org/wiki/OS/8": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7072964"
+  },
+  "https://en.wikipedia.org/wiki/OS/VS1": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7072966"
+  },
+  "https://en.wikipedia.org/wiki/OS4000": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7072970"
+  },
+  "https://en.wikipedia.org/wiki/OSF/1": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q11237594"
+  },
+  "https://en.wikipedia.org/wiki/OSv": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q17141440"
+  },
+  "https://en.wikipedia.org/wiki/Oberon_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1999119"
+  },
+  "https://en.wikipedia.org/wiki/OpenBSD": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q34215"
+  },
+  "https://en.wikipedia.org/wiki/OpenHarmony": {
+    "assertion_status": "inferred",
+    "countries": [
+      "People's Republic of China"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q102553047"
+  },
+  "https://en.wikipedia.org/wiki/OpenIndiana": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1970127"
+  },
+  "https://en.wikipedia.org/wiki/OpenSolaris": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q237580"
+  },
+  "https://en.wikipedia.org/wiki/OpenVMS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q479882"
+  },
+  "https://en.wikipedia.org/wiki/OpenWrt": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1140401"
+  },
+  "https://en.wikipedia.org/wiki/OpenZaurus": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1761492"
+  },
+  "https://en.wikipedia.org/wiki/Open_Enterprise_Server": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q1197839"
+  },
+  "https://en.wikipedia.org/wiki/Openmoko_Linux": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Taiwan"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2531940"
+  },
+  "https://en.wikipedia.org/wiki/Operating_System_Embedded": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Sweden"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5951064"
+  },
+  "https://en.wikipedia.org/wiki/PC-MOS/386": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q1420923"
+  },
+  "https://en.wikipedia.org/wiki/PC_DOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/PEN/GEOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/PRIMOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2109710"
+  },
+  "https://en.wikipedia.org/wiki/PSOS_(real-time_operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7120741"
+  },
+  "https://en.wikipedia.org/wiki/PTS-DOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Germany"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2044798"
+  },
+  "https://en.wikipedia.org/wiki/PWB/UNIX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q3359914"
+  },
+  "https://en.wikipedia.org/wiki/PX5_RTOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q122381096"
+  },
+  "https://en.wikipedia.org/wiki/Palm_OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States",
+      "Japan"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q274582"
+  },
+  "https://en.wikipedia.org/wiki/PenPoint_OS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7162080"
+  },
+  "https://en.wikipedia.org/wiki/PfSense": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q310946"
+  },
+  "https://en.wikipedia.org/wiki/Phantom_OS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q4119302"
+  },
+  "https://en.wikipedia.org/wiki/Pick_operating_system": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q3382499"
+  },
+  "https://en.wikipedia.org/wiki/PikeOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Germany"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1570329"
+  },
+  "https://en.wikipedia.org/wiki/Pilot_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q4046962"
+  },
+  "https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q725779"
+  },
+  "https://en.wikipedia.org/wiki/PlayStation_3_system_software": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Japan",
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q925362"
+  },
+  "https://en.wikipedia.org/wiki/PlayStation_4_system_software": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Japan",
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q15205044"
+  },
+  "https://en.wikipedia.org/wiki/PlayStation_5_system_software": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Japan",
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q99461848"
+  },
+  "https://en.wikipedia.org/wiki/PlayStation_Vita_system_software": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Japan",
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1103710"
+  },
+  "https://en.wikipedia.org/wiki/Plurix": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Brazil"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7205572"
+  },
+  "https://en.wikipedia.org/wiki/PostmarketOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q42851482"
+  },
+  "https://en.wikipedia.org/wiki/QNX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Canada"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q676052"
+  },
+  "https://en.wikipedia.org/wiki/Qt_Extended": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Finland"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2116784"
+  },
+  "https://en.wikipedia.org/wiki/REX_OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7276408"
+  },
+  "https://en.wikipedia.org/wiki/RIOT_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q16292393"
+  },
+  "https://en.wikipedia.org/wiki/RISC_OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United Kingdom",
+      "Kingdom of Great Britain",
+      "Kingdom of England",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q1202514"
+  },
+  "https://en.wikipedia.org/wiki/RISC_iX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United Kingdom",
+      "Kingdom of Great Britain",
+      "Kingdom of England",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q4047860"
+  },
+  "https://en.wikipedia.org/wiki/RMX_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q285845"
+  },
+  "https://en.wikipedia.org/wiki/ROM-DOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/RSTS/E": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2366908"
+  },
+  "https://en.wikipedia.org/wiki/RSX-11": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1637948"
+  },
+  "https://en.wikipedia.org/wiki/RT-11": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q305216"
+  },
+  "https://en.wikipedia.org/wiki/RT-Thread": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7277800"
+  },
+  "https://en.wikipedia.org/wiki/RTEMS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1600588"
+  },
+  "https://en.wikipedia.org/wiki/RTXC_Quadros": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7277909"
+  },
+  "https://en.wikipedia.org/wiki/ReactOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q234025"
+  },
+  "https://en.wikipedia.org/wiki/Real-Time_Multiprogramming_Operating_System": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7277860"
+  },
+  "https://en.wikipedia.org/wiki/Redox_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Remix_OS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q22049114"
+  },
+  "https://en.wikipedia.org/wiki/Replicant_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7314062"
+  },
+  "https://en.wikipedia.org/wiki/Research_Unix": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2666693"
+  },
+  "https://en.wikipedia.org/wiki/Rhapsody_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q264020"
+  },
+  "https://en.wikipedia.org/wiki/RockBox": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/SCO_OpenServer": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/SCO_Open_Desktop": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/SCO_UNIX": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/SHARE_Operating_System": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7390171"
+  },
+  "https://en.wikipedia.org/wiki/SINIX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Germany"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1361960"
+  },
+  "https://en.wikipedia.org/wiki/SINTRAN_III": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/SODA_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/SONiC_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q104868759"
+  },
+  "https://en.wikipedia.org/wiki/SUPER-UX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Japan"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2665351"
+  },
+  "https://en.wikipedia.org/wiki/Sailfish_OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Finland"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q81229"
+  },
+  "https://en.wikipedia.org/wiki/Samsung_Smart_TV": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/SerenityOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q65115406"
+  },
+  "https://en.wikipedia.org/wiki/SharpOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7490287"
+  },
+  "https://en.wikipedia.org/wiki/Sinclair_QDOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United Kingdom"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2712090"
+  },
+  "https://en.wikipedia.org/wiki/Singularity_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q604792"
+  },
+  "https://en.wikipedia.org/wiki/Siris_8": {
+    "assertion_status": "inferred",
+    "countries": [
+      "France"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q15965339"
+  },
+  "https://en.wikipedia.org/wiki/SkyOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q726395"
+  },
+  "https://en.wikipedia.org/wiki/SmartOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2592995"
+  },
+  "https://en.wikipedia.org/wiki/Solaris_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Spring_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q4049965"
+  },
+  "https://en.wikipedia.org/wiki/Sprite_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1054302"
+  },
+  "https://en.wikipedia.org/wiki/Stratus_VOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7622298"
+  },
+  "https://en.wikipedia.org/wiki/SunOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1208460"
+  },
+  "https://en.wikipedia.org/wiki/SuperTinyKernel_RTOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q138658351"
+  },
+  "https://en.wikipedia.org/wiki/Syllable_Desktop": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q429168"
+  },
+  "https://en.wikipedia.org/wiki/SymbOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1077493"
+  },
+  "https://en.wikipedia.org/wiki/Symbian_OS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Symbian_platform": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Symobi": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q2374648"
+  },
+  "https://en.wikipedia.org/wiki/System_Support_Program": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5969041"
+  },
+  "https://en.wikipedia.org/wiki/T-Kernel": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7667807"
+  },
+  "https://en.wikipedia.org/wiki/TENEX_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-headquarters",
+    "property": "P495",
+    "wikidata_entity": "Q2992529"
+  },
+  "https://en.wikipedia.org/wiki/THEOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7670242"
+  },
+  "https://en.wikipedia.org/wiki/THE_multiprogramming_system": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Netherlands"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2629686"
+  },
+  "https://en.wikipedia.org/wiki/TI-RTOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7395272"
+  },
+  "https://en.wikipedia.org/wiki/TME_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/TOPS-10": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1670222"
+  },
+  "https://en.wikipedia.org/wiki/TOPS-20": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1481861"
+  },
+  "https://en.wikipedia.org/wiki/TRSDOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q3512353"
+  },
+  "https://en.wikipedia.org/wiki/TSS/360": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/TSS/370": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/TSX-32": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7671762"
+  },
+  "https://en.wikipedia.org/wiki/TUNIS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Canada"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7672034"
+  },
+  "https://en.wikipedia.org/wiki/TempleOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q19961543"
+  },
+  "https://en.wikipedia.org/wiki/Thoth_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Canada"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q100251723"
+  },
+  "https://en.wikipedia.org/wiki/ThreadX": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7797161"
+  },
+  "https://en.wikipedia.org/wiki/Time_Sharing_Operating_System": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2384995"
+  },
+  "https://en.wikipedia.org/wiki/TinyOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1934217"
+  },
+  "https://en.wikipedia.org/wiki/Tizen": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States",
+      "South Korea"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q609306"
+  },
+  "https://en.wikipedia.org/wiki/ToaruOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q30645415"
+  },
+  "https://en.wikipedia.org/wiki/Tock_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q60989971"
+  },
+  "https://en.wikipedia.org/wiki/Toshiba_4690_OS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Towns_OS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Transaction_Management_eXecutive": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7833708"
+  },
+  "https://en.wikipedia.org/wiki/Transaction_Processing_Facility": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1426122"
+  },
+  "https://en.wikipedia.org/wiki/TripOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Tru64_UNIX": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q204214"
+  },
+  "https://en.wikipedia.org/wiki/TrueOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q34182"
+  },
+  "https://en.wikipedia.org/wiki/Trusted_Solaris": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q4051828"
+  },
+  "https://en.wikipedia.org/wiki/TurboDOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q4051867"
+  },
+  "https://en.wikipedia.org/wiki/TvOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q20965967"
+  },
+  "https://en.wikipedia.org/wiki/UCSD_Pascal": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q176984"
+  },
+  "https://en.wikipedia.org/wiki/UNIVAC_EXEC_I": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7865335"
+  },
+  "https://en.wikipedia.org/wiki/UNIVAC_EXEC_II": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7865336"
+  },
+  "https://en.wikipedia.org/wiki/UNIX_System_V": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q633192"
+  },
+  "https://en.wikipedia.org/wiki/Ubuntu_Touch": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United Kingdom"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q2595413"
+  },
+  "https://en.wikipedia.org/wiki/Ultrix": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q542726"
+  },
+  "https://en.wikipedia.org/wiki/UniFLEX": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7884641"
+  },
+  "https://en.wikipedia.org/wiki/Unicos": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Universal_Time-Sharing_System": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7894085"
+  },
+  "https://en.wikipedia.org/wiki/University_of_Michigan_Executive_System": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7895756"
+  },
+  "https://en.wikipedia.org/wiki/Unix": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q11368"
+  },
+  "https://en.wikipedia.org/wiki/UnixWare": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1148628"
+  },
+  "https://en.wikipedia.org/wiki/VERSAdos": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7922612"
+  },
+  "https://en.wikipedia.org/wiki/VM2000": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Germany"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7907179"
+  },
+  "https://en.wikipedia.org/wiki/VM_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5013572"
+  },
+  "https://en.wikipedia.org/wiki/VPS/VM": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7907437"
+  },
+  "https://en.wikipedia.org/wiki/VS/9": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7907539"
+  },
+  "https://en.wikipedia.org/wiki/VSTa": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q7907574"
+  },
+  "https://en.wikipedia.org/wiki/V_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1030951"
+  },
+  "https://en.wikipedia.org/wiki/Verve_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7923009"
+  },
+  "https://en.wikipedia.org/wiki/VisionOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q119105052"
+  },
+  "https://en.wikipedia.org/wiki/Visopsys": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q595656"
+  },
+  "https://en.wikipedia.org/wiki/VxWorks": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q757165"
+  },
+  "https://en.wikipedia.org/wiki/WAITS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q7946483"
+  },
+  "https://en.wikipedia.org/wiki/WatchOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q18012472"
+  },
+  "https://en.wikipedia.org/wiki/Wear_OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q15961745"
+  },
+  "https://en.wikipedia.org/wiki/WebOS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "South Korea"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q305873"
+  },
+  "https://en.wikipedia.org/wiki/Wii_U_system_software": {
+    "assertion_status": "inferred",
+    "countries": [
+      "Japan"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q15628543"
+  },
+  "https://en.wikipedia.org/wiki/Wii_system_software": {
+    "assertion_status": "provisional",
+    "countries": [
+      "Japan"
+    ],
+    "method": "wikidata-country-of-origin",
+    "property": "P495",
+    "wikidata_entity": "Q3257946"
+  },
+  "https://en.wikipedia.org/wiki/Windows_CE": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q488244"
+  },
+  "https://en.wikipedia.org/wiki/Windows_IoT": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1314632"
+  },
+  "https://en.wikipedia.org/wiki/Windows_Mobile": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q21207"
+  },
+  "https://en.wikipedia.org/wiki/Windows_NT": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q486487"
+  },
+  "https://en.wikipedia.org/wiki/Windows_Phone": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q4885200"
+  },
+  "https://en.wikipedia.org/wiki/Wombat_(operating_system)": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q8030786"
+  },
+  "https://en.wikipedia.org/wiki/Workplace_OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q5969165"
+  },
+  "https://en.wikipedia.org/wiki/XTS-400": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United Kingdom"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q8042513"
+  },
+  "https://en.wikipedia.org/wiki/Xbox_system_software": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q104841976"
+  },
+  "https://en.wikipedia.org/wiki/Xenix": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q589680"
+  },
+  "https://en.wikipedia.org/wiki/Xerox_Operating_System": {
+    "assertion_status": "inferred",
+    "countries": [
+      "France"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q8043904"
+  },
+  "https://en.wikipedia.org/wiki/Xinu": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q615787"
+  },
+  "https://en.wikipedia.org/wiki/Xv6": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q4053414"
+  },
+  "https://en.wikipedia.org/wiki/Z-DOS": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q8062805"
+  },
+  "https://en.wikipedia.org/wiki/Z/OS": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q283705"
+  },
+  "https://en.wikipedia.org/wiki/Z/TPF": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Z/VM": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q1399696"
+  },
+  "https://en.wikipedia.org/wiki/Z/VSE": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": null
+  },
+  "https://en.wikipedia.org/wiki/Z80-RIO": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q65067192"
+  },
+  "https://en.wikipedia.org/wiki/Zephyr_(operating_system)": {
+    "assertion_status": "inferred",
+    "countries": [
+      "United States"
+    ],
+    "method": "inferred-from-developer-country",
+    "property": "P495",
+    "wikidata_entity": "Q22909895"
+  },
+  "https://en.wikipedia.org/wiki/Zeroshell": {
+    "assertion_status": "unknown",
+    "countries": [],
+    "method": "no-country-evidence",
+    "property": "P495",
+    "wikidata_entity": "Q1152242"
+  }
+}

@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/HP_Multi-Programming_Executive, title: "HP Multi-Programming Executive", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/HP_Multi-Programming_Executive
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Hewlett-Packard
+    country_of_origin: United States
+    purpose: null
+    programming_languages: System Programming Language, HP Pascal, Assembly language
+    first_release: 1974 ; 52 years ago ( 1974 )
+    latest_release: 7.5 / August 2002 ; 23 years ago ( 2002-08 )
+    last_updated: 7.5 / August 2002 ; 23 years ago ( 2002-08 )
+    development_status: Discontinued
+    source_model: null
+    os_family: null
+    gui: Command-line interface
+    platforms: HP 3000
+    kernel_type: null
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q80978
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

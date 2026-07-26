@@ -13,6 +13,33 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "FreeRTOS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/FreeRTOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Amazon Web Services
+    country_of_origin: null
+    purpose: Embedded systems
+    programming_languages: C
+    first_release: 2003 ; 23 years ago ( 2003 )
+    latest_release: v202411.00 / March 4, 2025 ; 16 months ago ( 2025-03-04 )
+    last_updated: v202411.00 / March 4, 2025 ; 16 months ago ( 2025-03-04 )
+    development_status: Current
+    source_model: Open source
+    os_family: Real-time operating systems
+    gui: null
+    platforms: ARM (ARM7, ARM9, Cortex-M3 , -M4 , -M7 , -A , -R4 ), Atmel AVR , AVR32
+      , HCS12 , MicroBlaze , Cortus (APS1, APS3, APS3R, APS5, FPF3, FPS6, FPS8), MSP430
+      , PIC , Renesas H8/S , SuperH , RX, x86 , 8052 , Coldfire , V850 , 78K0R, Fujitsu
+      series MB91460, MB96340, Nios II , TMS570, RM4x, Espressif ESP32 , RISC-V (e.g.
+      SHAKTI )
+    kernel_type: Real-Time Microkernel
+    license: MIT
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # FreeRTOS

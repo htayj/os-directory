@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/OS4000, title: "OS4000", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/OS4000
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: GEC Computers Ltd.
+    country_of_origin: null
+    purpose: Minicomputer , Process control , Real time , multi-user , Time-sharing
+      , Batch processing , Data communications
+    programming_languages: Babbage
+    first_release: 1977 ; 49 years ago ( 1977 )
+    latest_release: 6.5 / 1993?
+    last_updated: 6.5 / 1993?
+    development_status: No further development, but still supported
+    source_model: Closed source
+    os_family: null
+    gui: CLI - OS4000 JCL
+    platforms: GEC 4000 series
+    kernel_type: Hardware and Firmware
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

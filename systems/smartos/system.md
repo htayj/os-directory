@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/SmartOS, title: "SmartOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/SmartOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: MNX Solutions
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C
+    first_release: null
+    latest_release: null
+    last_updated: null
+    development_status: Current
+    source_model: Open source , on GitHub
+    os_family: Unix ( SysV )
+    gui: null
+    platforms: x86-64
+    kernel_type: Monolithic
+    license: CDDL-1.0
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q6297698
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

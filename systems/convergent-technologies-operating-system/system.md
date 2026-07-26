@@ -31,6 +31,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Convergent_Technologies_Operating_System, title: Convergent Technologies Operating System, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Convergent_Technologies_Operating_System
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Convergent Technologies
+    country_of_origin: United States
+    purpose: null
+    programming_languages: PL/M
+    first_release: 1980 ; 46 years ago ( 1980 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: x86
+    kernel_type: Microkernel
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q518016
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,34 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Windows_Phone, title: "Windows Phone", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Windows_Phone
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Microsoft
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C , C++ , Assembly Language , C#
+    first_release: 'WW : ( 2010-10-21 ) ( 2020-01-14 ) October 21, 2010 – January
+      14, 2020 (9 years, 2 months, 3 weeks and 3 days) US : November 8, 2010'
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Closed-source
+    os_family: Microsoft Windows
+    gui: null
+    platforms: Qualcomm Snapdragon
+    kernel_type: Hybrid ( Monolithic in Windows Phone 7 )
+    license: Proprietary software licensed to OEMs
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q2283
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

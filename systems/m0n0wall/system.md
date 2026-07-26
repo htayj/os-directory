@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/M0n0wall, title: "M0n0wall", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/M0n0wall
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Manuel Kasper
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: '2003'
+    latest_release: 1.8.1 / January 15, 2014 ( 2014-01-15 )
+    last_updated: 1.8.1 / January 15, 2014 ( 2014-01-15 )
+    development_status: Discontinued / February 15, 2015
+    source_model: Open source
+    os_family: FreeBSD (8.4-RELEASE)
+    gui: null
+    platforms: null
+    kernel_type: Monolithic kernel
+    license: BSD
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

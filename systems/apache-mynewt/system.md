@@ -13,6 +13,34 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Apache Mynewt", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Apache_Mynewt
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apache Software Foundation , community
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C (Mynewt OS) Go (Newt Tool)
+    first_release: null
+    latest_release: 1.11.0 / September 7, 2023 ; 2 years ago ( 2023-09-07 )
+    last_updated: 1.11.0 / September 7, 2023 ; 2 years ago ( 2023-09-07 )
+    development_status: Stable
+    source_model: Open-source
+    os_family: null
+    gui: null
+    platforms: Cortex-M0 , Cortex-M3 , Cortex-M4 , Cortex-M7 , MIPS32 , Microchip
+      PIC32 , RISC-V
+    kernel_type: null
+    license: Apache License 2.0
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q489709
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Apache Mynewt

@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/REX_OS, title: "REX OS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/REX_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Qualcomm
+    country_of_origin: United States
+    purpose: Smartphones
+    programming_languages: C
+    first_release: 1999 ; 27 years ago ( 1999 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Proprietary
+    os_family: L4 A Pistachio and Iguana embedded operating system
+    gui: null
+    platforms: ARM
+    kernel_type: Microkernel RTOS
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q544847
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

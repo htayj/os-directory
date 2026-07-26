@@ -13,6 +13,36 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "OpenVMS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/OpenVMS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: VMS Software Inc (VSI) (previously Digital Equipment Corporation ,
+      Compaq , Hewlett-Packard )
+    country_of_origin: United States
+    purpose: Servers (historically Minicomputers , Workstations )
+    programming_languages: Primarily C , BLISS , VAX MACRO , DCL . Other languages
+      also used.
+    first_release: 'Announced: October 25, 1977 ; 48 years ago ( 1977-10-25 ) V1.0
+      / August 1978 ; 47 years ago ( 1978-08 )'
+    latest_release: V9.2-3 / November 20, 2024 ; 20 months ago ( 2024-11-20 )
+    last_updated: V9.2-3 / November 20, 2024 ; 20 months ago ( 2024-11-20 )
+    development_status: Current
+    source_model: Closed-source with open-source components. Formerly source available
+    os_family: null
+    gui: DCL CLI and DECwindows GUI
+    platforms: VAX , Alpha , Itanium , x86-64
+    kernel_type: Monolithic kernel with loadable modules
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q324603
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # OpenVMS

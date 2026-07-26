@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/RSX-11, title: "RSX-11", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/RSX-11
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Equipment Corporation
+    country_of_origin: United States
+    purpose: null
+    programming_languages: MACRO-11 , BLISS
+    first_release: 1972 ; 54 years ago ( 1972 )
+    latest_release: RSX-11M Plus 4.6 / 1999 ; 27 years ago ( 1999 )
+    last_updated: RSX-11M Plus 4.6 / 1999 ; 27 years ago ( 1999 )
+    development_status: Discontinued
+    source_model: Closed source ; kernel source code included
+    os_family: null
+    gui: DCL and MCR Command-line interface
+    platforms: PDP-11
+    kernel_type: null
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q690079
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

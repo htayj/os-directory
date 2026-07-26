@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/LibreCMC, title: "LibreCMC", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/LibreCMC
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: null
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: 20 October 2012 ; 13 years ago ( 2012-10-20 )
+    latest_release: v6.6 / 31 December 2025
+    last_updated: v6.6 / 31 December 2025
+    development_status: Active
+    source_model: null
+    os_family: Unix-like ( Linux kernel )
+    gui: null
+    platforms: MIPS
+    kernel_type: Monolithic ( Linux-libre )
+    license: GPLv2
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

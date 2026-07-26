@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/KaiOS, title: "KaiOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/KaiOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: KaiOS Technologies (Hong Kong) Limited (with TCL as largest shareholder)
+    country_of_origin: People's Republic of China; British Empire
+    purpose: Feature phones
+    programming_languages: HTML , CSS , JavaScript , C++
+    first_release: October 2017 ; 8 years ago ( 2017-10 )
+    latest_release: 4.0 / May 2025 ; 1 year ago ( 2025-05 )
+    last_updated: 4.0 / May 2025 ; 1 year ago ( 2025-05 )
+    development_status: Current
+    source_model: Source-available (except for the binary blobs)
+    os_family: Linux ( Unix-like ) Android
+    gui: Graphical
+    platforms: ARM
+    kernel_type: Monolithic ( Linux )
+    license: Proprietary , Linux kernel patches under GPLv2 , B2G under MPL
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-headquarters
+    source: https://www.wikidata.org/wiki/Q8646
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

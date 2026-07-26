@@ -30,6 +30,33 @@ interfaces: []
 hardware_platforms: [{ platform: PDP-11, support_origin: original-target, support_status: historical, execution_mode: native, evidence: [wikipedia], assertion_status: provisional }]
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/RSTS/E, title: RSTS/E, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/RSTS/E
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Equipment Corporation , later Mentec
+    country_of_origin: United States
+    purpose: null
+    programming_languages: MACRO-11 assembly language , BASIC-PLUS -2, DCL
+    first_release: 1970 ; 56 years ago ( 1970 )
+    latest_release: RSTS V10.1 / 1992 ; 34 years ago ( 1992 )
+    last_updated: RSTS V10.1 / 1992 ; 34 years ago ( 1992 )
+    development_status: No development, still available
+    source_model: Closed source
+    os_family: null
+    gui: 'Command-line interface : DCL (Digital Command Language)'
+    platforms: PDP-11
+    kernel_type: Time-sharing operating systems
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q690079
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

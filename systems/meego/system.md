@@ -13,6 +13,33 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "MeeGo", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/MeeGo
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Nokia , Intel , Linux Foundation
+    country_of_origin: Finland; United States
+    purpose: Mobile
+    programming_languages: null
+    first_release: 26 May 2010 ; 16 years ago ( 2010-05-26 )
+    latest_release: 1.2.0.10 / 12 July 2012 ; 14 years ago ( 2012-07-12 )
+    last_updated: 1.2.0.10 / 12 July 2012 ; 14 years ago ( 2012-07-12 )
+    development_status: Terminated in favor of Tizen . Forked to create Mer .
+    source_model: Open source
+    os_family: Linux ( Unix-like )
+    gui: Several GUIs , see below
+    platforms: ARM and x86
+    kernel_type: Monolithic ( Linux kernel )
+    license: Various, see below
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q128896
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # MeeGo

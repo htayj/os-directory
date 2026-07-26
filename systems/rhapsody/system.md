@@ -40,6 +40,33 @@ hardware_platforms: []
 architectures: []
 sources:
   - { id: wikipedia, resource: https://en.wikipedia.org/wiki/Rhapsody_(operating_system), title: Rhapsody (operating system), source_kind: article }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Rhapsody_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apple Computer
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: Developer Release 2 / May 1998 ; 28 years ago ( 1998-05 )
+    last_updated: Developer Release 2 / May 1998 ; 28 years ago ( 1998-05 )
+    development_status: Discontinued
+    source_model: Closed-source
+    os_family: Mac OS / Unix-like
+    gui: null
+    platforms: PowerPC , IA-32
+    kernel_type: Hybrid kernel
+    license: Only released to developers
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q312
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

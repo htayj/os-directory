@@ -33,6 +33,31 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/MenuetOS, title: "MenuetOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/MenuetOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Ville M. Turjanmaa
+    country_of_origin: null
+    purpose: null
+    programming_languages: FASM assembly language
+    first_release: May 16, 2000 ; 26 years ago ( 2000-05-16 ) (32-bit)
+    latest_release: '32-bit: 0.86B / September 2, 2019 ( 2019-09-02 ) 64-bit: 1.61.00
+      / June 19, 2026 ( 2026-06-19 )'
+    last_updated: '32-bit: 0.86B / September 2, 2019 ( 2019-09-02 ) 64-bit: 1.61.00
+      / June 19, 2026 ( 2026-06-19 )'
+    development_status: Beta
+    source_model: Open source (32-bit) Closed source (64-bit)
+    os_family: null
+    gui: Graphical user interface by Yamen Nasr
+    platforms: IA-32 , x86-64
+    kernel_type: Monolithic
+    license: '32-bit: GPL-2.0-only 64-bit: Proprietary'
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

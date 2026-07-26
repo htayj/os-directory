@@ -13,6 +13,30 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "CBL-Mariner", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/CBL-Mariner
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Microsoft
+    country_of_origin: null
+    purpose: Cloud infrastructure and edge products and services
+    programming_languages: Go , Shell script , C , Roff , Python
+    first_release: April 1, 2020 ; 6 years ago ( 2020-04-01 ) (as CBL-Mariner )
+    latest_release: 4.0 / July 1, 2026
+    last_updated: 4.0 / July 1, 2026
+    development_status: null
+    source_model: Open source
+    os_family: Linux
+    gui: null
+    platforms: null
+    kernel_type: Monolithic ( Linux kernel )
+    license: Primarily MIT License , with some components under Apache License v2
+      , GPLv2 , and LGPLv2.1
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # CBL-Mariner

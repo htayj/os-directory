@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Universal_Time-Sharing_System, title: "Universal Time-Sharing System", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Universal_Time-Sharing_System
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Xerox Data Systems
+    country_of_origin: null
+    purpose: null
+    programming_languages: Assembly Language (Meta-Symbol)
+    first_release: 1966 ; 60 years ago ( 1966 )
+    latest_release: D00 / Q1, 1973
+    last_updated: D00 / Q1, 1973
+    development_status: Discontinued
+    source_model: Unknown
+    os_family: Not Applicable
+    gui: Command-line interface
+    platforms: Xerox Data Systems Sigma 6, Sigma 7, Sigma 9
+    kernel_type: null
+    license: Unknown
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -47,6 +47,34 @@ architectures:
 sources:
   - { id: wikipedia, resource: https://en.wikipedia.org/wiki/Acorn_MOS, title: Acorn MOS, source_kind: article }
   - { id: acorn-manual, resource: https://chrisacorns.computinghistory.org.uk/docs/Acorn/Manuals/Acorn_BBCSMOct85_Sec1.pdf, title: BBC Microcomputer service manual, author: organization:acorn-computers, source_kind: manual }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Acorn_MOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Acorn Computers
+    country_of_origin: United Kingdom; Kingdom of Great Britain; Kingdom of England;
+      United Kingdom of Great Britain and Ireland
+    purpose: Personal computers
+    programming_languages: 8-bit 6502 machine code (v0, v1) 65C02 machine code (v2–v5)
+    first_release: Late 1981 ; 45 years ago ( 1981 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: null
+    gui: Command-line interface (v3, v4, v5)
+    platforms: BBC Micro , Acorn Electron , BBC Master series
+    kernel_type: Monolithic
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-headquarters
+    source: https://www.wikidata.org/wiki/Q350
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -13,6 +13,37 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "TrueOS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/TrueOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: iXsystems
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: 2006 ; 20 years ago ( 2006 )
+    latest_release: Rolling release (UNSTABLE), based on FreeBSD-CURRENT Long-term
+      support (STABLE) every 0.5 years, based on FreeBSD-STABLE 18.12 / 15 December
+      2018 ; 7 years ago ( 2018-12-15 )
+    last_updated: Rolling release (UNSTABLE), based on FreeBSD-CURRENT Long-term support
+      (STABLE) every 0.5 years, based on FreeBSD-STABLE 18.12 / 15 December 2018 ;
+      7 years ago ( 2018-12-15 )
+    development_status: Discontinued
+    source_model: Open source
+    os_family: Unix-like
+    gui: Lumina
+    platforms: amd64 (default) armv7 (Pico)
+    kernel_type: Monolithic ( FreeBSD )
+    license: BSD
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q18152571
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # TrueOS

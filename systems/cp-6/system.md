@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Honeywell_CP-6, title: "Honeywell CP-6", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Honeywell_CP-6
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Honeywell, Inc.
+    country_of_origin: United States
+    purpose: Former XDS Sigma CP-V customers
+    programming_languages: PL-6
+    first_release: Beta 1979
+    latest_release: null
+    last_updated: null
+    development_status: Historic, discontinued 2005
+    source_model: Closed source
+    os_family: Universal Time-Sharing System
+    gui: Command-line interface
+    platforms: Honeywell Level/66 and successors
+    kernel_type: null
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q898208
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

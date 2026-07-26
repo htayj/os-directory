@@ -49,6 +49,34 @@ architectures:
 sources:
   - { id: wikipedia, resource: https://en.wikipedia.org/wiki/RISC_iX, title: RISC iX, source_kind: article }
   - { id: acorn-guide, resource: https://www.4corn.co.uk/archive/docs/Acorn%20R140%20RISC%20iX%20System%20Administrator%27s%20Guide-opt.pdf, title: Acorn RISC iX System Administrator's Guide, author: organization:acorn-computers, source_kind: manual }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/RISC_iX
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Acorn Computers Ltd
+    country_of_origin: United Kingdom; Kingdom of Great Britain; Kingdom of England;
+      United Kingdom of Great Britain and Ireland
+    purpose: null
+    programming_languages: C , ARM assembly
+    first_release: 1988 ; 38 years ago ( 1988 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: null
+    os_family: Unix-like
+    gui: Graphical user interface
+    platforms: Acorn Archimedes
+    kernel_type: null
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-headquarters
+    source: https://www.wikidata.org/wiki/Q350
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

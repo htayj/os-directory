@@ -33,6 +33,31 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/OpenIndiana, title: "OpenIndiana", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/OpenIndiana
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Illumos Foundation (kernel) OpenIndiana Project (userland)
+    country_of_origin: null
+    purpose: null
+    programming_languages: C
+    first_release: null
+    latest_release: Hipster 2026.04 (May 5, 2026 ; 2 months ago ( 2026-05-05 ) ) [
+      ± ]
+    last_updated: Hipster 2026.04 (May 5, 2026 ; 2 months ago ( 2026-05-05 ) ) [ ±
+      ]
+    development_status: Current
+    source_model: Open source
+    os_family: Unix ( System V Release 4 )
+    gui: 'oi_147 - 2016.04: GNOME 2 since 2016.10: MATE'
+    platforms: x86-64 , SPARC
+    kernel_type: Monolithic
+    license: CDDL and others
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

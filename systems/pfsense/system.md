@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/PfSense, title: "pfSense", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/PfSense
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Rubicon Communications, LLC (Netgate)
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: 'Community Edition : 2.8.1 (amd64) / September 4, 2025 ; 10 months
+      ago ( 2025-09-04 ) Plus : 24.11 / November 25, 2024 ; 19 months ago ( 2024-11-25
+      )'
+    last_updated: 'Community Edition : 2.8.1 (amd64) / September 4, 2025 ; 10 months
+      ago ( 2025-09-04 ) Plus : 24.11 / November 25, 2024 ; 19 months ago ( 2024-11-25
+      )'
+    development_status: Current
+    source_model: Closed source and open source
+    os_family: FreeBSD
+    gui: Web
+    platforms: 32-bit (discontinued in 2.4.x); 64-bit Intel / AMD
+    kernel_type: null
+    license: Apache License 2.0 (Applies to pfSense CE)
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

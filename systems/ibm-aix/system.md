@@ -39,6 +39,35 @@ architectures: [{ value: Power, execution_mode: native, evidence: [ibm], asserti
 sources:
   - { id: wikipedia, resource: https://en.wikipedia.org/wiki/IBM_AIX, title: IBM AIX, source_kind: article }
   - { id: ibm, resource: https://www.ibm.com/downloads/documents/us-en/12bb2fad89cd4cf7, title: IBM AIX on IBM Power, author: organization:ibm, source_kind: brochure }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/IBM_AIX
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM
+    country_of_origin: United States
+    purpose: Workstation , Server
+    programming_languages: C
+    first_release: February 1986 ; 40 years ago ( 1986-02 )
+    latest_release: 7.3 TL4 (7.3.4) / December 2025 ; 7 months ago ( 2025-12 )
+    last_updated: 7.3 TL4 (7.3.4) / December 2025 ; 7 months ago ( 2025-12 )
+    development_status: Current
+    source_model: Closed source ; formerly source available
+    os_family: Unix ( System V )
+    gui: KornShell (ksh88), Common Desktop Environment , ( Plasma Workspaces and GNOME
+      optional)
+    platforms: 'Current: Power ISA Former: IBM ROMP , IBM POWER , PowerPC , x86 (
+      IBM PS/2 ), System/370 , ESA/390 , IA-64 ( Itanium )'
+    kernel_type: Monolithic with dynamically loadable modules
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q37156
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

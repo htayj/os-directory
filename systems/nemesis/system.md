@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Nemesis_(computing), title: "Nemesis", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Nemesis_(computing)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: University of Cambridge
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: II / April 26, 1999 ( 1999-04-26 )
+    last_updated: II / April 26, 1999 ( 1999-04-26 )
+    development_status: Discontinued
+    source_model: null
+    os_family: null
+    gui: Graphical user interface
+    platforms: x86 Alpha ARM
+    kernel_type: null
+    license: Nemesis Free License
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

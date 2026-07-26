@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Business_Operating_System_(software), title: "Business Operating System", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Business_Operating_System_(software)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: CAP Ltd
+    country_of_origin: null
+    purpose: null
+    programming_languages: BOS/MicroCobol (based on COBOL with some similarities to
+      Pascal )
+    first_release: 1980 ; 46 years ago ( 1980 )
+    latest_release: GSMSP43 / 17/09/2025
+    last_updated: GSMSP43 / 17/09/2025
+    development_status: Active
+    source_model: null
+    os_family: p-code operating systems
+    gui: Command-line interface
+    platforms: Intel 8080 , Motorola 6800 , Zilog Z80 , PDP-11 , VAX , IBM Series/1
+    kernel_type: p-code virtual machine
+    license: null
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

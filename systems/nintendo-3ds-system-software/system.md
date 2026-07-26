@@ -13,6 +13,40 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Nintendo 3DS system software", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Nintendo_3DS_system_software
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Nintendo ( IRD , SPD , SDD )
+    country_of_origin: Japan
+    purpose: null
+    programming_languages: C++
+    first_release: 1.0.0-0 / February 26, 2011 ; 15 years ago ( 2011-02-26 )
+    latest_release: 11.17.0-50 / May 22, 2023 ; 3 years ago ( 2023-05-22 ) 11.16.0-42K
+      (South Korea)/August 29, 2022 ; 3 years ago ( 2022-08-29 ) 11.16.0-40T (Taiwan)/August
+      29, 2022 ; 3 years ago ( 2022-08-29 ) 11.16.0-4C (Chinese)/August 29, 2022 ;
+      3 years ago ( 2022-08-29 )
+    last_updated: 11.17.0-50 / May 22, 2023 ; 3 years ago ( 2023-05-22 ) 11.16.0-42K
+      (South Korea)/August 29, 2022 ; 3 years ago ( 2022-08-29 ) 11.16.0-40T (Taiwan)/August
+      29, 2022 ; 3 years ago ( 2022-08-29 ) 11.16.0-4C (Chinese)/August 29, 2022 ;
+      3 years ago ( 2022-08-29 )
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: Proprietary
+    gui: null
+    platforms: Nintendo 3DS Nintendo 2DS New Nintendo 3DS New Nintendo 3DS XL New
+      Nintendo 2DS XL
+    kernel_type: Microkernel
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q8093
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Nintendo 3DS system software

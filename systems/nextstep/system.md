@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/NeXTSTEP, title: "NeXTSTEP", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/NeXTSTEP
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: NeXT
+    country_of_origin: United States
+    purpose: Enterprise , academia
+    programming_languages: C , Objective-C
+    first_release: September 18, 1989 ; 36 years ago ( 1989-09-18 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Closed source with some open-source components
+    os_family: Unix-like
+    gui: Graphical
+    platforms: Motorola 68030/68040 , IA-32 , SPARC , PA-RISC
+    kernel_type: Hybrid ( Mach , BSD )
+    license: Proprietary EULA
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q308993
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

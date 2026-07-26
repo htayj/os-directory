@@ -18,6 +18,33 @@ development_status: { value: discontinued, evidence: [discovery], assertion_stat
 interfaces: []
 platforms: []
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }, { id: discovery, resource: "https://en.wikipedia.org/wiki/DR-DOS", title: "DR-DOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/DR-DOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Research Novell Caldera DeviceLogics Whitehorn Ltd. Co.
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: May 28, 1988 ; 38 years ago ( 1988-05-28 )
+    latest_release: 9.0.648 / May 2, 2026 ; 2 months ago ( 2026-05-02 )
+    last_updated: 9.0.648 / May 2, 2026 ; 2 months ago ( 2026-05-02 )
+    development_status: In active development
+    source_model: Mixed; primarily closed-source , some versions open-source
+    os_family: DOS
+    gui: Command-line interface ( COMMAND.COM )
+    platforms: x86
+    kernel_type: Monolithic kernel
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-headquarters
+    source: https://www.wikidata.org/wiki/Q117514
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # DR-DOS

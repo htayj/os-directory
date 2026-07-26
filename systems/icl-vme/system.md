@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/ICL_VME, title: "ICL VME", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/ICL_VME
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: International Computers Limited , Fujitsu
+    country_of_origin: United Kingdom
+    purpose: null
+    programming_languages: S3 , C
+    first_release: mid-1970s
+    latest_release: null
+    last_updated: null
+    development_status: current
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: ICL 2900 Series , ICL Series 39 mainframes
+    kernel_type: null
+    license: proprietary commercial software
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q1413338
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

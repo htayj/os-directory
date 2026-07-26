@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/EPOC_(operating_system), title: "EPOC", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/EPOC_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Psion
+    country_of_origin: United Kingdom
+    purpose: PDAs , mobile phones
+    programming_languages: Assembly , C (EPOC16) C++ (EPOC32)
+    first_release: 1989 ; 37 years ago ( 1989 )
+    latest_release: ER5u / 2000 ; 26 years ago ( 2000 )
+    last_updated: ER5u / 2000 ; 26 years ago ( 2000 )
+    development_status: Discontinued, succeeded by Symbian
+    source_model: Closed source
+    os_family: EPOC
+    gui: Eikon et al.
+    platforms: x86 via NEC V30H (EPOC16) ARM (EPOC32)
+    kernel_type: Microkernel
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q1756771
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

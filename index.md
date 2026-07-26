@@ -7,6 +7,11 @@ okf_version: "0.2"
 An Open Knowledge Format bundle for documenting historical operating systems,
 their releases, surviving artifacts, creators, and hardware contexts.
 
+The frozen English Wikipedia baseline is fully dispositioned: 754 normalized
+candidates from 901 list occurrences. The bundle currently contains 438
+system-lineage records, including the supplemental Elbrus Linux record, plus
+explicit release, alias, grouping, non-OS, and unresolved-identity results.
+
 # Catalog
 
 * [Operating systems](systems/) - System lineages, releases, variants, and surviving artifacts.

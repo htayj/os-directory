@@ -33,6 +33,35 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Windows_CE, title: "Windows CE", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Windows_CE
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Microsoft
+    country_of_origin: United States
+    purpose: null
+    programming_languages: Assembly , C , C++ , C#
+    first_release: November 16, 1996 ; 29 years ago ( 1996-11-16 )
+    latest_release: null
+    last_updated: null
+    development_status: null
+    source_model: Closed-source Source-available (through Shared Source Initiative
+      )
+    os_family: null
+    gui: null
+    platforms: x86 , 32-bit ARM , ( SuperH up to 6.0 R2, MIPS and PowerPC were also
+      supported)
+    kernel_type: Monolithic
+    license: Commercial proprietary software
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q2283
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

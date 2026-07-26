@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/PlayStation_4_system_software, title: "PlayStation 4 system software", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/PlayStation_4_system_software
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Sony Interactive Entertainment
+    country_of_origin: Japan; United States
+    purpose: null
+    programming_languages: C , C++ for PS Plus and online services settings / PPC
+    first_release: 1.01 / November 15, 2013 ; 12 years ago ( 2013-11-15 )
+    latest_release: 13.52 / June 17, 2026 ; 38 days ago ( 2026-06-17 )
+    last_updated: 13.52 / June 17, 2026 ; 38 days ago ( 2026-06-17 )
+    development_status: Current
+    source_model: Closed source
+    os_family: Monolithic ( BSD )
+    gui: PlayStation Dynamic Menu
+    platforms: PlayStation 4 (original) PlayStation 4 Slim PlayStation 4 Pro
+    kernel_type: Monolithic with dynamically loadable modules
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q18594
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/WebOS, title: "WebOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/WebOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: LG Electronics , previously Hewlett-Packard & Palm
+    country_of_origin: South Korea
+    purpose: Embedded devices
+    programming_languages: C++ ( Qt )
+    first_release: null
+    latest_release: 'LG TV: 25 Open-source: 2.28.0 HP TouchPad: 3.0.5 Palm Pre: 2.2.4'
+    last_updated: 'LG TV: 25 Open-source: 2.28.0 HP TouchPad: 3.0.5 Palm Pre: 2.2.4'
+    development_status: Current
+    source_model: Open source , source-available
+    os_family: Linux ( Unix-like )
+    gui: Graphical (Luna)
+    platforms: ARM
+    kernel_type: Monolithic ( Linux kernel )
+    license: Apache License , proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q162345
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -13,6 +13,35 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "OS/VS1", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/OS/VS1
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM
+    country_of_origin: United States
+    purpose: IBM mainframes
+    programming_languages: Assembler (XF), PL/S (nee BSL)
+    first_release: null
+    latest_release: OS/VS1 Basic Programming Extensions (BPE) Release 4 / March 1984
+      ; 42 years ago ( 1984-03 )
+    last_updated: OS/VS1 Basic Programming Extensions (BPE) Release 4 / March 1984
+      ; 42 years ago ( 1984-03 )
+    development_status: Historic
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: System/370
+    kernel_type: null
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q37156
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # OS/VS1

@@ -13,6 +13,33 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "TI-RTOS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/TI-RTOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Texas Instruments
+    country_of_origin: United States
+    purpose: Embedded systems
+    programming_languages: C
+    first_release: 1985 ; 41 years ago ( 1985 )
+    latest_release: 2.21.01.08 / February 2018 ; 8 years ago ( 2018-02 )
+    last_updated: 2.21.01.08 / February 2018 ; 8 years ago ( 2018-02 )
+    development_status: Current
+    source_model: Open source
+    os_family: Real-time operating systems
+    gui: null
+    platforms: TMS320 DSPs , ARM , MSP430
+    kernel_type: Microkernel
+    license: BSD , EULA
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q193412
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # TI-RTOS

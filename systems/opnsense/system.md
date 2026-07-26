@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/OPNsense, title: "OPNsense", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/OPNsense
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Deciso B.V.
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: 5 January 2015 ; 11 years ago ( 2015-01-05 )
+    latest_release: 26.7.1 / 21 July 2026 ; 3 days ago ( 21 July 2026 )
+    last_updated: 26.7.1 / 21 July 2026 ; 3 days ago ( 21 July 2026 )
+    development_status: Current
+    source_model: Open source
+    os_family: FreeBSD (15.1-RELEASE)
+    gui: null
+    platforms: x86-64
+    kernel_type: Monolithic kernel
+    license: Simplified BSD / FreeBSD License
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

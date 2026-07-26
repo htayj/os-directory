@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Control_Program_Facility, title: "Control Program Facility", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Control_Program_Facility
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM
+    country_of_origin: null
+    purpose: null
+    programming_languages: PL/MI
+    first_release: 1978 ; 48 years ago ( 1978 )
+    latest_release: Release 8 / 14 November 1986 ; 39 years ago ( 1986-11-14 )
+    last_updated: Release 8 / 14 November 1986 ; 39 years ago ( 1986-11-14 )
+    development_status: Discontinued
+    source_model: Closed Source
+    os_family: null
+    gui: Command-line interface
+    platforms: IBM System/38
+    kernel_type: null
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

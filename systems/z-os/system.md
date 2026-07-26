@@ -13,6 +13,38 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "z/OS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Z/OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM
+    country_of_origin: United States
+    purpose: Enterprise / Mainframes
+    programming_languages: primarily PL/X , HLASM , and C / C++
+    first_release: March 30, 2001 ; 25 years ago ( 2001-03-30 ) (V1R1, announced October,
+      2000)
+    latest_release: Version 3.2 (V3R2) / September 30, 2025 ; 9 months ago ( 2025-09-30
+      )
+    last_updated: Version 3.2 (V3R2) / September 30, 2025 ; 9 months ago ( 2025-09-30
+      )
+    development_status: Current
+    source_model: Closed source with open source components
+    os_family: MVS Unix
+    gui: ISPF , z/OS Management Facility
+    platforms: z/Architecture
+    kernel_type: Monolithic (uniquely hardware-assisted)
+    license: Proprietary monthly license charge (MLC); pricing available based on
+      actual use (VWLC, EWLC, AWLC, EAWLC, IWP); reduced pricing options (zELC, zNALC,
+      "Solution Edition") for many applications
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q37156
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # z/OS

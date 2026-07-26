@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Berkeley_Software_Distribution, title: "Berkeley Software Distribution", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Berkeley_Software_Distribution
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Computer Systems Research Group
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C
+    first_release: March 9, 1978 ; 48 years ago ( 1978-03-09 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Originally source-available , later open-source
+    os_family: Unix
+    gui: Unix shell
+    platforms: PDP-11 , VAX , Intel 80386
+    kernel_type: Monolithic
+    license: BSD
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q168756
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

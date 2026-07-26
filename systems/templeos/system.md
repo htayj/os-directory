@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/TempleOS, title: "TempleOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/TempleOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Terry A. Davis
+    country_of_origin: null
+    purpose: null
+    programming_languages: HolyC and x86 Assembly
+    first_release: 2005 ; 21 years ago ( 2005 ) (as J Operating System) 2013 ; 13
+      years ago ( 2013 ) (as TempleOS)
+    latest_release: 5.03 / November 20, 2017 ; 8 years ago ( 2017-11-20 )
+    last_updated: 5.03 / November 20, 2017 ; 8 years ago ( 2017-11-20 )
+    development_status: Finished
+    source_model: Open-source
+    os_family: null
+    gui: 16-color graphics, specifically created for TempleOS
+    platforms: x64
+    kernel_type: Monolithic userland = UserCmdLine using HolyC, Adam (purpose unknown)
+    license: Public domain
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

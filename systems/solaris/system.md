@@ -13,6 +13,29 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Solaris", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Solaris_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Sun Microsystems ( acquired by Oracle Corporation in 2010)
+    country_of_origin: null
+    purpose: Server , workstation
+    programming_languages: C , C++
+    first_release: June 1992 ; 34 years ago ( 1992-06 )
+    latest_release: 11.4 SRU92 / April 21, 2026 ; 3 months ago ( 2026-04-21 )
+    last_updated: 11.4 SRU92 / April 21, 2026 ; 3 months ago ( 2026-04-21 )
+    development_status: Current
+    source_model: Mixed
+    os_family: Unix ( SVR4 )
+    gui: GNOME
+    platforms: 'Current: SPARC , x86-64 Former: IA-32 , PowerPC'
+    kernel_type: Monolithic with dynamically loadable modules
+    license: Various
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Solaris

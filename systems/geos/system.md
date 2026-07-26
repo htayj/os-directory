@@ -17,6 +17,33 @@ gui_status: [{ value: first-party, evidence: [discovery], assertion_status: prov
 interfaces: [{ name: "GEOS graphical interface", style: graphical, modalities: [keyboard, pointer], provisioning: bundled, access: local-session, evidence: [discovery], assertion_status: provisional }]
 platforms: []
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }, { id: discovery, resource: "https://en.wikipedia.org/wiki/GEOS_(8-bit_operating_system)", title: "GEOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/GEOS_(8-bit_operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Berkeley Softworks (later GeoWorks )
+    country_of_origin: United States
+    purpose: null
+    programming_languages: Assembly language
+    first_release: 1986 ; 40 years ago ( 1986 )
+    latest_release: GEOS 2.0
+    last_updated: GEOS 2.0
+    development_status: Discontinued, historic
+    source_model: null
+    os_family: null
+    gui: Graphical user interface
+    platforms: Commodore 64 , Commodore 128 , Plus/4 , Apple II , MEGA65
+    kernel_type: null
+    license: Proprietary software
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-headquarters
+    source: https://www.wikidata.org/wiki/Q484678
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # GEOS

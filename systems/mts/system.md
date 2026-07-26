@@ -13,6 +13,34 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Michigan Terminal System", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Michigan_Terminal_System
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: University of Michigan and 7 other universities in the US, Canada,
+      and the UK
+    country_of_origin: United States
+    purpose: null
+    programming_languages: various languages, mostly 360/370 Assembly language
+    first_release: 1967 ; 59 years ago ( 1967 )
+    latest_release: 6.0 (final) / 1988 ; 38 years ago ( 1988 )
+    last_updated: 6.0 (final) / 1988 ; 38 years ago ( 1988 )
+    development_status: Historic
+    source_model: null
+    os_family: null
+    gui: Command-line interface
+    platforms: IBM S/360-67, IBM S/370 and successors
+    kernel_type: null
+    license: Free ( CC BY 3.0 )
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q230492
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Michigan Terminal System

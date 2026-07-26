@@ -50,6 +50,37 @@ sources:
   - { id: wikipedia, resource: https://en.wikipedia.org/wiki/RISC_OS, title: RISC OS, source_kind: article }
   - { id: riscos-community, resource: https://riscoscommunity.org/about/, title: About RISC OS Community, author: organization:risc-os-community, source_kind: project-site }
   - { id: riscos-brochure, resource: https://www.riscos.com/the_archive/rol/brochure/a4.pdf, title: RISC OS fact sheet, source_kind: brochure }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/RISC_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Acorn Computers Open-source (version 5) Castle Technology RISC OS Open
+      Proprietary (versions 4 & 6) RISCOS Ltd
+    country_of_origin: United Kingdom; Kingdom of Great Britain; Kingdom of England;
+      United Kingdom of Great Britain and Ireland
+    purpose: Acorn personal computers
+    programming_languages: BBC BASIC , C , C++ , assembly language
+    first_release: 25 September 1987 ; 38 years ago ( 1987-09-25 )
+    latest_release: 5.30 / 27 April 2024 ; 2 years ago ( 2024-04-27 ) 6.20 / 1 December
+      2009 ; 16 years ago ( 2009-12-01 )
+    last_updated: 5.30 / 27 April 2024 ; 2 years ago ( 2024-04-27 ) 6.20 / 1 December
+      2009 ; 16 years ago ( 2009-12-01 )
+    development_status: Current
+    source_model: Closed source ; open source for some versions since 2018
+    os_family: null
+    gui: GUI
+    platforms: ARM
+    kernel_type: Monolithic
+    license: Apache License 2.0 (version 5) Proprietary (version 6)
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-headquarters
+    source: https://www.wikidata.org/wiki/Q350
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

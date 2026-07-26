@@ -52,6 +52,33 @@ sources:
   - { id: wikipedia, resource: https://en.wikipedia.org/wiki/Amiga_Unix, title: Amiga Unix, source_kind: article }
   - { id: amigaunix-wiki, resource: https://amigaunix.com/doku.php/home, title: Amiga Unix Wiki, source_kind: project-site }
   - { id: release-notes, resource: https://www.amigaunix.com/lib/exe/fetch.php/manuals%3Av2releasenotes.pdf, title: UNIX System V Release 4 release notes, source_kind: release-note }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Amiga_Unix
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Commodore-Amiga, Inc.
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: 1991 ; 35 years ago ( 1991 )
+    latest_release: 2.1 / 1992
+    last_updated: 2.1 / 1992
+    development_status: Historic
+    source_model: primarily closed source
+    os_family: Unix ( SVR4 )
+    gui: null
+    platforms: Motorola 68030
+    kernel_type: Monolithic
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q208305
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

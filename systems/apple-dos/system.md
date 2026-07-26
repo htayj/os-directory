@@ -38,6 +38,33 @@ platforms:
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: apple-dos-manual, resource: "https://www.applelogic.org/UserManuals.html", title: "Apple II DOS Manual collection", author: organization:Apple, source_kind: manual }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Apple_DOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apple Computer
+    country_of_origin: United States
+    purpose: null
+    programming_languages: Assembly
+    first_release: 1978 ; 48 years ago ( 1978 )
+    latest_release: 3.3 / 1980 ; 46 years ago ( 1980 )
+    last_updated: 3.3 / 1980 ; 46 years ago ( 1980 )
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: Apple DOS
+    gui: null
+    platforms: null
+    kernel_type: Monolithic kernel
+    license: Apple Software License Agreement
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q312
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Apple DOS

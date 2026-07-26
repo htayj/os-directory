@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/MultiTOS, title: MultiTOS, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/MultiTOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Eric Smith, various volunteers
+    country_of_origin: null
+    purpose: Personal computers
+    programming_languages: C
+    first_release: June 1993 ; 33 years ago ( 1993-06 )
+    latest_release: 1.18.0 / 17 March 2013
+    last_updated: 1.18.0 / 17 March 2013
+    development_status: Current
+    source_model: Open source
+    os_family: null
+    gui: GEM
+    platforms: Atari ST , Firebee , ARAnyM, Amiga
+    kernel_type: Monolithic
+    license: Various, including GNU General Public License ( Free Software )
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/RockBox, title: "Rockbox", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/RockBox
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: The Rockbox Project
+    country_of_origin: null
+    purpose: Firmware replacement for digital audio players
+    programming_languages: C , assembly language
+    first_release: June 2, 2002 ; 24 years ago ( 2002-06-02 )
+    latest_release: 4.0 / April 1, 2025 ; 15 months ago ( 2025-04-01 )
+    last_updated: 4.0 / April 1, 2025 ; 15 months ago ( 2025-04-01 )
+    development_status: null
+    source_model: Open source
+    os_family: null
+    gui: GUI
+    platforms: Digital audio players, various
+    kernel_type: null
+    license: GNU GPLv2 or later
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

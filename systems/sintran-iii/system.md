@@ -13,6 +13,29 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "SINTRAN III", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/SINTRAN_III
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Norsk Data
+    country_of_origin: null
+    purpose: null
+    programming_languages: Nord Programming Language
+    first_release: 1974 ; 52 years ago ( 1974 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Closed-source
+    os_family: null
+    gui: Command-line
+    platforms: Norsk Data minicomputers
+    kernel_type: Monolithic real-time
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # SINTRAN III

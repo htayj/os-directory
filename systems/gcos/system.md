@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/General_Comprehensive_Operating_System, title: "GCOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/General_Comprehensive_Operating_System
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: General Electric , Honeywell , Groupe Bull , Atos
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: 1962 ; 64 years ago ( 1962 )
+    latest_release: GCOS 8
+    last_updated: GCOS 8
+    development_status: Current
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: GE-600 series , Honeywell 6000 series
+    kernel_type: null
+    license: proprietary
+  country_evidence:
+    assertion_status: provisional
+    method: wikidata-country-of-origin
+    source: https://www.wikidata.org/wiki/Q1501565
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,34 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/PlayStation_Vita_system_software, title: "PlayStation Vita system software", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/PlayStation_Vita_system_software
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Sony Interactive Entertainment
+    country_of_origin: Japan; United States
+    purpose: null
+    programming_languages: C , assembly language
+    first_release: December 17, 2011 ; 14 years ago ( 2011-12-17 ) (as 1.03)
+    latest_release: 3.74 / May 10, 2022 ; 4 years ago ( 2022-05-10 )
+    last_updated: 3.74 / May 10, 2022 ; 4 years ago ( 2022-05-10 )
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: Proprietary OS (containing components which are based FreeBSD and NetBSD
+      )
+    gui: LiveArea
+    platforms: PlayStation Vita and PlayStation TV
+    kernel_type: Monolithic
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q18594
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

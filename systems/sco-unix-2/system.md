@@ -13,6 +13,30 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "SCO UNIX", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/SCO_UNIX
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: SCO , Caldera Systems , Caldera International , The SCO Group , Xinuos
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: 1989 ; 37 years ago ( 1989 )
+    latest_release: OpenServer 6 Definitive 2018 SVR5 / 2017 ; 9 years ago ( 2017
+      )
+    last_updated: OpenServer 6 Definitive 2018 SVR5 / 2017 ; 9 years ago ( 2017 )
+    development_status: Current
+    source_model: Closed source
+    os_family: UNIX System V ( SVR3.2 / SVR5 ), BSD
+    gui: null
+    platforms: IA-32
+    kernel_type: Monolithic kernel
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # SCO UNIX

@@ -33,6 +33,34 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Transaction_Processing_Facility, title: "Transaction Processing Facility", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Transaction_Processing_Facility
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM
+    country_of_origin: United States
+    purpose: null
+    programming_languages: z/Architecture Assembly language , C , C++
+    first_release: 1979 ; 47 years ago ( 1979 )
+    latest_release: 1.1.0.2025
+    last_updated: 1.1.0.2025
+    development_status: Current
+    source_model: Closed source (Source code is available to licensed users with restrictions)
+    os_family: z/Architecture assembly language (z/TPF), ESA/390 assembly language
+      (TPF4)
+    gui: 3215 3270
+    platforms: IBM System z (z/TPF), ESA/390 (TPF4)
+    kernel_type: Real-time
+    license: Proprietary monthly license charge (MLC)
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q37156
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

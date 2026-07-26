@@ -30,6 +30,33 @@ platforms: [{ value: "Apple Vision Pro", evidence: [apple-platforms], assertion_
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: apple-platforms, resource: "https://developer.apple.com/platforms/", title: "Apple platforms", author: organization:Apple, source_kind: project-site }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/VisionOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apple
+    country_of_origin: United States
+    purpose: Mixed reality headsets, Apple Vision Pro
+    programming_languages: null
+    first_release: June 5, 2023
+    latest_release: 26.5 (May 11, 2026 ; 2 months ago ( 2026-05-11 ) ) [ ± ]
+    last_updated: 26.5 (May 11, 2026 ; 2 months ago ( 2026-05-11 ) ) [ ± ]
+    development_status: Current
+    source_model: null
+    os_family: Unix-like , based on Darwin ( BSD ), iOS , mostly based on iPadOS
+    gui: null
+    platforms: ARMv8-A
+    kernel_type: Hybrid ( XNU )
+    license: Proprietary software with open-source components
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q312
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # visionOS

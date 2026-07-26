@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: [{ platform: Apple iPod, support_origin: original-target, support_status: historical, execution_mode: native, evidence: [wikipedia], assertion_status: provisional }]
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/IPod_software, title: IPod software, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/IPod_software
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apple
+    country_of_origin: null
+    purpose: Portable media player
+    programming_languages: null
+    first_release: null
+    latest_release: null
+    last_updated: null
+    development_status: null
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: null
+    kernel_type: null
+    license: null
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

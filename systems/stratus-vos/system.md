@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Stratus_VOS, title: "Stratus VOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Stratus_VOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Stratus Technologies
+    country_of_origin: null
+    purpose: null
+    programming_languages: PL/I , C , Assembly language
+    first_release: null
+    latest_release: 19.3.1bx / May 2025
+    last_updated: 19.3.1bx / May 2025
+    development_status: Current
+    source_model: Closed source
+    os_family: Multics-like
+    gui: null
+    platforms: i860 , x86 , PA-RISC , 68k
+    kernel_type: Monolithic kernel
+    license: 'Kernel: Stratus Technologies Drivers, libraries, and user-land programs:
+      Stratus Technologies , Other'
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

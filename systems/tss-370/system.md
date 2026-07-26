@@ -13,6 +13,29 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "TSS/370", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/TSS/370
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: 1967 ; 59 years ago ( 1967 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Source available
+    os_family: null
+    gui: Command-line interface
+    platforms: System/360 Model 67 , System/370 models with DAT
+    kernel_type: null
+    license: 'TSS/360: free TSS/370: Proprietary'
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # TSS/370

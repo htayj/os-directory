@@ -1,6 +1,6 @@
 {"schema_version":"0.1","batch":75,"results":[
 {"candidate_id":"windows-iot","disposition":"included-system","path":"systems/windows-iot/","canonical_title":"Windows IoT","notes":"Clear linked OS identity; draft fields remain unverified."},
-{"candidate_id":"windows-ce-2","disposition":"included-system","path":"systems/windows-ce-2/","canonical_title":"Microsoft Windows CE","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"windows-ce-2","disposition":"alias","path":"systems/windows-ce/","canonical_title":"Windows CE","notes":"Microsoft Windows CE redirects to Windows CE; this occurrence maps to the existing Windows CE record."},
 {"candidate_id":"windows-iot-core","disposition":"included-release","path":null,"canonical_title":"Windows IoT Core","notes":"Windows IoT product/release line."},
 {"candidate_id":"windows-iot-enterprise","disposition":"included-release","path":null,"canonical_title":"Windows IoT Enterprise","notes":"Windows IoT product/release line."},
 {"candidate_id":"wind-river-vxworks-rtos-22","disposition":"needs-review","path":null,"canonical_title":"Wind River VxWorks","notes":"Unlinked descriptive title; identity needs source confirmation."},

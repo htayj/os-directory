@@ -47,6 +47,37 @@ architectures: []
 sources:
   - { id: wikipedia, resource: https://en.wikipedia.org/wiki/Fire_OS, title: Fire OS, source_kind: article }
   - { id: amazon-fire, resource: https://developer.amazon.com/docs/fire-tv/fire-os-overview.html, title: Fire OS Overview, author: organization:amazon, source_kind: documentation }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Fire_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Amazon
+    country_of_origin: United States
+    purpose: Budget/Low priced market, Members of the Amazon ecosystem
+    programming_languages: C (core) , C++ , Java (UI)
+    first_release: null
+    latest_release: Fire OS 7.3.3.1 for 8th-11th generation devices Fire OS 8.3.3.8
+      for 12th-13th generation devices / July 2025
+    last_updated: Fire OS 7.3.3.1 for 8th-11th generation devices Fire OS 8.3.3.8
+      for 12th-13th generation devices / July 2025
+    development_status: Current
+    source_model: Based on the Android Open source project, with proprietary software
+      & proprietary components
+    os_family: Android ( Linux )
+    gui: Graphical ( Multi-touch )
+    platforms: 32-bit and 64-bit ARM
+    kernel_type: Monolithic (modified Linux kernel )
+    license: Proprietary EULA; based on Apache License 2.0 Modified Linux kernel under
+      GNU GPL v2
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q3884
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

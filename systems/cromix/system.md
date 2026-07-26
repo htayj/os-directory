@@ -29,6 +29,29 @@ interfaces: []
 hardware_platforms: [{ platform: Cromemco microcomputers, support_origin: original-target, support_status: historical, execution_mode: native, evidence: [wikipedia], assertion_status: provisional }]
 architectures: [{ value: Zilog Z80A, execution_mode: native, evidence: [wikipedia], assertion_status: provisional }, { value: Motorola 68000, execution_mode: native, evidence: [wikipedia], assertion_status: provisional }]
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Cromix, title: Cromix, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Cromix
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: null
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: null
+    last_updated: null
+    development_status: null
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: null
+    kernel_type: null
+    license: null
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -29,6 +29,29 @@ development_status: { value: discontinued, evidence: [zeta-discovery], assertion
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: zeta-discovery, resource: "https://en.wikipedia.org/wiki/ZETA_(operating_system)", title: "ZETA (operating system)", source_kind: article }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Magnussoft_ZETA
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: yellowTAB / magnussoft
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: 1.5 / February 28, 2007 ; 19 years ago ( 2007-02-28 )
+    last_updated: 1.5 / February 28, 2007 ; 19 years ago ( 2007-02-28 )
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: BeOS
+    gui: null
+    platforms: x86
+    kernel_type: Modular microkernel [ citation needed ]
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # magnussoft ZETA

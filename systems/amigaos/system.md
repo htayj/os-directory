@@ -51,6 +51,38 @@ sources:
   - { id: wikipedia, resource: https://en.wikipedia.org/wiki/AmigaOS, title: AmigaOS, source_kind: article }
   - { id: hyperion, resource: https://shop.amigaos.net/index.php/corporate, title: About Hyperion Entertainment, author: organization:hyperion-entertainment, source_kind: project-site }
   - { id: hyperion-settlement, resource: https://www.hyperion-entertainment.com/index.php/news/38-corporate/134-hyperion-entertainment-cvba-and-amiga-inc-reach-settlement, title: Hyperion Entertainment CVBA and Amiga Inc. reach settlement, author: organization:hyperion-entertainment, source_kind: announcement }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/AmigaOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Commodore International (v1.0–3.1) Haage & Partner (v3.5–3.9) Hyperion
+      Entertainment (v3.1.4–3.2, v4.0–4.1)
+    country_of_origin: United States; Germany; Belgium; United Kingdom of the Netherlands;
+      France; Austrian Netherlands; Spanish Netherlands; Habsburg Netherlands; Burgundian
+      Netherlands; Duchy of Brabant
+    purpose: null
+    programming_languages: Assembly , C , BCPL (v1)
+    first_release: July 23, 1985 ; 40 years ago ( 1985-07-23 )
+    latest_release: 4.1 Final Edition Update 3 / October 18, 2025 ; 9 months ago (
+      2025-10-18 )
+    last_updated: 4.1 Final Edition Update 3 / October 18, 2025 ; 9 months ago ( 2025-10-18
+      )
+    development_status: Current
+    source_model: Closed source
+    os_family: Amiga
+    gui: Graphical ( Workbench )
+    platforms: m68k (v1–v3), PowerPC (v4)
+    kernel_type: Microkernel
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-headquarters
+    source: https://www.wikidata.org/wiki/Q9005
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

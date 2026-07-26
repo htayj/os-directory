@@ -13,6 +13,32 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "MorphOS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/MorphOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: The MorphOS Development Team
+    country_of_origin: null
+    purpose: null
+    programming_languages: C , C++ , Objective-C++ , Pascal , Python , Perl , Amiga
+      E , Ruby , Lua
+    first_release: 0.1 / August 1, 2000 ; 25 years ago ( 2000-08-01 )
+    latest_release: 3.20 / May 30, 2026 ; 57 days ago ( 2026-05-30 )
+    last_updated: 3.20 / May 30, 2026 ; 57 days ago ( 2026-05-30 )
+    development_status: Current
+    source_model: Closed source (with open source components)
+    os_family: AmigaOS -like
+    gui: Ambient
+    platforms: Pegasos , some models of Amiga , Efika , Mac Mini G4, eMac , Power
+      Mac G4 , PowerBook G4 , iBook G4 , Power Mac G5 , SAM 460 , AmigaOne X5000,
+      Mirari
+    kernel_type: Micro/pico
+    license: Proprietary with GNU GPL Ambient user interface
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # MorphOS

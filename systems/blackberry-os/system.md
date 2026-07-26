@@ -33,6 +33,35 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/BlackBerry_OS, title: "BlackBerry OS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/BlackBerry_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: BlackBerry Limited
+    country_of_origin: Canada
+    purpose: Smartphone
+    programming_languages: Java , C++
+    first_release: January 19, 1999 ; 27 years ago ( 1999-01-19 ) (as Version 1.0
+      for BlackBerry 850 pager) March 4, 2002 ; 24 years ago ( 2002-03-04 ) (as Version
+      3.6 for BlackBerry 5810 smartphone)
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued (replaced by BlackBerry 10 ; and Android )
+    source_model: Closed source
+    os_family: Mobile operating systems
+    gui: null
+    platforms: BlackBerry line of smartphones
+    kernel_type: Proprietary
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q502121
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

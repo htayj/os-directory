@@ -33,6 +33,31 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Edinburgh_Multiple_Access_System, title: "Edinburgh Multiple Access System", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Edinburgh_Multiple_Access_System
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: University of Edinburgh , University of Kent
+    country_of_origin: null
+    purpose: Mainframe computers
+    programming_languages: Edinburgh IMP
+    first_release: 1971 ; 55 years ago ( 1971 )
+    latest_release: null
+    last_updated: null
+    development_status: null
+    source_model: null
+    os_family: null
+    gui: basic command interpreter
+    platforms: ICL System 4/75 , ICL 2900 series of mainframes , Amdahl 470 mainframe
+      clone, IBM System/370-XA architecture, National Advanced System (NAS) VL80 IBM
+      mainframe clone
+    kernel_type: null
+    license: null
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

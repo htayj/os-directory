@@ -33,6 +33,38 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Android-x86, title: "Android-x86", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Android-x86
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Chih-Wei Huang , Yi Sun
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: Android 9.0 r2 (based on Android Pie 9.0.0 (android-9.0.0_r54))
+      / March 25, 2020 ; 6 years ago ( 2020-03-25 ) Android 8.1 r6 (based on Android
+      Oreo 8.1.0 (android-8.1.0_r81)) / June 23, 2021 ; 5 years ago ( 2021-06-23 )
+      Android 7.1 r5 (based on Android Nougat 7.1.2 (android-7.1.2_r39)) / February
+      14, 2021 ; 5 years ago ( 2021-02-14 )
+    last_updated: Android 9.0 r2 (based on Android Pie 9.0.0 (android-9.0.0_r54))
+      / March 25, 2020 ; 6 years ago ( 2020-03-25 ) Android 8.1 r6 (based on Android
+      Oreo 8.1.0 (android-8.1.0_r81)) / June 23, 2021 ; 5 years ago ( 2021-06-23 )
+      Android 7.1 r5 (based on Android Nougat 7.1.2 (android-7.1.2_r39)) / February
+      14, 2021 ; 5 years ago ( 2021-02-14 )
+    development_status: null
+    source_model: Open source (includes proprietary components such as Google Play
+      )
+    os_family: Android ( Linux )
+    gui: null
+    platforms: null
+    kernel_type: Monolithic ( modified Linux kernel )
+    license: Apache License 2.0
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Pilot_(operating_system), title: "Pilot", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Pilot_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Xerox PARC
+    country_of_origin: United States
+    purpose: null
+    programming_languages: Mesa
+    first_release: 1981 ; 45 years ago ( 1981 )
+    latest_release: null
+    last_updated: null
+    development_status: Historic
+    source_model: null
+    os_family: null
+    gui: Graphical user interface
+    platforms: Xerox Star workstations
+    kernel_type: null
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q750428
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

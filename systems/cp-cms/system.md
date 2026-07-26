@@ -33,6 +33,35 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/CP/CMS, title: "CP/CMS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/CP/CMS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM Cambridge Scientific Center
+    country_of_origin: United States
+    purpose: null
+    programming_languages: Assembler (F)
+    first_release: May 1968 ; 58 years ago ( 1968-05 )
+    latest_release: 3.2 / 1972 ; 54 years ago ( 1972 )
+    last_updated: 3.2 / 1972 ; 54 years ago ( 1972 )
+    development_status: Historic
+    source_model: Source code (see text for details)
+    os_family: VM
+    gui: Command-line interface
+    platforms: IBM System/360-67 ; also System/370 with virtual memory hardware (not
+      present in original S/370 models); also used on experimental hardware
+    kernel_type: null
+    license: IBM Type-III Library (free in source code form at no charge to IBM customers,
+      without support)
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q5025526
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -1,5 +1,5 @@
 {"schema_version":"0.1","batch":74,"results":[
-{"candidate_id":"fuchsia-2","disposition":"included-system","path":"systems/fuchsia-2/","canonical_title":"Google Fuchsia","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"fuchsia-2","disposition":"alias","path":"systems/fuchsia/","canonical_title":"Fuchsia","notes":"Google Fuchsia redirects to Fuchsia (operating system); this occurrence maps to the existing Fuchsia record."},
 {"candidate_id":"openembedded","disposition":"not-an-operating-system","path":null,"canonical_title":"OpenEmbedded","notes":"Embedded Linux build framework, not an OS identity."},
 {"candidate_id":"psos","disposition":"included-system","path":"systems/psos/","canonical_title":"PSOS","notes":"Distinct linked real-time operating-system identity."},
 {"candidate_id":"px5-rtos","disposition":"included-system","path":"systems/px5-rtos/","canonical_title":"PX5 RTOS","notes":"Distinct linked real-time operating-system identity."},

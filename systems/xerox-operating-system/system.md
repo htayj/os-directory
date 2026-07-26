@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Xerox_Operating_System, title: "Xerox Operating System", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Xerox_Operating_System
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: CII
+    country_of_origin: France
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: null
+    last_updated: null
+    development_status: Historic
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: SDS Sigma series
+    kernel_type: null
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q2990206
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

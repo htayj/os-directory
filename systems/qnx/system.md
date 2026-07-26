@@ -13,6 +13,34 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "QNX", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/QNX
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: BlackBerry (formerly QNX Software Systems )
+    country_of_origin: Canada
+    purpose: Embedded systems
+    programming_languages: null
+    first_release: 1982 ; 44 years ago ( 1982 )
+    latest_release: 8.0 / December 2023 ; 2 years ago ( 2023-12 )
+    last_updated: 8.0 / December 2023 ; 2 years ago ( 2023-12 )
+    development_status: Current
+    source_model: Closed source
+    os_family: Unix-like
+    gui: null
+    platforms: 'Current: x86-64 , ARM32 , ARM64 Former: MIPS , PowerPC , SH-4 , StrongARM
+      , XScale'
+    kernel_type: RTOS ( microkernel )
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q502121
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # QNX

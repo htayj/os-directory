@@ -33,6 +33,35 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/VM_(operating_system), title: "VM", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/VM_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM
+    country_of_origin: United States
+    purpose: IBM mainframe computers
+    programming_languages: null
+    first_release: 1972 ; 54 years ago ( 1972 )
+    latest_release: IBM z/VM V7.4 / September 20, 2024 ; 22 months ago ( 2024-09-20
+      )
+    last_updated: IBM z/VM V7.4 / September 20, 2024 ; 22 months ago ( 2024-09-20
+      )
+    development_status: Current
+    source_model: 1972–1986 Open source , 1977–present Closed source
+    os_family: VM family
+    gui: null
+    platforms: System/370 , System/390 , IBM Z
+    kernel_type: null
+    license: 1972–1981 Public domain , 1976–present Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q37156
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

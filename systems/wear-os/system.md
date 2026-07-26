@@ -13,6 +13,35 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Wear OS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Wear_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Google
+    country_of_origin: United States
+    purpose: Smartwatches
+    programming_languages: C (core) , C++ , Java
+    first_release: March 18, 2014 ; 12 years ago ( 2014-03-18 )
+    latest_release: Wear OS 7 (based on Android 17 ) / 16 June 2026 ; 40 days ago
+      ( 2026-06-16 )
+    last_updated: Wear OS 7 (based on Android 17 ) / 16 June 2026 ; 40 days ago (
+      2026-06-16 )
+    development_status: Current
+    source_model: Closed-source
+    os_family: Android ( Unix-like )
+    gui: Graphical ( Multi-touch )
+    platforms: 32-bit ARM , x86
+    kernel_type: Monolithic ( modified Linux kernel )
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q95
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Wear OS

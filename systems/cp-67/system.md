@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/CP-67, title: "CP-67", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/CP-67
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM Cambridge Scientific Center (CSC)
+    country_of_origin: United States
+    purpose: IBM mainframe computers
+    programming_languages: null
+    first_release: null
+    latest_release: null
+    last_updated: null
+    development_status: Historic
+    source_model: null
+    os_family: CP/CMS
+    gui: Command-line interface
+    platforms: IBM System/360-67
+    kernel_type: null
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q5025526
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

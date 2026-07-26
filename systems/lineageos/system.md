@@ -13,6 +13,32 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "LineageOS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/LineageOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: LineageOS open-source community
+    country_of_origin: null
+    purpose: Operating system replacement for Android devices
+    programming_languages: C (core), C++ (some third party libraries), Java and Kotlin
+      ( UI )
+    first_release: January 2017 ; 9 years ago ( 2017-01 ) (First public builds)
+    latest_release: LineageOS 23.2 [ a ] / 8 February 2026 ; 5 months ago ( 2026-02-08
+      )
+    last_updated: LineageOS 23.2 [ a ] / 8 February 2026 ; 5 months ago ( 2026-02-08
+      )
+    development_status: Active
+    source_model: Open source (includes proprietary libraries )
+    os_family: Android ( Linux )
+    gui: null
+    platforms: arm, arm64 , x86 , x86-64
+    kernel_type: Monolithic ( Linux )
+    license: Apache 2 and other licenses
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # LineageOS

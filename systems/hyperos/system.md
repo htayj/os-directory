@@ -13,6 +13,36 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "HyperOS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/HyperOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Xiaomi Inc.
+    country_of_origin: null
+    purpose: Smartphones , tablet computers , automobiles, IoT devices , smart home
+      products
+    programming_languages: null
+    first_release: '1.0'
+    latest_release: See Versions section for device and region dependent letter codes.
+      3.0.3.0 (HyperOS 3) 4 November 2025 ; 8 months ago ( 2025-11-04 ) (China) 3.0.3.0
+      (HyperOS 3) 4 November 2025 ; 8 months ago ( 2025-11-04 ) (Global) 2.0.204.0
+      (HyperOS 2.2) 27 October 2025 ; 8 months ago ( 2025-10-27 ) (India)
+    last_updated: See Versions section for device and region dependent letter codes.
+      3.0.3.0 (HyperOS 3) 4 November 2025 ; 8 months ago ( 2025-11-04 ) (China) 3.0.3.0
+      (HyperOS 3) 4 November 2025 ; 8 months ago ( 2025-11-04 ) (Global) 2.0.204.0
+      (HyperOS 2.2) 27 October 2025 ; 8 months ago ( 2025-10-27 ) (India)
+    development_status: Current
+    source_model: Open-source
+    os_family: Android ( Linux )
+    gui: Graphical
+    platforms: ARM64
+    kernel_type: Monolithic ( Linux )
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # HyperOS

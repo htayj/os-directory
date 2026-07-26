@@ -28,6 +28,35 @@ platforms: []
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: plan9-site, resource: "https://9p.io/plan9/", title: "Plan 9 from Bell Labs", source_kind: project-site }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Plan 9 Foundation, succeeding Bell Labs
+    country_of_origin: United States
+    purpose: Operating systems research, networked environments, general-purpose use
+    programming_languages: Dialect of ANSI C
+    first_release: 1992 ; 34 years ago ( 1992 ) (universities) / 1995 ; 31 years ago
+      ( 1995 ) (general public)
+    latest_release: null
+    last_updated: null
+    development_status: Current
+    source_model: Open source
+    os_family: null
+    gui: rio / rc
+    platforms: 'x86 / Vx32 , x86-64 , ARM , RISC-V , MIPS Historical: DEC Alpha ,
+      SPARC , PowerPC'
+    kernel_type: Monolithic
+    license: '2021: MIT 2014: GPL-2.0-only 2002: LPL-1.02 2000: Plan 9 OSL'
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q217365
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Plan 9 from Bell Labs

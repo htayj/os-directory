@@ -28,6 +28,33 @@ platforms: [{ value: Macintosh, evidence: [aux-manual], assertion_status: provis
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: aux-manual, resource: "https://ftpmirror.your.org/pub/misc/bitsavers/pdf/apple/mac/a_ux/aux_1.0/AUX_1.0_Programming_Languages_and_Tools_Volume_2_1987.pdf", title: "A/UX Programming Languages and Tools", author: organization:Apple, source_kind: manual }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/A/UX
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apple Computer
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: February 1988 ; 38 years ago ( 1988-02 )
+    latest_release: 3.1.1 / 1995 ; 31 years ago ( 1995 )
+    last_updated: 3.1.1 / 1995 ; 31 years ago ( 1995 )
+    development_status: Historic
+    source_model: Closed source
+    os_family: Macintosh UNIX System V
+    gui: null
+    platforms: null
+    kernel_type: Monolithic kernel
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q312
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # A/UX

@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Novell_Open_Enterprise_Server, title: "Novell Open Enterprise Server", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Novell_Open_Enterprise_Server
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: OpenText
+    country_of_origin: null
+    purpose: Enterprise software Server
+    programming_languages: null
+    first_release: null
+    latest_release: OES 23.4 / October 2023 ; 2 years ago ( 2023-10 )
+    last_updated: OES 23.4 / October 2023 ; 2 years ago ( 2023-10 )
+    development_status: Current
+    source_model: Open source / Closed source
+    os_family: Linux ( Unix-like ) and NetWare
+    gui: null
+    platforms: null
+    kernel_type: null
+    license: null
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -13,6 +13,29 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "BareMetal", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/BareMetal
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Return Infinity
+    country_of_origin: null
+    purpose: HPCs , HTC , Cloud computing
+    programming_languages: Assembly
+    first_release: 2008 ; 18 years ago ( 2008 )
+    latest_release: 2025.04 / April 30, 2025 ; 14 months ago ( 2025-04-30 )
+    last_updated: 2025.04 / April 30, 2025 ; 14 months ago ( 2025-04-30 )
+    development_status: Current
+    source_model: Open source
+    os_family: null
+    gui: Command-line
+    platforms: x86-64
+    kernel_type: Exokernel , SASOS
+    license: BSD License
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # BareMetal

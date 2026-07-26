@@ -13,6 +13,31 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "PostmarketOS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/PostmarketOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: postmarketOS open-source community
+    country_of_origin: null
+    purpose: Operating system replacement for Android and other mobile devices
+    programming_languages: null
+    first_release: 26 May 2017 ; 9 years ago ( 2017-05-26 )
+    latest_release: 26.06 (Alpen Avocado) / 21 June 2026 ; 32 days ago ( 21 June 2026
+      )
+    last_updated: 26.06 (Alpen Avocado) / 21 June 2026 ; 32 days ago ( 21 June 2026
+      )
+    development_status: Active
+    source_model: Open source
+    os_family: Linux ( Unix-like )
+    gui: GNOME , Phosh , Sway , Sxmo
+    platforms: ARM, ARM64 , x86 , x86-64
+    kernel_type: Monolithic ( Linux )
+    license: null
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # PostmarketOS

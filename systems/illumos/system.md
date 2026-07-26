@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Illumos, title: "Illumos", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Illumos
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Illumos Foundation
+    country_of_origin: null
+    purpose: null
+    programming_languages: C
+    first_release: 2010 ; 16 years ago ( 2010 )
+    latest_release: null
+    last_updated: null
+    development_status: Current
+    source_model: Open source with binary blobs
+    os_family: Unix ( SVR4 )
+    gui: null
+    platforms: IA-32 , x86-64 , SPARC , ARM (under development), DEC Alpha
+    kernel_type: Monolithic
+    license: CDDL , BSD , MIT
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,34 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/EComStation, title: "EComStation", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/EComStation
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: PayGlobal Technologies BV (Previously Serenity Systems, Mensys BV,
+      XEU.com. Based on code from IBM , Microsoft , and other developers)
+    country_of_origin: Netherlands
+    purpose: null
+    programming_languages: null
+    first_release: July 2001 ; 25 years ago ( 2001-07 )
+    latest_release: 2.1 / May 20, 2011 ; 15 years ago ( 2011-05-20 )
+    last_updated: 2.1 / May 20, 2011 ; 15 years ago ( 2011-05-20 )
+    development_status: Inactive
+    source_model: Closed source
+    os_family: OS/2
+    gui: null
+    platforms: null
+    kernel_type: null
+    license: Proprietary software with open-source components
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q31315019
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/A2_(operating_system), title: "A2", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/A2_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: ETH Zurich
+    country_of_origin: Switzerland
+    purpose: null
+    programming_languages: null
+    first_release: 2002 ; 24 years ago ( 2002 )
+    latest_release: null
+    last_updated: null
+    development_status: Current
+    source_model: Open source
+    os_family: Oberon
+    gui: null
+    platforms: IA-32 , x86-64 , ARM , Cell
+    kernel_type: Object-oriented
+    license: BSD-like ETH A2 License
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q11942
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

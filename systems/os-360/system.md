@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/OS/360, title: "OS/360", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/OS/360
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM
+    country_of_origin: null
+    purpose: IBM mainframe computers
+    programming_languages: Assembly language , Basic Systems Language (BSL)
+    first_release: March 31, 1966 ; 60 years ago ( 1966-03-31 )
+    latest_release: 21.8 / August 1972 ; 53 years ago ( 1972-08 )
+    last_updated: 21.8 / August 1972 ; 53 years ago ( 1972-08 )
+    development_status: null
+    source_model: null
+    os_family: OS/360 and successors
+    gui: null
+    platforms: S/360 , S/370
+    kernel_type: N/A
+    license: Public domain
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

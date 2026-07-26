@@ -13,6 +13,29 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Barrelfish", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Barrelfish_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: ETH Zurich with assistance of Microsoft Research
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: September 15, 2009 ; 16 years ago ( 2009-09-15 )
+    latest_release: 2020.03.23 / March 23, 2020 ; 6 years ago ( 2020-03-23 )
+    last_updated: 2020.03.23 / March 23, 2020 ; 6 years ago ( 2020-03-23 )
+    development_status: Discontinued
+    source_model: Open source
+    os_family: null
+    gui: null
+    platforms: null
+    kernel_type: Multikernel , Microkernel
+    license: MIT License
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Barrelfish

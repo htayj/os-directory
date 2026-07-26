@@ -30,6 +30,33 @@ interfaces: []
 hardware_platforms: []
 architectures: [{ value: Intel 8086 and 8088, execution_mode: native, evidence: [wikipedia], assertion_status: provisional }]
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/CP/M-86, title: CP/M-86, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/CP/M-86
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Research , Inc. / Gary Kildall / Kathryn Strutynski
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: November 1981 ; 44 years ago ( 1981-11 )
+    latest_release: null
+    last_updated: null
+    development_status: Historic
+    source_model: Originally closed source , now open source
+    os_family: CP/M
+    gui: Command-line interface
+    platforms: Intel 8086
+    kernel_type: Monolithic kernel
+    license: Originally proprietary , now BSD -like [ citation needed ]
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-headquarters
+    source: https://www.wikidata.org/wiki/Q117514
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -13,6 +13,29 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "GhostBSD", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/GhostBSD
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Eric Turgeon and GhostBSD Team
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: 26.1-R15.0p2 / 18 April 2026 ; 3 months ago ( 18 April 2026 )
+    last_updated: 26.1-R15.0p2 / 18 April 2026 ; 3 months ago ( 18 April 2026 )
+    development_status: Current
+    source_model: Open source
+    os_family: Unix-like ( BSD )
+    gui: MATE and Xfce
+    platforms: amd64
+    kernel_type: Monolithic FreeBSD kernel
+    license: FreeBSD license
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # GhostBSD

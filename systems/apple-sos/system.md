@@ -29,6 +29,33 @@ platforms: [{ value: "Apple III", evidence: [sos-source], assertion_status: docu
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: sos-source, resource: "https://apple3.org/Documents/SourceCode/apple3_SRC_SOS_DTC.pdf", title: "Apple III SOS source-code disk readme", source_kind: source-tree }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Apple_SOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apple Computer
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: January 1980 ; 46 years ago ( 1980-01 )
+    latest_release: 1.3 / January 1, 1980 ; 46 years ago ( 1980-01-01 )
+    last_updated: 1.3 / January 1, 1980 ; 46 years ago ( 1980-01-01 )
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: SOS
+    gui: Full screen text mode
+    platforms: Apple III
+    kernel_type: Monolithic kernel
+    license: Apple Software License Agreement
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q312
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Apple SOS

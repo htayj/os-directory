@@ -33,6 +33,31 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/RIOT_(operating_system), title: "RIOT", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/RIOT_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Free University of Berlin French Institute for Research in Computer
+      Science and Automation Hamburg University of Applied Sciences
+    country_of_origin: null
+    purpose: Internet of things , Embedded systems
+    programming_languages: null
+    first_release: 23 October 2009 ; 16 years ago ( 2009-10-23 )
+    latest_release: 2026.01 / 10 February 2026 ; 5 months ago ( 2026-02-10 )
+    last_updated: 2026.01 / 10 February 2026 ; 5 months ago ( 2026-02-10 )
+    development_status: Current
+    source_model: Open source
+    os_family: POSIX
+    gui: null
+    platforms: TI MSP430 , ARM7 , ARM Cortex-M 0-M0+-M3-M4, Atmel AVR , MIPS32r2 ,
+      RISC-V
+    kernel_type: Microkernel real-time
+    license: LGPLv2
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

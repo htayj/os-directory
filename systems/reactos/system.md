@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/ReactOS, title: "ReactOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/ReactOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Community contributors The ReactOS developers
+    country_of_origin: null
+    purpose: Personal computing
+    programming_languages: C , C++
+    first_release: (partial) 1998 ; 28 years ago ( 1998 )
+    latest_release: null
+    last_updated: null
+    development_status: Alpha
+    source_model: Open-source
+    os_family: Windows NT -like
+    gui: Graphical (ReactOS Explorer)
+    platforms: IA-32 , x86-64
+    kernel_type: Hybrid (designed to be compatible with Windows NT family )
+    license: GPL-2.0-or-later [ a ]
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

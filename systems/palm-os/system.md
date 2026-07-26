@@ -13,6 +13,33 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Palm OS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Palm_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Palm, Inc. , ACCESS (Garnet OS)
+    country_of_origin: United States; Japan
+    purpose: null
+    programming_languages: C++
+    first_release: 1996 ; 30 years ago ( 1996 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued since 2009
+    source_model: Closed-source
+    os_family: Palm OS
+    gui: null
+    platforms: ARM Motorola 68k
+    kernel_type: null
+    license: Proprietary EULA
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q338906
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Palm OS

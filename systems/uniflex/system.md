@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/UniFLEX, title: "UniFLEX", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/UniFLEX
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Technical Systems Consultants (TSC)
+    country_of_origin: null
+    purpose: null
+    programming_languages: Assembly language
+    first_release: null
+    latest_release: 13.12A
+    last_updated: 13.12A
+    development_status: Historic
+    source_model: null
+    os_family: Unix-like
+    gui: null
+    platforms: Motorola 6809 family
+    kernel_type: null
+    license: null
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

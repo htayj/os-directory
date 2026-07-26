@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#History, title: "Micrium OS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#History
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Micrium, Inc., Silicon Labs
+    country_of_origin: null
+    purpose: Embedded devices
+    programming_languages: ANSI C
+    first_release: 1991 ; 35 years ago ( 1991 )
+    latest_release: OS-III / 2016 ; 10 years ago ( 2016 )
+    last_updated: OS-III / 2016 ; 10 years ago ( 2016 )
+    development_status: Current
+    source_model: Open-source as of 2020
+    os_family: null
+    gui: μC/ GUI
+    platforms: ARM Cortex-M3 , -M4F , ARM7TDMI ; Atmel AVR ; eSi-RISC , and many others
+    kernel_type: Real-time microkernel
+    license: Apache as of 2020; former Commercial , freeware education use
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

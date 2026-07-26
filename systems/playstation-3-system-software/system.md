@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/PlayStation_3_system_software, title: "PlayStation 3 system software", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/PlayStation_3_system_software
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Sony Computer Entertainment
+    country_of_origin: Japan; United States
+    purpose: null
+    programming_languages: null
+    first_release: 1.00 / 11 November 2006 ; 19 years ago ( 2006-11-11 )
+    latest_release: 4.93 / 18 March 2026 ; 4 months ago ( 2026-03-18 )
+    last_updated: 4.93 / 18 March 2026 ; 4 months ago ( 2026-03-18 )
+    development_status: Current
+    source_model: Closed source
+    os_family: Unix ( BSD )
+    gui: XrossMediaBar
+    platforms: PlayStation 3
+    kernel_type: Monolithic
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q18594
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

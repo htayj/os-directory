@@ -46,6 +46,30 @@ sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: symbos-site, resource: "https://symbos.org/download.htm", title: "SymbOS downloads", author: organization:SymbiosiS, source_kind: project-site }
   - { id: symbos-manual, resource: "https://www.symbos.org/download/20170830-V30/symbos-manual.pdf", title: "SymbOS 3.0 Installation and User Manual", author: organization:SymbiosiS, source_kind: manual }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/SymbOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: SymbiosiS
+    country_of_origin: null
+    purpose: null
+    programming_languages: Assembly language ( Zilog Z80 )
+    first_release: 1 May 2006 ; 20 years ago ( 2006-05-01 )
+    latest_release: 4.0 / 31 January 2025 ; 17 months ago ( 2025-01-31 )
+    last_updated: 4.0 / 31 January 2025 ; 17 months ago ( 2025-01-31 )
+    development_status: Current
+    source_model: Freeware
+    os_family: null
+    gui: Graphical user interface
+    platforms: Amstrad CPC , MSX , Amstrad PCW , Amstrad NC100 , Amstrad NC200 , Enterprise
+      64/128 , ZX Spectrum Next , Virtual Machine
+    kernel_type: Microkernel
+    license: null
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # SymbOS

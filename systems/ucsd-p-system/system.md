@@ -33,6 +33,34 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/UCSD_Pascal, title: "UCSD p-System", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/UCSD_Pascal
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: University of California, San Diego , SofTech , Pecan
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: August 1977 ; 48 years ago ( 1977-08 )
+    latest_release: IV.2.2 R1.1 / December 1987 ; 38 years ago ( 1987-12 )
+    last_updated: IV.2.2 R1.1 / December 1987 ; 38 years ago ( 1987-12 )
+    development_status: Historic
+    source_model: null
+    os_family: P-code operating systems
+    gui: null
+    platforms: Apple II , DEC PDP-11 , Intel 8080 , Zilog Z80 , MOS 6502 , Motorola
+      68000 , x86 , Osborne Executive , Pascal MicroEngine , TI 99/4A , BBC Micro
+    kernel_type: P-code virtual machine
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q622664
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

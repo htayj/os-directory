@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/ChromiumOS, title: "ChromiumOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/ChromiumOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Google
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: November 19, 2009 ; 16 years ago ( November 19, 2009 )
+    latest_release: null
+    last_updated: null
+    development_status: Current
+    source_model: Open source
+    os_family: Unix-like ( Linux )
+    gui: Chromium , Aura Shell (Ash)
+    platforms: IA-32 , x86-64 , ARM , ARM64
+    kernel_type: Monolithic ( Linux kernel )
+    license: Various open source licenses (mainly BSD-style licenses and GPL )
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q95
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

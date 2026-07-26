@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/ThreadX, title: "ThreadX", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/ThreadX
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Express Logic (original) Microsoft (former) Eclipse (current)
+    country_of_origin: null
+    purpose: Embedded systems , IoT
+    programming_languages: C
+    first_release: 1997 ; 29 years ago ( 1997 )
+    latest_release: 6.4.1 / February 28, 2024 ; 2 years ago ( 2024-02-28 )
+    last_updated: 6.4.1 / February 28, 2024 ; 2 years ago ( 2024-02-28 )
+    development_status: Current
+    source_model: Open source
+    os_family: null
+    gui: Embedded UI support (GUIX)
+    platforms: ARC , ARM , Blackfin, CEVA, C6x, MIPS , NXP , PIC , PowerPC , RISC-V
+      , RX, SH, SHARC , TI , V850, Xtensa, x86 , Coldfire , others
+    kernel_type: Embedded , deterministic , real-time microkernel , picokernel
+    license: MIT License (as of 2023)
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

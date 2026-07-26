@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/RT-Thread, title: "RT-Thread", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/RT-Thread
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Bernard Xiong & RT-Thread Team
+    country_of_origin: null
+    purpose: Embedded systems , IoT
+    programming_languages: C
+    first_release: 2006 ; 20 years ago ( 2006 )
+    latest_release: 5.2.1 / May 30, 2025 ; 13 months ago ( 2025-05-30 )
+    last_updated: 5.2.1 / May 30, 2025 ; 13 months ago ( 2025-05-30 )
+    development_status: Current
+    source_model: Open source
+    os_family: null
+    gui: null
+    platforms: ARM ( Cortex-M0 , -M3 , -M4 , -M7 , -M23 , -R4 , -A8 , -A9 ; ARM7 ,
+      ARM9 , ARM11 ), MIPS32 , RISC-V , ARC , TMS320 DSP , C-Sky, x86
+    kernel_type: Monolithic
+    license: Apache 2.0
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

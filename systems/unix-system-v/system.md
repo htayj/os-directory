@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/UNIX_System_V, title: UNIX System V, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/UNIX_System_V
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: AT&T Corporation
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C
+    first_release: 1983 ; 43 years ago ( 1983 )
+    latest_release: null
+    last_updated: null
+    development_status: Historic
+    source_model: Closed source except for OpenSolaris and its derivatives
+    os_family: Unix
+    gui: Command-line interface
+    platforms: null
+    kernel_type: null
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q35476
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Firefox_OS, title: "Firefox OS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Firefox_OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Mozilla Corporation
+    country_of_origin: United States
+    purpose: Smartphones Tablet computers
+    programming_languages: HTML5 , CSS , JavaScript , C++
+    first_release: February 21, 2013 ; 13 years ago ( 2013-02-21 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued; forked to form KaiOS
+    source_model: Open source
+    os_family: Linux ( Unix-like )
+    gui: Graphical
+    platforms: ARM , x86 , MIPS
+    kernel_type: Linux kernel
+    license: MPL 2.0 and GPLv2 (Linux kernel)
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q55672
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

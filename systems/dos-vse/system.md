@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/DOS/VSE, title: "DOS/VSE", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/DOS/VSE
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: 21st Century Software (previously IBM )
+    country_of_origin: null
+    purpose: IBM mainframe computers
+    programming_languages: null
+    first_release: null
+    latest_release: 6.4 / October 15, 2025 ; 9 months ago ( 2025-10-15 )
+    last_updated: 6.4 / October 15, 2025 ; 9 months ago ( 2025-10-15 )
+    development_status: Current
+    source_model: Closed source
+    os_family: DOS/360 and successors
+    gui: null
+    platforms: null
+    kernel_type: null
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

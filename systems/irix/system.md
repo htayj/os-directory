@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/IRIX, title: "IRIX", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/IRIX
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Silicon Graphics
+    country_of_origin: United States
+    purpose: Workstations, servers
+    programming_languages: null
+    first_release: 1988 ; 38 years ago ( 1988 )
+    latest_release: null
+    last_updated: null
+    development_status: Historic as of December 2013
+    source_model: Closed source
+    os_family: Unix ( SVR3 / SVR4.1ES )
+    gui: IRIX Interactive Desktop
+    platforms: MIPS
+    kernel_type: Monolithic kernel
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q623459
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

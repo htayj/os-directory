@@ -13,6 +13,29 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Novell Corsair", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Novell_%22Corsair%22
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Caldera , Caldera Systems , Caldera International
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: '1997'
+    latest_release: 3.1.1 / 2002 ; 24 years ago ( 2002 )
+    last_updated: 3.1.1 / 2002 ; 24 years ago ( 2002 )
+    development_status: Defunct
+    source_model: Mixed
+    os_family: Linux
+    gui: null
+    platforms: null
+    kernel_type: Monolithic kernel
+    license: Mixed
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Novell Corsair

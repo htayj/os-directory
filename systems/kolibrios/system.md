@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/KolibriOS, title: "KolibriOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/KolibriOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: KolibriOS Project Team
+    country_of_origin: Russia
+    purpose: null
+    programming_languages: FASM
+    first_release: '2004'
+    latest_release: 0.7.7.0+8770 / August 1, 2024 ; 23 months ago ( 2024-08-01 )
+    last_updated: 0.7.7.0+8770 / August 1, 2024 ; 23 months ago ( 2024-08-01 )
+    development_status: Active
+    source_model: Open source
+    os_family: null
+    gui: KolibriOS Kernel API
+    platforms: x86
+    kernel_type: Monolithic
+    license: GPL-2.0-only with binary blobs
+  country_evidence:
+    assertion_status: provisional
+    method: wikidata-country-of-origin
+    source: https://www.wikidata.org/wiki/Q1290448
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

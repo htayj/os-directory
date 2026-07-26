@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Wii_system_software, title: "Wii system software", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Wii_system_software
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Nintendo
+    country_of_origin: Japan
+    purpose: null
+    programming_languages: C , C++ , assembly language
+    first_release: 1.0 / November 19, 2006 ; 19 years ago ( 2006-11-19 )
+    latest_release: 4.3 / June 21, 2010 ; 16 years ago ( 2010-06-21 )
+    last_updated: 4.3 / June 21, 2010 ; 16 years ago ( 2010-06-21 )
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: Nintendo proprietary
+    gui: null
+    platforms: Wii , Wii U
+    kernel_type: null
+    license: null
+  country_evidence:
+    assertion_status: provisional
+    method: wikidata-country-of-origin
+    source: https://www.wikidata.org/wiki/Q3257946
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

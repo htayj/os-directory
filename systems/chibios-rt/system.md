@@ -13,6 +13,30 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "ChibiOS/RT", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/ChibiOS/RT
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Giovanni Di Sirio
+    country_of_origin: null
+    purpose: Embedded systems
+    programming_languages: C , assembly language
+    first_release: 2007 ; 19 years ago ( 2007 )
+    latest_release: 21.11.4 / September 13, 2025 ; 10 months ago ( 2025-09-13 )
+    last_updated: 21.11.4 / September 13, 2025 ; 10 months ago ( 2025-09-13 )
+    development_status: Current
+    source_model: Open source
+    os_family: Real-time operating systems
+    gui: null
+    platforms: 'Intel 80386 ; ARM 7, 9 , Cortex: M0 , M3 , M4 , M7 ; PowerPC , e200z
+      ; Atmel AVR ; TI MSP430 ; STM8 ; Freescale Coldfire ; Renesas H8 S'
+    kernel_type: Microkernel
+    license: GPL 3 or proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # ChibiOS/RT

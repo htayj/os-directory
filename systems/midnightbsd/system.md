@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/MidnightBSD, title: "MidnightBSD", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/MidnightBSD
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: The MidnightBSD project
+    country_of_origin: null
+    purpose: PC , Workstations , Servers
+    programming_languages: C
+    first_release: 0.1 / 6 August 2007 ( 2007-08-06 )
+    latest_release: 4.0.6 / 19 June 2026 ; 33 days ago ( 19 June 2026 )
+    last_updated: 4.0.6 / 19 June 2026 ; 33 days ago ( 19 June 2026 )
+    development_status: Current
+    source_model: Source-available
+    os_family: FreeBSD
+    gui: Xfce
+    platforms: x86-64 and IA-32
+    kernel_type: Monolithic kernel
+    license: Modified FreeBSD license , Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -30,6 +30,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/MP/M, title: MP/M, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/MP/M
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Research, Inc. / Tom Rolander , Gary Kildall , Frank Holsworth
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: 1979 ; 47 years ago ( 1979 )
+    latest_release: 2.1 / 1982 ; 44 years ago ( 1982 )
+    last_updated: 2.1 / 1982 ; 44 years ago ( 1982 )
+    development_status: Discontinued
+    source_model: Originally closed source , since open sourced
+    os_family: CP/M
+    gui: Command-line interface
+    platforms: 8080 , 8085 , Z80 , 8086 , 80286
+    kernel_type: Monolithic kernel
+    license: Originally proprietary , now BSD -like
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-headquarters
+    source: https://www.wikidata.org/wiki/Q117514
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

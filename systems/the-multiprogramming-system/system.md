@@ -33,6 +33,34 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/THE_multiprogramming_system, title: "THE multiprogramming system", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/THE_multiprogramming_system
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Eindhoven University of Technology (Technische Hogeschool Eindhoven);
+      Edsger Dijkstra , et al.
+    country_of_origin: Netherlands
+    purpose: Research
+    programming_languages: Electrologica X8 assembly language
+    first_release: 1965 ; 61 years ago ( 1965 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: null
+    os_family: null
+    gui: Paper tape
+    platforms: Electrologica X8
+    kernel_type: Layered
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q280824
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/LynxOS, title: "LynxOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/LynxOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Lynx Software Technologies, Inc.
+    country_of_origin: United States
+    purpose: Embedded systems
+    programming_languages: Ada , C , C++ , Rust
+    first_release: 1986 ; 40 years ago ( 1986 )
+    latest_release: 7.1 / February 20, 2020 ; 6 years ago ( 2020-02-20 )
+    last_updated: 7.1 / February 20, 2020 ; 6 years ago ( 2020-02-20 )
+    development_status: Current
+    source_model: Closed source
+    os_family: Unix-like real-time operating system
+    gui: Command line interface
+    platforms: Motorola 68010 , Intel 80386 , ARM architecture , PowerPC
+    kernel_type: Monolithic , dynamic extendable
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q3269607
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

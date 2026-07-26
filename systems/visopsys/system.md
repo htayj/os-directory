@@ -13,6 +13,29 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Visopsys", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Visopsys
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Andy McLaughlin
+    country_of_origin: null
+    purpose: null
+    programming_languages: C , Assembly language
+    first_release: 2 August 2001 ; 24 years ago ( 2001-08-02 )
+    latest_release: 0.92 / 21 September 2023 ; 2 years ago ( 2023-09-21 )
+    last_updated: 0.92 / 21 September 2023 ; 2 years ago ( 2023-09-21 )
+    development_status: null
+    source_model: Open source
+    os_family: null
+    gui: null
+    platforms: null
+    kernel_type: Monolithic
+    license: GPL , LGPL
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Visopsys

@@ -33,6 +33,35 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Nintendo_DSi_system_software, title: "Nintendo DSi system software", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Nintendo_DSi_system_software
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Nintendo Nintendo SDD
+    country_of_origin: Japan
+    purpose: null
+    programming_languages: null
+    first_release: 1.0 / November 1, 2008 ; 17 years ago ( 2008-11-01 )
+    latest_release: 1.4.5 (all regions except China and Korea), 1.4.6 (on Chinese
+      and Korean systems) / December 11, 2012 ; 13 years ago ( 2012-12-11 )
+    last_updated: 1.4.5 (all regions except China and Korea), 1.4.6 (on Chinese and
+      Korean systems) / December 11, 2012 ; 13 years ago ( 2012-12-11 )
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: Nintendo proprietary
+    gui: null
+    platforms: Nintendo DSi ( XL )
+    kernel_type: null
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q8093
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -33,6 +33,32 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/OS-9000, title: "OS-9000", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/OS-9000
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Microware LP (2013–present) Radisys (2001–2013) Microware (1979–2001)
+    country_of_origin: null
+    purpose: high-performance, high-availability real-time software solution for advanced
+      industrial automation & control, medical instrumentation, aerospace and transportation
+      systems
+    programming_languages: C , Assembly language
+    first_release: 1979 ; 47 years ago ( 1979 )
+    latest_release: 6.1 / November 14, 2017 ; 8 years ago ( 2017-11-14 )
+    last_updated: 6.1 / November 14, 2017 ; 8 years ago ( 2017-11-14 )
+    development_status: Current
+    source_model: Closed source
+    os_family: null
+    gui: CLI in all versions, some platforms support a GUI
+    platforms: Motorola 6809 , Motorola 680x0 CPUs, ColdFire , SuperH , ARM/XScale
+      , MIPS , PowerPC , Intel x86 architecture
+    kernel_type: Real-time kernel
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

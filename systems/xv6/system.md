@@ -13,6 +13,37 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Xv6", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Xv6
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: MIT
+    country_of_origin: United States
+    purpose: null
+    programming_languages: C and assembly
+    first_release: null
+    latest_release: 'RISC-V: rev5 / September 2, 2025 ; 10 months ago ( 2025-09-02
+      ) x86-32 ( EOL ): rev11 / September 2, 2018 ; 7 years ago ( 2018-09-02 ) x86-64:
+      rev1 / September 1, 2025 ; 10 months ago ( 2025-09-01 )'
+    last_updated: 'RISC-V: rev5 / September 2, 2025 ; 10 months ago ( 2025-09-02 )
+      x86-32 ( EOL ): rev11 / September 2, 2018 ; 7 years ago ( 2018-09-02 ) x86-64:
+      rev1 / September 1, 2025 ; 10 months ago ( 2025-09-01 )'
+    development_status: null
+    source_model: Open source
+    os_family: Unix-like
+    gui: Command-line interface
+    platforms: multiprocessor Intel x86 and RISC-V
+    kernel_type: Monolithic
+    license: MIT license
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q49108
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Xv6

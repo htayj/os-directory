@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Unicos, title: "Unicos", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Unicos
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Cray Research
+    country_of_origin: null
+    purpose: Supercomputers
+    programming_languages: Assembly , C
+    first_release: 1984 ; 42 years ago ( 1984 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Closed source and Open source
+    os_family: Unix and Linux
+    gui: Command line interface
+    platforms: 'Monolithic kernel : Cray-1 , 2 , X-MP , X1 , XT3 , XT4 , XT5 Microkernel
+      : Y-MP , C90 , T3D , T3E'
+    kernel_type: Monolithic (some) Microkernel (some)
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

@@ -40,6 +40,33 @@ platforms:
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: amstrad-manual, resource: "https://www.cpcwiki.eu/imgs/3/3f/DDI-1_User_Manual.pdf", title: "Amstrad Disc Drive and Interface DDI-1 Manual", author: organization:amstrad, source_kind: manual }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/AMSDOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Locomotive Software
+    country_of_origin: United Kingdom
+    purpose: null
+    programming_languages: null
+    first_release: 1984 ; 42 years ago ( 1984 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: Disk operating systems
+    gui: None, access through BASIC and firmware calls
+    platforms: null
+    kernel_type: null
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q478825
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # AMSDOS

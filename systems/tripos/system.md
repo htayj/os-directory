@@ -33,6 +33,30 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/TripOS, title: "TripOS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/TripOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: University of Cambridge , University of Bath , MetaComCo , Open G I
+    country_of_origin: null
+    purpose: null
+    programming_languages: BCPL , Assembly language
+    first_release: 1978 ; 48 years ago ( 1978 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued
+    source_model: null
+    os_family: null
+    gui: null
+    platforms: PDP-11 , Computer Automation LSI4 , Data General Nova , Motorola 68000
+      , Intel 8086 , Cintcode BCPL ( VM )
+    kernel_type: null
+    license: null
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

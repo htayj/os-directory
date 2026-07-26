@@ -6,12 +6,16 @@ Generated and curated inventories used to establish catalog coverage.
 
 * `english-list-occurrences.json` - every list item extracted from the frozen English Wikipedia revision.
 * `english-list-source.json` - revision, retrieval, and content-fingerprint metadata.
-* `baseline-candidates.json` - redirect-resolved and deduplicated system/release candidates.
-* `baseline-occurrence-map.json` - disposition of every baseline occurrence.
-* `enwiki-os-page-metadata.json` - cached discovery metadata for linked OS articles.
+* `baseline-candidates.json` - optional redirect-resolved candidates produced by the online enrichment script.
+* `baseline-occurrence-map.json` - optional occurrence mapping produced with those online candidates.
+* `enwiki-os-page-metadata.json` - optional discovery metadata produced by the same API-dependent pass.
 * `terra-candidates.json` - deterministic raw candidates assigned to Terra first-pass review.
-* `terra-batches.json` - batch ledger for Terra first-pass review.
+* `terra-batches.json` - completed batch ledger for Terra first-pass review.
 * `terra-manifests/` - non-overlapping worker manifests of at most ten candidates.
+* `terra-results/` - one reviewed disposition for every candidate.
+* `enwiki-infobox-snapshots.json` - cached provisional attribute snapshots used by system records.
+* `wikidata-country-origins.json` - direct or explicitly inferred country evidence.
+* `interface-environment-candidates.json` - unique raw GUI/interface terms and their host systems, awaiting entity-type review.
 
 # Supplemental
 

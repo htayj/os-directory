@@ -18,6 +18,33 @@ development_status: { value: discontinued, evidence: [discovery], assertion_stat
 interfaces: []
 platforms: []
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }, { id: discovery, resource: "https://en.wikipedia.org/wiki/DOS_Plus", title: "DOS Plus", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/DOS_Plus
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Research
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: 1985 ; 41 years ago ( 1985 )
+    latest_release: DOS Plus 2.1 (with BDOS 5.0)
+    last_updated: DOS Plus 2.1 (with BDOS 5.0)
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: CP/M-86
+    gui: Command-line
+    platforms: 8086 , 80186
+    kernel_type: Monolithic kernel
+    license: Proprietary
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-headquarters
+    source: https://www.wikidata.org/wiki/Q117514
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # DOS Plus

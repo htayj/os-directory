@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/OpenZaurus, title: "OpenZaurus", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/OpenZaurus
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: null
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: 3.5.4.1 / July 6, 2006
+    last_updated: 3.5.4.1 / July 6, 2006
+    development_status: null
+    source_model: Open source
+    os_family: Linux ( Unix-like )
+    gui: Console , X Window System , GPE , OPIE
+    platforms: ARM
+    kernel_type: Monolithic Linux kernel
+    license: GNU GPL
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

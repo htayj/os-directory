@@ -33,6 +33,32 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/MINIX, title: "MINIX", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/MINIX
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Andrew S. Tanenbaum , et al.
+    country_of_origin: null
+    purpose: Teaching (v1, v2) Embedded systems (v3)
+    programming_languages: C
+    first_release: 1987 ; 39 years ago ( 1987 )
+    latest_release: 3.3.0 / 16 September 2014 ; 11 years ago ( 2014-09-16 )
+    last_updated: 3.3.0 / 16 September 2014 ; 11 years ago ( 2014-09-16 )
+    development_status: Abandoned
+    source_model: Open-source
+    os_family: Unix-like
+    gui: null
+    platforms: IBM PC compatibles , 68000 , SPARC , Atari ST , Amiga , Macintosh ,
+      SPARCstation , Intel 386 , NS32532 , ARM , Inmos transputer , Intel Management
+      Engine
+    kernel_type: Microkernel
+    license: '2005: BSD 3-Clause [ a ] 2000: BSD 3-Clause 1995: Proprietary 1987:
+      Proprietary'
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

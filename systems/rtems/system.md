@@ -33,6 +33,31 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/RTEMS, title: "RTEMS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/RTEMS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: OAR Corporation
+    country_of_origin: null
+    purpose: Embedded systems
+    programming_languages: C
+    first_release: 1993 ; 33 years ago ( 1993 )
+    latest_release: 6.2 / December 19, 2025 ; 7 months ago ( 2025-12-19 )
+    last_updated: 6.2 / December 19, 2025 ; 7 months ago ( 2025-12-19 )
+    development_status: Current
+    source_model: Open source
+    os_family: Real-time operating system
+    gui: Command-line
+    platforms: ARM , Blackfin , ColdFire , TI C3x/C4x , H8/300 , x86 , 68k , LatticeMico32
+      , Microblaze , MIPS Nios II , OpenRISC , PowerPC , RISC-V , SuperH , SPARC (
+      ERC32 , LEON ), SPARC64
+    kernel_type: Real-time
+    license: BSD 2 Paragraph
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

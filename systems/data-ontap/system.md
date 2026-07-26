@@ -13,6 +13,31 @@ source_list: { title: "List of operating systems", revision: 1365063001, occurre
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Data ONTAP", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
 sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Data_ONTAP
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: NetApp
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: null
+    latest_release: 9.19.1 / May 2026 ; 2 months ago ( 2026-05 )
+    last_updated: 9.19.1 / May 2026 ; 2 months ago ( 2026-05 )
+    development_status: Active
+    source_model: null
+    os_family: Unix-like ( BSD ) (Data ONTAP GX, Data ONTAP 8, and later)
+    gui: Command-line interface ( PowerShell , SSH , Serial console ) Graphical user
+      interfaces over Web-based user interfaces , REST API
+    platforms: IA-32 (no longer supported), Alpha (no longer supported), MIPS (no
+      longer supported), x86-64 with ONTAP 8 and higher
+    kernel_type: Monolithic with dynamically loadable modules
+    license: null
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # Data ONTAP

@@ -33,6 +33,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/MSP_(operating_system), title: "MSP", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/MSP_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: IBM
+    country_of_origin: null
+    purpose: IBM mainframe computers
+    programming_languages: Assembler (XF) , PL/S
+    first_release: 1974 ; 52 years ago ( 1974 )
+    latest_release: null
+    last_updated: null
+    development_status: null
+    source_model: null
+    os_family: OS/360
+    gui: null
+    platforms: System/370 , System/390
+    kernel_type: null
+    license: Proprietary Initially free
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

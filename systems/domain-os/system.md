@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: [{ platform: Apollo/Domain workstations, support_origin: original-target, support_status: historical, execution_mode: native, evidence: [wikipedia], assertion_status: provisional }]
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Domain/OS, title: Domain/OS, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Domain/OS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Apollo Computer , Hewlett-Packard
+    country_of_origin: United States
+    purpose: null
+    programming_languages: Pascal
+    first_release: March 27, 1981 ; 45 years ago ( 1981-03-27 ) (Aegis SR1)
+    latest_release: Domain/OS SR10.4.1.2 / March 1992 (for SR10.4)
+    last_updated: Domain/OS SR10.4.1.2 / March 1992 (for SR10.4)
+    development_status: Historic
+    source_model: null
+    os_family: Multics-like and Unix-like
+    gui: DM windowing system , CLI
+    platforms: Apollo/Domain workstations
+    kernel_type: 'AEGIS: Monolithic Domain/OS: Microkernel'
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q619107
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

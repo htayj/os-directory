@@ -27,6 +27,30 @@ platforms: [{ value: Macintosh, evidence: [mklinux-discovery], assertion_status:
 sources:
   - { id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }
   - { id: mklinux-discovery, resource: "https://en.wikipedia.org/wiki/MkLinux", title: "MkLinux", source_kind: article }
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/MkLinux
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: OSF Research Institute, Apple Computer , MkLinux Developers Association,
+      volunteer community
+    country_of_origin: null
+    purpose: Researchers , hobbyists
+    programming_languages: C
+    first_release: February 1996 ; 30 years ago ( 1996-02 )
+    latest_release: null
+    last_updated: null
+    development_status: Discontinued, legacy
+    source_model: Open source
+    os_family: Macintosh , Linux ( Unix-like )
+    gui: Console , X11
+    platforms: PowerPC
+    kernel_type: Microkernel (Mach 3.0)
+    license: GNU General Public License
+# END GENERATED ENWIKI INFOBOX
 ---
 
 # MkLinux

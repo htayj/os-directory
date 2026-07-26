@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: [{ platform: Atari 8-bit computers, support_origin: original-target, support_status: historical, execution_mode: native, evidence: [wikipedia], assertion_status: provisional }]
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Atari_DOS, title: Atari DOS, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Atari_DOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Atari, Inc. , Atari Corporation
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: 1979 ; 47 years ago ( 1979 )
+    latest_release: XE 1.0 / 1987 ; 39 years ago ( 1987 )
+    last_updated: XE 1.0 / 1987 ; 39 years ago ( 1987 )
+    development_status: Discontinued
+    source_model: Closed source
+    os_family: null
+    gui: Menu
+    platforms: Atari 8-bit computers
+    kernel_type: null
+    license: Proprietary EULA
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q207922
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

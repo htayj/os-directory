@@ -33,6 +33,33 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Amdahl_UTS, title: "Amdahl UTS", source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Amdahl_UTS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Amdahl Corporation / UTS Global
+    country_of_origin: United States
+    purpose: null
+    programming_languages: null
+    first_release: May 1981 ; 45 years ago ( 1981-05 )
+    latest_release: UTS 4.5
+    last_updated: UTS 4.5
+    development_status: Discontinued
+    source_model: null
+    os_family: Unix SVR4
+    gui: Command-line interface
+    platforms: IBM mainframes (and compatible)
+    kernel_type: null
+    license: null
+  country_evidence:
+    assertion_status: inferred
+    method: inferred-from-developer-country
+    source: https://www.wikidata.org/wiki/Q22711006
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview

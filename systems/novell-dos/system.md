@@ -30,6 +30,29 @@ interfaces: []
 hardware_platforms: []
 architectures: []
 sources: [{ id: wikipedia, resource: https://en.wikipedia.org/wiki/Novell_DOS, title: Novell DOS, source_kind: article }]
+# BEGIN GENERATED ENWIKI INFOBOX
+first_pass_attributes:
+  source: https://en.wikipedia.org/wiki/Novell_DOS
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked English Wikipedia infobox; normalize
+    and verify against stronger sources before marking verified.
+  fields:
+    developer: Digital Research Novell Caldera DeviceLogics Whitehorn Ltd. Co.
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: May 28, 1988 ; 38 years ago ( 1988-05-28 )
+    latest_release: 9.0.648 / May 2, 2026 ; 2 months ago ( 2026-05-02 )
+    last_updated: 9.0.648 / May 2, 2026 ; 2 months ago ( 2026-05-02 )
+    development_status: In active development
+    source_model: Mixed; primarily closed-source , some versions open-source
+    os_family: DOS
+    gui: Command-line interface ( COMMAND.COM )
+    platforms: x86
+    kernel_type: Monolithic kernel
+    license: Proprietary
+# END GENERATED ENWIKI INFOBOX
 ---
 
 ## Overview
