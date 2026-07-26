@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":30,"results":[
+{"candidate_id":"edx","disposition":"needs-review","path":null,"canonical_title":"EDX","notes":"Occurrence label is an OS but links hardware Series/1; identity needs confirmation."},
+{"candidate_id":"serix-unix-on-series-1","disposition":"needs-review","path":null,"canonical_title":"SERIX","notes":"Unlinked descriptive title; identity needs source confirmation."},
+{"candidate_id":"ibm-1130","disposition":"not-an-operating-system","path":null,"canonical_title":"IBM 1130","notes":"Computer model, not an OS identity."},
+{"candidate_id":"dms","disposition":"included-system","path":"systems/dms/","canonical_title":"DMS","notes":"Linked IBM 1130 software section establishes a draft OS identity."},
+{"candidate_id":"ibm-1800","disposition":"not-an-operating-system","path":null,"canonical_title":"IBM 1800","notes":"Computer model, not an OS identity."},
+{"candidate_id":"tsx-time-sharing-executive","disposition":"needs-review","path":null,"canonical_title":"TSX","notes":"Unlinked descriptive title; identity needs source confirmation."},
+{"candidate_id":"mpx-multi-programming-executive","disposition":"needs-review","path":null,"canonical_title":"MPX","notes":"Unlinked descriptive title; identity needs source confirmation."},
+{"candidate_id":"ibm-8100","disposition":"not-an-operating-system","path":null,"canonical_title":"IBM 8100","notes":"Computer family, not an OS identity."},
+{"candidate_id":"dpcx","disposition":"included-system","path":"systems/dpcx/","canonical_title":"DPCX","notes":"Clear linked IBM 8100 OS identity; draft fields remain unverified."},
+{"candidate_id":"dppx","disposition":"included-system","path":"systems/dppx/","canonical_title":"DPPX","notes":"Clear linked IBM 8100 OS identity; draft fields remain unverified."}
+]}

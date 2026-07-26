@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":29,"results":[
+{"candidate_id":"ibm-dos-4-x-5-0-developed-jointly-with-microsoft","disposition":"included-release","path":null,"canonical_title":"IBM DOS 4.x–5.0","notes":"Versioned IBM DOS release range."},
+{"candidate_id":"pc-dos-6-1-6-3-7-2000-7-10","disposition":"included-release","path":null,"canonical_title":"PC DOS 6.1–7.10","notes":"Versioned PC DOS release range."},
+{"candidate_id":"os-2","disposition":"included-system","path":"systems/os-2/","canonical_title":"OS/2","notes":"Distinct linked IBM/Microsoft operating-system identity."},
+{"candidate_id":"os-2-1-x-developed-jointly-with-microsoft","disposition":"included-release","path":null,"canonical_title":"OS/2 1.x","notes":"Versioned OS/2 release stream."},
+{"candidate_id":"os-2-2-x","disposition":"included-release","path":null,"canonical_title":"OS/2 2.x","notes":"Versioned OS/2 release stream."},
+{"candidate_id":"os-2-warp","disposition":"included-release","path":null,"canonical_title":"OS/2 Warp","notes":"Named OS/2 release/product stream."},
+{"candidate_id":"ecomstation","disposition":"included-system","path":"systems/ecomstation/","canonical_title":"EComStation","notes":"Distinct linked OS/2-derived operating-system identity."},
+{"candidate_id":"arcaos","disposition":"included-system","path":"systems/arcaos/","canonical_title":"ArcaOS","notes":"Distinct linked OS/2-derived operating-system identity."},
+{"candidate_id":"aix","disposition":"alias","path":"systems/ibm-aix/","canonical_title":"IBM AIX","notes":"Duplicate candidate name for already cataloged IBM AIX identity."},
+{"candidate_id":"ibm-series-1","disposition":"not-an-operating-system","path":null,"canonical_title":"IBM Series/1","notes":"Hardware computer family, not an operating system."}
+]}
