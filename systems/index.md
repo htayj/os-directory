@@ -1,6 +1,6 @@
 # Operating Systems
 
-No operating-system records have been added yet.
+* [Elbrus Linux](elbrus-linux/) - MCST GNU/Linux lineage for Elbrus, SPARC, and selected x86 systems.
 
 # Adding a System
 

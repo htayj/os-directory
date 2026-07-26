@@ -1,0 +1,60 @@
+schema_version: "0.1"
+as_of: 2026-07-26
+candidates:
+  - candidate_id: elbrus-mvk-operating-system
+    native_label: Операционная система МВК «Эльбрус»
+    language: ru
+    method: english-list
+    proposed_identity: Operating system of the original Elbrus multiprocessor complexes
+    disposition: included-system
+    context: The English list contains an unnamed operating system for Elbrus-1 and Elbrus-2; Russian sources identify the operating system within ОСПО «Эльбрус» but do not establish that ОСПО itself is the OS name.
+    related_candidates: [elbrus-linux, msvs-e]
+    sources:
+      - https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001
+      - https://ru.wikipedia.org/wiki/Эльбрус_(семейство_компьютеров)
+      - https://www.computer-museum.ru/histussr/elbrus.htm
+
+  - candidate_id: elbrus-ospo
+    native_label: ОСПО «Эльбрус»
+    language: ru
+    method: hardware-ecosystem
+    proposed_identity: General system software suite for original Elbrus complexes
+    disposition: not-an-operating-system
+    context: The museum source explicitly describes ОСПО as a suite containing an operating system, application packages, filesystems, telecommunications, and programming-system components.
+    related_candidates: [elbrus-mvk-operating-system]
+    sources:
+      - https://www.computer-museum.ru/histussr/elbrus.htm
+
+  - candidate_id: msvs-e
+    native_label: МСВС-Э
+    language: ru
+    method: hardware-ecosystem
+    proposed_identity: Linux-based operating system shipped with Elbrus-3M1
+    disposition: needs-review
+    context: The Russian Elbrus family article names МСВС-Э as the operating system shipped with Elbrus-3M1 and describes it as based on Linux 2.6.14.
+    related_candidates: [elbrus-linux]
+    sources:
+      - https://ru.wikipedia.org/wiki/Эльбрус_(семейство_компьютеров)
+
+  - candidate_id: elbrus-linux
+    native_label: ОС «Эльбрус Линукс»
+    language: ru
+    method: hardware-ecosystem
+    proposed_identity: MCST Elbrus Linux operating-system lineage
+    disposition: included-system
+    context: Current MCST product documentation identifies Elbrus Linux, also known historically as ОС «Эльбрус» or OSL, as an MCST GNU/Linux family for Elbrus, SPARC, and selected x86 targets.
+    related_candidates: [msvs-e, elbrus-d]
+    sources:
+      - https://www.mcst.ru/elbrus_linux
+      - https://www.mcst.ru/elbrus_os
+
+  - candidate_id: elbrus-d
+    native_label: Эльбрус-Д
+    language: ru
+    method: hardware-ecosystem
+    proposed_identity: Protected Elbrus operating-system product
+    disposition: needs-review
+    context: MCST lists Эльбрус-Д separately under ОС «Эльбрус», with distinct versions, platform coverage, and controlled distribution.
+    related_candidates: [elbrus-linux]
+    sources:
+      - https://www.mcst.ru/elbrus_os

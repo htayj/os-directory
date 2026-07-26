@@ -35,12 +35,13 @@ historical, regional, institutional, military, educational, embedded, or
 short-lived operating system. This plan discovers additional systems without
 pretending that any single language edition or knowledge graph is complete.
 
-The Elbrus ecosystem demonstrates the problem: the English hardware article
+The Elbrus ecosystem demonstrates the problem: the English list has an unnamed
+entry for the Elbrus-1/2 operating system and the English hardware article
 primarily describes computers and processors,[^elbrus-en] while the Russian
 article describes the original operating-system environment and later
 МСВС-Э,[^elbrus-ru] and current MCST material separately documents modern
-operating systems called ОС «Эльбрус».[^mcst-elbrus-os] These are discovery
-leads requiring identity resolution, not one timeless “Elbrus OS” record.
+operating systems called ОС «Эльбрус».[^mcst-elbrus-os] These are distinct
+discovery and enrichment leads, not one timeless “Elbrus OS” record.
 
 # Coverage Sets
 
