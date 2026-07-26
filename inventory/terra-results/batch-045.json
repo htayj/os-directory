@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":45,"results":[
+{"candidate_id":"pikeos","disposition":"included-system","path":"systems/pikeos/","canonical_title":"PikeOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"nonstop-os","disposition":"needs-review","path":null,"canonical_title":"NonStop OS","notes":"Occurrence names an OS but links the NonStop server-computer hardware family; identity needs confirmation."},
+{"candidate_id":"trsdos","disposition":"included-system","path":"systems/trsdos/","canonical_title":"TRSDOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"color-basic","disposition":"not-an-operating-system","path":null,"canonical_title":"Color BASIC","notes":"BASIC language/interpreter, not an OS identity."},
+{"candidate_id":"newdos-80","disposition":"included-system","path":"systems/newdos-80/","canonical_title":"NewDos/80","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"deskmate","disposition":"not-an-operating-system","path":null,"canonical_title":"DeskMate","notes":"Graphical operating environment/application shell, not an OS identity."},
+{"candidate_id":"edos","disposition":"included-system","path":"systems/edos/","canonical_title":"Edos","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"ti-rtos-kernel","disposition":"included-system","path":"systems/ti-rtos-kernel/","canonical_title":"TI-RTOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"tron","disposition":"grouping","path":null,"canonical_title":"TRON Project","notes":"Project umbrella encompassing multiple OS specifications/implementations."},
+{"candidate_id":"t-kernel","disposition":"included-system","path":"systems/t-kernel/","canonical_title":"T-Kernel","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}

@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":44,"results":[
+{"candidate_id":"gordo-from-ucla-18","disposition":"needs-review","path":null,"canonical_title":"Gordo","notes":"Unlinked UCLA label whose OS identity is ambiguous."},
+{"candidate_id":"esope-operating-system","disposition":"included-system","path":"systems/esope-operating-system/","canonical_title":"Ésope","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"sco-unix","disposition":"included-system","path":"systems/sco-unix/","canonical_title":"SCO OpenServer","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"sco-open-desktop","disposition":"included-system","path":"systems/sco-open-desktop/","canonical_title":"SCO Open Desktop","notes":"Distinct linked SCO operating-system product."},
+{"candidate_id":"micrium-os","disposition":"included-system","path":"systems/micrium-os/","canonical_title":"Micrium OS","notes":"Distinct linked real-time operating-system identity."},
+{"candidate_id":"sinclair-basic","disposition":"not-an-operating-system","path":null,"canonical_title":"Sinclair BASIC","notes":"Programming language/interpreter, not an operating system."},
+{"candidate_id":"playstation-vita-system-software","disposition":"included-system","path":"systems/playstation-vita-system-software/","canonical_title":"PlayStation Vita system software","notes":"Distinct linked console system software identity."},
+{"candidate_id":"playstation-3-system-software","disposition":"included-system","path":"systems/playstation-3-system-software/","canonical_title":"PlayStation 3 system software","notes":"Distinct linked console system software identity."},
+{"candidate_id":"playstation-4-system-software","disposition":"included-system","path":"systems/playstation-4-system-software/","canonical_title":"PlayStation 4 system software","notes":"Distinct linked console system software identity."},
+{"candidate_id":"playstation-5-system-software","disposition":"included-system","path":"systems/playstation-5-system-software/","canonical_title":"PlayStation 5 system software","notes":"Distinct linked console system software identity."}
+]}
