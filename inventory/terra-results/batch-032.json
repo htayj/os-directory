@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":32,"results":[
+{"candidate_id":"unix-2","disposition":"alias","path":"systems/unix/","canonical_title":"Unix","notes":"Duplicate list occurrence of the existing Unix system identity."},
+{"candidate_id":"aos-2","disposition":"included-system","path":"systems/aos-2/","canonical_title":"Academic Operating System","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"aix-2","disposition":"included-release","path":null,"canonical_title":"IBM AIX for RT PC","notes":"Platform-specific IBM AIX release/port; parent AIX identity is outside this batch."},
+{"candidate_id":"aix-3","disposition":"included-release","path":null,"canonical_title":"IBM AIX for POWER","notes":"Platform-specific IBM AIX release/port; parent AIX identity is outside this batch."},
+{"candidate_id":"others","disposition":"grouping","path":null,"canonical_title":null,"notes":"Unlinked list grouping."},
+{"candidate_id":"workplace-os","disposition":"included-system","path":"systems/workplace-os/","canonical_title":"Workplace OS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"k42","disposition":"included-system","path":"systems/k42/","canonical_title":"K42","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"dynix","disposition":"included-system","path":"systems/dynix/","canonical_title":"Dynix","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"j","disposition":"included-system","path":"systems/j/","canonical_title":"J","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"george","disposition":"included-system","path":"systems/george/","canonical_title":"GEORGE","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}

@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":31,"results":[
+{"candidate_id":"ibm-system-3","disposition":"not-an-operating-system","path":null,"canonical_title":"IBM System/3","notes":"Hardware computer system, not an OS."},
+{"candidate_id":"dms-disk-management-system","disposition":"needs-review","path":null,"canonical_title":"DMS","notes":"Unlinked label whose independent OS identity is ambiguous."},
+{"candidate_id":"ibm-system-34","disposition":"not-an-operating-system","path":null,"canonical_title":"IBM System/34","notes":"Hardware computer system, not an OS."},
+{"candidate_id":"ssp","disposition":"included-system","path":"systems/ssp/","canonical_title":"System Support Program","notes":"Distinct linked IBM operating-system identity."},
+{"candidate_id":"ibm-system-38","disposition":"not-an-operating-system","path":null,"canonical_title":"IBM System/38","notes":"Hardware computer system, not an OS."},
+{"candidate_id":"cpf","disposition":"included-system","path":"systems/cpf/","canonical_title":"Control Program Facility","notes":"Distinct linked IBM operating-system identity."},
+{"candidate_id":"ibm-system-88","disposition":"not-an-operating-system","path":null,"canonical_title":"IBM System/88","notes":"Hardware computer system, not an OS."},
+{"candidate_id":"stratus-vos","disposition":"included-system","path":"systems/stratus-vos/","canonical_title":"Stratus VOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"ibm-as-400","disposition":"not-an-operating-system","path":null,"canonical_title":"IBM AS/400","notes":"Hardware/server family, not an OS."},
+{"candidate_id":"ibm-i","disposition":"included-system","path":"systems/ibm-i/","canonical_title":"IBM i","notes":"Distinct linked IBM operating-system identity."}
+]}
