@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":61,"results":[
+{"candidate_id":"turbodos","disposition":"included-system","path":"systems/turbodos/","canonical_title":"TurboDOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"multi-tasking-user-interfaces-and-environments-for-ms-dos-compatible-operating-systems","disposition":"grouping","path":null,"canonical_title":null,"notes":"Unlinked list grouping for DOS interface environments."},
+{"candidate_id":"desqview","disposition":"not-an-operating-system","path":null,"canonical_title":"DESQview","notes":"Multitasking user-interface environment rather than a standalone OS."},
+{"candidate_id":"desqview-x-x-windowing-gui","disposition":"not-an-operating-system","path":null,"canonical_title":"DESQview/X","notes":"Windowing GUI environment, not a standalone OS."},
+{"candidate_id":"banyan-vines","disposition":"included-system","path":"systems/banyan-vines/","canonical_title":"Banyan VINES","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"cambridge-ring","disposition":"not-an-operating-system","path":null,"canonical_title":"Cambridge Ring","notes":"Computer-network identity, not an OS."},
+{"candidate_id":"cisco-ios","disposition":"included-system","path":"systems/cisco-ios/","canonical_title":"Cisco IOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"cisco-nx-os","disposition":"included-system","path":"systems/cisco-nx-os/","canonical_title":"Cisco NX-OS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"ctos","disposition":"included-system","path":"systems/ctos/","canonical_title":"CTOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"data-ontap","disposition":"included-system","path":"systems/data-ontap/","canonical_title":"Data ONTAP","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}

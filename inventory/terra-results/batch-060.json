@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":60,"results":[
+{"candidate_id":"caldera-opendos-7-01-bdos-7-2","disposition":"included-release","path":null,"canonical_title":"Caldera OpenDOS 7.01","notes":"Versioned DR DOS-family release."},
+{"candidate_id":"enhanced-dr-dos-7-01-0x-bdos-7-2","disposition":"included-release","path":null,"canonical_title":"Enhanced DR-DOS 7.01","notes":"Versioned DR DOS-family release."},
+{"candidate_id":"dell-real-mode-kernel-drmk","disposition":"included-release","path":null,"canonical_title":"Dell Real Mode Kernel","notes":"OEM DR DOS-family distribution."},
+{"candidate_id":"novell-dos-7-updates-1115-2-bdos-7-2","disposition":"included-release","path":null,"canonical_title":"Novell DOS 7 updates","notes":"Versioned Novell DOS release stream."},
+{"candidate_id":"caldera-dr-dos-7-02-7-03-bdos-7-3","disposition":"included-release","path":null,"canonical_title":"Caldera DR-DOS 7.02–7.03","notes":"Versioned DR DOS-family release range."},
+{"candidate_id":"dr-dos-winbolt","disposition":"included-release","path":null,"canonical_title":"DR-DOS WinBolt","notes":"Named DR DOS product/release variant."},
+{"candidate_id":"oem-dr-dos-7-04-7-05-bdos-7-3","disposition":"included-release","path":null,"canonical_title":"OEM DR-DOS 7.04–7.05","notes":"OEM DR DOS-family release range."},
+{"candidate_id":"oem-dr-dos-7-06-pqdos","disposition":"included-release","path":null,"canonical_title":"OEM DR-DOS 7.06/PQDOS","notes":"OEM DR DOS-family distribution."},
+{"candidate_id":"oem-dr-dos-7-07-bdos-7-4-7-7","disposition":"included-release","path":null,"canonical_title":"OEM DR-DOS 7.07","notes":"OEM DR DOS-family release range."},
+{"candidate_id":"pts-dos","disposition":"included-system","path":"systems/pts-dos/","canonical_title":"PTS-DOS","notes":"Distinct linked operating-system identity."}
+]}
