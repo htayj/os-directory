@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":59,"results":[
+{"candidate_id":"v","disposition":"included-system","path":"systems/v/","canonical_title":"V","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"verve","disposition":"included-system","path":"systems/verve/","canonical_title":"Verve","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"xinu","disposition":"included-system","path":"systems/xinu/","canonical_title":"Xinu","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"86-dos","disposition":"included-system","path":"systems/86-dos/","canonical_title":"86-DOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"pc-dos-2","disposition":"alias","path":"systems/pc-dos/","canonical_title":"IBM PC DOS","notes":"Alias/duplicate occurrence of existing PC DOS system record."},
+{"candidate_id":"ims-real-32-7-50-7-51-7-52-7-53-7-54-7-60-7-61-7-62-7-63-7-70-7-71-7-72-7-73-7-74-7-80-7-81-7-82-7-83-7-90-7-91-7-92-7-93-7-94-7-95-bdos-6-8-and-higher-derivative-of-multiuser-dos","disposition":"included-release","path":null,"canonical_title":"IMS REAL/32","notes":"Versioned Multiuser DOS derivative."},
+{"candidate_id":"ims-real-ng-successor-of-real-32","disposition":"included-release","path":null,"canonical_title":"IMS REAL/NG","notes":"Successor release/product line."},
+{"candidate_id":"novell-palmdos-1-bdos-7-0","disposition":"included-release","path":null,"canonical_title":"Novell PalmDOS 1","notes":"DR-DOS release/product line."},
+{"candidate_id":"novell-dr-dos-startrek","disposition":"included-release","path":null,"canonical_title":"Novell DR-DOS StarTrek","notes":"DR-DOS release/product line."},
+{"candidate_id":"novell-dos-7-updates-1-10-bdos-7-2","disposition":"included-release","path":null,"canonical_title":"Novell DOS 7","notes":"Versioned DOS release line."}
+]}

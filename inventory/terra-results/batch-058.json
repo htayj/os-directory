@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":58,"results":[
+{"candidate_id":"harmony","disposition":"included-system","path":"systems/harmony/","canonical_title":"Harmony","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"helenos","disposition":"included-system","path":"systems/helenos/","canonical_title":"HelenOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"ilios","disposition":"included-system","path":"systems/ilios/","canonical_title":"ILIOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"l4","disposition":"grouping","path":null,"canonical_title":"L4 microkernel family","notes":"Kernel-family classification rather than a single complete OS identity."},
+{"candidate_id":"mach","disposition":"not-an-operating-system","path":null,"canonical_title":"Mach kernel","notes":"Kernel identity rather than a complete operating system."},
+{"candidate_id":"nemesis","disposition":"included-system","path":"systems/nemesis/","canonical_title":"Nemesis","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"spring","disposition":"included-system","path":"systems/spring/","canonical_title":"Spring","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"the-multiprogramming-system","disposition":"included-system","path":"systems/the-multiprogramming-system/","canonical_title":"THE multiprogramming system","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"thoth","disposition":"included-system","path":"systems/thoth/","canonical_title":"Thoth","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"tock","disposition":"included-system","path":"systems/tock/","canonical_title":"Tock","notes":"Distinct linked operating-system identity."}
+]}
