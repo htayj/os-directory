@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":49,"results":[
+{"candidate_id":"sintran-iii","disposition":"included-system","path":"systems/sintran-iii/","canonical_title":"SINTRAN III","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"skyos","disposition":"included-system","path":"systems/skyos/","canonical_title":"SkyOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"soda","disposition":"included-system","path":"systems/soda/","canonical_title":"SODA","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"theos","disposition":"included-system","path":"systems/theos/","canonical_title":"THEOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"tsx-32","disposition":"included-system","path":"systems/tsx-32/","canonical_title":"TSX-32","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"tx990-txds-dx10-and-dnos","disposition":"needs-review","path":null,"canonical_title":"TX990/TXDS/DX10/DNOS","notes":"Unlinked combined label; individual identity boundaries require review."},
+{"candidate_id":"chorusos","disposition":"included-system","path":"systems/chorusos/","canonical_title":"ChorusOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"coherent","disposition":"included-system","path":"systems/coherent/","canonical_title":"Coherent","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"dc-osx","disposition":"included-system","path":"systems/dc-osx/","canonical_title":"DC/OSx","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"dnix","disposition":"included-system","path":"systems/dnix/","canonical_title":"DNIX","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}

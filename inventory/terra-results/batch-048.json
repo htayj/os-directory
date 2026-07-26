@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":48,"results":[
+{"candidate_id":"pilot","disposition":"included-system","path":"systems/pilot/","canonical_title":"Pilot","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"perq","disposition":"not-an-operating-system","path":null,"canonical_title":"PERQ","notes":"Computer/workstation identity, not a clear OS identity."},
+{"candidate_id":"operating-system-for-1-elbrus-1-and-2","disposition":"needs-review","path":null,"canonical_title":"Operating system for Elbrus-1 and Elbrus-2","notes":"Unlinked descriptive label requires identity evidence."},
+{"candidate_id":"business-operating-system","disposition":"included-system","path":"systems/business-operating-system/","canonical_title":"Business Operating System","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"eos","disposition":"included-system","path":"systems/eos/","canonical_title":"EOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"embos","disposition":"needs-review","path":null,"canonical_title":"embOS","notes":"Unlinked label requiring identity evidence."},
+{"candidate_id":"mai-basic-four","disposition":"needs-review","path":null,"canonical_title":"MAI Basic Four","notes":"Computer/system label needs scope evidence before cataloging as OS."},
+{"candidate_id":"os-es","disposition":"needs-review","path":null,"canonical_title":"OS ES","notes":"Unlinked label requiring identity evidence."},
+{"candidate_id":"pc-mos-386","disposition":"included-system","path":"systems/pc-mos-386/","canonical_title":"PC-MOS/386","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"prolog-dispatcher","disposition":"needs-review","path":null,"canonical_title":"Prolog Dispatcher","notes":"Unlinked label requiring identity evidence."}
+]}
