@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":41,"results":[
+{"candidate_id":"altair-dos","disposition":"needs-review","path":null,"canonical_title":"Altair DOS","notes":"Redlinked label; identity requires evidence."},
+{"candidate_id":"montavista-mobilinux","disposition":"needs-review","path":null,"canonical_title":"MontaVista Mobilinux","notes":"Redlinked label; identity requires evidence."},
+{"candidate_id":"versados","disposition":"included-system","path":"systems/versados/","canonical_title":"VERSAdos","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"tmx","disposition":"included-system","path":"systems/tmx/","canonical_title":"Transaction Management eXecutive","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"imos","disposition":"needs-review","path":null,"canonical_title":"IMOS","notes":"Unlinked label whose identity is ambiguous."},
+{"candidate_id":"vrx","disposition":"included-system","path":"systems/vrx/","canonical_title":"NCR VRX","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"nextstep","disposition":"included-system","path":"systems/nextstep/","canonical_title":"NeXTSTEP","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"es","disposition":"not-an-operating-system","path":null,"canonical_title":"ES","notes":"Candidate link is a Nintendo history section, not an OS identity."},
+{"candidate_id":"nintendo-dsi-system-software","disposition":"included-system","path":"systems/nintendo-dsi-system-software/","canonical_title":"Nintendo DSi system software","notes":"Distinct linked console system software identity."},
+{"candidate_id":"wii-system-software","disposition":"included-system","path":"systems/wii-system-software/","canonical_title":"Wii system software","notes":"Distinct linked console system software identity."}
+]}
