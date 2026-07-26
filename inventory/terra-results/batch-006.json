@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 6,
+  "results": [
+    {"candidate_id":"ipod-software","disposition":"included-system","path":"systems/ipod-software/","canonical_title":"iPod software","notes":"Named embedded iPod system; both occurrences retained."},
+    {"candidate_id":"unnamed-netbsd-variant-for-airport-extreme-and-time-capsule","disposition":"included-system","path":"systems/unnamed-netbsd-variant-for-airport-extreme-and-time-capsule/","canonical_title":"Unnamed NetBSD variant for Airport Extreme and Time Capsule","notes":"Unnamed but identifiable appliance OS; descriptive identity retained."},
+    {"candidate_id":"domain-os","disposition":"included-system","path":"systems/domain-os/","canonical_title":"Domain/OS","notes":"Distinct Apollo OS identity; Aegis occurrence retained as former name."},
+    {"candidate_id":"atari-dos","disposition":"included-system","path":"systems/atari-dos/","canonical_title":"Atari DOS","notes":"Distinct Atari 8-bit disk operating-system lineage."},
+    {"candidate_id":"atari-tos","disposition":"included-system","path":"systems/atari-tos/","canonical_title":"Atari TOS","notes":"Distinct named Atari OS lineage."},
+    {"candidate_id":"atari-multitos","disposition":"included-system","path":"systems/atari-multitos/","canonical_title":"MultiTOS","notes":"Separately named Atari product; relationship to TOS needs later research."},
+    {"candidate_id":"xts-400","disposition":"included-system","path":"systems/xts-400/","canonical_title":"XTS-400","notes":"Distinct named trusted operating-system identity."},
+    {"candidate_id":"beos","disposition":"included-system","path":"systems/beos/","canonical_title":"BeOS","notes":"Distinct Be Inc. operating-system lineage."},
+    {"candidate_id":"beia","disposition":"included-system","path":"systems/beia/","canonical_title":"BeIA","notes":"Separately named Be Inc. information-appliance system."},
+    {"candidate_id":"beos-r5-1d0","disposition":"included-release","path":null,"canonical_title":"Dano (BeOS)","notes":"BeOS r5.1d0/Dano is a release candidate of BeOS; no release file created under bounded protocol."}
+  ]
+}

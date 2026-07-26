@@ -1,0 +1,15 @@
+{
+  "schema_version": "0.1", "batch": 5,
+  "results": [
+    {"candidate_id":"ipados","disposition":"included-system","path":"systems/ipados/","canonical_title":"iPadOS","notes":"Distinct active Apple tablet OS."},
+    {"candidate_id":"apple-watch","disposition":"not-an-operating-system","path":null,"canonical_title":"Apple Watch","notes":"Hardware product; watchOS is cataloged separately."},
+    {"candidate_id":"watchos","disposition":"included-system","path":"systems/watchos/","canonical_title":"watchOS","notes":"Distinct active Apple wearable OS; both list occurrences retained."},
+    {"candidate_id":"apple-tv","disposition":"not-an-operating-system","path":null,"canonical_title":"Apple TV (device)","notes":"Device family; tvOS is cataloged separately."},
+    {"candidate_id":"tvos","disposition":"included-system","path":"systems/tvos/","canonical_title":"tvOS","notes":"Distinct active Apple television OS; both list occurrences retained."},
+    {"candidate_id":"embedded-operating-systems","disposition":"grouping","path":null,"canonical_title":null,"notes":"Unlinked list grouping, not a named operating-system identity."},
+    {"candidate_id":"bridgeos","disposition":"included-system","path":"systems/bridgeos/","canonical_title":"bridgeOS","notes":"Separately named Apple embedded OS; primary public evidence remains a gap."},
+    {"candidate_id":"apple-vision-pro","disposition":"not-an-operating-system","path":null,"canonical_title":"Apple Vision Pro","notes":"Hardware product; visionOS is cataloged separately."},
+    {"candidate_id":"visionos","disposition":"included-system","path":"systems/visionos/","canonical_title":"visionOS","notes":"Distinct active Apple spatial-computing OS."},
+    {"candidate_id":"a-rose","disposition":"included-system","path":"systems/a-rose/","canonical_title":"A/ROSE","notes":"Distinct Apple real-time embedded OS environment, documented by an Apple technical note."}
+  ]
+}
