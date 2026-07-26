@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":18,"results":[
+{"candidate_id":"os-iv","disposition":"needs-review","path":null,"canonical_title":"OS/IV","notes":"Redlinked label; insufficient bounded evidence."},
+{"candidate_id":"msp","disposition":"included-system","path":"systems/msp/","canonical_title":"MSP","notes":"Distinct linked Fujitsu operating-system identity."},
+{"candidate_id":"msp-ex","disposition":"included-release","path":null,"canonical_title":"MSP-EX","notes":"Successor/extended MSP form, not independently evidenced here."},
+{"candidate_id":"cos","disposition":"needs-review","path":null,"canonical_title":"COS","notes":"Ambiguous unlinked GEC label."},
+{"candidate_id":"dos-2","disposition":"needs-review","path":null,"canonical_title":"DOS","notes":"Ambiguous unlinked GEC label."},
+{"candidate_id":"os4000","disposition":"included-system","path":"systems/os4000/","canonical_title":"OS4000","notes":"Distinct linked GEC operating-system identity."},
+{"candidate_id":"real-time-multiprogramming-operating-system","disposition":"included-system","path":"systems/real-time-multiprogramming-operating-system/","canonical_title":"Real-Time Multiprogramming Operating System","notes":"Distinct linked historical operating-system identity."},
+{"candidate_id":"gcos","disposition":"included-system","path":"systems/gcos/","canonical_title":"General Comprehensive Operating System","notes":"Distinct linked GCOS operating-system lineage."},
+{"candidate_id":"multics","disposition":"included-system","path":"systems/multics/","canonical_title":"Multics","notes":"Distinct historical operating-system identity."},
+{"candidate_id":"chromiumos","disposition":"included-system","path":"systems/chromiumos/","canonical_title":"ChromiumOS","notes":"Distinct linked operating-system identity."}
+]}

@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":19,"results":[
+{"candidate_id":"chromeos","disposition":"included-system","path":"systems/chromeos/","canonical_title":"ChromeOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"container-optimized-os-cos-is-an-operating-system-that-is-optimized-for-running-docker-containers-based-on-chromiumos-13","disposition":"included-system","path":"systems/container-optimized-os-cos-is-an-operating-system-that-is-optimized-for-running-docker-containers-based-on-chromiumos-13/","canonical_title":"Container-Optimized OS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"android","disposition":"included-system","path":"systems/android/","canonical_title":"Android","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"android-tv","disposition":"included-system","path":"systems/android-tv/","canonical_title":"Android TV","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"glinux","disposition":"included-system","path":"systems/glinux/","canonical_title":"GLinux","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"fuchsia","disposition":"included-system","path":"systems/fuchsia/","canonical_title":"Fuchsia","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"wear-os","disposition":"included-system","path":"systems/wear-os/","canonical_title":"Wear OS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"integrity","disposition":"included-system","path":"systems/integrity/","canonical_title":"INTEGRITY","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"integrity-178b","disposition":"included-system","path":"systems/integrity-178b/","canonical_title":"INTEGRITY-178B","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"velosity","disposition":"needs-review","path":null,"canonical_title":"Green Hills velOSity","notes":"Occurrence links vendor rather than unambiguous OS identity."}
+]}

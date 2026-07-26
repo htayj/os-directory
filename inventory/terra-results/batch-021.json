@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":21,"results":[
+{"candidate_id":"euleros","disposition":"included-system","path":"systems/euleros/","canonical_title":"EulerOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"irmx","disposition":"included-system","path":"systems/irmx/","canonical_title":"RMX","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"isis","disposition":"included-system","path":"systems/isis/","canonical_title":"ISIS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"imax-432","disposition":"included-system","path":"systems/imax-432/","canonical_title":"IMAX 432","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"compatible-time-sharing-system","disposition":"included-system","path":"systems/compatible-time-sharing-system/","canonical_title":"Compatible Time-Sharing System","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"fortran-monitor-system-fms","disposition":"needs-review","path":null,"canonical_title":"FORTRAN Monitor System","notes":"Unlinked descriptive label requires source confirmation."},
+{"candidate_id":"gm-os-gm-naa-i-o","disposition":"included-system","path":"systems/gm-os-gm-naa-i-o/","canonical_title":"GM-NAA I/O","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"ibsys","disposition":"included-system","path":"systems/ibsys/","canonical_title":"IBM 7090/94 IBSYS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"7040-7044-operating-system-16-32k","disposition":"needs-review","path":null,"canonical_title":"7040/7044 Operating System","notes":"Unlinked descriptive label requires identity review."},
+{"candidate_id":"ijmon","disposition":"needs-review","path":null,"canonical_title":"IJMON","notes":"Unlinked short label; insufficient evidence."}
+]}
