@@ -1,0 +1,15 @@
+{
+  "schema_version": "0.1", "batch": 7,
+  "results": [
+    {"candidate_id":"magnussoft-zeta","disposition":"included-system","path":"systems/magnussoft-zeta/","canonical_title":"magnussoft ZETA","notes":"Distinct BeOS-derived distribution; primary evidence remains a gap."},
+    {"candidate_id":"unix","disposition":"included-system","path":"systems/unix/","canonical_title":"Unix","notes":"Bell Laboratories Unix lineage; contemporary technical paper consulted."},
+    {"candidate_id":"unix-time-sharing-system-v1","disposition":"included-release","path":null,"canonical_title":"UNIX Time-Sharing System v1","notes":"Numbered Unix release belonging under Unix."},
+    {"candidate_id":"unix-time-sharing-system-v2","disposition":"included-release","path":null,"canonical_title":"UNIX Time-Sharing System v2","notes":"Numbered Unix release belonging under Unix."},
+    {"candidate_id":"unix-time-sharing-system-v3","disposition":"included-release","path":null,"canonical_title":"UNIX Time-Sharing System v3","notes":"Numbered Unix release belonging under Unix."},
+    {"candidate_id":"unix-time-sharing-system-v4","disposition":"included-release","path":null,"canonical_title":"UNIX Time-Sharing System v4","notes":"Numbered Unix release belonging under Unix."},
+    {"candidate_id":"unix-time-sharing-system-v5","disposition":"included-release","path":null,"canonical_title":"UNIX Time-Sharing System v5","notes":"Numbered Unix release belonging under Unix."},
+    {"candidate_id":"unix-time-sharing-system-v6","disposition":"included-release","path":null,"canonical_title":"Version 6 Unix","notes":"Numbered Unix release belonging under Unix."},
+    {"candidate_id":"mini-unix","disposition":"included-release","path":null,"canonical_title":"MINI-UNIX","notes":"A compact Unix variant/release-level occurrence nested below Version 6 Unix; parent record not invented in this pass."},
+    {"candidate_id":"pwb-unix","disposition":"included-system","path":"systems/pwb-unix/","canonical_title":"PWB/UNIX","notes":"Independently named Bell Laboratories Programmer's Workbench Unix system; 1977 manual consulted."}
+  ]
+}

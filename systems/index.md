@@ -19,6 +19,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [BeIA](beia/) - Be Inc.'s named BeOS-derived information-appliance operating system.
 * [BeOS](beos/) - Be Inc.'s operating-system lineage.
 * [bridgeOS](bridgeos/) - Apple embedded operating system identity with limited first-pass public evidence.
+* [CB Unix](cb-unix/) - Bell Labs UNIX system associated with the Computing Science Research Center.
 * [Classic Mac OS](classic-mac-os/) - Historical Macintosh operating-system lineage preceding Mac OS X.
 * [Contiki](contiki/) - Open-source operating system lineage for networked, resource-constrained and IoT devices.
 * [Copland](copland/) - Cancelled Apple operating-system project for Macintosh computers.
@@ -32,14 +33,18 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [iPadOS](ipados/) - Apple operating system for iPad devices.
 * [iPod software](ipod-software/) - Apple's named firmware/software platform for original iPod devices.
 * [macOS](macos/) - Apple's operating system for Mac computers, formerly Mac OS X and OS X.
+* [magnussoft ZETA](magnussoft-zeta/) - Discontinued BeOS-derived operating-system distribution marketed by magnussoft.
 * [MkLinux](mklinux/) - Linux distribution and operating-system port for selected Macintosh computers.
 * [Newton OS](newton-os/) - Apple's operating system for Newton MessagePad personal digital assistants.
 * [ProDOS](prodos/) - Apple II operating-system lineage comprising 8-bit and 16-bit streams.
+* [PWB/UNIX](pwb-unix/) - Bell Laboratories Programmer's Workbench Unix system.
 * [Rhapsody](rhapsody/) - Apple and NeXT operating-system project that preceded Mac OS X.
 * [RISC iX](risc-ix/) - Acorn's UNIX System V-derived operating system for ARM workstations.
 * [RISC OS](risc-os/) - Modular graphical operating system originally developed by Acorn for ARM computers.
 * [SymbOS](symbos/) - Freeware Z80-based multitasking operating system for several 8-bit computer families.
 * [tvOS](tvos/) - Apple operating system for Apple TV devices.
+* [Unix](unix/) - Bell Laboratories operating-system lineage and progenitor of the Unix family.
+* [UNIX System V](unix-system-v/) - AT&T UNIX System V operating-system lineage.
 * [Unnamed NetBSD variant for Airport Extreme and Time Capsule](unnamed-netbsd-variant-for-airport-extreme-and-time-capsule/) - Unnamed Apple appliance operating-system variant identified by the frozen source list as NetBSD-derived.
 * [visionOS](visionos/) - Apple operating system for spatial-computing devices.
 * [watchOS](watchos/) - Apple operating system for Apple Watch.

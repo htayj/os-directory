@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 8,
+  "results": [
+    {"candidate_id":"usg","disposition":"grouping","path":null,"canonical_title":"USG","notes":"Source-list grouping heading for child systems, not itself an OS identity."},
+    {"candidate_id":"cb-unix","disposition":"included-system","path":"systems/cb-unix/","canonical_title":"CB Unix","notes":"Independently named Bell Labs UNIX system."},
+    {"candidate_id":"unix-time-sharing-system-v7","disposition":"included-release","path":null,"canonical_title":"Version 7 Unix","notes":"Numbered UNIX release; parent UNIX identity is outside this batch."},
+    {"candidate_id":"unix-system-iii","disposition":"included-release","path":null,"canonical_title":"UNIX System III","notes":"Named UNIX system release/distribution; no parent release file invented."},
+    {"candidate_id":"unix-system-iv","disposition":"included-release","path":null,"canonical_title":"UNIX System IV","notes":"Numbered UNIX release label; no linked article or independent identity evidence in this pass."},
+    {"candidate_id":"unix-system-v","disposition":"included-system","path":"systems/unix-system-v/","canonical_title":"UNIX System V","notes":"Distinct AT&T UNIX lineage; both occurrences retained."},
+    {"candidate_id":"unix-system-v-releases-2-0-3-0-3-2-4-0-and-4-2","disposition":"included-release","path":null,"canonical_title":"UNIX System V Releases 2.0, 3.0, 3.2, 4.0, and 4.2","notes":"Explicit release grouping, not a system identity."},
+    {"candidate_id":"unix-time-sharing-system-v8","disposition":"included-release","path":null,"canonical_title":"Version 8 Unix","notes":"Numbered UNIX release; parent UNIX identity is outside this batch."},
+    {"candidate_id":"unix-time-sharing-system-v9","disposition":"included-release","path":null,"canonical_title":"Version 9 Unix","notes":"Numbered UNIX release; parent UNIX identity is outside this batch."},
+    {"candidate_id":"unix-time-sharing-system-v10","disposition":"included-release","path":null,"canonical_title":"Version 10 Unix","notes":"Numbered UNIX release; parent UNIX identity is outside this batch."}
+  ]
+}

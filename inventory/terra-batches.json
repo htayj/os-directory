@@ -45,15 +45,15 @@
     "batch": 7,
     "manifest": "inventory/terra-manifests/batch-007.json",
     "candidate_count": 10,
-    "status": "pending",
-    "result": null
+    "status": "first-pass-complete",
+    "result": "inventory/terra-results/batch-007.json"
   },
   {
     "batch": 8,
     "manifest": "inventory/terra-manifests/batch-008.json",
     "candidate_count": 10,
-    "status": "pending",
-    "result": null
+    "status": "first-pass-complete",
+    "result": "inventory/terra-results/batch-008.json"
   },
   {
     "batch": 9,
