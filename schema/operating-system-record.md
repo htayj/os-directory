@@ -25,31 +25,25 @@ whose labels match `sources[].id`.
 
 # Catalog Extension Fields
 
-These producer-defined fields are optional. Unknown values should be omitted,
-not guessed.
-
-| Field | Shape | Meaning |
-|---|---|---|
-| `names` | list of strings | Contemporary names, abbreviations, and documented aliases. |
-| `developers` | list of paths or URIs | Responsible organizations or groups. |
-| `introduced` | date or string | Earliest documented introduction; qualify uncertainty in the body. |
-| `discontinued` | date or string | End of development or availability; qualify uncertainty in the body. |
-| `lineage` | list of mappings | Relationships such as `predecessor`, `successor`, `fork`, `derived-from`, or `influenced-by`, each with a `target`. |
-| `platforms` | list of paths or URIs | Supported hardware-platform concepts. |
-| `interfaces` | list of strings | Documented operator or programming interfaces. |
-| `languages` | list of strings | Implementation languages supported by evidence. |
-| `availability` | string | A concise access or preservation summary, not a legal conclusion. |
+Use the normalized producer-defined fields in
+[field vocabulary](/schema/field-vocabulary.md). Unknown values must not be
+guessed. During systematic coverage work, record applicable gaps in
+`field_dispositions` so `not-researched`, `no-evidence-found`, `unknown`,
+`disputed`, and `not-applicable` remain distinguishable.
 
 # Expected Body Sections
 
 Use only sections for which evidence exists:
 
 * **Overview** - identity, purpose, period, and historical context.
-* **History** - dated development and release narrative.
-* **Architecture** - kernel, process, memory, storage, networking, and security model.
+* **Purpose and Design Goals** - why the system was created, for whom, and the stated constraints or ambitions.
+* **History and Releases** - dated development and release narrative.
+* **Licensing and Availability** - source, binary, documentation, and time-scoped license facts.
+* **Implementation and Kernel** - languages, kernel name and type, userland, process, memory, storage, networking, and security model.
 * **Interfaces** - command, graphical, batch, programming, and administrative interfaces.
-* **Hardware** - supported or required platforms.
-* **Lineage and Influence** - predecessors, descendants, ports, forks, and documented influence.
+* **Platforms** - supported hardware families, architectures, devices, and virtual targets.
+* **System Facilities** - scheduling, user model, memory, storage, networking, IPC, security, drivers, packaging, virtualization, and reliability.
+* **Lineage and Compatibility** - predecessors, descendants, ports, forks, influence, and compatibility.
 * **Preservation** - surviving source, binaries, media, documentation, emulation, and access constraints.
 * **Open Questions** - unresolved or conflicting claims.
 

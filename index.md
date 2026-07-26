@@ -16,6 +16,8 @@ their releases, surviving artifacts, creators, and hardware contexts.
 
 # Catalog Method
 
+* [Catalog plan](schema/catalog-plan.md) - Coverage, fields, evidence standards, and phased execution plan.
+* [Field vocabulary](schema/field-vocabulary.md) - Normalized attributes and their meanings.
 * [Scope and identity](schema/scope-and-identity.md) - Rules for deciding what receives a distinct record.
 * [Operating-system record](schema/operating-system-record.md) - Domain fields and expected sections for system concepts.
 * [Contribution workflow](schema/contribution-workflow.md) - How to add sourced records and represent uncertainty.

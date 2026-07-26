@@ -2,5 +2,10 @@
 
 ## 2026-07-26
 
+* **Planning**: Defined the frozen Wikipedia coverage snapshot, normalized field vocabulary, evidence policy, completion levels, and phased cataloging plan.
+* **Schema**: Incorporated an independent field-plan audit: claim envelopes, precise field dispositions, split lifecycle states, organization roles, historically appropriate system organization, interface axes, platform support scope, and expanded technical fields.
+* **Schema**: Added filterable countries of origin plus site-, institution-, role-, and time-scoped development origins.
+* **Schema**: Added original purpose, design goals, and intended users as first-class, source-scoped attributes.
+* **Schema**: Added time-scoped license, language, kernel-type, interface, platform, technical-facility, lineage, and preservation attributes.
 * **Initialization**: Created the OKF v0.2 bundle and its catalog structure.
 * **Policy**: Added initial identity, record-shape, provenance, and contribution guidance.

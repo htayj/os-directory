@@ -5,15 +5,126 @@ description: ""
 tags: [operating-system]
 status: draft
 generated: { by: "human:replace-me", at: "YYYY-MM-DDTHH:MM:SSZ" }
+schema_version: "0.1"
+as_of: YYYY-MM-DD
+catalog_completeness: { level: inventory }
+field_dispositions:
+  - { field: organizations, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: countries_of_origin, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: development_contexts, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: design_purposes, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: target_audiences, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: development_status, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: first_release, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: latest_releases, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: last_updated, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: rights_regime, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: software_freedom_status, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: licenses, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: programming_languages, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: system_organization, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: kernels, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: gui_status, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: interfaces, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: hardware_platforms, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: architectures, disposition: not-researched, checked_at: YYYY-MM-DD }
+source_list:
+  title: List of operating systems
+  revision: 1365063001
+  occurrences: []
+same_as: []
 names: []
-developers: []
-introduced:
-discontinued:
-lineage: []
-platforms: []
+organizations: []
+countries_of_origin: []
+development_origins: []
+development_contexts: []
+design_purposes: []
+design_goals: []
+application_domains: []
+target_audiences: []
+documented_uses: []
+deployment_roles: []
+system_traits: []
+classification_labels: []
+standards: []
+development_status:
+support_status:
+distribution_status:
+lifecycle_events: []
+release_streams: []
+first_release:
+latest_releases: []
+last_updated:
+rights_regime:
+software_freedom_status:
+licenses: []
+source_preservation:
+binary_preservation:
+documentation_preservation:
+rights_notes: []
+official_sites: []
+repositories: []
+programming_languages: []
+system_organization: []
+kernels: []
+userlands: []
+apis_abis: []
+binary_formats: []
+execution_environments: []
+build_toolchains: []
+gui_status: []
 interfaces: []
-languages: []
-availability:
+shells: []
+window_systems: []
+desktop_environments: []
+accessibility: []
+localization: []
+hardware_platforms: []
+architectures: []
+machine_classes: []
+host_environments: []
+virtual_platforms: []
+minimum_requirements: []
+boot_requirements: []
+required_peripherals: []
+boot_and_initialization: []
+process_task_thread_model: []
+scheduling: []
+concurrency: []
+user_model: []
+memory_management: []
+protection_domains: []
+filesystems: []
+storage_model: []
+io_model: []
+networking: []
+distributed_system_model: []
+security: []
+accounting_and_auditing: []
+ipc: []
+drivers: []
+configuration_model: []
+installation_model: []
+package_management: []
+package_formats: []
+virtualization: []
+reliability: []
+real_time: []
+power_management: []
+graphics_multimedia: []
+certifications: []
+documented_limits: []
+lineage: []
+compatibility: []
+influences: []
+historical_significance: []
+limitations: []
+distribution_media: []
+update_mechanisms: []
+surviving_artifacts: []
+emulation: []
+archives: []
+known_gaps: []
 sources:
   - id: replace-me
     resource: https://example.invalid/source
@@ -22,15 +133,21 @@ sources:
 
 # Overview
 
-# History
+# Purpose and Design Goals
 
-# Architecture
+# History and Releases
+
+# Licensing and Availability
+
+# Implementation and Kernel
 
 # Interfaces
 
-# Hardware
+# Platforms
 
-# Lineage and Influence
+# System Facilities
+
+# Lineage and Compatibility
 
 # Preservation
 
