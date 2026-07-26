@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":26,"results":[
+{"candidate_id":"vm-370-basic-system-extensions-program-product-vm-bse-aka-bsepp-is-an-enhancement-to-vm-370","disposition":"included-release","path":null,"canonical_title":"VM/BSE","notes":"VM/370 enhancement product."},
+{"candidate_id":"vm-370-system-extensions-program-product-vm-se-aka-sepp-is-an-enhancement-to-vm-370-that-includes-the-facilities-of-vm-bse","disposition":"included-release","path":null,"canonical_title":"VM/SE","notes":"VM/370 enhancement product."},
+{"candidate_id":"virtual-machine-system-product-vm-sp-replaces-vm-370-vm-bse-and-vm-se","disposition":"included-release","path":null,"canonical_title":"VM/SP","notes":"VM product release line."},
+{"candidate_id":"virtual-machine-extended-architecture-vm-xa-refers-to-three-versions-of-vm-that-support-system-370-extended-architecture-s-370-xa-with-31-bit-virtual-addresses","disposition":"grouping","path":null,"canonical_title":"VM/XA","notes":"Umbrella label for several VM releases."},
+{"candidate_id":"virtual-machine-extended-architecture-migration-aid-vm-xa-ma","disposition":"included-release","path":null,"canonical_title":"VM/XA MA","notes":"VM/XA migration-aid release/product."},
+{"candidate_id":"virtual-machine-extended-architecture-systems-facility-vm-xa-sf","disposition":"included-release","path":null,"canonical_title":"VM/XA SF","notes":"VM/XA systems-facility release/product."},
+{"candidate_id":"virtual-machine-extended-architecture-system-product-vm-xa-sp","disposition":"included-release","path":null,"canonical_title":"VM/XA SP","notes":"VM/XA system-product release."},
+{"candidate_id":"virtual-machine-enterprise-systems-architecture-vm-esa-supports-s-370-esa-370-and-esa-390-a-unix-environment-was-available-starting-with-14-version-2","disposition":"included-release","path":null,"canonical_title":"VM/ESA","notes":"VM enterprise-systems-architecture release line."},
+{"candidate_id":"z-vm","disposition":"included-system","path":"systems/z-vm/","canonical_title":"z/VM","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"tpf-line-transaction-processing-facility-on-ibm-s-360-s-370-and-successor-mainframes-largely-used-by-airlines","disposition":"needs-review","path":null,"canonical_title":"TPF","notes":"Unlinked descriptive title; identity needs source confirmation."}
+]}

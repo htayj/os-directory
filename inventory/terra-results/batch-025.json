@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":25,"results":[
+{"candidate_id":"dos-vs","disposition":"included-system","path":"systems/dos-vs/","canonical_title":"DOS/VS","notes":"Distinct linked IBM operating-system identity."},
+{"candidate_id":"dos-vse","disposition":"included-system","path":"systems/dos-vse/","canonical_title":"DOS/VSE","notes":"Distinct linked IBM operating-system identity."},
+{"candidate_id":"vse-advanced-functions-vse-af","disposition":"included-release","path":null,"canonical_title":"VSE/AF","notes":"Named DOS/VSE release/feature stream."},
+{"candidate_id":"vse-sp","disposition":"included-release","path":null,"canonical_title":"VSE/SP","notes":"Named DOS/VSE release/feature stream."},
+{"candidate_id":"vse-esa-replaces-vse-sp-supports-esa-370-and-esa-390-with-31-bit-addresses","disposition":"included-release","path":null,"canonical_title":"VSE/ESA","notes":"Named VSE release/feature stream."},
+{"candidate_id":"z-vse","disposition":"included-system","path":"systems/z-vse/","canonical_title":"Z/VSE","notes":"Distinct linked IBM operating-system identity."},
+{"candidate_id":"cp-cms","disposition":"included-system","path":"systems/cp-cms/","canonical_title":"CP/CMS","notes":"Distinct linked IBM operating-system identity."},
+{"candidate_id":"cp-40","disposition":"included-system","path":"systems/cp-40/","canonical_title":"CP-40","notes":"Distinct linked IBM operating-system identity."},
+{"candidate_id":"cp-67","disposition":"included-system","path":"systems/cp-67/","canonical_title":"CP-67","notes":"Distinct linked IBM operating-system identity."},
+{"candidate_id":"virtual-machine-facility-370","disposition":"included-system","path":"systems/virtual-machine-facility-370/","canonical_title":"VM","notes":"Distinct linked IBM virtual-machine operating-system identity."}
+]}
