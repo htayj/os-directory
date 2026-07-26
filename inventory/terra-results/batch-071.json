@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":71,"results":[
+{"candidate_id":"symbian-platform","disposition":"included-system","path":"systems/symbian-platform/","canonical_title":"Symbian platform","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"blackberry-10","disposition":"included-system","path":"systems/blackberry-10/","canonical_title":"BlackBerry 10","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"catos","disposition":"included-system","path":"systems/catos/","canonical_title":"CatOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"dnos","disposition":"needs-review","path":null,"canonical_title":"DNOS","notes":"Unlinked short label; identity needs source confirmation."},
+{"candidate_id":"ios-xr","disposition":"included-system","path":"systems/ios-xr/","canonical_title":"IOS-XR","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"lcos","disposition":"needs-review","path":null,"canonical_title":"LCOS","notes":"Unlinked short label; identity needs source confirmation."},
+{"candidate_id":"ipfire","disposition":"included-system","path":"systems/ipfire/","canonical_title":"IPFire","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"openwrt","disposition":"included-system","path":"systems/openwrt/","canonical_title":"OpenWrt","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"dd-wrt","disposition":"included-system","path":"systems/dd-wrt/","canonical_title":"DD-WRT","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"lede","disposition":"included-system","path":"systems/lede/","canonical_title":"LEDE","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}

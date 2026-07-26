@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":70,"results":[
+{"candidate_id":"penpoint-os","disposition":"included-system","path":"systems/penpoint-os/","canonical_title":"PenPoint OS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"pvos","disposition":"not-an-operating-system","path":null,"canonical_title":"Pocket Viewer","notes":"Candidate link is hardware product identity, not a clear OS."},
+{"candidate_id":"symbian-os","disposition":"included-system","path":"systems/symbian-os/","canonical_title":"Symbian OS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"epoc","disposition":"included-system","path":"systems/epoc/","canonical_title":"EPOC","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"pocket-pc","disposition":"included-release","path":null,"canonical_title":"Pocket PC","notes":"Windows CE device/product distribution rather than distinct OS lineage."},
+{"candidate_id":"windows-phone","disposition":"included-system","path":"systems/windows-phone/","canonical_title":"Windows Phone","notes":"Distinct linked mobile operating-system identity."},
+{"candidate_id":"ipodlinux","disposition":"included-system","path":"systems/ipodlinux/","canonical_title":"iPodLinux","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"iriver-clix","disposition":"not-an-operating-system","path":null,"canonical_title":"Iriver clix","notes":"Hardware device, not an operating system."},
+{"candidate_id":"rockbox","disposition":"included-system","path":"systems/rockbox/","canonical_title":"Rockbox","notes":"Distinct linked operating-system/firmware identity."},
+{"candidate_id":"blackberry-os","disposition":"included-system","path":"systems/blackberry-os/","canonical_title":"BlackBerry OS","notes":"Distinct linked operating-system identity."}
+]}
