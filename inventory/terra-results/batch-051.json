@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":51,"results":[
+{"candidate_id":"openstep","disposition":"included-system","path":"systems/openstep/","canonical_title":"OPENSTEP","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"qnx","disposition":"included-system","path":"systems/qnx/","canonical_title":"QNX","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"pnx-a-port-of-unix-v7-and-system-iii-to-the-perq-computer","disposition":"needs-review","path":null,"canonical_title":"PNX","notes":"Unlinked descriptive title; identity needs source confirmation."},
+{"candidate_id":"risc-os-2","disposition":"included-system","path":"systems/risc-os-2/","canonical_title":"MIPS RISC/os","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"sco-unix-2","disposition":"included-system","path":"systems/sco-unix-2/","canonical_title":"SCO UNIX","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"sinix","disposition":"included-system","path":"systems/sinix/","canonical_title":"SINIX","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"solaris","disposition":"included-system","path":"systems/solaris/","canonical_title":"Solaris","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"sunos","disposition":"included-system","path":"systems/sunos/","canonical_title":"SunOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"super-ux","disposition":"included-system","path":"systems/super-ux/","canonical_title":"SUPER-UX","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"system-v-at-386","disposition":"included-system","path":"systems/system-v-at-386/","canonical_title":"Microport System V/AT 386","notes":"Clear linked product OS identity; draft fields remain unverified."}
+]}

@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":50,"results":[
+{"candidate_id":"dspnano-rtos-posix-nanokernel-dsp-optimized-open-source","disposition":"needs-review","path":null,"canonical_title":"DSPnano RTOS","notes":"Unlinked label; may overlap unresolved DSPnano candidate but no identity evidence yet."},
+{"candidate_id":"helios","disposition":"included-system","path":"systems/helios/","canonical_title":"HeliOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"interactive-unix","disposition":"included-system","path":"systems/interactive-unix/","canonical_title":"Interactive Unix","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"irix","disposition":"included-system","path":"systems/irix/","canonical_title":"IRIX","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"masix-25-from-masi-laboratory-a-multiserver-operating-system-based-on-mach-microkernel","disposition":"needs-review","path":null,"canonical_title":"MASIX 2.5","notes":"Unlinked descriptive label requiring identity evidence."},
+{"candidate_id":"meikos","disposition":"included-system","path":"systems/meikos/","canonical_title":"MeikOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"os-9","disposition":"included-system","path":"systems/os-9/","canonical_title":"OS-9","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"os9-68k-unix-like-rtos-os-from-microware-for-motorola-680x0-based-microcomputers-based-on-os-9","disposition":"alias","path":"systems/os-9/","canonical_title":"OS-9","notes":"Descriptive variant label maps to OS-9."},
+{"candidate_id":"os-9000","disposition":"included-system","path":"systems/os-9000/","canonical_title":"OS-9000","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"osf-1","disposition":"included-system","path":"systems/osf-1/","canonical_title":"OSF/1","notes":"Distinct linked operating-system identity."}
+]}
