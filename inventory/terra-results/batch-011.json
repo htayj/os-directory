@@ -1,0 +1,15 @@
+{
+  "schema_version": "0.1", "batch": 11,
+  "results": [
+    {"candidate_id":"aos","disposition":"needs-review","path":null,"canonical_title":"Data General AOS","notes":"Likely system family with AOS/VS and MP/AOS variants; first-pass boundary needs source review."},
+    {"candidate_id":"dg-ux","disposition":"needs-review","path":null,"canonical_title":"DG/UX","notes":"Likely distinct Data General Unix system; primary evidence pending."},
+    {"candidate_id":"rdos","disposition":"needs-review","path":null,"canonical_title":"Data General RDOS","notes":"List includes RDOS with RTOS and DOS variants; lineage boundary needs source review."},
+    {"candidate_id":"ctos-cassette-tape-operating-system-for-the-datapoint-2200-11","disposition":"needs-review","path":null,"canonical_title":"CTOS","notes":"Unlinked descriptive name; requires primary Datapoint evidence."},
+    {"candidate_id":"dos-disk-operating-system-for-the-datapoint-2200-5500-and-1100-12","disposition":"needs-review","path":null,"canonical_title":"Datapoint DOS","notes":"Unlinked descriptive name; requires primary Datapoint evidence."},
+    {"candidate_id":"deos","disposition":"needs-review","path":null,"canonical_title":"Deos","notes":"Likely distinct safety-critical RTOS; first-pass primary evidence not located."},
+    {"candidate_id":"heartos","disposition":"needs-review","path":null,"canonical_title":"HeartOS","notes":"Likely distinct DDC-I RTOS; first-pass primary evidence not located."},
+    {"candidate_id":"cp-m","disposition":"included-system","path":"systems/cp-m/","canonical_title":"CP/M","notes":"Digital Research system lineage; preserved manual consulted."},
+    {"candidate_id":"personal-cp-m","disposition":"included-release","path":null,"canonical_title":"Personal CP/M","notes":"Named refinement of CP/M, not a separate lineage."},
+    {"candidate_id":"cp-m-68k","disposition":"included-release","path":null,"canonical_title":"CP/M-68K","notes":"Motorola 68000 CP/M port/release line, not a separate lineage."}
+  ]
+}

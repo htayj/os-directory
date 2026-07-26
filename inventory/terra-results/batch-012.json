@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 12,
+  "results": [
+    {"candidate_id":"cp-m-8000","disposition":"included-release","path":null,"canonical_title":"CP/M-8000","notes":"Named CP/M platform port/release; no parent CP/M record is invented outside this batch."},
+    {"candidate_id":"cp-m-86","disposition":"included-system","path":"systems/cp-m-86/","canonical_title":"CP/M-86","notes":"Named Digital Research 8086/8088 operating-system product."},
+    {"candidate_id":"cp-m-86-plus","disposition":"included-release","path":null,"canonical_title":"CP/M-86 Plus","notes":"Nested CP/M-86 product variant."},
+    {"candidate_id":"personal-cp-m-86","disposition":"included-release","path":null,"canonical_title":"Personal CP/M-86","notes":"Nested CP/M-86 product variant."},
+    {"candidate_id":"mp-m","disposition":"included-system","path":"systems/mp-m/","canonical_title":"MP/M","notes":"Named multiuser CP/M-derived system."},
+    {"candidate_id":"mp-m-ii","disposition":"included-release","path":null,"canonical_title":"MP/M II","notes":"Nested MP/M release."},
+    {"candidate_id":"mp-m-86","disposition":"included-system","path":"systems/mp-m-86/","canonical_title":"MP/M-86","notes":"Named multiuser CP/M-86 system."},
+    {"candidate_id":"mp-m-8-16","disposition":"included-release","path":null,"canonical_title":"MP/M 8-16","notes":"Explicit dual-processor MP/M variant."},
+    {"candidate_id":"concurrent-cp-m","disposition":"included-system","path":"systems/concurrent-cp-m/","canonical_title":"Concurrent CP/M","notes":"Named CP/M successor system."},
+    {"candidate_id":"concurrent-cp-m-86","disposition":"included-system","path":"systems/concurrent-cp-m-86/","canonical_title":"Concurrent CP/M-86","notes":"Named CP/M-86 successor system; both occurrences retained."}
+  ]
+}
