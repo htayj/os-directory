@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A filterable catalog of historical operating systems and their associated text editors.">
+  <title>Operating Systems &amp; Text Editors</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#catalog">Skip to catalog</a>
+  <header class="masthead">
+    <div class="eyebrow">Open Knowledge Format catalog</div>
+    <div class="title-row">
+      <div>
+        <h1>Operating systems<br><span>&amp; their text editors</span></h1>
+        <p class="lede">A research index of editor relationships across historical and contemporary operating systems.</p>
+      </div>
+      <a class="repo-link" href="https://github.com/htayj/os-directory">View source <span aria-hidden="true">↗</span></a>
+    </div>
+    <dl class="stats" aria-label="Catalog summary">
+      <div><dt id="stat-systems">—</dt><dd>systems</dd></div>
+      <div><dt id="stat-editors">—</dt><dd>unique editors</dd></div>
+      <div><dt id="stat-associations">—</dt><dd>relationships</dd></div>
+      <div><dt id="stat-documented">—</dt><dd>documented</dd></div>
+    </dl>
+  </header>
+
+  <main id="catalog">
+    <section class="controls" aria-label="Catalog controls">
+      <div class="search-wrap">
+        <label for="search">Search every field</label>
+        <div class="search-box">
+          <span aria-hidden="true">⌕</span>
+          <input id="search" type="search" placeholder="Try “Lisp”, “microkernel”, “Zmacs”…" autocomplete="off">
+          <kbd>/</kbd>
+        </div>
+      </div>
+      <div class="control-actions">
+        <button id="filters-toggle" class="button" type="button" aria-expanded="true" aria-controls="filter-panel">Filters <span id="filter-count" class="count-badge">0</span></button>
+        <button id="columns-toggle" class="button" type="button" aria-expanded="false" aria-controls="column-panel">Columns</button>
+        <button id="export" class="button" type="button">Export CSV</button>
+        <button id="reset" class="button subtle" type="button">Reset</button>
+      </div>
+
+      <div id="filter-panel" class="panel filter-grid"></div>
+      <div id="column-panel" class="panel column-grid" hidden></div>
+
+      <div class="result-bar">
+        <p id="result-count" aria-live="polite">Loading catalog…</p>
+        <div class="page-size">
+          <label for="page-size">Rows</label>
+          <select id="page-size">
+            <option>25</option>
+            <option selected>50</option>
+            <option>100</option>
+            <option value="all">All</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="table-shell" aria-label="Operating-system catalog">
+      <div class="table-scroll">
+        <table>
+          <thead><tr id="table-head"></tr></thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+      <div id="empty" class="empty" hidden>
+        <strong>No systems match these filters.</strong>
+        <p>Try removing a facet or broadening the search.</p>
+      </div>
+      <nav class="pagination" aria-label="Table pages">
+        <button id="previous" class="button" type="button">Previous</button>
+        <span id="page-status"></span>
+        <button id="next" class="button" type="button">Next</button>
+      </nav>
+    </section>
+
+    <aside class="method-note">
+      <h2>How to read this table</h2>
+      <p>“Documented” relationships use contemporary manuals, official documentation, or similarly strong sources. “Provisional” relationships are discovery claims that still need primary-source confirmation. “No evidence found” means the automated pass did not locate a qualifying relationship; it does not mean the system had no editor.</p>
+      <p id="as-of"></p>
+    </aside>
+  </main>
+
+  <footer>
+    <p>Built from the <a href="https://github.com/htayj/os-directory">Historical Operating Systems Directory</a>. Data is generated from the OKF records in the repository.</p>
+  </footer>
+</body>
+</html>

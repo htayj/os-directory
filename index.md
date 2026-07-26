@@ -7,6 +7,10 @@ okf_version: "0.2"
 An Open Knowledge Format bundle for documenting historical operating systems,
 their releases, surviving artifacts, creators, and hardware contexts.
 
+Browse the generated [operating-system and text-editor table](https://htayj.github.io/os-directory/)
+for full-text search, faceted filtering, multi-column sorting, column controls,
+pagination, and CSV export.
+
 The frozen English Wikipedia baseline is fully dispositioned: 754 normalized
 candidates from 901 list occurrences. A separate native-language discovery
 release covers ten non-English language traditions plus the Russian/Elbrus
