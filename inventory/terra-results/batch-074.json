@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":74,"results":[
+{"candidate_id":"fuchsia-2","disposition":"included-system","path":"systems/fuchsia-2/","canonical_title":"Google Fuchsia","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"openembedded","disposition":"not-an-operating-system","path":null,"canonical_title":"OpenEmbedded","notes":"Embedded Linux build framework, not an OS identity."},
+{"candidate_id":"psos","disposition":"included-system","path":"systems/psos/","canonical_title":"PSOS","notes":"Distinct linked real-time operating-system identity."},
+{"candidate_id":"px5-rtos","disposition":"included-system","path":"systems/px5-rtos/","canonical_title":"PX5 RTOS","notes":"Distinct linked real-time operating-system identity."},
+{"candidate_id":"rex-os","disposition":"included-system","path":"systems/rex-os/","canonical_title":"REX OS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"riot","disposition":"included-system","path":"systems/riot/","canonical_title":"RIOT","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"rom-dos","disposition":"included-system","path":"systems/rom-dos/","canonical_title":"ROM-DOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"tinyos","disposition":"included-system","path":"systems/tinyos/","canonical_title":"TinyOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"threadx","disposition":"included-system","path":"systems/threadx/","canonical_title":"ThreadX","notes":"Distinct linked real-time operating-system identity."},
+{"candidate_id":"rt-thread","disposition":"included-system","path":"systems/rt-thread/","canonical_title":"RT-Thread","notes":"Distinct linked real-time operating-system identity."}
+]}

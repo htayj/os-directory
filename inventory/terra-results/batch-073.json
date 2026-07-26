@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":73,"results":[
+{"candidate_id":"hyperos","disposition":"included-system","path":"systems/hyperos/","canonical_title":"HyperOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"apache-mynewt","disposition":"included-system","path":"systems/apache-mynewt/","canonical_title":"Apache Mynewt","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"chibios-rt","disposition":"included-system","path":"systems/chibios-rt/","canonical_title":"ChibiOS/RT","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"cortos-world-s-simplest-embedded-rtos-51","disposition":"needs-review","path":null,"canonical_title":"CortOS","notes":"Unlinked descriptive title; identity needs source confirmation."},
+{"candidate_id":"erika-enterprise","disposition":"included-system","path":"systems/erika-enterprise/","canonical_title":"ERIKA Enterprise","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"ecos","disposition":"included-system","path":"systems/ecos/","canonical_title":"eCos","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"nucleus-rtos","disposition":"included-system","path":"systems/nucleus-rtos/","canonical_title":"Nucleus RTOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"minix-2","disposition":"alias","path":"systems/minix/","canonical_title":"Minix","notes":"Alias/duplicate occurrence of the existing Minix system record."},
+{"candidate_id":"ncos","disposition":"included-system","path":"systems/ncos/","canonical_title":"NCOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"freertos-openrtos-safertos","disposition":"included-system","path":"systems/freertos-openrtos-safertos/","canonical_title":"FreeRTOS","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}
