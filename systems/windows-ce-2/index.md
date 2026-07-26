@@ -1,0 +1,5 @@
+# Microsoft Windows CE
+
+* [System record](system.md)
+* [Releases](releases/)
+* [Artifacts](artifacts/)

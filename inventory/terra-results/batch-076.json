@@ -1,0 +1,6 @@
+{"schema_version":"0.1","batch":76,"results":[
+{"candidate_id":"cambridge-cap-computer","disposition":"not-an-operating-system","path":null,"canonical_title":"Cambridge CAP computer","notes":"Computer/hardware identity, not an operating system."},
+{"candidate_id":"flex-machine","disposition":"not-an-operating-system","path":null,"canonical_title":"Flex machine","notes":"Computer/hardware identity, not an operating system."},
+{"candidate_id":"hydra","disposition":"included-system","path":"systems/hydra/","canonical_title":"Hydra","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"keykos","disposition":"included-system","path":"systems/keykos/","canonical_title":"KeyKOS","notes":"Distinct linked operating-system identity."}
+]}
