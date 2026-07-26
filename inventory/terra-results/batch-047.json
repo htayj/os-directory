@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":47,"results":[
+{"candidate_id":"c-os-iii","disposition":"included-system","path":"systems/c-os-iii/","canonical_title":"μC/OS-III","notes":"Clear linked RTOS identity; draft fields remain unverified."},
+{"candidate_id":"vxworks","disposition":"included-system","path":"systems/vxworks/","canonical_title":"VxWorks","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"z80-rio","disposition":"included-system","path":"systems/z80-rio/","canonical_title":"Z80-RIO","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"lisp-machines-inc","disposition":"not-an-operating-system","path":null,"canonical_title":"Lisp Machines","notes":"Machine/product category, not a distinct OS identity."},
+{"candidate_id":"symbolics","disposition":"not-an-operating-system","path":null,"canonical_title":"Symbolics","notes":"Company identity, not an OS."},
+{"candidate_id":"texas-instruments","disposition":"not-an-operating-system","path":null,"canonical_title":"Texas Instruments","notes":"Company identity, not an OS."},
+{"candidate_id":"xerox","disposition":"not-an-operating-system","path":null,"canonical_title":"Xerox","notes":"Company identity, not an OS."},
+{"candidate_id":"andos","disposition":"included-system","path":"systems/andos/","canonical_title":"ANDOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"csi-dos","disposition":"included-system","path":"systems/csi-dos/","canonical_title":"CSI-DOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"mk-dos","disposition":"included-system","path":"systems/mk-dos/","canonical_title":"MK-DOS","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}

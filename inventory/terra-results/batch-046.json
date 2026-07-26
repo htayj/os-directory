@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":46,"results":[
+{"candidate_id":"exec-i","disposition":"included-system","path":"systems/exec-i/","canonical_title":"UNIVAC EXEC I","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"exec-ii","disposition":"included-system","path":"systems/exec-ii/","canonical_title":"UNIVAC EXEC II","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"exec-8","disposition":"included-system","path":"systems/exec-8/","canonical_title":"EXEC 8","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"vs-9","disposition":"included-system","path":"systems/vs-9/","canonical_title":"VS/9","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"os-4","disposition":"included-system","path":"systems/os-4/","canonical_title":"OS/4","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"steamos-1-0-2-0","disposition":"included-release","path":null,"canonical_title":"SteamOS 1.0–2.0","notes":"SteamOS release range."},
+{"candidate_id":"steamos-3-0","disposition":"included-release","path":null,"canonical_title":"SteamOS 3.0","notes":"SteamOS release."},
+{"candidate_id":"wps","disposition":"not-an-operating-system","path":null,"canonical_title":"WPS","notes":"Wang word-processing product, not an OS identity."},
+{"candidate_id":"ois","disposition":"needs-review","path":null,"canonical_title":"Wang OIS","notes":"Office-information-system label needs scope evidence before cataloging as an OS."},
+{"candidate_id":"c-os-ii","disposition":"included-release","path":null,"canonical_title":"μC/OS-II","notes":"Micrium OS release/component identity; parent Micrium OS is cataloged."}
+]}
