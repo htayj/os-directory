@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 10,
+  "results": [
+    {"candidate_id":"mace-mansfield-and-cahlander-executive","disposition":"needs-review","path":null,"canonical_title":"MACE (Mansfield and Cahlander Executive)","notes":"Unlinked source-list label; its independent system identity needs stronger evidence."},
+    {"candidate_id":"kronos","disposition":"included-system","path":"systems/kronos/","canonical_title":"CDC Kronos","notes":"Named Control Data operating-system identity."},
+    {"candidate_id":"nos","disposition":"included-system","path":"systems/nos/","canonical_title":"NOS","notes":"Named Control Data Network Operating System lineage."},
+    {"candidate_id":"nos-ve","disposition":"included-system","path":"systems/nos-ve/","canonical_title":"NOS/VE","notes":"Named Control Data OS identity."},
+    {"candidate_id":"nos-be-nos-batch-environment-9","disposition":"included-release","path":null,"canonical_title":"NOS/BE","notes":"Batch environment/product variant of NOS; no parent release file invented."},
+    {"candidate_id":"sipros-simultaneous-processing-operating-system-10","disposition":"insufficient-evidence","path":null,"canonical_title":"SIPROS","notes":"Unlinked list label without sufficient first-pass identity evidence."},
+    {"candidate_id":"puffin-os","disposition":"insufficient-evidence","path":null,"canonical_title":"Puffin OS","notes":"Source link is a redlink; no sufficient external identity evidence in this bounded pass."},
+    {"candidate_id":"convergent-technologies-operating-system","disposition":"included-system","path":"systems/convergent-technologies-operating-system/","canonical_title":"Convergent Technologies Operating System","notes":"Named CTOS operating-system identity."},
+    {"candidate_id":"cromemco-dos","disposition":"included-system","path":"systems/cromemco-dos/","canonical_title":"Cromemco DOS","notes":"Named CP/M-compatible disk operating-system lineage."},
+    {"candidate_id":"cromix","disposition":"included-system","path":"systems/cromix/","canonical_title":"Cromix","notes":"Named Cromemco Unix-like operating system."}
+  ]
+}

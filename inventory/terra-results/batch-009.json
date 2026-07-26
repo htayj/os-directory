@@ -1,0 +1,15 @@
+{
+  "schema_version": "0.1", "batch": 9,
+  "results": [
+    {"candidate_id":"besys","disposition":"included-system","path":"systems/besys/","canonical_title":"BESYS","notes":"Distinct Bell System mainframe OS; primary evidence pending."},
+    {"candidate_id":"plan-9-from-bell-labs","disposition":"included-system","path":"systems/plan-9-from-bell-labs/","canonical_title":"Plan 9 from Bell Labs","notes":"Distinct Bell Labs distributed OS; project site consulted."},
+    {"candidate_id":"inferno","disposition":"included-system","path":"systems/inferno/","canonical_title":"Inferno","notes":"Distinct distributed OS derived from Plan 9; primary evidence pending."},
+    {"candidate_id":"burroughs-mcp","disposition":"included-system","path":"systems/burroughs-mcp/","canonical_title":"Burroughs MCP","notes":"Distinct Master Control Program lineage."},
+    {"candidate_id":"siris-8","disposition":"included-system","path":"systems/siris-8/","canonical_title":"Siris 8","notes":"Distinct CII system identity; primary evidence pending."},
+    {"candidate_id":"geos","disposition":"included-system","path":"systems/geos/","canonical_title":"GEOS","notes":"Distinct 8-bit graphical OS; repeated occurrence retained."},
+    {"candidate_id":"aros-research-operating-system","disposition":"needs-review","path":null,"canonical_title":"AROS Research Operating System","notes":"Separate OS identity is likely, but first-pass primary evidence was not located."},
+    {"candidate_id":"scope","disposition":"needs-review","path":null,"canonical_title":"CDC SCOPE","notes":"The list conflates multiple SCOPE lineages/platform variants; identity boundary requires focused review."},
+    {"candidate_id":"drum-scope-3","disposition":"needs-review","path":null,"canonical_title":"Drum SCOPE","notes":"Unlinked SCOPE variant; requires parent-lineage resolution."},
+    {"candidate_id":"chippewa-operating-system","disposition":"needs-review","path":null,"canonical_title":"Chippewa Operating System","notes":"Likely distinct CDC system; primary evidence and relation to SCOPE require review."}
+  ]
+}

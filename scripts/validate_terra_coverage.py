@@ -30,6 +30,7 @@ DISPOSITIONS = {
     "duplicate",
     "excluded",
     "not-an-operating-system",
+    "insufficient-evidence",
     "needs-review",
 }
 
