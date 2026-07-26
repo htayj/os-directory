@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":43,"results":[
+{"candidate_id":"rtxc-quadros","disposition":"included-system","path":"systems/rtxc-quadros/","canonical_title":"RTXC Quadros","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"time-sharing-operating-system","disposition":"included-system","path":"systems/time-sharing-operating-system/","canonical_title":"Time Sharing Operating System","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"dspnano-rtos","disposition":"needs-review","path":null,"canonical_title":"DSPnano RTOS","notes":"Unlinked/redlinked label requiring identity evidence."},
+{"candidate_id":"bada","disposition":"included-system","path":"systems/bada/","canonical_title":"Bada","notes":"Distinct linked mobile operating-system identity."},
+{"candidate_id":"tizen","disposition":"included-system","path":"systems/tizen/","canonical_title":"Tizen","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"orsay","disposition":"included-system","path":"systems/orsay/","canonical_title":"Orsay","notes":"Samsung Smart TV system software identity."},
+{"candidate_id":"one-ui","disposition":"not-an-operating-system","path":null,"canonical_title":"One UI","notes":"User-interface layer, not an operating system."},
+{"candidate_id":"berkeley-timesharing-system","disposition":"included-system","path":"systems/berkeley-timesharing-system/","canonical_title":"Berkeley Timesharing System","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"universal-time-sharing-system","disposition":"included-system","path":"systems/universal-time-sharing-system/","canonical_title":"Universal Time-Sharing System","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"xerox-operating-system","disposition":"included-system","path":"systems/xerox-operating-system/","canonical_title":"Xerox Operating System","notes":"Distinct linked operating-system identity."}
+]}

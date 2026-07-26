@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":42,"results":[
+{"candidate_id":"nintendo-3ds-system-software","disposition":"included-system","path":"systems/nintendo-3ds-system-software/","canonical_title":"Nintendo 3DS system software","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"wii-u-system-software","disposition":"included-system","path":"systems/wii-u-system-software/","canonical_title":"Wii U system software","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"nintendo-switch-system-software","disposition":"included-system","path":"systems/nintendo-switch-system-software/","canonical_title":"Nintendo Switch system software","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"netware","disposition":"included-system","path":"systems/netware/","canonical_title":"NetWare","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"unixware","disposition":"included-system","path":"systems/unixware/","canonical_title":"UnixWare","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"novell-supernos","disposition":"included-system","path":"systems/novell-supernos/","canonical_title":"Novell SuperNOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"novell-corsair","disposition":"included-system","path":"systems/novell-corsair/","canonical_title":"Novell Corsair","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"novell-expose","disposition":"included-system","path":"systems/novell-expose/","canonical_title":"Novell Exposé","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"open-enterprise-server","disposition":"included-system","path":"systems/open-enterprise-server/","canonical_title":"Open Enterprise Server","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"aurora-os","disposition":"included-system","path":"systems/aurora-os/","canonical_title":"Aurora OS","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}
