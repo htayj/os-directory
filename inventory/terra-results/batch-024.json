@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":24,"results":[
+{"candidate_id":"mvs-sp-v3","disposition":"included-release","path":null,"canonical_title":"MVS/SP V3","notes":"MVS system-product release."},
+{"candidate_id":"mvs-esa-sp-v4-a-unix-environment-was-available-for-mvs-esa-sp-v4r3","disposition":"included-release","path":null,"canonical_title":"MVS/ESA SP V4","notes":"MVS release line."},
+{"candidate_id":"mvs-esa-sp-v5-the-unix-environment-was-bundled-in-this-and-all-subsequent-versions","disposition":"included-release","path":null,"canonical_title":"MVS/ESA SP V5","notes":"MVS release line."},
+{"candidate_id":"os-390","disposition":"included-system","path":"systems/os-390/","canonical_title":"OS/390","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"z-os","disposition":"included-system","path":"systems/z-os/","canonical_title":"z/OS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"phoenix-mvs","disposition":"not-an-operating-system","path":null,"canonical_title":"Phoenix (computer)","notes":"Linked subject is a computer, not an OS identity."},
+{"candidate_id":"dos-360-and-successors","disposition":"included-system","path":"systems/dos-360-and-successors/","canonical_title":"DOS/360 and successors","notes":"Clear linked OS lineage identity."},
+{"candidate_id":"bos-360","disposition":"included-system","path":"systems/bos-360/","canonical_title":"BOS/360","notes":"Clear linked OS identity."},
+{"candidate_id":"tos-360","disposition":"included-system","path":"systems/tos-360/","canonical_title":"TOS/360","notes":"Linked DOS/360 subpage identifies a distinct OS identity."},
+{"candidate_id":"dos-360-rje-dos-360-with-a-control-program-extension-that-provided-for-the-monitoring-of-remote-job-entry-hardware-card-reader-printer-connected-by-dedicated-phone-lines","disposition":"included-release","path":null,"canonical_title":"DOS/360 RJE","notes":"DOS/360 control-program extension, not a separate system."}
+]}

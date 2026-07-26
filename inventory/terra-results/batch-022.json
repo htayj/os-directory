@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":22,"results":[
+{"candidate_id":"1410","disposition":"not-an-operating-system","path":null,"canonical_title":"IBM 1410","notes":"Hardware computer model, not an OS."},
+{"candidate_id":"share-operating-system","disposition":"included-system","path":"systems/share-operating-system/","canonical_title":"SHARE Operating System","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"university-of-michigan-executive-system","disposition":"included-system","path":"systems/university-of-michigan-executive-system/","canonical_title":"University of Michigan Executive System","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"os-360-and-successors","disposition":"grouping","path":null,"canonical_title":"OS/360 and successors","notes":"Lineage grouping heading, not a single identity."},
+{"candidate_id":"os-360","disposition":"included-system","path":"systems/os-360/","canonical_title":"OS/360","notes":"Distinct linked IBM operating-system identity."},
+{"candidate_id":"pcp-primary-control-program-a-kernel-and-a-ground-breaking-automatic-space-allocating-file-system","disposition":"included-release","path":null,"canonical_title":"PCP","notes":"Initial OS/360 control-program release component."},
+{"candidate_id":"mft","disposition":"included-release","path":null,"canonical_title":"MFT","notes":"OS/360 multiprogramming control-program variant."},
+{"candidate_id":"mvt","disposition":"included-release","path":null,"canonical_title":"MVT","notes":"OS/360 multiprogramming control-program variant."},
+{"candidate_id":"m65mp-mvt-with-support-for-a-multiprocessor-360-65","disposition":"included-release","path":null,"canonical_title":"M65MP","notes":"Multiprocessor MVT variant."},
+{"candidate_id":"os-vs","disposition":"included-release","path":null,"canonical_title":"OS/VS","notes":"Successor release/family of OS/360; parent identity is in this batch but no release file is created in bounded pass."}
+]}
