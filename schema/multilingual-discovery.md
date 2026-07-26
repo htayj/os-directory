@@ -80,6 +80,8 @@ related to:
 * executive, monitor, supervisor, control program, and dispatcher;
 * disk, network, real-time, embedded, teaching, and research operating system;
 * system software, system programming environment, and resident system.
+* desktop environment, graphical operating environment, window system,
+  workspace manager, graphical shell, display server, and integrated GUI.
 
 Language keywords generate candidates; they do not establish concept type.
 

@@ -1,0 +1,93 @@
+---
+type: Graphical Operating Environment
+title: ""
+description: ""
+tags: [graphical-environment]
+status: draft
+generated: { by: "human:replace-me", at: "YYYY-MM-DDTHH:MM:SSZ" }
+schema_version: "0.1"
+as_of: YYYY-MM-DD
+catalog_completeness: { level: inventory }
+field_dispositions:
+  - { field: organizations, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: countries_of_origin, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: design_purposes, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: first_release, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: latest_releases, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: licenses, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: host_systems, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: programming_languages, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: display_architecture, disposition: not-researched, checked_at: YYYY-MM-DD }
+  - { field: application_model, disposition: not-researched, checked_at: YYYY-MM-DD }
+discovery_provenance: []
+same_as: []
+names: []
+organizations: []
+countries_of_origin: []
+development_origins: []
+development_contexts: []
+design_purposes: []
+design_goals: []
+target_audiences: []
+documented_uses: []
+development_status:
+support_status:
+distribution_status:
+lifecycle_events: []
+first_release:
+latest_releases: []
+last_updated:
+rights_regime:
+software_freedom_status:
+licenses: []
+programming_languages: []
+environment_kind: graphical-operating-environment
+host_systems: []
+host_relationship: layered
+display_architecture: []
+ui_paradigms: []
+window_model: []
+input_model: []
+desktop_components: []
+file_managers: []
+session_management: []
+application_model: []
+toolkits: []
+environment_apis: []
+bundled_applications: []
+visual_design: []
+hardware_platforms: []
+architectures: []
+minimum_requirements: []
+distribution_media: []
+source_preservation:
+binary_preservation:
+documentation_preservation:
+surviving_artifacts: []
+emulation: []
+known_gaps: []
+sources:
+  - id: replace-me
+    resource: https://example.invalid/source
+    title: Replace with a concrete source
+---
+
+# Overview
+
+# Purpose and Design
+
+# History and Releases
+
+# Host Systems and Platforms
+
+# Interface and Visual Model
+
+# Application Architecture
+
+# Licensing and Distribution
+
+# Preservation
+
+# Open Questions
+
+[^replace-me]: Replace with the source title.

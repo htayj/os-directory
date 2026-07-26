@@ -75,9 +75,9 @@ Discovery methods include `english-list`, `wikidata-query`,
 `multilingual-list`, `multilingual-article`, `hardware-ecosystem`,
 `institutional-history`, `archive-catalog`, `bibliography`, `lineage-link`,
 `category-traversal`, and `manual-search`. Candidate dispositions are
-`included-system`, `included-release`, `included-artifact`, `alias`,
-`duplicate`, `not-an-operating-system`, `insufficient-evidence`, and
-`needs-review`.
+`included-system`, `included-release`, `included-environment`,
+`included-artifact`, `alias`, `duplicate`, `not-an-operating-system`,
+`insufficient-evidence`, and `needs-review`.
 
 # Identity, Origin, and Stewardship
 
@@ -270,6 +270,34 @@ Provisioning is `built-in`, `bundled-default`, `bundled-optional`,
 `third-party-only`, `none-documented`, `unknown`, or `disputed`. “Headless” is
 a deployment condition, not an interface style; touch and voice are modalities,
 not proof of a GUI.
+
+# Graphical-Environment Concepts
+
+Graphical environments use the common identity, origin, purpose, lifecycle,
+rights, implementation, platform, and preservation fields plus:
+
+| Field | Shape | Meaning |
+|---|---|---|
+| `environment_kind` | value | `desktop-environment`, `graphical-operating-environment`, `window-system`, `display-server`, `workspace-manager`, `user-interface-shell`, or `integrated-gui`. |
+| `host_systems` | list of claims | Required or supported host OS, version, relationship, and scope. |
+| `host_relationship` | value | `layered`, `bundled-component`, `native-subsystem`, `replacement-shell`, `hosted-application`, or `standalone`. |
+| `display_architecture` | list of claims | Display server, graphics layer, rendering, fonts, and client/server boundary. |
+| `ui_paradigms` | list of claims | Desktop, document, application, workspace, menu, icon, direct-manipulation, or other interaction model. |
+| `window_model` | list of claims | Overlap, tiling, stacking, resizing, minimization/set-aside, focus, and multiple-window behavior. |
+| `input_model` | list of claims | Keyboard, pointer, touch, pen, voice, command, and accessibility interaction. |
+| `desktop_components` | list of claims | Panel, launcher, dock, workspace switcher, notifications, settings, and related components. |
+| `file_managers` | list of claims | Integrated, bundled, optional, or absent file-management interface. |
+| `session_management` | list of claims | Login, session, startup, shutdown, persistence, and multi-user behavior. |
+| `application_model` | list of claims | Native application lifecycle, multitasking, data exchange, document model, and compatibility. |
+| `toolkits` | list of claims | Widget, UI, graphics, or application frameworks. |
+| `environment_apis` | list of claims | Native API/ABI, extension, automation, and interoperability interfaces. |
+| `bundled_applications` | list of claims | First-party applications and provisioning. |
+| `visual_design` | list of claims | Sourced visual conventions, themes, icons, typography, and distinctive interaction features. |
+
+Do not collapse these concepts into one “desktop environment” type. A display
+server may support many desktops; a shell may replace one component; and a
+graphical operating environment may provide its own application model while
+still requiring a host OS.
 
 # Platforms and Hardware Coupling
 

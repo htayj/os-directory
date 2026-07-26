@@ -2,6 +2,9 @@
 
 ## 2026-07-26
 
+* **Scope**: Added graphical operating environments, desktop environments, window systems, display servers, workspace managers, and interface shells as distinct linked concepts.
+* **Schema**: Added host-system boundaries, display architecture, UI paradigms, window/input models, desktop components, application models, toolkits, APIs, and visual-design fields.
+* **Creation**: Added a source-reviewed [Visi On](/environments/visi-on/environment.md) graphical-operating-environment record.
 * **Scope**: Added a supplemental multilingual discovery corpus for systems absent from the English list, including hardware-ecosystem and national computing-history research.
 * **Schema**: Added native-script names, source-language metadata, translation provenance, discovery methods, and candidate dispositions.
 * **Inventory**: Seeded Elbrus ecosystem candidates and added a reproducible parser for the frozen English-list baseline.

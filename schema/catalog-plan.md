@@ -25,6 +25,12 @@ context.[^wikipedia-list] Add a supplemental corpus of systems discovered
 through multilingual and hardware-ecosystem research. Enrich each concept with
 comparable structured fields and claim-level provenance.
 
+Catalog independently meaningful graphical environments encountered during
+system research: desktop environments, graphical operating environments,
+window systems, display servers, workspace managers, and interface shells.
+Link them to host operating systems rather than flattening them into a GUI
+boolean.
+
 The target snapshot is Wikipedia revision `1365063001`, dated
 `2026-07-20T02:00:31Z`. Fixing a revision makes "each operating system listed"
 reproducible even if the live page changes.
@@ -58,6 +64,12 @@ ports, distributions, projects, and unnamed systems. Apply
   name is itself an operating system.
 * Preserve native names, scripts, transliterations, and source-language
   terminology.
+* Create a graphical-environment concept when a named environment has its own
+  identity, release history, host boundary, application/interface contract, or
+  preservation history.
+* Do not promote an environment layered on a host OS into an independent OS,
+  and do not collapse a window system, desktop, file manager, and shell into
+  one concept unless the product itself integrates those roles.
 
 # Core Information
 
@@ -184,6 +196,11 @@ Add architecture, scheduling, memory, storage, security, networking,
 compatibility, distribution, surviving artifacts, emulation, and access/rights
 information where applicable and supportable.
 
+For graphical systems, identify and link the environment, window system,
+display layer, desktop/shell components, application model, toolkit/API, input
+model, and distinctive interaction features. Create separate environment
+concepts under `/environments/` when they meet the identity rule.
+
 ## 7. Validate and Review
 
 Run structural OKF and local-link validation, source-inventory coverage checks,
@@ -199,6 +216,8 @@ The cataloging request is complete when:
 * every baseline occurrence and supplemental candidate has a recorded
   disposition;
 * every distinct system has a conformant OKF concept;
+* every independently meaningful graphical environment encountered during core
+  research has a concept or an explicit candidate disposition;
 * all core fields, including origin, purpose, and intended users, have a sourced value or explicit disposition;
 * native names and source languages are preserved;
 * coverage metrics are reported by discovery method and language;

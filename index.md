@@ -10,6 +10,7 @@ their releases, surviving artifacts, creators, and hardware contexts.
 # Catalog
 
 * [Operating systems](systems/) - System lineages, releases, variants, and surviving artifacts.
+* [Graphical environments](environments/) - Desktop environments, operating environments, window systems, and interface shells.
 * [Organizations](organizations/) - Companies, universities, research groups, and other responsible bodies.
 * [Hardware platforms](hardware/) - Machines and architectures on which cataloged systems ran.
 * [Sources](sources/) - Bibliographic and archival sources described as first-class concepts.
@@ -21,6 +22,7 @@ their releases, surviving artifacts, creators, and hardware contexts.
 * [Field vocabulary](schema/field-vocabulary.md) - Normalized attributes and their meanings.
 * [Scope and identity](schema/scope-and-identity.md) - Rules for deciding what receives a distinct record.
 * [Operating-system record](schema/operating-system-record.md) - Domain fields and expected sections for system concepts.
+* [Graphical-environment record](schema/interface-environment-record.md) - Identity and architecture rules for desktop and operating environments.
 * [Contribution workflow](schema/contribution-workflow.md) - How to add sourced records and represent uncertainty.
 
 # Project

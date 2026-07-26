@@ -29,11 +29,25 @@ Use distinct concepts for distinct things:
 * **Hardware Platform** describes a machine family, model, or architecture.
 * **Historical Source** describes evidence such as a manual, archive, source
   tree, advertisement, oral history, or scholarly work.
+* **Graphical Operating Environment** describes a graphical application and
+  interaction environment layered on a host operating system.
+* **Desktop Environment** describes an integrated desktop, session, and
+  application-launching environment.
+* **Window System** describes display, window-management, drawing, and input
+  infrastructure that may support several desktops or shells.
+* **User Interface Shell** describes an operator-facing shell, workspace
+  manager, file manager, or launcher that does not itself constitute the whole
+  desktop or window system.
 
 A release title is not an artifact identity. Multiple artifacts may preserve
 the same release, and one artifact may contain several releases or components.
 Likewise, a later reimplementation or emulator is not the historical operating
 system it reproduces.
+
+A GUI product is not automatically an operating system. Record its required
+host OS, system-service boundary, application model, and distribution form.
+Visi On, for example, is cataloged as a graphical operating environment for
+MS-DOS rather than being silently promoted to an independent OS.
 
 # Identity Rules
 

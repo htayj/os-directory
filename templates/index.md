@@ -9,3 +9,4 @@ documents. Rename a copy so its final filename ends in `.md`.
 * [Organization](organization.md.template) - A responsible institution or group.
 * [Hardware platform](hardware-platform.md.template) - A machine family or architecture.
 * [Source](source.md.template) - A bibliographic or archival source.
+* [Graphical environment](graphical-environment.md.template) - A desktop environment, operating environment, window system, or shell.
