@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":69,"results":[
+{"candidate_id":"ophone","disposition":"included-system","path":"systems/ophone/","canonical_title":"OPhone","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"meego","disposition":"included-system","path":"systems/meego/","canonical_title":"MeeGo","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"mobilinux","disposition":"included-system","path":"systems/mobilinux/","canonical_title":"Mobilinux","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"motomagx","disposition":"included-system","path":"systems/motomagx/","canonical_title":"MotoMagx","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"qt-extended","disposition":"included-system","path":"systems/qt-extended/","canonical_title":"Qt Extended","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"ubuntu-touch","disposition":"included-system","path":"systems/ubuntu-touch/","canonical_title":"Ubuntu Touch","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"postmarketos","disposition":"included-system","path":"systems/postmarketos/","canonical_title":"PostmarketOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"magic-cap","disposition":"included-system","path":"systems/magic-cap/","canonical_title":"Magic Cap","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"palm-os","disposition":"included-system","path":"systems/palm-os/","canonical_title":"Palm OS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"pen-geos","disposition":"included-system","path":"systems/pen-geos/","canonical_title":"PEN/GEOS","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}

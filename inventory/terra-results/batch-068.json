@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":68,"results":[
+{"candidate_id":"replicant","disposition":"included-system","path":"systems/replicant/","canonical_title":"Replicant","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"see-also-list-of-custom-android-distributions","disposition":"grouping","path":null,"canonical_title":"List of custom Android distributions","notes":"Cross-reference grouping, not an OS identity."},
+{"candidate_id":"firefox-os","disposition":"included-system","path":"systems/firefox-os/","canonical_title":"Firefox OS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"angstrom-distribution","disposition":"included-system","path":"systems/angstrom-distribution/","canonical_title":"Ångström distribution","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"familiar-linux","disposition":"included-system","path":"systems/familiar-linux/","canonical_title":"Familiar Linux","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"mmo","disposition":"included-system","path":"systems/mmo/","canonical_title":"Maemo","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"openzaurus","disposition":"included-system","path":"systems/openzaurus/","canonical_title":"OpenZaurus","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"webos","disposition":"included-system","path":"systems/webos/","canonical_title":"WebOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"access-linux-platform","disposition":"included-system","path":"systems/access-linux-platform/","canonical_title":"Access Linux Platform","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"openmoko-linux","disposition":"included-system","path":"systems/openmoko-linux/","canonical_title":"Openmoko Linux","notes":"Distinct linked operating-system identity."}
+]}
