@@ -1,0 +1,15 @@
+{
+  "schema_version":"0.1", "batch":17,
+  "results":[
+    {"candidate_id":"tenex","disposition":"included-system","path":"systems/tenex/","canonical_title":"TENEX","notes":"Linked article clearly identifies a distinct OS; factual gaps remain draft."},
+    {"candidate_id":"tops-20","disposition":"included-system","path":"systems/tops-20/","canonical_title":"TOPS-20","notes":"Linked article clearly identifies a distinct OS; factual gaps remain draft."},
+    {"candidate_id":"dec-mica","disposition":"included-system","path":"systems/dec-mica/","canonical_title":"DEC MICA","notes":"Named cancelled OS project, retained as a draft identity."},
+    {"candidate_id":"digital-unix","disposition":"included-system","path":"systems/digital-unix/","canonical_title":"Tru64 UNIX","notes":"Linked article clearly identifies a distinct OS."},
+    {"candidate_id":"ultrix","disposition":"included-system","path":"systems/ultrix/","canonical_title":"Ultrix","notes":"Linked article clearly identifies a distinct OS."},
+    {"candidate_id":"vms","disposition":"included-system","path":"systems/vms/","canonical_title":"OpenVMS","notes":"Linked article clearly identifies a distinct OS."},
+    {"candidate_id":"waits","disposition":"included-system","path":"systems/waits/","canonical_title":"WAITS","notes":"Linked article clearly identifies a distinct OS."},
+    {"candidate_id":"ose","disposition":"included-system","path":"systems/ose/","canonical_title":"Operating System Embedded","notes":"Linked article clearly identifies a distinct OS."},
+    {"candidate_id":"towns-os","disposition":"included-system","path":"systems/towns-os/","canonical_title":"Towns OS","notes":"Linked article clearly identifies a distinct OS."},
+    {"candidate_id":"xsp","disposition":"needs-review","path":null,"canonical_title":"XSP","notes":"Unlinked short label; evidence is insufficient to resolve the identity."}
+  ]
+}
