@@ -1,0 +1,401 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 34,
+  "candidates": [
+    {
+      "candidate_id": "xenix",
+      "suggested_title": "Xenix",
+      "canonical_title": "Xenix",
+      "canonical_url": "https://en.wikipedia.org/wiki/Xenix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 355,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Xenix (licensed version of Unix; licensed to SCO in 1987)",
+          "links": [
+            {
+              "label": "Xenix",
+              "target": "https://en.wikipedia.org/wiki/Xenix",
+              "article": true
+            },
+            {
+              "label": "SCO",
+              "target": "https://en.wikipedia.org/wiki/Santa_Cruz_Operation",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 458,
+          "section": [
+            "Proprietary",
+            "SCO, SCO Group"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Xenix , Unix System III based distribution for the Intel 8086/8088 architecture",
+          "links": [
+            {
+              "label": "Xenix",
+              "target": "https://en.wikipedia.org/wiki/Xenix",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 459,
+          "section": [
+            "Proprietary",
+            "SCO, SCO Group"
+          ],
+          "depth": 2,
+          "parent_position": 458,
+          "label": "Xenix 286, Unix System V Release 2 based distribution for the Intel 80286 architecture",
+          "links": [
+            {
+              "label": "Xenix",
+              "target": "https://en.wikipedia.org/wiki/Xenix",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 460,
+          "section": [
+            "Proprietary",
+            "SCO, SCO Group"
+          ],
+          "depth": 2,
+          "parent_position": 458,
+          "label": "Xenix 386, Unix System V Release 2 based distribution for the Intel 80386 architecture",
+          "links": [
+            {
+              "label": "Xenix",
+              "target": "https://en.wikipedia.org/wiki/Xenix",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ms-dos",
+      "suggested_title": "MS-DOS",
+      "canonical_title": "MS-DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/MS-DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 356,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MS-DOS (developed jointly with IBM, versions 1.0–6.22)",
+          "links": [
+            {
+              "label": "MS-DOS",
+              "target": "https://en.wikipedia.org/wiki/MS-DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 642,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 2,
+          "parent_position": 640,
+          "label": "MS-DOS (Microsoft's DOS variant for OEM, developed jointly with IBM, versions 1.x–6.22 Microsoft's now abandoned DOS variant)",
+          "links": [
+            {
+              "label": "MS-DOS",
+              "target": "https://en.wikipedia.org/wiki/MS-DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 798,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MS-DOS on Poqet PC , HP 95LX , HP 100LX , HP 200LX , HP 1000CX , HP OmniGo 700LX",
+          "links": [
+            {
+              "label": "MS-DOS",
+              "target": "https://en.wikipedia.org/wiki/MS-DOS",
+              "article": true
+            },
+            {
+              "label": "Poqet PC",
+              "target": "https://en.wikipedia.org/wiki/Poqet_PC",
+              "article": true
+            },
+            {
+              "label": "HP 95LX",
+              "target": "https://en.wikipedia.org/wiki/HP_95LX",
+              "article": true
+            },
+            {
+              "label": "HP 100LX",
+              "target": "https://en.wikipedia.org/wiki/HP_100LX",
+              "article": true
+            },
+            {
+              "label": "HP 200LX",
+              "target": "https://en.wikipedia.org/wiki/HP_200LX",
+              "article": true
+            },
+            {
+              "label": "HP 1000CX",
+              "target": "https://en.wikipedia.org/wiki/HP_1000CX",
+              "article": true
+            },
+            {
+              "label": "HP OmniGo 700LX",
+              "target": "https://en.wikipedia.org/wiki/HP_OmniGo_700LX",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "z-dos",
+      "suggested_title": "Z-DOS",
+      "canonical_title": "Z-DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Z-DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 357,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 356,
+          "label": "Z-DOS",
+          "links": [
+            {
+              "label": "Z-DOS",
+              "target": "https://en.wikipedia.org/wiki/Z-DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ms-net",
+      "suggested_title": "MS-Net",
+      "canonical_title": "MS-Net",
+      "canonical_url": "https://en.wikipedia.org/wiki/MS-Net",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 358,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 356,
+          "label": "MS-Net",
+          "links": [
+            {
+              "label": "MS-Net",
+              "target": "https://en.wikipedia.org/wiki/MS-Net",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ms-dos-4-0-multitasking",
+      "suggested_title": "MS-DOS 4.0 (multitasking)",
+      "canonical_title": "MS-DOS 4.0 (multitasking)",
+      "canonical_url": "https://en.wikipedia.org/wiki/MS-DOS_4.0_(multitasking)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 359,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 356,
+          "label": "MS-DOS 4.0 (multitasking)",
+          "links": [
+            {
+              "label": "MS-DOS 4.0 (multitasking)",
+              "target": "https://en.wikipedia.org/wiki/MS-DOS_4.0_(multitasking)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ms-dos-7",
+      "suggested_title": "MS-DOS 7",
+      "canonical_title": "MS-DOS 7",
+      "canonical_url": "https://en.wikipedia.org/wiki/MS-DOS_7",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 360,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 356,
+          "label": "MS-DOS 7",
+          "links": [
+            {
+              "label": "MS-DOS 7",
+              "target": "https://en.wikipedia.org/wiki/MS-DOS_7",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "msx-dos",
+      "suggested_title": "MSX-DOS",
+      "canonical_title": "MSX-DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/MSX-DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 361,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 356,
+          "label": "MSX-DOS (developed by MS Japan for the MSX 8-bit computer)",
+          "links": [
+            {
+              "label": "MSX-DOS",
+              "target": "https://en.wikipedia.org/wiki/MSX-DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dos-v",
+      "suggested_title": "DOS/V",
+      "canonical_title": "DOS/V",
+      "canonical_url": "https://en.wikipedia.org/wiki/DOS/V",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 362,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 356,
+          "label": "DOS/V",
+          "links": [
+            {
+              "label": "DOS/V",
+              "target": "https://en.wikipedia.org/wiki/DOS/V",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "lan-manager",
+      "suggested_title": "LAN Manager",
+      "canonical_title": "LAN Manager",
+      "canonical_url": "https://en.wikipedia.org/wiki/LAN_Manager",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 364,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 363,
+          "label": "LAN Manager",
+          "links": [
+            {
+              "label": "LAN Manager",
+              "target": "https://en.wikipedia.org/wiki/LAN_Manager",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows",
+      "suggested_title": "Windows",
+      "canonical_title": "Microsoft Windows",
+      "canonical_url": "https://en.wikipedia.org/wiki/Microsoft_Windows",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 365,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Windows (16-bit and 32-bit preemptive and cooperative multitasking, running atop MS-DOS)",
+          "links": [
+            {
+              "label": "Windows",
+              "target": "https://en.wikipedia.org/wiki/Microsoft_Windows",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    }
+  ]
+}

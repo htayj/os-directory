@@ -1,0 +1,330 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 30,
+  "candidates": [
+    {
+      "candidate_id": "edx",
+      "suggested_title": "EDX",
+      "canonical_title": "IBM Series/1",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_Series/1#Software_support",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 312,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On other hardware platforms"
+          ],
+          "depth": 2,
+          "parent_position": 311,
+          "label": "EDX ( Event Driven Executive )",
+          "links": [
+            {
+              "label": "EDX",
+              "target": "https://en.wikipedia.org/wiki/IBM_Series/1#Software_support",
+              "article": true
+            },
+            {
+              "label": "Event Driven Executive",
+              "target": "https://en.wikipedia.org/wiki/Event_Driven_Executive",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 313,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On other hardware platforms"
+          ],
+          "depth": 2,
+          "parent_position": 311,
+          "label": "RPS (Realtime Programming System)",
+          "links": [
+            {
+              "label": "RPS",
+              "target": "https://en.wikipedia.org/wiki/IBM_Series/1#Software_support",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 314,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On other hardware platforms"
+          ],
+          "depth": 2,
+          "parent_position": 311,
+          "label": "CPS (Control Programming Support, subset of RPS)",
+          "links": [
+            {
+              "label": "CPS",
+              "target": "https://en.wikipedia.org/wiki/IBM_Series/1#Software_support",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "serix-unix-on-series-1",
+      "suggested_title": "SerIX (Unix on Series/1)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 315,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On other hardware platforms"
+          ],
+          "depth": 2,
+          "parent_position": 311,
+          "label": "SerIX (Unix on Series/1)",
+          "links": [
+            {
+              "label": "SerIX",
+              "target": "https://en.wikipedia.org/w/index.php?title=SerIX&action=edit&redlink=1",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ibm-1130",
+      "suggested_title": "IBM 1130",
+      "canonical_title": "IBM 1130",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_1130",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 316,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On other hardware platforms"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "IBM 1130",
+          "links": [
+            {
+              "label": "IBM 1130",
+              "target": "https://en.wikipedia.org/wiki/IBM_1130",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "dms",
+      "suggested_title": "DMS",
+      "canonical_title": "IBM 1130",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_1130#Operating_procedure",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 317,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On other hardware platforms"
+          ],
+          "depth": 2,
+          "parent_position": 316,
+          "label": "DMS (Disk Monitor System)",
+          "links": [
+            {
+              "label": "DMS",
+              "target": "https://en.wikipedia.org/wiki/IBM_1130#Operating_procedure",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ibm-1800",
+      "suggested_title": "IBM 1800",
+      "canonical_title": "IBM 1800",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_1800",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 318,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On other hardware platforms"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "IBM 1800",
+          "links": [
+            {
+              "label": "IBM 1800",
+              "target": "https://en.wikipedia.org/wiki/IBM_1800",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "tsx-time-sharing-executive",
+      "suggested_title": "TSX (Time Sharing eXecutive)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 319,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On other hardware platforms"
+          ],
+          "depth": 2,
+          "parent_position": 318,
+          "label": "TSX (Time Sharing eXecutive)",
+          "links": [
+            {
+              "label": "TSX",
+              "target": "https://en.wikipedia.org/w/index.php?title=IBM_1800_TSX&action=edit&redlink=1",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mpx-multi-programming-executive",
+      "suggested_title": "MPX (Multi Programming eXecutive)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 320,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On other hardware platforms"
+          ],
+          "depth": 2,
+          "parent_position": 318,
+          "label": "MPX (Multi Programming eXecutive)",
+          "links": [
+            {
+              "label": "MPX",
+              "target": "https://en.wikipedia.org/w/index.php?title=IBM_1800_MPX&action=edit&redlink=1",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ibm-8100",
+      "suggested_title": "IBM 8100",
+      "canonical_title": "IBM 8100",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_8100",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 321,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On other hardware platforms"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "IBM 8100",
+          "links": [
+            {
+              "label": "IBM 8100",
+              "target": "https://en.wikipedia.org/wiki/IBM_8100",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "dpcx",
+      "suggested_title": "DPCX",
+      "canonical_title": "IBM 8100 DPCX",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_8100_DPCX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 322,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On other hardware platforms"
+          ],
+          "depth": 2,
+          "parent_position": 321,
+          "label": "DPCX (Distributed Processing Control eXecutive)",
+          "links": [
+            {
+              "label": "DPCX",
+              "target": "https://en.wikipedia.org/wiki/IBM_8100_DPCX",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dppx",
+      "suggested_title": "DPPX",
+      "canonical_title": "IBM 8100 DPPX",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_8100_DPPX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 323,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On other hardware platforms"
+          ],
+          "depth": 2,
+          "parent_position": 321,
+          "label": "DPPX (Distributed Processing Programming Executive)",
+          "links": [
+            {
+              "label": "DPPX",
+              "target": "https://en.wikipedia.org/wiki/IBM_8100_DPPX",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

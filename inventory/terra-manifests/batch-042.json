@@ -1,0 +1,385 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 42,
+  "candidates": [
+    {
+      "candidate_id": "nintendo-3ds-system-software",
+      "suggested_title": "Nintendo 3DS system software",
+      "canonical_title": "Nintendo 3DS system software",
+      "canonical_url": "https://en.wikipedia.org/wiki/Nintendo_3DS_system_software",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 436,
+          "section": [
+            "Proprietary",
+            "Nintendo"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Nintendo 3DS system software",
+          "links": [
+            {
+              "label": "Nintendo 3DS system software",
+              "target": "https://en.wikipedia.org/wiki/Nintendo_3DS_system_software",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "wii-u-system-software",
+      "suggested_title": "Wii U system software",
+      "canonical_title": "Wii U system software",
+      "canonical_url": "https://en.wikipedia.org/wiki/Wii_U_system_software",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 437,
+          "section": [
+            "Proprietary",
+            "Nintendo"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Wii U system software",
+          "links": [
+            {
+              "label": "Wii U system software",
+              "target": "https://en.wikipedia.org/wiki/Wii_U_system_software",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "nintendo-switch-system-software",
+      "suggested_title": "Nintendo Switch system software",
+      "canonical_title": "Nintendo Switch system software",
+      "canonical_url": "https://en.wikipedia.org/wiki/Nintendo_Switch_system_software",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 438,
+          "section": [
+            "Proprietary",
+            "Nintendo"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Nintendo Switch system software",
+          "links": [
+            {
+              "label": "Nintendo Switch system software",
+              "target": "https://en.wikipedia.org/wiki/Nintendo_Switch_system_software",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "netware",
+      "suggested_title": "NetWare",
+      "canonical_title": "NetWare",
+      "canonical_url": "https://en.wikipedia.org/wiki/NetWare",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 439,
+          "section": [
+            "Proprietary",
+            "Novell"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "NetWare – network operating system providing high-performance network services. Has been superseded by Open Enterprise Server line, which can be based on NetWare or Linux to provide the same set of services.",
+          "links": [
+            {
+              "label": "NetWare",
+              "target": "https://en.wikipedia.org/wiki/NetWare",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 700,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "NetWare – networking OS by Novell",
+          "links": [
+            {
+              "label": "NetWare",
+              "target": "https://en.wikipedia.org/wiki/NetWare",
+              "article": true
+            },
+            {
+              "label": "Novell",
+              "target": "https://en.wikipedia.org/wiki/Novell",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 723,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "NetWare (networking OS by Novell )",
+          "links": [
+            {
+              "label": "NetWare",
+              "target": "https://en.wikipedia.org/wiki/NetWare",
+              "article": true
+            },
+            {
+              "label": "Novell",
+              "target": "https://en.wikipedia.org/wiki/Novell",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "unixware",
+      "suggested_title": "UnixWare",
+      "canonical_title": "UnixWare",
+      "canonical_url": "https://en.wikipedia.org/wiki/UnixWare",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 440,
+          "section": [
+            "Proprietary",
+            "Novell"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "UnixWare",
+          "links": [
+            {
+              "label": "UnixWare",
+              "target": "https://en.wikipedia.org/wiki/UnixWare",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 465,
+          "section": [
+            "Proprietary",
+            "SCO, SCO Group"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "UnixWare",
+          "links": [
+            {
+              "label": "UnixWare",
+              "target": "https://en.wikipedia.org/wiki/UnixWare",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 466,
+          "section": [
+            "Proprietary",
+            "SCO, SCO Group"
+          ],
+          "depth": 2,
+          "parent_position": 465,
+          "label": "UnixWare 2.x, based on AT&T System V Release 4.2MP",
+          "links": [
+            {
+              "label": "UnixWare",
+              "target": "https://en.wikipedia.org/wiki/UnixWare",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 467,
+          "section": [
+            "Proprietary",
+            "SCO, SCO Group"
+          ],
+          "depth": 2,
+          "parent_position": 465,
+          "label": "UnixWare 7, UnixWare 2 kernel plus parts of 3.2v5 (UnixWare 2 + OpenServer 5 = UnixWare 7). Referred to by SCO as SVR5",
+          "links": [
+            {
+              "label": "UnixWare",
+              "target": "https://en.wikipedia.org/wiki/UnixWare",
+              "article": true
+            },
+            {
+              "label": "SCO",
+              "target": "https://en.wikipedia.org/wiki/Santa_Cruz_Operation",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "novell-supernos",
+      "suggested_title": "Novell \"SuperNOS\"",
+      "canonical_title": "Novell \"SuperNOS\"",
+      "canonical_url": "https://en.wikipedia.org/wiki/Novell_%22SuperNOS%22",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 441,
+          "section": [
+            "Proprietary",
+            "Novell"
+          ],
+          "depth": 2,
+          "parent_position": 440,
+          "label": "Novell \"SuperNOS\" – a never released merge of NetWare and UnixWare",
+          "links": [
+            {
+              "label": "Novell \"SuperNOS\"",
+              "target": "https://en.wikipedia.org/wiki/Novell_%22SuperNOS%22",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "novell-corsair",
+      "suggested_title": "Novell \"Corsair\"",
+      "canonical_title": "Novell \"Corsair\"",
+      "canonical_url": "https://en.wikipedia.org/wiki/Novell_%22Corsair%22",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 442,
+          "section": [
+            "Proprietary",
+            "Novell"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Novell \"Corsair\"",
+          "links": [
+            {
+              "label": "Novell \"Corsair\"",
+              "target": "https://en.wikipedia.org/wiki/Novell_%22Corsair%22",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "novell-expose",
+      "suggested_title": "Novell \"Exposé\"",
+      "canonical_title": "Novell \"Exposé\"",
+      "canonical_url": "https://en.wikipedia.org/wiki/Novell_%22Expos%C3%A9%22",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 443,
+          "section": [
+            "Proprietary",
+            "Novell"
+          ],
+          "depth": 2,
+          "parent_position": 442,
+          "label": "Novell \"Exposé\"",
+          "links": [
+            {
+              "label": "Novell \"Exposé\"",
+              "target": "https://en.wikipedia.org/wiki/Novell_%22Expos%C3%A9%22",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "open-enterprise-server",
+      "suggested_title": "Open Enterprise Server",
+      "canonical_title": "Open Enterprise Server",
+      "canonical_url": "https://en.wikipedia.org/wiki/Open_Enterprise_Server",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 444,
+          "section": [
+            "Proprietary",
+            "Novell"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Open Enterprise Server – the successor to NetWare",
+          "links": [
+            {
+              "label": "Open Enterprise Server",
+              "target": "https://en.wikipedia.org/wiki/Open_Enterprise_Server",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "aurora-os",
+      "suggested_title": "Aurora OS",
+      "canonical_title": "Aurora OS (Russian mobile platform)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Aurora_OS_(Russian_mobile_platform)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 445,
+          "section": [
+            "Proprietary",
+            "Open Mobile Platform"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Aurora OS – the successor to Sailfish OS (not to be confused with a different Aurora OS )",
+          "links": [
+            {
+              "label": "Aurora OS",
+              "target": "https://en.wikipedia.org/wiki/Aurora_OS_(Russian_mobile_platform)",
+              "article": true
+            },
+            {
+              "label": "Aurora OS",
+              "target": "https://en.wikipedia.org/wiki/Aurora_OS_(Eeebuntu)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

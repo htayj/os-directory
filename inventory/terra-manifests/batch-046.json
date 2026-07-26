@@ -1,0 +1,307 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 46,
+  "candidates": [
+    {
+      "candidate_id": "exec-i",
+      "suggested_title": "EXEC I",
+      "canonical_title": "UNIVAC EXEC I",
+      "canonical_url": "https://en.wikipedia.org/wiki/UNIVAC_EXEC_I",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 484,
+          "section": [
+            "Proprietary",
+            "UNIVAC, Unisys"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "EXEC I",
+          "links": [
+            {
+              "label": "EXEC I",
+              "target": "https://en.wikipedia.org/wiki/UNIVAC_EXEC_I",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "exec-ii",
+      "suggested_title": "EXEC II",
+      "canonical_title": "UNIVAC EXEC II",
+      "canonical_url": "https://en.wikipedia.org/wiki/UNIVAC_EXEC_II",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 485,
+          "section": [
+            "Proprietary",
+            "UNIVAC, Unisys"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "EXEC II",
+          "links": [
+            {
+              "label": "EXEC II",
+              "target": "https://en.wikipedia.org/wiki/UNIVAC_EXEC_II",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "exec-8",
+      "suggested_title": "EXEC 8",
+      "canonical_title": "EXEC 8",
+      "canonical_url": "https://en.wikipedia.org/wiki/EXEC_8",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 486,
+          "section": [
+            "Proprietary",
+            "UNIVAC, Unisys"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "EXEC 8 /OS 1100/ OS 2200",
+          "links": [
+            {
+              "label": "EXEC 8",
+              "target": "https://en.wikipedia.org/wiki/EXEC_8",
+              "article": true
+            },
+            {
+              "label": "OS 2200",
+              "target": "https://en.wikipedia.org/wiki/OS_2200",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "vs-9",
+      "suggested_title": "VS/9",
+      "canonical_title": "VS/9",
+      "canonical_url": "https://en.wikipedia.org/wiki/VS/9",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 487,
+          "section": [
+            "Proprietary",
+            "UNIVAC, Unisys"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "VS/9 , successor to RCA TSOS",
+          "links": [
+            {
+              "label": "VS/9",
+              "target": "https://en.wikipedia.org/wiki/VS/9",
+              "article": true
+            },
+            {
+              "label": "RCA TSOS",
+              "target": "https://en.wikipedia.org/wiki/Time_Sharing_Operating_System",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-4",
+      "suggested_title": "OS/4",
+      "canonical_title": "OS/4",
+      "canonical_url": "https://en.wikipedia.org/wiki/OS/4",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 488,
+          "section": [
+            "Proprietary",
+            "UNIVAC, Unisys"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OS/4 for 9000 series",
+          "links": [
+            {
+              "label": "OS/4",
+              "target": "https://en.wikipedia.org/wiki/OS/4",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "steamos-1-0-2-0",
+      "suggested_title": "SteamOS 1.0 & 2.0",
+      "canonical_title": "SteamOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/SteamOS#Versions_1.0_and_2.0",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 489,
+          "section": [
+            "Proprietary",
+            "Valve"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SteamOS 1.0 & 2.0 - a Debian -based operating system for Steam Machine and x86-64PCs",
+          "links": [
+            {
+              "label": "SteamOS 1.0 & 2.0",
+              "target": "https://en.wikipedia.org/wiki/SteamOS#Versions_1.0_and_2.0",
+              "article": true
+            },
+            {
+              "label": "Debian",
+              "target": "https://en.wikipedia.org/wiki/Debian",
+              "article": true
+            },
+            {
+              "label": "Steam Machine and x86-64PCs",
+              "target": "https://en.wikipedia.org/wiki/Steam_Machine",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "steamos-3-0",
+      "suggested_title": "SteamOS 3.0",
+      "canonical_title": "SteamOS 3.0",
+      "canonical_url": "https://en.wikipedia.org/wiki/SteamOS_3.0",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 490,
+          "section": [
+            "Proprietary",
+            "Valve"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SteamOS 3.0 - an Arch Linux -based operating system for Handheld gaming PCs",
+          "links": [
+            {
+              "label": "SteamOS 3.0",
+              "target": "https://en.wikipedia.org/wiki/SteamOS_3.0",
+              "article": true
+            },
+            {
+              "label": "Arch Linux",
+              "target": "https://en.wikipedia.org/wiki/Arch_Linux",
+              "article": true
+            },
+            {
+              "label": "Handheld gaming PCs",
+              "target": "https://en.wikipedia.org/wiki/Handheld_PC",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "wps",
+      "suggested_title": "WPS",
+      "canonical_title": "Wang Laboratories",
+      "canonical_url": "https://en.wikipedia.org/wiki/Wang_Laboratories#Word_processors",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 491,
+          "section": [
+            "Proprietary",
+            "Wang Laboratories"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "WPS Wang Word Processing System. Micro-code based system.",
+          "links": [
+            {
+              "label": "WPS",
+              "target": "https://en.wikipedia.org/wiki/Wang_Laboratories#Word_processors",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ois",
+      "suggested_title": "OIS",
+      "canonical_title": "Wang Laboratories",
+      "canonical_url": "https://en.wikipedia.org/wiki/Wang_Laboratories#Wang_OIS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 492,
+          "section": [
+            "Proprietary",
+            "Wang Laboratories"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OIS Wang Office Information System. Successor to the WPS. Combined the WPS and VP/MVP systems.",
+          "links": [
+            {
+              "label": "OIS",
+              "target": "https://en.wikipedia.org/wiki/Wang_Laboratories#Wang_OIS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "c-os-ii",
+      "suggested_title": "μC/OS-II",
+      "canonical_title": "Micro-Controller Operating Systems",
+      "canonical_url": "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#μC/OS-II",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 493,
+          "section": [
+            "Proprietary",
+            "Weston Embedded Solutions"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "μC/OS-II – a small pre-emptive priority based multi-tasking kernel",
+          "links": [
+            {
+              "label": "μC/OS-II",
+              "target": "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#μC/OS-II",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

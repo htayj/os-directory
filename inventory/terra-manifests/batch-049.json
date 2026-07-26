@@ -1,0 +1,337 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 49,
+  "candidates": [
+    {
+      "candidate_id": "sintran-iii",
+      "suggested_title": "SINTRAN III",
+      "canonical_title": "SINTRAN III",
+      "canonical_url": "https://en.wikipedia.org/wiki/SINTRAN_III",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 518,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SINTRAN III – an operating system used with Norsk Data computers.",
+          "links": [
+            {
+              "label": "SINTRAN III",
+              "target": "https://en.wikipedia.org/wiki/SINTRAN_III",
+              "article": true
+            },
+            {
+              "label": "Norsk Data",
+              "target": "https://en.wikipedia.org/wiki/Norsk_Data",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "skyos",
+      "suggested_title": "SkyOS",
+      "canonical_title": "SkyOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/SkyOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 519,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SkyOS – commercial desktop OS for PCs",
+          "links": [
+            {
+              "label": "SkyOS",
+              "target": "https://en.wikipedia.org/wiki/SkyOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "soda",
+      "suggested_title": "SODA",
+      "canonical_title": "SODA (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/SODA_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 520,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SODA – used by the Odra 1204 computers. [ 24 ]",
+          "links": [
+            {
+              "label": "SODA",
+              "target": "https://en.wikipedia.org/wiki/SODA_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "Odra 1204",
+              "target": "https://en.wikipedia.org/wiki/Odra_(computer)",
+              "article": true
+            },
+            {
+              "label": "[ 24 ]",
+              "target": "https://en.wikipedia.org#cite_note-24",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "theos",
+      "suggested_title": "THEOS",
+      "canonical_title": "THEOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/THEOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 521,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "THEOS",
+          "links": [
+            {
+              "label": "THEOS",
+              "target": "https://en.wikipedia.org/wiki/THEOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tsx-32",
+      "suggested_title": "TSX-32",
+      "canonical_title": "TSX-32",
+      "canonical_url": "https://en.wikipedia.org/wiki/TSX-32",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 522,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TSX-32 – a 32-bit operating system for x86 platform.",
+          "links": [
+            {
+              "label": "TSX-32",
+              "target": "https://en.wikipedia.org/wiki/TSX-32",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tx990-txds-dx10-and-dnos",
+      "suggested_title": "TX990/TXDS, DX10 and DNOS",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 523,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TX990/TXDS, DX10 and DNOS – proprietary operating systems for TI-990 minicomputers",
+          "links": [
+            {
+              "label": "DX10",
+              "target": "https://en.wikipedia.org/wiki/DX10",
+              "article": true
+            },
+            {
+              "label": "DNOS",
+              "target": "https://en.wikipedia.org/w/index.php?title=TI-DNOS&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "TI-990",
+              "target": "https://en.wikipedia.org/wiki/TI-990",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "chorusos",
+      "suggested_title": "ChorusOS",
+      "canonical_title": "ChorusOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/ChorusOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 526,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ChorusOS from INRIA",
+          "links": [
+            {
+              "label": "ChorusOS",
+              "target": "https://en.wikipedia.org/wiki/ChorusOS",
+              "article": true
+            },
+            {
+              "label": "INRIA",
+              "target": "https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "coherent",
+      "suggested_title": "Coherent",
+      "canonical_title": "Coherent (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Coherent_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 527,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Coherent ( Unix-like OS from Mark Williams Co. for PC class computers)",
+          "links": [
+            {
+              "label": "Coherent",
+              "target": "https://en.wikipedia.org/wiki/Coherent_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "Unix-like",
+              "target": "https://en.wikipedia.org/wiki/Unix-like",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dc-osx",
+      "suggested_title": "DC/OSx",
+      "canonical_title": "DC/OSx",
+      "canonical_url": "https://en.wikipedia.org/wiki/DC/OSx",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 528,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DC/OSx (DataCenter/OSx—an operating system developed by Pyramid Technology for its MIPS -based systems)",
+          "links": [
+            {
+              "label": "DC/OSx",
+              "target": "https://en.wikipedia.org/wiki/DC/OSx",
+              "article": true
+            },
+            {
+              "label": "Pyramid Technology",
+              "target": "https://en.wikipedia.org/wiki/Pyramid_Technology",
+              "article": true
+            },
+            {
+              "label": "MIPS",
+              "target": "https://en.wikipedia.org/wiki/MIPS_architecture",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dnix",
+      "suggested_title": "DNIX",
+      "canonical_title": "DNIX",
+      "canonical_url": "https://en.wikipedia.org/wiki/DNIX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 530,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DNIX from DIAB",
+          "links": [
+            {
+              "label": "DNIX",
+              "target": "https://en.wikipedia.org/wiki/DNIX",
+              "article": true
+            },
+            {
+              "label": "DIAB",
+              "target": "https://en.wikipedia.org/wiki/DIAB",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

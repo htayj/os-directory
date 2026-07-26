@@ -1,0 +1,262 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 23,
+  "candidates": [
+    {
+      "candidate_id": "os-vs1",
+      "suggested_title": "OS/VS1",
+      "canonical_title": "OS/VS1",
+      "canonical_url": "https://en.wikipedia.org/wiki/OS/VS1",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 233,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 3,
+          "parent_position": 232,
+          "label": "OS/VS1 (Operating System/Virtual Storage 1, Virtual-memory version of OS/360 MFT II)",
+          "links": [
+            {
+              "label": "OS/VS1",
+              "target": "https://en.wikipedia.org/wiki/OS/VS1",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-vs1-basic-programming-extensions-bpe-adds-device-support-and-vm-handshaking",
+      "suggested_title": "OS/VS1 Basic Programming Extensions (BPE) adds device support and VM handshaking",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 234,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 4,
+          "parent_position": 233,
+          "label": "OS/VS1 Basic Programming Extensions (BPE) adds device support and VM handshaking",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-vs2-operating-system-virtual-storage-2-virtual-memory-version-of-os-360-mvt",
+      "suggested_title": "OS/VS2 (Operating System/Virtual Storage 2, Virtual-memory version of OS/360 MVT)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 235,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 3,
+          "parent_position": 232,
+          "label": "OS/VS2 (Operating System/Virtual Storage 2, Virtual-memory version of OS/360 MVT)",
+          "links": [],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-vs2-r1-called-single-virtual-storage-svs-virtual-memory-version-of-os-360-mvt-but-without-multiprocessing-support",
+      "suggested_title": "OS/VS2 R1 (Called Single Virtual Storage (SVS), Virtual-memory version of OS/360 MVT but without multiprocessing support)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 236,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 4,
+          "parent_position": 235,
+          "label": "OS/VS2 R1 (Called Single Virtual Storage (SVS), Virtual-memory version of OS/360 MVT but without multiprocessing support)",
+          "links": [
+            {
+              "label": "Single Virtual Storage",
+              "target": "https://en.wikipedia.org/wiki/OS/VS2_(SVS)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-vs2-r2-through-r3-8-called-multiple-virtual-storage-mvs-eliminated-most-need-for-vs1",
+      "suggested_title": "OS/VS2 R2 through R3.8 (called Multiple Virtual Storage , MVS, eliminated most need for VS1)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 237,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 4,
+          "parent_position": 235,
+          "label": "OS/VS2 R2 through R3.8 (called Multiple Virtual Storage , MVS, eliminated most need for VS1).",
+          "links": [
+            {
+              "label": "Multiple Virtual Storage",
+              "target": "https://en.wikipedia.org/wiki/Multiple_Virtual_Storage",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "mvs-se-mvs-system-extensions",
+      "suggested_title": "MVS/SE (MVS System Extensions)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 238,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 5,
+          "parent_position": 237,
+          "label": "MVS/SE (MVS System Extensions)",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mvs-sp-mvs-system-product-v1",
+      "suggested_title": "MVS/SP (MVS System Product) V1",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 239,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 225,
+          "label": "MVS/SP (MVS System Product) V1",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mvs-370-refers-to-os-vs2-mvs-mvs-se-and-mvs-sp-version-1",
+      "suggested_title": "MVS/370 refers to OS/VS2 MVS, MVS/SE and MVS/SP Version 1",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 240,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 225,
+          "label": "MVS/370 refers to OS/VS2 MVS, MVS/SE and MVS/SP Version 1",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mvs-xa",
+      "suggested_title": "MVS/XA",
+      "canonical_title": "MVS/XA",
+      "canonical_url": "https://en.wikipedia.org/wiki/MVS/XA",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 241,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 225,
+          "label": "MVS/XA (MVS/SP V2, supports S/370 Extended Architecture, 31-bit addressing)",
+          "links": [
+            {
+              "label": "MVS/XA",
+              "target": "https://en.wikipedia.org/wiki/MVS/XA",
+              "article": true
+            },
+            {
+              "label": "31-bit",
+              "target": "https://en.wikipedia.org/wiki/31-bit_computing",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mvs-esa",
+      "suggested_title": "MVS/ESA",
+      "canonical_title": "MVS/ESA",
+      "canonical_url": "https://en.wikipedia.org/wiki/MVS/ESA",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 242,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 225,
+          "label": "MVS/ESA (MVS supported Enterprise Systems Architecture, horizontal addressing extensions: data only address spaces called Dataspaces)",
+          "links": [
+            {
+              "label": "MVS/ESA",
+              "target": "https://en.wikipedia.org/wiki/MVS/ESA",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    }
+  ]
+}

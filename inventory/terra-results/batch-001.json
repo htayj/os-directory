@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 1,
+  "results": [
+    {"candidate_id":"arthur","disposition":"included-system","path":"systems/arthur/","canonical_title":"Arthur","notes":"Distinct named early Archimedes system; related later RISC OS remains separate."},
+    {"candidate_id":"arx","disposition":"included-system","path":"systems/arx/","canonical_title":"ARX","notes":"Independently named but unreleased Acorn operating-system project."},
+    {"candidate_id":"mos","disposition":"included-system","path":"systems/mos/","canonical_title":"Acorn MOS","notes":"BBC Micro firmware operating-system lineage."},
+    {"candidate_id":"risc-ix","disposition":"included-system","path":"systems/risc-ix/","canonical_title":"RISC iX","notes":"Distinct Acorn UNIX system; both list occurrences retained."},
+    {"candidate_id":"risc-os","disposition":"included-system","path":"systems/risc-os/","canonical_title":"RISC OS","notes":"Distinct continuing Acorn-derived ARM operating-system lineage."},
+    {"candidate_id":"fire-os","disposition":"included-system","path":"systems/fire-os/","canonical_title":"Fire OS","notes":"Amazon device operating system."},
+    {"candidate_id":"amigaos","disposition":"included-system","path":"systems/amigaos/","canonical_title":"AmigaOS","notes":"System lineage; both parent occurrences retained."},
+    {"candidate_id":"amigaos-1-0-3-9","disposition":"included-release","path":"systems/amigaos/releases/amigaos-1-0-3-9.md","canonical_title":"AmigaOS 1.0–3.9","notes":"Version range, not a distinct lineage; nested under AmigaOS."},
+    {"candidate_id":"amigaos-4","disposition":"included-release","path":"systems/amigaos/releases/amigaos-4.md","canonical_title":"AmigaOS 4","notes":"PowerPC release line, retained under AmigaOS."},
+    {"candidate_id":"amiga-unix","disposition":"included-system","path":"systems/amiga-unix/","canonical_title":"Amiga Unix","notes":"Distinct Commodore System V UNIX port; both list occurrences retained."}
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 8,
+  "candidates": [
+    {
+      "candidate_id": "usg",
+      "suggested_title": "USG",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 74,
+          "section": [
+            "Proprietary",
+            "Bell Labs"
+          ],
+          "depth": 4,
+          "parent_position": 73,
+          "label": "USG",
+          "links": [],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "cb-unix",
+      "suggested_title": "CB Unix",
+      "canonical_title": "CB Unix",
+      "canonical_url": "https://en.wikipedia.org/wiki/CB_Unix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 75,
+          "section": [
+            "Proprietary",
+            "Bell Labs"
+          ],
+          "depth": 5,
+          "parent_position": 74,
+          "label": "CB Unix",
+          "links": [
+            {
+              "label": "CB Unix",
+              "target": "https://en.wikipedia.org/wiki/CB_Unix",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "unix-time-sharing-system-v7",
+      "suggested_title": "UNIX Time-Sharing System v7",
+      "canonical_title": "Version 7 Unix",
+      "canonical_url": "https://en.wikipedia.org/wiki/Version_7_Unix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 76,
+          "section": [
+            "Proprietary",
+            "Bell Labs"
+          ],
+          "depth": 2,
+          "parent_position": 65,
+          "label": "UNIX Time-Sharing System v7 (It is from Version 7 Unix (and, to an extent, its descendants listed below) that almost all Unix-based and Unix-like operating systems descend.)",
+          "links": [
+            {
+              "label": "UNIX Time-Sharing System v7",
+              "target": "https://en.wikipedia.org/wiki/Version_7_Unix",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "unix-system-iii",
+      "suggested_title": "Unix System III",
+      "canonical_title": "UNIX System III",
+      "canonical_url": "https://en.wikipedia.org/wiki/UNIX_System_III",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 77,
+          "section": [
+            "Proprietary",
+            "Bell Labs"
+          ],
+          "depth": 3,
+          "parent_position": 76,
+          "label": "Unix System III",
+          "links": [
+            {
+              "label": "Unix System III",
+              "target": "https://en.wikipedia.org/wiki/UNIX_System_III",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "unix-system-iv",
+      "suggested_title": "Unix System IV",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 78,
+          "section": [
+            "Proprietary",
+            "Bell Labs"
+          ],
+          "depth": 3,
+          "parent_position": 76,
+          "label": "Unix System IV",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "unix-system-v",
+      "suggested_title": "Unix System V",
+      "canonical_title": "UNIX System V",
+      "canonical_url": "https://en.wikipedia.org/wiki/UNIX_System_V",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 79,
+          "section": [
+            "Proprietary",
+            "Bell Labs"
+          ],
+          "depth": 3,
+          "parent_position": 76,
+          "label": "Unix System V",
+          "links": [
+            {
+              "label": "Unix System V",
+              "target": "https://en.wikipedia.org/wiki/UNIX_System_V",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 554,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "System V (a release of AT&T Unix, 'SVR4' was the 4th minor release)",
+          "links": [
+            {
+              "label": "System V",
+              "target": "https://en.wikipedia.org/wiki/UNIX_System_V",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "unix-system-v-releases-2-0-3-0-3-2-4-0-and-4-2",
+      "suggested_title": "Unix System V Releases 2.0, 3.0, 3.2, 4.0, and 4.2",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 80,
+          "section": [
+            "Proprietary",
+            "Bell Labs"
+          ],
+          "depth": 4,
+          "parent_position": 79,
+          "label": "Unix System V Releases 2.0, 3.0, 3.2, 4.0, and 4.2",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "unix-time-sharing-system-v8",
+      "suggested_title": "UNIX Time-Sharing System v8",
+      "canonical_title": "Version 8 Unix",
+      "canonical_url": "https://en.wikipedia.org/wiki/Version_8_Unix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 81,
+          "section": [
+            "Proprietary",
+            "Bell Labs"
+          ],
+          "depth": 2,
+          "parent_position": 65,
+          "label": "UNIX Time-Sharing System v8",
+          "links": [
+            {
+              "label": "UNIX Time-Sharing System v8",
+              "target": "https://en.wikipedia.org/wiki/Version_8_Unix",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "unix-time-sharing-system-v9",
+      "suggested_title": "UNIX Time-Sharing System v9",
+      "canonical_title": "Version 9 Unix",
+      "canonical_url": "https://en.wikipedia.org/wiki/Version_9_Unix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 82,
+          "section": [
+            "Proprietary",
+            "Bell Labs"
+          ],
+          "depth": 2,
+          "parent_position": 65,
+          "label": "UNIX Time-Sharing System v9",
+          "links": [
+            {
+              "label": "UNIX Time-Sharing System v9",
+              "target": "https://en.wikipedia.org/wiki/Version_9_Unix",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "unix-time-sharing-system-v10",
+      "suggested_title": "UNIX Time-Sharing System v10",
+      "canonical_title": "Version 10 Unix",
+      "canonical_url": "https://en.wikipedia.org/wiki/Version_10_Unix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 83,
+          "section": [
+            "Proprietary",
+            "Bell Labs"
+          ],
+          "depth": 2,
+          "parent_position": 65,
+          "label": "UNIX Time-Sharing System v10",
+          "links": [
+            {
+              "label": "UNIX Time-Sharing System v10",
+              "target": "https://en.wikipedia.org/wiki/Version_10_Unix",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

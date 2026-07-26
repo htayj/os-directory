@@ -1,0 +1,249 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 26,
+  "candidates": [
+    {
+      "candidate_id": "vm-370-basic-system-extensions-program-product-vm-bse-aka-bsepp-is-an-enhancement-to-vm-370",
+      "suggested_title": "VM/370 Basic System Extensions Program Product (VM/BSE, AKA BSEPP) is an enhancement to VM/370",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 264,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 3,
+          "parent_position": 263,
+          "label": "VM/370 Basic System Extensions Program Product (VM/BSE, AKA BSEPP) is an enhancement to VM/370",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "vm-370-system-extensions-program-product-vm-se-aka-sepp-is-an-enhancement-to-vm-370-that-includes-the-facilities-of-vm-bse",
+      "suggested_title": "VM/370 System Extensions Program Product (VM/SE, AKA SEPP) is an enhancement to VM/370 that includes the facilities of VM/BSE",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 265,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 3,
+          "parent_position": 263,
+          "label": "VM/370 System Extensions Program Product (VM/SE, AKA SEPP) is an enhancement to VM/370 that includes the facilities of VM/BSE",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "virtual-machine-system-product-vm-sp-replaces-vm-370-vm-bse-and-vm-se",
+      "suggested_title": "Virtual Machine/System Product (VM/SP)  replaces VM/370, VM/BSE and VM/SE",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 266,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 260,
+          "label": "Virtual Machine/System Product (VM/SP)  replaces VM/370, VM/BSE and VM/SE.",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "virtual-machine-extended-architecture-vm-xa-refers-to-three-versions-of-vm-that-support-system-370-extended-architecture-s-370-xa-with-31-bit-virtual-addresses",
+      "suggested_title": "Virtual Machine/Extended Architecture (VM/XA) refers to three versions of VM that support System/370 Extended Architecture (S/370-XA) with 31-bit virtual addresses",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 267,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 260,
+          "label": "Virtual Machine/Extended Architecture (VM/XA) refers to three versions of VM that support System/370 Extended Architecture (S/370-XA) with 31-bit virtual addresses",
+          "links": [],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "virtual-machine-extended-architecture-migration-aid-vm-xa-ma",
+      "suggested_title": "Virtual Machine/Extended architecture Migration Aid (VM/XA MA)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 268,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 3,
+          "parent_position": 267,
+          "label": "Virtual Machine/Extended architecture Migration Aid (VM/XA MA) - Intended for MVS/370 to MVS/XA migration",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "virtual-machine-extended-architecture-systems-facility-vm-xa-sf",
+      "suggested_title": "Virtual Machine/Extended Architecture Systems Facility (VM/XA SF)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 269,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 3,
+          "parent_position": 267,
+          "label": "Virtual Machine/Extended Architecture Systems Facility (VM/XA SF) - new release of VM/XA MA with additional functionality",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "virtual-machine-extended-architecture-system-product-vm-xa-sp",
+      "suggested_title": "Virtual Machine/Extended Architecture System Product (VM/XA SP)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 270,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 3,
+          "parent_position": 267,
+          "label": "Virtual Machine/Extended Architecture System Product (VM/XA SP) - Replaces VM/SP, VM/SP HPO and VM/XA SF",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "virtual-machine-enterprise-systems-architecture-vm-esa-supports-s-370-esa-370-and-esa-390-a-unix-environment-was-available-starting-with-14-version-2",
+      "suggested_title": "Virtual Machine/Enterprise Systems Architecture (VM/ESA), supports S/370, ESA/370 and ESA/390 (a Unix environment was available starting with [ 14 ] Version 2.)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 271,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 260,
+          "label": "Virtual Machine/Enterprise Systems Architecture (VM/ESA), supports S/370, ESA/370 and ESA/390 (a Unix environment was available starting with [ 14 ] Version 2.)",
+          "links": [
+            {
+              "label": "ESA/390",
+              "target": "https://en.wikipedia.org/wiki/ESA/390",
+              "article": true
+            },
+            {
+              "label": "[ 14 ]",
+              "target": "https://en.wikipedia.org#cite_note-14",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "z-vm",
+      "suggested_title": "z/VM",
+      "canonical_title": "Z/VM",
+      "canonical_url": "https://en.wikipedia.org/wiki/Z/VM",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 272,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": null,
+          "label": "z/VM (z/Architecture version of the VM OS with 64-bit addressing). Starting with Version 3, [ 15 ] the Unix environment was standard.",
+          "links": [
+            {
+              "label": "z/VM",
+              "target": "https://en.wikipedia.org/wiki/Z/VM",
+              "article": true
+            },
+            {
+              "label": "[ 15 ]",
+              "target": "https://en.wikipedia.org#cite_note-15",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tpf-line-transaction-processing-facility-on-ibm-s-360-s-370-and-successor-mainframes-largely-used-by-airlines",
+      "suggested_title": "TPF Line (Transaction Processing Facility) on IBM S/360, S/370, and successor mainframes (largely used by airlines)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 273,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TPF Line (Transaction Processing Facility) on IBM S/360, S/370, and successor mainframes (largely used by airlines)",
+          "links": [],
+          "has_children": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 20,
+  "candidates": [
+    {
+      "candidate_id": "vulcan-o-s",
+      "suggested_title": "Vulcan O/S",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 201,
+          "section": [
+            "Proprietary",
+            "Harris Computer Systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Vulcan O/S – Proprietary O/S for Harris Computer Systems (HCX)",
+          "links": [
+            {
+              "label": "Vulcan O/S",
+              "target": "https://en.wikipedia.org/w/index.php?title=Vulcan_O/S&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "Harris Computer Systems",
+              "target": "https://en.wikipedia.org/wiki/Harris_Computer_Systems",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cx-ux",
+      "suggested_title": "CX/UX",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 202,
+          "section": [
+            "Proprietary",
+            "Harris Computer Systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "CX/UX – Proprietary UNIX based OS for Harris' computers (MCX)",
+          "links": [
+            {
+              "label": "CX/UX",
+              "target": "https://en.wikipedia.org/w/index.php?title=CX/UX&action=edit&redlink=1",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "hdos",
+      "suggested_title": "HDOS",
+      "canonical_title": "HDOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/HDOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 203,
+          "section": [
+            "Proprietary",
+            "Heathkit , Zenith Data Systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HDOS – ran on the H8 and Heath/ Zenith Z-89 series",
+          "links": [
+            {
+              "label": "HDOS",
+              "target": "https://en.wikipedia.org/wiki/HDOS",
+              "article": true
+            },
+            {
+              "label": "H8",
+              "target": "https://en.wikipedia.org/wiki/Heathkit_H8",
+              "article": true
+            },
+            {
+              "label": "Zenith Z-89",
+              "target": "https://en.wikipedia.org/wiki/Zenith_Z-89",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ht-11",
+      "suggested_title": "HT-11",
+      "canonical_title": "Heathkit H11",
+      "canonical_url": "https://en.wikipedia.org/wiki/Heathkit_H11#Specifications",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 204,
+          "section": [
+            "Proprietary",
+            "Heathkit , Zenith Data Systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HT-11 – a modified version of RT-11 that ran on the Heathkit H11",
+          "links": [
+            {
+              "label": "HT-11",
+              "target": "https://en.wikipedia.org/wiki/Heathkit_H11#Specifications",
+              "article": true
+            },
+            {
+              "label": "RT-11",
+              "target": "https://en.wikipedia.org/wiki/RT-11",
+              "article": true
+            },
+            {
+              "label": "Heathkit H11",
+              "target": "https://en.wikipedia.org/wiki/Heathkit_H11",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "hp-multi-programming-executive",
+      "suggested_title": "HP Multi-Programming Executive",
+      "canonical_title": "HP Multi-Programming Executive",
+      "canonical_url": "https://en.wikipedia.org/wiki/HP_Multi-Programming_Executive",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 205,
+          "section": [
+            "Proprietary",
+            "Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HP Multi-Programming Executive (MPE, MPE/XL, and MPE/iX) – runs on HP 3000 and HP e3000 mini-computers",
+          "links": [
+            {
+              "label": "HP Multi-Programming Executive",
+              "target": "https://en.wikipedia.org/wiki/HP_Multi-Programming_Executive",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "hp-ux",
+      "suggested_title": "HP-UX",
+      "canonical_title": "HP-UX",
+      "canonical_url": "https://en.wikipedia.org/wiki/HP-UX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 206,
+          "section": [
+            "Proprietary",
+            "Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HP-UX – runs on HP9000 and Itanium servers (from small to mainframe-class computers)",
+          "links": [
+            {
+              "label": "HP-UX",
+              "target": "https://en.wikipedia.org/wiki/HP-UX",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cp-6",
+      "suggested_title": "CP-6",
+      "canonical_title": "Honeywell CP-6",
+      "canonical_url": "https://en.wikipedia.org/wiki/Honeywell_CP-6",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 207,
+          "section": [
+            "Proprietary",
+            "Honeywell"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "CP-6 , CP-V work-alike for Honeywell Level/66",
+          "links": [
+            {
+              "label": "CP-6",
+              "target": "https://en.wikipedia.org/wiki/Honeywell_CP-6",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "harmonyos",
+      "suggested_title": "HarmonyOS",
+      "canonical_title": "HarmonyOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/HarmonyOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 208,
+          "section": [
+            "Proprietary",
+            "Huawei"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HarmonyOS",
+          "links": [
+            {
+              "label": "HarmonyOS",
+              "target": "https://en.wikipedia.org/wiki/HarmonyOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 827,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HarmonyOS",
+          "links": [
+            {
+              "label": "HarmonyOS",
+              "target": "https://en.wikipedia.org/wiki/HarmonyOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 847,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HarmonyOS",
+          "links": [
+            {
+              "label": "HarmonyOS",
+              "target": "https://en.wikipedia.org/wiki/HarmonyOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 899,
+          "section": [
+            "Capability-based"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HarmonyOS NEXT [ 55 ]",
+          "links": [
+            {
+              "label": "HarmonyOS NEXT",
+              "target": "https://en.wikipedia.org/wiki/HarmonyOS",
+              "article": true
+            },
+            {
+              "label": "[ 55 ]",
+              "target": "https://en.wikipedia.org#cite_note-55",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "harmonyos-next",
+      "suggested_title": "HarmonyOS NEXT",
+      "canonical_title": "HarmonyOS NEXT",
+      "canonical_url": "https://en.wikipedia.org/wiki/HarmonyOS_NEXT",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 209,
+          "section": [
+            "Proprietary",
+            "Huawei"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HarmonyOS NEXT",
+          "links": [
+            {
+              "label": "HarmonyOS NEXT",
+              "target": "https://en.wikipedia.org/wiki/HarmonyOS_NEXT",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "liteos",
+      "suggested_title": "LiteOS",
+      "canonical_title": "LiteOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/LiteOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 210,
+          "section": [
+            "Proprietary",
+            "Huawei"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "LiteOS",
+          "links": [
+            {
+              "label": "LiteOS",
+              "target": "https://en.wikipedia.org/wiki/LiteOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 603,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "LiteOS",
+          "links": [
+            {
+              "label": "LiteOS",
+              "target": "https://en.wikipedia.org/wiki/LiteOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 846,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "LiteOS",
+          "links": [
+            {
+              "label": "LiteOS",
+              "target": "https://en.wikipedia.org/wiki/LiteOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 889,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "LiteOS",
+          "links": [
+            {
+              "label": "LiteOS",
+              "target": "https://en.wikipedia.org/wiki/LiteOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

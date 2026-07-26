@@ -1,0 +1,413 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 56,
+  "candidates": [
+    {
+      "candidate_id": "incompatible-timesharing-system",
+      "suggested_title": "Incompatible Timesharing System",
+      "canonical_title": "Incompatible Timesharing System",
+      "canonical_url": "https://en.wikipedia.org/wiki/Incompatible_Timesharing_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 602,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Incompatible Timesharing System (ITS) – written in the MIDAS macro assembler language for the PDP-6 and PDP-10 [ 33 ] by MIT students",
+          "links": [
+            {
+              "label": "Incompatible Timesharing System",
+              "target": "https://en.wikipedia.org/wiki/Incompatible_Timesharing_System",
+              "article": true
+            },
+            {
+              "label": "macro assembler",
+              "target": "https://en.wikipedia.org/wiki/Macro_assembler",
+              "article": true
+            },
+            {
+              "label": "PDP-6",
+              "target": "https://en.wikipedia.org/wiki/PDP-6",
+              "article": true
+            },
+            {
+              "label": "PDP-10",
+              "target": "https://en.wikipedia.org/wiki/PDP-10",
+              "article": true
+            },
+            {
+              "label": "[ 33 ]",
+              "target": "https://en.wikipedia.org#cite_note-33",
+              "article": false
+            },
+            {
+              "label": "MIT",
+              "target": "https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "magic",
+      "suggested_title": "MagiC",
+      "canonical_title": "MagiC",
+      "canonical_url": "https://en.wikipedia.org/wiki/MagiC",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 604,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MagiC - open source Atari TOS variant",
+          "links": [
+            {
+              "label": "MagiC",
+              "target": "https://en.wikipedia.org/wiki/MagiC",
+              "article": true
+            },
+            {
+              "label": "Atari TOS",
+              "target": "https://en.wikipedia.org/wiki/Atari_TOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mint",
+      "suggested_title": "MiNT",
+      "canonical_title": "MiNT",
+      "canonical_url": "https://en.wikipedia.org/wiki/MiNT",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 605,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MiNT - alternative operating system for the Atari ST",
+          "links": [
+            {
+              "label": "MiNT",
+              "target": "https://en.wikipedia.org/wiki/MiNT",
+              "article": true
+            },
+            {
+              "label": "Atari ST",
+              "target": "https://en.wikipedia.org/wiki/Atari_ST",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "openharmony",
+      "suggested_title": "OpenHarmony",
+      "canonical_title": "OpenHarmony",
+      "canonical_url": "https://en.wikipedia.org/wiki/OpenHarmony",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 606,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OpenHarmony - LiteOS kernel and kernel add-ons side of the kernel tree under Kernel Abstract Layer (KAL) structure",
+          "links": [
+            {
+              "label": "OpenHarmony",
+              "target": "https://en.wikipedia.org/wiki/OpenHarmony",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 607,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Uniproton real-time operating system for ultra-low latency and adaptable mixed-critical deployment capabilities contributed by openEuler community and also part of OpenHarmony add-on kernel",
+          "links": [
+            {
+              "label": "Uniproton",
+              "target": "https://en.wikipedia.org/wiki/OpenHarmony",
+              "article": true
+            },
+            {
+              "label": "openEuler",
+              "target": "https://en.wikipedia.org/wiki/EulerOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 848,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 2,
+          "parent_position": 847,
+          "label": "OpenHarmony",
+          "links": [
+            {
+              "label": "OpenHarmony",
+              "target": "https://en.wikipedia.org/wiki/OpenHarmony",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 870,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OpenHarmony",
+          "links": [
+            {
+              "label": "OpenHarmony",
+              "target": "https://en.wikipedia.org/wiki/OpenHarmony",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "osfree",
+      "suggested_title": "osFree",
+      "canonical_title": "OS/2",
+      "canonical_url": "https://en.wikipedia.org/wiki/OS/2#Future",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 608,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "osFree – OS/2 Warp open source clone",
+          "links": [
+            {
+              "label": "osFree",
+              "target": "https://en.wikipedia.org/wiki/OS/2#Future",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "osv",
+      "suggested_title": "OSv",
+      "canonical_title": "OSv",
+      "canonical_url": "https://en.wikipedia.org/wiki/OSv",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 609,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OSv – written in C++",
+          "links": [
+            {
+              "label": "OSv",
+              "target": "https://en.wikipedia.org/wiki/OSv",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "phantom-os",
+      "suggested_title": "Phantom OS",
+      "canonical_title": "Phantom OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Phantom_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 610,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Phantom OS – persistent object-oriented",
+          "links": [
+            {
+              "label": "Phantom OS",
+              "target": "https://en.wikipedia.org/wiki/Phantom_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 901,
+          "section": [
+            "Capability-based"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Phantom OS [ 56 ]",
+          "links": [
+            {
+              "label": "Phantom OS",
+              "target": "https://en.wikipedia.org/wiki/Phantom_OS",
+              "article": true
+            },
+            {
+              "label": "[ 56 ]",
+              "target": "https://en.wikipedia.org#cite_note-56",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "reactos",
+      "suggested_title": "ReactOS",
+      "canonical_title": "ReactOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/ReactOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 611,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ReactOS – open source OS designed to be binary compatible with Windows NT and its variants ( Windows XP , Windows 2000 , etc.); in development",
+          "links": [
+            {
+              "label": "ReactOS",
+              "target": "https://en.wikipedia.org/wiki/ReactOS",
+              "article": true
+            },
+            {
+              "label": "Windows NT",
+              "target": "https://en.wikipedia.org/wiki/Windows_NT",
+              "article": true
+            },
+            {
+              "label": "Windows XP",
+              "target": "https://en.wikipedia.org/wiki/Windows_XP",
+              "article": true
+            },
+            {
+              "label": "Windows 2000",
+              "target": "https://en.wikipedia.org/wiki/Windows_2000",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "redacted-os",
+      "suggested_title": "[Redacted] OS",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 612,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "[Redacted] OS - open source made by Developed from Scratch",
+          "links": [
+            {
+              "label": "[Redacted] OS",
+              "target": "https://github.com/differrari/RedactedOS",
+              "article": false
+            },
+            {
+              "label": "Developed from Scratch",
+              "target": "https://youtube.com/@developedfromscratch",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "sharpos",
+      "suggested_title": "SharpOS",
+      "canonical_title": "SharpOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/SharpOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 613,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SharpOS – written in .NET C#",
+          "links": [
+            {
+              "label": "SharpOS",
+              "target": "https://en.wikipedia.org/wiki/SharpOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

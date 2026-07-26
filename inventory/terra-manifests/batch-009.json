@@ -1,0 +1,523 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 9,
+  "candidates": [
+    {
+      "candidate_id": "besys",
+      "suggested_title": "BESYS",
+      "canonical_title": "BESYS",
+      "canonical_url": "https://en.wikipedia.org/wiki/BESYS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 84,
+          "section": [
+            "Proprietary",
+            "Bell Labs"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "BESYS",
+          "links": [
+            {
+              "label": "BESYS",
+              "target": "https://en.wikipedia.org/wiki/BESYS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 215,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On early mainframes: 1410, 7010, 704, 709, 7090, 7094, 7040, 7044, 7030"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "BESYS – for the IBM 7090",
+          "links": [
+            {
+              "label": "BESYS",
+              "target": "https://en.wikipedia.org/wiki/BESYS",
+              "article": true
+            },
+            {
+              "label": "IBM 7090",
+              "target": "https://en.wikipedia.org/wiki/IBM_7090",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "plan-9-from-bell-labs",
+      "suggested_title": "Plan 9 from Bell Labs",
+      "canonical_title": "Plan 9 from Bell Labs",
+      "canonical_url": "https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 85,
+          "section": [
+            "Proprietary",
+            "Bell Labs"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Plan 9 from Bell Labs",
+          "links": [
+            {
+              "label": "Plan 9 from Bell Labs",
+              "target": "https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 616,
+          "section": [
+            "Research",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Plan 9 from Bell Labs – distributed OS developed at Bell Labs , based on original Unix design principles yet functionally different and going much further",
+          "links": [
+            {
+              "label": "Plan 9 from Bell Labs",
+              "target": "https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs",
+              "article": true
+            },
+            {
+              "label": "Bell Labs",
+              "target": "https://en.wikipedia.org/wiki/Bell_Labs",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 703,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Plan 9 – distributed OS developed at Bell Labs , based on Unix design principles but not functionally identical",
+          "links": [
+            {
+              "label": "Plan 9",
+              "target": "https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs",
+              "article": true
+            },
+            {
+              "label": "Bell Labs",
+              "target": "https://en.wikipedia.org/wiki/Bell_Labs",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 804,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Plan 9 from Bell Labs",
+          "links": [
+            {
+              "label": "Plan 9 from Bell Labs",
+              "target": "https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "inferno",
+      "suggested_title": "Inferno",
+      "canonical_title": "Inferno (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Inferno_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 86,
+          "section": [
+            "Proprietary",
+            "Bell Labs"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Inferno",
+          "links": [
+            {
+              "label": "Inferno",
+              "target": "https://en.wikipedia.org/wiki/Inferno_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 617,
+          "section": [
+            "Research",
+            "Unix or Unix-like"
+          ],
+          "depth": 2,
+          "parent_position": 616,
+          "label": "Inferno – distributed OS derived from Plan 9, originally from Bell Labs",
+          "links": [
+            {
+              "label": "Inferno",
+              "target": "https://en.wikipedia.org/wiki/Inferno_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 704,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 703,
+          "label": "Inferno – distributed OS derived from Plan 9, originally from Bell Labs",
+          "links": [
+            {
+              "label": "Inferno",
+              "target": "https://en.wikipedia.org/wiki/Inferno_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 796,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Inferno (distributed OS originally from Bell Labs )",
+          "links": [
+            {
+              "label": "Inferno",
+              "target": "https://en.wikipedia.org/wiki/Inferno_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "Bell Labs",
+              "target": "https://en.wikipedia.org/wiki/Bell_Labs",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 831,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Inferno – distributed OS originally from Bell Labs",
+          "links": [
+            {
+              "label": "Inferno",
+              "target": "https://en.wikipedia.org/wiki/Inferno_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "Bell Labs",
+              "target": "https://en.wikipedia.org/wiki/Bell_Labs",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "burroughs-mcp",
+      "suggested_title": "Burroughs MCP",
+      "canonical_title": "Burroughs MCP",
+      "canonical_url": "https://en.wikipedia.org/wiki/Burroughs_MCP",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 87,
+          "section": [
+            "Proprietary",
+            "Burroughs Corporation , Unisys"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Burroughs MCP",
+          "links": [
+            {
+              "label": "Burroughs MCP",
+              "target": "https://en.wikipedia.org/wiki/Burroughs_MCP",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "siris-8",
+      "suggested_title": "Siris 8",
+      "canonical_title": "Siris 8",
+      "canonical_url": "https://en.wikipedia.org/wiki/Siris_8",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 88,
+          "section": [
+            "Proprietary",
+            "CII"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Siris 8",
+          "links": [
+            {
+              "label": "Siris 8",
+              "target": "https://en.wikipedia.org/wiki/Siris_8",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "geos",
+      "suggested_title": "GEOS",
+      "canonical_title": "GEOS (8-bit operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/GEOS_(8-bit_operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 89,
+          "section": [
+            "Proprietary",
+            "Commodore International"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "GEOS",
+          "links": [
+            {
+              "label": "GEOS",
+              "target": "https://en.wikipedia.org/wiki/GEOS_(8-bit_operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 715,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "GEOS (popular windowing GUI for PC, Commodore, Apple computers)",
+          "links": [
+            {
+              "label": "GEOS",
+              "target": "https://en.wikipedia.org/wiki/GEOS_(8-bit_operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "aros-research-operating-system",
+      "suggested_title": "AROS Research Operating System",
+      "canonical_title": "AROS Research Operating System",
+      "canonical_url": "https://en.wikipedia.org/wiki/AROS_Research_Operating_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 91,
+          "section": [
+            "Proprietary",
+            "Commodore International"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "AROS Research Operating System",
+          "links": [
+            {
+              "label": "AROS Research Operating System",
+              "target": "https://en.wikipedia.org/wiki/AROS_Research_Operating_System",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "scope",
+      "suggested_title": "SCOPE",
+      "canonical_title": "CDC SCOPE",
+      "canonical_url": "https://en.wikipedia.org/wiki/CDC_SCOPE",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 92,
+          "section": [
+            "Proprietary",
+            "Control Data Corporation",
+            "Lower 3000 series"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SCOPE (Supervisory Control Of Program Execution) [ 1 ]",
+          "links": [
+            {
+              "label": "SCOPE",
+              "target": "https://en.wikipedia.org/wiki/CDC_SCOPE",
+              "article": true
+            },
+            {
+              "label": "[ 1 ]",
+              "target": "https://en.wikipedia.org#cite_note-1",
+              "article": false
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 93,
+          "section": [
+            "Proprietary",
+            "Control Data Corporation",
+            "Upper 3000 series"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SCOPE (Supervisory Control Of Program Execution) [ 2 ]",
+          "links": [
+            {
+              "label": "SCOPE",
+              "target": "https://en.wikipedia.org/wiki/CDC_SCOPE",
+              "article": true
+            },
+            {
+              "label": "[ 2 ]",
+              "target": "https://en.wikipedia.org#cite_note-2",
+              "article": false
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 100,
+          "section": [
+            "Proprietary",
+            "Control Data Corporation",
+            "6x00 and related Cyber"
+          ],
+          "depth": 2,
+          "parent_position": 95,
+          "label": "SCOPE (Supervisory Control Of Program Execution) [ 8 ]",
+          "links": [
+            {
+              "label": "SCOPE",
+              "target": "https://en.wikipedia.org/wiki/CDC_SCOPE",
+              "article": true
+            },
+            {
+              "label": "[ 8 ]",
+              "target": "https://en.wikipedia.org#cite_note-8",
+              "article": false
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "drum-scope-3",
+      "suggested_title": "Drum SCOPE [ 3 ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 94,
+          "section": [
+            "Proprietary",
+            "Control Data Corporation",
+            "Upper 3000 series"
+          ],
+          "depth": 2,
+          "parent_position": 93,
+          "label": "Drum SCOPE [ 3 ]",
+          "links": [
+            {
+              "label": "[ 3 ]",
+              "target": "https://en.wikipedia.org#cite_note-3",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "chippewa-operating-system",
+      "suggested_title": "Chippewa Operating System",
+      "canonical_title": "Chippewa Operating System",
+      "canonical_url": "https://en.wikipedia.org/wiki/Chippewa_Operating_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 95,
+          "section": [
+            "Proprietary",
+            "Control Data Corporation",
+            "6x00 and related Cyber"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Chippewa Operating System (COS) [ 4 ]",
+          "links": [
+            {
+              "label": "Chippewa Operating System",
+              "target": "https://en.wikipedia.org/wiki/Chippewa_Operating_System",
+              "article": true
+            },
+            {
+              "label": "[ 4 ]",
+              "target": "https://en.wikipedia.org#cite_note-4",
+              "article": false
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    }
+  ]
+}

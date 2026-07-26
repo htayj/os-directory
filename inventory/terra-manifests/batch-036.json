@@ -1,0 +1,277 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 36,
+  "candidates": [
+    {
+      "candidate_id": "windows-millennium-edition",
+      "suggested_title": "Windows Millennium Edition",
+      "canonical_title": "Windows ME",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_ME",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 376,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 365,
+          "label": "Windows Millennium Edition (Windows ME – Windows 4.9)",
+          "links": [
+            {
+              "label": "Windows Millennium Edition",
+              "target": "https://en.wikipedia.org/wiki/Windows_ME",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-nt",
+      "suggested_title": "Windows NT",
+      "canonical_title": "Windows NT",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_NT",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 377,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Windows NT (Full 32-bit or 64-bit kernel, not dependent on MS-DOS)",
+          "links": [
+            {
+              "label": "Windows NT",
+              "target": "https://en.wikipedia.org/wiki/Windows_NT",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-nt-3-1",
+      "suggested_title": "Windows NT 3.1",
+      "canonical_title": "Windows NT 3.1",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_NT_3.1",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 378,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows NT 3.1",
+          "links": [
+            {
+              "label": "Windows NT 3.1",
+              "target": "https://en.wikipedia.org/wiki/Windows_NT_3.1",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-nt-3-5",
+      "suggested_title": "Windows NT 3.5",
+      "canonical_title": "Windows NT 3.5",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_NT_3.5",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 379,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows NT 3.5",
+          "links": [
+            {
+              "label": "Windows NT 3.5",
+              "target": "https://en.wikipedia.org/wiki/Windows_NT_3.5",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-nt-3-51",
+      "suggested_title": "Windows NT 3.51",
+      "canonical_title": "Windows NT 3.51",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_NT_3.51",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 380,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows NT 3.51",
+          "links": [
+            {
+              "label": "Windows NT 3.51",
+              "target": "https://en.wikipedia.org/wiki/Windows_NT_3.51",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-nt-4-0",
+      "suggested_title": "Windows NT 4.0",
+      "canonical_title": "Windows NT 4.0",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_NT_4.0",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 381,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows NT 4.0",
+          "links": [
+            {
+              "label": "Windows NT 4.0",
+              "target": "https://en.wikipedia.org/wiki/Windows_NT_4.0",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-2000",
+      "suggested_title": "Windows 2000",
+      "canonical_title": "Windows 2000",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_2000",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 382,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows 2000 (Windows NT 5.0)",
+          "links": [
+            {
+              "label": "Windows 2000",
+              "target": "https://en.wikipedia.org/wiki/Windows_2000",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-xp",
+      "suggested_title": "Windows XP",
+      "canonical_title": "Windows XP",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_XP",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 383,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows XP (Windows NT 5.1)",
+          "links": [
+            {
+              "label": "Windows XP",
+              "target": "https://en.wikipedia.org/wiki/Windows_XP",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-server-2003",
+      "suggested_title": "Windows Server 2003",
+      "canonical_title": "Windows Server 2003",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Server_2003",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 384,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows Server 2003 (Windows NT 5.2)",
+          "links": [
+            {
+              "label": "Windows Server 2003",
+              "target": "https://en.wikipedia.org/wiki/Windows_Server_2003",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-fundamentals-for-legacy-pcs",
+      "suggested_title": "Windows Fundamentals for Legacy PCs",
+      "canonical_title": "Windows Fundamentals for Legacy PCs",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Fundamentals_for_Legacy_PCs",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 385,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows Fundamentals for Legacy PCs (based on Windows XP)",
+          "links": [
+            {
+              "label": "Windows Fundamentals for Legacy PCs",
+              "target": "https://en.wikipedia.org/wiki/Windows_Fundamentals_for_Legacy_PCs",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

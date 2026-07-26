@@ -1,0 +1,585 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 14,
+  "candidates": [
+    {
+      "candidate_id": "concurrent-dos-68k",
+      "suggested_title": "Concurrent DOS 68K",
+      "canonical_title": "Concurrent DOS 68K",
+      "canonical_url": "https://en.wikipedia.org/wiki/Concurrent_DOS_68K",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 139,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 131,
+          "label": "Concurrent DOS 68K , a port of Concurrent DOS to Motorola 68000 CPUs with DOS source code portability capabilities",
+          "links": [
+            {
+              "label": "Concurrent DOS 68K",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS_68K",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "flexos",
+      "suggested_title": "FlexOS",
+      "canonical_title": "FlexOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/FlexOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 140,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 131,
+          "label": "FlexOS 1.0 – 2.34, a derivative of Concurrent DOS 286",
+          "links": [
+            {
+              "label": "FlexOS",
+              "target": "https://en.wikipedia.org/wiki/FlexOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 649,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 4,
+          "parent_position": 648,
+          "label": "FlexOS 1.00-2.34 (derivative of Concurrent DOS 286)",
+          "links": [
+            {
+              "label": "FlexOS",
+              "target": "https://en.wikipedia.org/wiki/FlexOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "flexos-186",
+      "suggested_title": "FlexOS 186",
+      "canonical_title": "FlexOS 186",
+      "canonical_url": "https://en.wikipedia.org/wiki/FlexOS_186",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 141,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 140,
+          "label": "FlexOS 186 , a variant of FlexOS for terminals",
+          "links": [
+            {
+              "label": "FlexOS 186",
+              "target": "https://en.wikipedia.org/wiki/FlexOS_186",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 650,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 5,
+          "parent_position": 649,
+          "label": "FlexOS 186 (variant of FlexOS for terminals)",
+          "links": [
+            {
+              "label": "FlexOS 186",
+              "target": "https://en.wikipedia.org/wiki/FlexOS_186",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "flexos-286",
+      "suggested_title": "FlexOS 286",
+      "canonical_title": "FlexOS 286",
+      "canonical_url": "https://en.wikipedia.org/wiki/FlexOS_286",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 142,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 140,
+          "label": "FlexOS 286 , a variant of FlexOS for hosts",
+          "links": [
+            {
+              "label": "FlexOS 286",
+              "target": "https://en.wikipedia.org/wiki/FlexOS_286",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 651,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 5,
+          "parent_position": 649,
+          "label": "FlexOS 286 (variant of FlexOS for hosts)",
+          "links": [
+            {
+              "label": "FlexOS 286",
+              "target": "https://en.wikipedia.org/wiki/FlexOS_286",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "siemens-s5-dos-mt",
+      "suggested_title": "Siemens S5-DOS/MT",
+      "canonical_title": "Siemens S5-DOS/MT",
+      "canonical_url": "https://en.wikipedia.org/wiki/Siemens_S5-DOS/MT",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 143,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 4,
+          "parent_position": 142,
+          "label": "Siemens S5-DOS/MT , an industrial control system based on FlexOS",
+          "links": [
+            {
+              "label": "Siemens S5-DOS/MT",
+              "target": "https://en.wikipedia.org/wiki/Siemens_S5-DOS/MT",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 652,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 6,
+          "parent_position": 651,
+          "label": "Siemens S5-DOS/MT (industrial control system based on FlexOS)",
+          "links": [
+            {
+              "label": "Siemens S5-DOS/MT",
+              "target": "https://en.wikipedia.org/wiki/Siemens_S5-DOS/MT",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ibm-4680-os",
+      "suggested_title": "IBM 4680 OS",
+      "canonical_title": "IBM 4680 OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_4680_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 144,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 4,
+          "parent_position": 142,
+          "label": "IBM 4680 OS , a POS operating system based on FlexOS",
+          "links": [
+            {
+              "label": "IBM 4680 OS",
+              "target": "https://en.wikipedia.org/wiki/IBM_4680_OS",
+              "article": true
+            },
+            {
+              "label": "POS",
+              "target": "https://en.wikipedia.org/wiki/Point_of_sale",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 306,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "IBM 4680 OS version 1 to 4, a POS operating system based on Digital Research 's Concurrent DOS 286 and FlexOS 286 1.xx",
+          "links": [
+            {
+              "label": "IBM 4680 OS",
+              "target": "https://en.wikipedia.org/wiki/IBM_4680_OS",
+              "article": true
+            },
+            {
+              "label": "POS",
+              "target": "https://en.wikipedia.org/wiki/Point_of_sale",
+              "article": true
+            },
+            {
+              "label": "Digital Research",
+              "target": "https://en.wikipedia.org/wiki/Digital_Research",
+              "article": true
+            },
+            {
+              "label": "Concurrent DOS 286",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS_286",
+              "article": true
+            },
+            {
+              "label": "FlexOS 286",
+              "target": "https://en.wikipedia.org/wiki/FlexOS_286",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 653,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 6,
+          "parent_position": 651,
+          "label": "IBM 4680 OS ( POS operating system based on FlexOS)",
+          "links": [
+            {
+              "label": "IBM 4680 OS",
+              "target": "https://en.wikipedia.org/wiki/IBM_4680_OS",
+              "article": true
+            },
+            {
+              "label": "POS",
+              "target": "https://en.wikipedia.org/wiki/Point_of_sale",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ibm-4690-os",
+      "suggested_title": "IBM 4690 OS",
+      "canonical_title": "IBM 4690 OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_4690_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 145,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 4,
+          "parent_position": 142,
+          "label": "IBM 4690 OS , a POS operating system based on FlexOS",
+          "links": [
+            {
+              "label": "IBM 4690 OS",
+              "target": "https://en.wikipedia.org/wiki/IBM_4690_OS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 148,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 4,
+          "parent_position": 147,
+          "label": "IBM 4690 OS , a POS operating system based on FlexOS",
+          "links": [
+            {
+              "label": "IBM 4690 OS",
+              "target": "https://en.wikipedia.org/wiki/IBM_4690_OS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 307,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 2,
+          "parent_position": 306,
+          "label": "IBM 4690 OS version 1 to 6.3, a successor to 4680 OS based on Novell 's FlexOS 286 / FlexOS 386 2.3x",
+          "links": [
+            {
+              "label": "IBM 4690 OS",
+              "target": "https://en.wikipedia.org/wiki/IBM_4690_OS",
+              "article": true
+            },
+            {
+              "label": "Novell",
+              "target": "https://en.wikipedia.org/wiki/Novell",
+              "article": true
+            },
+            {
+              "label": "FlexOS 286",
+              "target": "https://en.wikipedia.org/wiki/FlexOS_286",
+              "article": true
+            },
+            {
+              "label": "FlexOS 386",
+              "target": "https://en.wikipedia.org/wiki/FlexOS_386",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 654,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 6,
+          "parent_position": 651,
+          "label": "IBM 4690 OS (POS operating system based on FlexOS)",
+          "links": [
+            {
+              "label": "IBM 4690 OS",
+              "target": "https://en.wikipedia.org/wiki/IBM_4690_OS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 657,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 6,
+          "parent_position": 656,
+          "label": "IBM 4690 OS (POS operating system based on FlexOS)",
+          "links": [
+            {
+              "label": "IBM 4690 OS",
+              "target": "https://en.wikipedia.org/wiki/IBM_4690_OS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "toshiba-4690-os",
+      "suggested_title": "Toshiba 4690 OS",
+      "canonical_title": "Toshiba 4690 OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Toshiba_4690_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 146,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 5,
+          "parent_position": 145,
+          "label": "Toshiba 4690 OS , a POS operating system based on IBM 4690 OS and FlexOS",
+          "links": [
+            {
+              "label": "Toshiba 4690 OS",
+              "target": "https://en.wikipedia.org/wiki/Toshiba_4690_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 149,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 5,
+          "parent_position": 148,
+          "label": "Toshiba 4690 OS , a POS operating system based on IBM 4690 OS and FlexOS",
+          "links": [
+            {
+              "label": "Toshiba 4690 OS",
+              "target": "https://en.wikipedia.org/wiki/Toshiba_4690_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 308,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 3,
+          "parent_position": 307,
+          "label": "Toshiba 4690 OS version 6.4, a successor to 4690 OS 6.3",
+          "links": [
+            {
+              "label": "Toshiba 4690 OS",
+              "target": "https://en.wikipedia.org/wiki/Toshiba_4690_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 655,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 7,
+          "parent_position": 654,
+          "label": "Toshiba 4690 OS (POS operating system based on IBM 4690 OS and FlexOS)",
+          "links": [
+            {
+              "label": "Toshiba 4690 OS",
+              "target": "https://en.wikipedia.org/wiki/Toshiba_4690_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 658,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 7,
+          "parent_position": 657,
+          "label": "Toshiba 4690 OS (POS operating system based on IBM 4690 OS and FlexOS)",
+          "links": [
+            {
+              "label": "Toshiba 4690 OS",
+              "target": "https://en.wikipedia.org/wiki/Toshiba_4690_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "flexos-386",
+      "suggested_title": "FlexOS 386",
+      "canonical_title": "FlexOS 386",
+      "canonical_url": "https://en.wikipedia.org/wiki/FlexOS_386",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 147,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 140,
+          "label": "FlexOS 386 , a later variant of FlexOS for hosts",
+          "links": [
+            {
+              "label": "FlexOS 386",
+              "target": "https://en.wikipedia.org/wiki/FlexOS_386",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 656,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 5,
+          "parent_position": 649,
+          "label": "FlexOS 386 (later variant of FlexOS for hosts)",
+          "links": [
+            {
+              "label": "FlexOS 386",
+              "target": "https://en.wikipedia.org/wiki/FlexOS_386",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "flexos-68k",
+      "suggested_title": "FlexOS 68K",
+      "canonical_title": "FlexOS 68K",
+      "canonical_url": "https://en.wikipedia.org/wiki/FlexOS_68K",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 150,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 140,
+          "label": "FlexOS 68K , a derivative of Concurrent DOS 68K",
+          "links": [
+            {
+              "label": "FlexOS 68K",
+              "target": "https://en.wikipedia.org/wiki/FlexOS_68K",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

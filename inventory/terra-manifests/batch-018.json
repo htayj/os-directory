@@ -1,0 +1,321 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 18,
+  "candidates": [
+    {
+      "candidate_id": "os-iv",
+      "suggested_title": "OS/IV",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 181,
+          "section": [
+            "Proprietary",
+            "Fujitsu"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OS/IV",
+          "links": [
+            {
+              "label": "OS/IV",
+              "target": "https://en.wikipedia.org/w/index.php?title=OS/IV&action=edit&redlink=1",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "msp",
+      "suggested_title": "MSP",
+      "canonical_title": "MSP (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/MSP_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 182,
+          "section": [
+            "Proprietary",
+            "Fujitsu"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MSP",
+          "links": [
+            {
+              "label": "MSP",
+              "target": "https://en.wikipedia.org/wiki/MSP_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 722,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MSP by Fujitsu (successor to OS-IV), now MSP/EX, [ 43 ] also known as Extended System Architecture (EXA), for 31-bit mode",
+          "links": [
+            {
+              "label": "MSP",
+              "target": "https://en.wikipedia.org/wiki/MSP_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "Fujitsu",
+              "target": "https://en.wikipedia.org/wiki/Fujitsu",
+              "article": true
+            },
+            {
+              "label": "[ 43 ]",
+              "target": "https://en.wikipedia.org#cite_note-43",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "msp-ex",
+      "suggested_title": "MSP-EX",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 183,
+          "section": [
+            "Proprietary",
+            "Fujitsu"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MSP-EX",
+          "links": [
+            {
+              "label": "MSP-EX",
+              "target": "https://en.wikipedia.org/w/index.php?title=MSP-EX&action=edit&redlink=1",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cos",
+      "suggested_title": "COS",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 184,
+          "section": [
+            "Proprietary",
+            "GEC Computers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "COS",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dos-2",
+      "suggested_title": "DOS",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 185,
+          "section": [
+            "Proprietary",
+            "GEC Computers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DOS",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os4000",
+      "suggested_title": "OS4000",
+      "canonical_title": "OS4000",
+      "canonical_url": "https://en.wikipedia.org/wiki/OS4000",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 186,
+          "section": [
+            "Proprietary",
+            "GEC Computers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OS4000",
+          "links": [
+            {
+              "label": "OS4000",
+              "target": "https://en.wikipedia.org/wiki/OS4000",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "real-time-multiprogramming-operating-system",
+      "suggested_title": "Real-Time Multiprogramming Operating System",
+      "canonical_title": "Real-Time Multiprogramming Operating System",
+      "canonical_url": "https://en.wikipedia.org/wiki/Real-Time_Multiprogramming_Operating_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 187,
+          "section": [
+            "Proprietary",
+            "General Electric , Honeywell , Bull"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Real-Time Multiprogramming Operating System",
+          "links": [
+            {
+              "label": "Real-Time Multiprogramming Operating System",
+              "target": "https://en.wikipedia.org/wiki/Real-Time_Multiprogramming_Operating_System",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "gcos",
+      "suggested_title": "GCOS",
+      "canonical_title": "General Comprehensive Operating System",
+      "canonical_url": "https://en.wikipedia.org/wiki/General_Comprehensive_Operating_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 188,
+          "section": [
+            "Proprietary",
+            "General Electric , Honeywell , Bull"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "GCOS",
+          "links": [
+            {
+              "label": "GCOS",
+              "target": "https://en.wikipedia.org/wiki/General_Comprehensive_Operating_System",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 511,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "GCOS – a proprietary operating system originally developed by General Electric",
+          "links": [
+            {
+              "label": "GCOS",
+              "target": "https://en.wikipedia.org/wiki/General_Comprehensive_Operating_System",
+              "article": true
+            },
+            {
+              "label": "General Electric",
+              "target": "https://en.wikipedia.org/wiki/General_Electric",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "multics",
+      "suggested_title": "Multics",
+      "canonical_title": "Multics",
+      "canonical_url": "https://en.wikipedia.org/wiki/Multics",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 189,
+          "section": [
+            "Proprietary",
+            "General Electric , Honeywell , Bull"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Multics",
+          "links": [
+            {
+              "label": "Multics",
+              "target": "https://en.wikipedia.org/wiki/Multics",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "chromiumos",
+      "suggested_title": "ChromiumOS",
+      "canonical_title": "ChromiumOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/ChromiumOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 190,
+          "section": [
+            "Proprietary",
+            "Google"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ChromiumOS is an open source operating system development version of ChromeOS. Both operating systems are based on the Linux kernel.",
+          "links": [
+            {
+              "label": "ChromiumOS",
+              "target": "https://en.wikipedia.org/wiki/ChromiumOS",
+              "article": true
+            },
+            {
+              "label": "Linux",
+              "target": "https://en.wikipedia.org/wiki/Linux",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    }
+  ]
+}

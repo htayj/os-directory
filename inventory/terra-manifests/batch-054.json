@@ -1,0 +1,335 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 54,
+  "candidates": [
+    {
+      "candidate_id": "android-x86",
+      "suggested_title": "Android-x86",
+      "canonical_title": "Android-x86",
+      "canonical_url": "https://en.wikipedia.org/wiki/Android-x86",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 577,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 3,
+          "parent_position": 576,
+          "label": "Android-x86",
+          "links": [
+            {
+              "label": "Android-x86",
+              "target": "https://en.wikipedia.org/wiki/Android-x86",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "nuttx",
+      "suggested_title": "NuttX",
+      "canonical_title": "NuttX",
+      "canonical_url": "https://en.wikipedia.org/wiki/NuttX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 582,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "NuttX - a Unix/Linux-like RTOS for Microcontrollers) (written in C) [ 30 ]",
+          "links": [
+            {
+              "label": "NuttX",
+              "target": "https://en.wikipedia.org/wiki/NuttX",
+              "article": true
+            },
+            {
+              "label": "[ 30 ]",
+              "target": "https://en.wikipedia.org#cite_note-30",
+              "article": false
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 864,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "NuttX",
+          "links": [
+            {
+              "label": "NuttX",
+              "target": "https://en.wikipedia.org/wiki/NuttX",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "redox",
+      "suggested_title": "Redox",
+      "canonical_title": "Redox (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Redox_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 583,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Redox (written in Rust) [ 31 ]",
+          "links": [
+            {
+              "label": "Redox",
+              "target": "https://en.wikipedia.org/wiki/Redox_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "[ 31 ]",
+              "target": "https://en.wikipedia.org#cite_note-31",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "opensolaris",
+      "suggested_title": "OpenSolaris",
+      "canonical_title": "OpenSolaris",
+      "canonical_url": "https://en.wikipedia.org/wiki/OpenSolaris",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 584,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OpenSolaris",
+          "links": [
+            {
+              "label": "OpenSolaris",
+              "target": "https://en.wikipedia.org/wiki/OpenSolaris",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "illumos",
+      "suggested_title": "illumos",
+      "canonical_title": "Illumos",
+      "canonical_url": "https://en.wikipedia.org/wiki/Illumos",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 585,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 2,
+          "parent_position": 584,
+          "label": "illumos , contains original Unix (SVR4) code derived from the OpenSolaris (discontinued by Oracle in favor of Solaris 11 Express)",
+          "links": [
+            {
+              "label": "illumos",
+              "target": "https://en.wikipedia.org/wiki/Illumos",
+              "article": true
+            },
+            {
+              "label": "OpenSolaris",
+              "target": "https://en.wikipedia.org/wiki/OpenSolaris",
+              "article": true
+            },
+            {
+              "label": "Solaris",
+              "target": "https://en.wikipedia.org/wiki/Solaris_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "openindiana",
+      "suggested_title": "OpenIndiana",
+      "canonical_title": "OpenIndiana",
+      "canonical_url": "https://en.wikipedia.org/wiki/OpenIndiana",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 586,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 3,
+          "parent_position": 585,
+          "label": "OpenIndiana , operates under the illumos Foundation. Uses the illumos kernel, which is a derivative of OS/Net , which is basically an OpenSolaris / Solaris kernel with the bulk of the drivers, core libraries, and basic utilities.",
+          "links": [
+            {
+              "label": "OpenIndiana",
+              "target": "https://en.wikipedia.org/wiki/OpenIndiana",
+              "article": true
+            },
+            {
+              "label": "OS/Net",
+              "target": "https://en.wikipedia.org/wiki/OS/Net",
+              "article": true
+            },
+            {
+              "label": "OpenSolaris",
+              "target": "https://en.wikipedia.org/wiki/OpenSolaris",
+              "article": true
+            },
+            {
+              "label": "Solaris",
+              "target": "https://en.wikipedia.org/wiki/Solaris_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "nexenta-os",
+      "suggested_title": "Nexenta OS",
+      "canonical_title": "Nexenta OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Nexenta_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 587,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 3,
+          "parent_position": 585,
+          "label": "Nexenta OS , based on the illumos kernel with Ubuntu packages",
+          "links": [
+            {
+              "label": "Nexenta OS",
+              "target": "https://en.wikipedia.org/wiki/Nexenta_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "smartos",
+      "suggested_title": "SmartOS",
+      "canonical_title": "SmartOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/SmartOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 588,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 3,
+          "parent_position": 585,
+          "label": "SmartOS , an illumos distribution for cloud computing with Kernel-based Virtual Machine integration.",
+          "links": [
+            {
+              "label": "SmartOS",
+              "target": "https://en.wikipedia.org/wiki/SmartOS",
+              "article": true
+            },
+            {
+              "label": "Kernel-based Virtual Machine",
+              "target": "https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "rtems",
+      "suggested_title": "RTEMS",
+      "canonical_title": "RTEMS",
+      "canonical_url": "https://en.wikipedia.org/wiki/RTEMS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 589,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RTEMS (Real-Time Executive for Multiprocessor Systems)",
+          "links": [
+            {
+              "label": "RTEMS",
+              "target": "https://en.wikipedia.org/wiki/RTEMS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "syllable-desktop",
+      "suggested_title": "Syllable Desktop",
+      "canonical_title": "Syllable Desktop",
+      "canonical_url": "https://en.wikipedia.org/wiki/Syllable_Desktop",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 590,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Syllable Desktop",
+          "links": [
+            {
+              "label": "Syllable Desktop",
+              "target": "https://en.wikipedia.org/wiki/Syllable_Desktop",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 47,
+  "candidates": [
+    {
+      "candidate_id": "c-os-iii",
+      "suggested_title": "μC/OS-III",
+      "canonical_title": "Micro-Controller Operating Systems",
+      "canonical_url": "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#μC/OS-III",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 494,
+          "section": [
+            "Proprietary",
+            "Weston Embedded Solutions"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "μC/OS-III – a small pre-emptive priority based multi-tasking kernel, with unlimited number of tasks and priorities, and round-robin scheduling",
+          "links": [
+            {
+              "label": "μC/OS-III",
+              "target": "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#μC/OS-III",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "vxworks",
+      "suggested_title": "VxWorks",
+      "canonical_title": "VxWorks",
+      "canonical_url": "https://en.wikipedia.org/wiki/VxWorks",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 496,
+          "section": [
+            "Proprietary",
+            "Wind River Systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "VxWorks – Small footprint, scalable, high-performance RTOS for embedded microprocessor based systems. [ 22 ]",
+          "links": [
+            {
+              "label": "VxWorks",
+              "target": "https://en.wikipedia.org/wiki/VxWorks",
+              "article": true
+            },
+            {
+              "label": "[ 22 ]",
+              "target": "https://en.wikipedia.org#cite_note-windriver.com-22",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "z80-rio",
+      "suggested_title": "Z80-RIO",
+      "canonical_title": "Z80-RIO",
+      "canonical_url": "https://en.wikipedia.org/wiki/Z80-RIO",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 497,
+          "section": [
+            "Proprietary",
+            "Zilog"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Z80-RIO",
+          "links": [
+            {
+              "label": "Z80-RIO",
+              "target": "https://en.wikipedia.org/wiki/Z80-RIO",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "lisp-machines-inc",
+      "suggested_title": "Lisp Machines, Inc.",
+      "canonical_title": "Lisp Machines",
+      "canonical_url": "https://en.wikipedia.org/wiki/Lisp_Machines",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 498,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Lisp-based"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Lisp Machines, Inc. (also known as LMI) used an operating system written in MIT 's Lisp Machine Lisp .",
+          "links": [
+            {
+              "label": "Lisp Machines, Inc.",
+              "target": "https://en.wikipedia.org/wiki/Lisp_Machines",
+              "article": true
+            },
+            {
+              "label": "MIT",
+              "target": "https://en.wikipedia.org/wiki/MIT",
+              "article": true
+            },
+            {
+              "label": "Lisp Machine Lisp",
+              "target": "https://en.wikipedia.org/wiki/Lisp_Machine_Lisp",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "symbolics",
+      "suggested_title": "Symbolics",
+      "canonical_title": "Symbolics",
+      "canonical_url": "https://en.wikipedia.org/wiki/Symbolics",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 499,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Lisp-based"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Symbolics Genera written in a systems dialect of the Lisp programming language called ZetaLisp and Symbolics Common Lisp . Genera was ported to a virtual machine for the DEC Alpha line of computers.",
+          "links": [
+            {
+              "label": "Symbolics",
+              "target": "https://en.wikipedia.org/wiki/Symbolics",
+              "article": true
+            },
+            {
+              "label": "Genera",
+              "target": "https://en.wikipedia.org/wiki/Genera_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "Lisp",
+              "target": "https://en.wikipedia.org/wiki/Lisp_(programming_language)",
+              "article": true
+            },
+            {
+              "label": "ZetaLisp",
+              "target": "https://en.wikipedia.org/wiki/ZetaLisp",
+              "article": true
+            },
+            {
+              "label": "Common Lisp",
+              "target": "https://en.wikipedia.org/wiki/Common_Lisp",
+              "article": true
+            },
+            {
+              "label": "DEC Alpha",
+              "target": "https://en.wikipedia.org/wiki/DEC_Alpha",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "texas-instruments",
+      "suggested_title": "Texas Instruments",
+      "canonical_title": "Texas Instruments",
+      "canonical_url": "https://en.wikipedia.org/wiki/Texas_Instruments",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 500,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Lisp-based"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Texas Instruments ' Explorer Lisp machine workstations also had systems code written in Lisp Machine Lisp .",
+          "links": [
+            {
+              "label": "Texas Instruments",
+              "target": "https://en.wikipedia.org/wiki/Texas_Instruments",
+              "article": true
+            },
+            {
+              "label": "Lisp machine",
+              "target": "https://en.wikipedia.org/wiki/Lisp_machine",
+              "article": true
+            },
+            {
+              "label": "Lisp Machine Lisp",
+              "target": "https://en.wikipedia.org/wiki/Lisp_Machine_Lisp",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "xerox",
+      "suggested_title": "Xerox",
+      "canonical_title": "Xerox",
+      "canonical_url": "https://en.wikipedia.org/wiki/Xerox",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 501,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Lisp-based"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Xerox 1100 series of Lisp machines used an operating system also written in Interlisp , and was also ported to a virtual machine called \"Medley.\"",
+          "links": [
+            {
+              "label": "Xerox",
+              "target": "https://en.wikipedia.org/wiki/Xerox",
+              "article": true
+            },
+            {
+              "label": "Interlisp",
+              "target": "https://en.wikipedia.org/wiki/Interlisp",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "andos",
+      "suggested_title": "ANDOS",
+      "canonical_title": "ANDOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/ANDOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 502,
+          "section": [
+            "Proprietary",
+            "Other",
+            "For Elektronika BK"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ANDOS",
+          "links": [
+            {
+              "label": "ANDOS",
+              "target": "https://en.wikipedia.org/wiki/ANDOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "csi-dos",
+      "suggested_title": "CSI-DOS",
+      "canonical_title": "CSI-DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/CSI-DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 503,
+          "section": [
+            "Proprietary",
+            "Other",
+            "For Elektronika BK"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "CSI-DOS",
+          "links": [
+            {
+              "label": "CSI-DOS",
+              "target": "https://en.wikipedia.org/wiki/CSI-DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mk-dos",
+      "suggested_title": "MK-DOS",
+      "canonical_title": "MK-DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/MK-DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 504,
+          "section": [
+            "Proprietary",
+            "Other",
+            "For Elektronika BK"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MK-DOS",
+          "links": [
+            {
+              "label": "MK-DOS",
+              "target": "https://en.wikipedia.org/wiki/MK-DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 15,
+  "candidates": [
+    {
+      "candidate_id": "multiuser-dos",
+      "suggested_title": "Multiuser DOS",
+      "canonical_title": "Multiuser DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Multiuser_DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 151,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 131,
+          "label": "Multiuser DOS , the successor of Concurrent DOS 386",
+          "links": [
+            {
+              "label": "Multiuser DOS",
+              "target": "https://en.wikipedia.org/wiki/Multiuser_DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 661,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 4,
+          "parent_position": 659,
+          "label": "Multiuser DOS 5.0, 5.01, 5.1 (BDOS 6.3-6.6) (successor of Concurrent DOS 386)",
+          "links": [
+            {
+              "label": "Multiuser DOS",
+              "target": "https://en.wikipedia.org/wiki/Multiuser_DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "cci-multiuser-dos",
+      "suggested_title": "CCI Multiuser DOS",
+      "canonical_title": "CCI Multiuser DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/CCI_Multiuser_DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 152,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 151,
+          "label": "CCI Multiuser DOS",
+          "links": [
+            {
+              "label": "CCI Multiuser DOS",
+              "target": "https://en.wikipedia.org/wiki/CCI_Multiuser_DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 662,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 5,
+          "parent_position": 661,
+          "label": "CCI Multiuser DOS 5.0-7.22 (up to BDOS 6.6)",
+          "links": [
+            {
+              "label": "CCI Multiuser DOS",
+              "target": "https://en.wikipedia.org/wiki/CCI_Multiuser_DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "datapac-multiuser-dos",
+      "suggested_title": "Datapac Multiuser DOS",
+      "canonical_title": "Datapac Multiuser DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Datapac_Multiuser_DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 153,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 151,
+          "label": "Datapac Multiuser DOS",
+          "links": [
+            {
+              "label": "Datapac Multiuser DOS",
+              "target": "https://en.wikipedia.org/wiki/Datapac_Multiuser_DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 663,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 5,
+          "parent_position": 661,
+          "label": "Datapac Multiuser DOS",
+          "links": [
+            {
+              "label": "Datapac Multiuser DOS",
+              "target": "https://en.wikipedia.org/wiki/Datapac_Multiuser_DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "datapac-system-manager",
+      "suggested_title": "Datapac System Manager",
+      "canonical_title": "Datapac System Manager",
+      "canonical_url": "https://en.wikipedia.org/wiki/Datapac_System_Manager",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 154,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 4,
+          "parent_position": 153,
+          "label": "Datapac System Manager , a derivative of Datapac Multiuser DOS",
+          "links": [
+            {
+              "label": "Datapac System Manager",
+              "target": "https://en.wikipedia.org/wiki/Datapac_System_Manager",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 664,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 6,
+          "parent_position": 663,
+          "label": "Datapac System Manager 7 (derivative of Datapac Multiuser DOS)",
+          "links": [
+            {
+              "label": "Datapac System Manager",
+              "target": "https://en.wikipedia.org/wiki/Datapac_System_Manager",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ims-multiuser-dos",
+      "suggested_title": "IMS Multiuser DOS",
+      "canonical_title": "IMS Multiuser DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/IMS_Multiuser_DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 155,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 151,
+          "label": "IMS Multiuser DOS",
+          "links": [
+            {
+              "label": "IMS Multiuser DOS",
+              "target": "https://en.wikipedia.org/wiki/IMS_Multiuser_DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 665,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 5,
+          "parent_position": 661,
+          "label": "IMS Multiuser DOS 5.1, 7.0, 7.1 (BDOS 6.6-6.7)",
+          "links": [
+            {
+              "label": "IMS Multiuser DOS",
+              "target": "https://en.wikipedia.org/wiki/IMS_Multiuser_DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "ims-real-32-a-derivative-of-multiuser-dos",
+      "suggested_title": "IMS REAL/32 , a derivative of Multiuser DOS",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 156,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 4,
+          "parent_position": 155,
+          "label": "IMS REAL/32 , a derivative of Multiuser DOS",
+          "links": [
+            {
+              "label": "REAL/32",
+              "target": "https://en.wikipedia.org/wiki/REAL/32",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "ims-real-ng-the-successor-of-real-32",
+      "suggested_title": "IMS REAL/NG , the successor of REAL/32",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 157,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 5,
+          "parent_position": 156,
+          "label": "IMS REAL/NG , the successor of REAL/32",
+          "links": [
+            {
+              "label": "REAL/NG",
+              "target": "https://en.wikipedia.org/wiki/REAL/NG",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dos-plus",
+      "suggested_title": "DOS Plus",
+      "canonical_title": "DOS Plus",
+      "canonical_url": "https://en.wikipedia.org/wiki/DOS_Plus",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 158,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 131,
+          "label": "DOS Plus 1.1 – 2.1, a single-user, multi-tasking system derived from Concurrent DOS 4.1 – 5.0",
+          "links": [
+            {
+              "label": "DOS Plus",
+              "target": "https://en.wikipedia.org/wiki/DOS_Plus",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 646,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 4,
+          "parent_position": 645,
+          "label": "DOS Plus 1.1, 1.2 (BDOS 4.1), 2.1 (BDOS 5.0) (single-user, multi-tasking system derived from Concurrent DOS 4.1-5.0)",
+          "links": [
+            {
+              "label": "DOS Plus",
+              "target": "https://en.wikipedia.org/wiki/DOS_Plus",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dr-dos",
+      "suggested_title": "DR-DOS",
+      "canonical_title": "DR-DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/DR-DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 159,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 131,
+          "label": "DR-DOS 3.31 – 6.0, a single-user, single-tasking native DOS derived from Concurrent DOS 6.0",
+          "links": [
+            {
+              "label": "DR-DOS",
+              "target": "https://en.wikipedia.org/wiki/DR-DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 669,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 4,
+          "parent_position": 668,
+          "label": "DR-DOS 3.31, 3.32, 3.33, 3.34, 3.35, 5.0, 6.0 (BDOS 6.0-7.1) single-user, single-tasking native DOS derived from Concurrent DOS 6.0)",
+          "links": [
+            {
+              "label": "DR-DOS",
+              "target": "https://en.wikipedia.org/wiki/DR-DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "novell-palmdos-1-0",
+      "suggested_title": "Novell PalmDOS 1.0",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 160,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 159,
+          "label": "Novell PalmDOS 1.0",
+          "links": [
+            {
+              "label": "PalmDOS",
+              "target": "https://en.wikipedia.org/wiki/PalmDOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

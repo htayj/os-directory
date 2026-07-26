@@ -1,0 +1,425 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 2,
+  "candidates": [
+    {
+      "candidate_id": "amsdos",
+      "suggested_title": "AMSDOS",
+      "canonical_title": "AMSDOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/AMSDOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 11,
+          "section": [
+            "Proprietary",
+            "Amstrad"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "AMSDOS",
+          "links": [
+            {
+              "label": "AMSDOS",
+              "target": "https://en.wikipedia.org/wiki/AMSDOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "contiki",
+      "suggested_title": "Contiki",
+      "canonical_title": "Contiki",
+      "canonical_url": "https://en.wikipedia.org/wiki/Contiki",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 12,
+          "section": [
+            "Proprietary",
+            "Amstrad"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Contiki",
+          "links": [
+            {
+              "label": "Contiki",
+              "target": "https://en.wikipedia.org/wiki/Contiki",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 22,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 16,
+          "label": "Contiki",
+          "links": [
+            {
+              "label": "Contiki",
+              "target": "https://en.wikipedia.org/wiki/Contiki",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 59,
+          "section": [
+            "Proprietary",
+            "Atari"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Contiki (for 8-bit, ST, Portfolio)",
+          "links": [
+            {
+              "label": "Contiki",
+              "target": "https://en.wikipedia.org/wiki/Contiki",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 712,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Contiki for various, mostly 8-bit systems, including the Apple II , Atari 8-bit computers , and some Commodore machines.",
+          "links": [
+            {
+              "label": "Contiki",
+              "target": "https://en.wikipedia.org/wiki/Contiki",
+              "article": true
+            },
+            {
+              "label": "Apple II",
+              "target": "https://en.wikipedia.org/wiki/Apple_II",
+              "article": true
+            },
+            {
+              "label": "Atari 8-bit computers",
+              "target": "https://en.wikipedia.org/wiki/Atari_8-bit_computers",
+              "article": true
+            },
+            {
+              "label": "Commodore",
+              "target": "https://en.wikipedia.org/wiki/Commodore_International",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 858,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Contiki",
+          "links": [
+            {
+              "label": "Contiki",
+              "target": "https://en.wikipedia.org/wiki/Contiki",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cp-m-2-2",
+      "suggested_title": "CP/M 2.2",
+      "canonical_title": "CP/M 2.2",
+      "canonical_url": "https://en.wikipedia.org/wiki/CP/M_2.2",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 13,
+          "section": [
+            "Proprietary",
+            "Amstrad"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "CP/M 2.2",
+          "links": [
+            {
+              "label": "CP/M 2.2",
+              "target": "https://en.wikipedia.org/wiki/CP/M_2.2",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cp-m-plus",
+      "suggested_title": "CP/M Plus",
+      "canonical_title": "CP/M Plus",
+      "canonical_url": "https://en.wikipedia.org/wiki/CP/M_Plus",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 14,
+          "section": [
+            "Proprietary",
+            "Amstrad"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "CP/M Plus",
+          "links": [
+            {
+              "label": "CP/M Plus",
+              "target": "https://en.wikipedia.org/wiki/CP/M_Plus",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 117,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 115,
+          "label": "CP/M Plus with BDOS 3.0",
+          "links": [
+            {
+              "label": "CP/M Plus",
+              "target": "https://en.wikipedia.org/wiki/CP/M_Plus",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "symbos",
+      "suggested_title": "SymbOS",
+      "canonical_title": "SymbOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/SymbOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 15,
+          "section": [
+            "Proprietary",
+            "Amstrad"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SymbOS",
+          "links": [
+            {
+              "label": "SymbOS",
+              "target": "https://en.wikipedia.org/wiki/SymbOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 731,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SymbOS (GUI based multitasking operating system for Z80 computers)",
+          "links": [
+            {
+              "label": "SymbOS",
+              "target": "https://en.wikipedia.org/wiki/SymbOS",
+              "article": true
+            },
+            {
+              "label": "Z80",
+              "target": "https://en.wikipedia.org/wiki/Z80",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "apple-ii",
+      "suggested_title": "Apple II",
+      "canonical_title": "Apple II",
+      "canonical_url": "https://en.wikipedia.org/wiki/Apple_II",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 16,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Apple II",
+          "links": [
+            {
+              "label": "Apple II",
+              "target": "https://en.wikipedia.org/wiki/Apple_II",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "apple-dos",
+      "suggested_title": "Apple DOS",
+      "canonical_title": "Apple DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Apple_DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 17,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 16,
+          "label": "Apple DOS",
+          "links": [
+            {
+              "label": "Apple DOS",
+              "target": "https://en.wikipedia.org/wiki/Apple_DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "apple-pascal",
+      "suggested_title": "Apple Pascal",
+      "canonical_title": "Apple Pascal",
+      "canonical_url": "https://en.wikipedia.org/wiki/Apple_Pascal",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 18,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 16,
+          "label": "Apple Pascal",
+          "links": [
+            {
+              "label": "Apple Pascal",
+              "target": "https://en.wikipedia.org/wiki/Apple_Pascal",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "prodos",
+      "suggested_title": "ProDOS",
+      "canonical_title": "Apple ProDOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Apple_ProDOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 19,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 16,
+          "label": "ProDOS",
+          "links": [
+            {
+              "label": "ProDOS",
+              "target": "https://en.wikipedia.org/wiki/Apple_ProDOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 684,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ProDOS (operating system for the Apple II series computers)",
+          "links": [
+            {
+              "label": "ProDOS",
+              "target": "https://en.wikipedia.org/wiki/Apple_ProDOS",
+              "article": true
+            },
+            {
+              "label": "Apple II",
+              "target": "https://en.wikipedia.org/wiki/Apple_II",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "gs-os",
+      "suggested_title": "GS/OS",
+      "canonical_title": "Apple GS/OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Apple_GS/OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 20,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 16,
+          "label": "GS/OS",
+          "links": [
+            {
+              "label": "GS/OS",
+              "target": "https://en.wikipedia.org/wiki/Apple_GS/OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+[
+  {
+    "batch": 1,
+    "manifest": "inventory/terra-manifests/batch-001.json",
+    "candidate_count": 10,
+    "status": "first-pass-complete",
+    "result": "inventory/terra-results/batch-001.json"
+  },
+  {
+    "batch": 2,
+    "manifest": "inventory/terra-manifests/batch-002.json",
+    "candidate_count": 10,
+    "status": "first-pass-complete",
+    "result": "inventory/terra-results/batch-002.json"
+  },
+  {
+    "batch": 3,
+    "manifest": "inventory/terra-manifests/batch-003.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 4,
+    "manifest": "inventory/terra-manifests/batch-004.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 5,
+    "manifest": "inventory/terra-manifests/batch-005.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 6,
+    "manifest": "inventory/terra-manifests/batch-006.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 7,
+    "manifest": "inventory/terra-manifests/batch-007.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 8,
+    "manifest": "inventory/terra-manifests/batch-008.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 9,
+    "manifest": "inventory/terra-manifests/batch-009.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 10,
+    "manifest": "inventory/terra-manifests/batch-010.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 11,
+    "manifest": "inventory/terra-manifests/batch-011.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 12,
+    "manifest": "inventory/terra-manifests/batch-012.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 13,
+    "manifest": "inventory/terra-manifests/batch-013.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 14,
+    "manifest": "inventory/terra-manifests/batch-014.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 15,
+    "manifest": "inventory/terra-manifests/batch-015.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 16,
+    "manifest": "inventory/terra-manifests/batch-016.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 17,
+    "manifest": "inventory/terra-manifests/batch-017.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 18,
+    "manifest": "inventory/terra-manifests/batch-018.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 19,
+    "manifest": "inventory/terra-manifests/batch-019.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 20,
+    "manifest": "inventory/terra-manifests/batch-020.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 21,
+    "manifest": "inventory/terra-manifests/batch-021.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 22,
+    "manifest": "inventory/terra-manifests/batch-022.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 23,
+    "manifest": "inventory/terra-manifests/batch-023.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 24,
+    "manifest": "inventory/terra-manifests/batch-024.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 25,
+    "manifest": "inventory/terra-manifests/batch-025.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 26,
+    "manifest": "inventory/terra-manifests/batch-026.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 27,
+    "manifest": "inventory/terra-manifests/batch-027.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 28,
+    "manifest": "inventory/terra-manifests/batch-028.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 29,
+    "manifest": "inventory/terra-manifests/batch-029.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 30,
+    "manifest": "inventory/terra-manifests/batch-030.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 31,
+    "manifest": "inventory/terra-manifests/batch-031.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 32,
+    "manifest": "inventory/terra-manifests/batch-032.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 33,
+    "manifest": "inventory/terra-manifests/batch-033.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 34,
+    "manifest": "inventory/terra-manifests/batch-034.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 35,
+    "manifest": "inventory/terra-manifests/batch-035.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 36,
+    "manifest": "inventory/terra-manifests/batch-036.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 37,
+    "manifest": "inventory/terra-manifests/batch-037.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 38,
+    "manifest": "inventory/terra-manifests/batch-038.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 39,
+    "manifest": "inventory/terra-manifests/batch-039.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 40,
+    "manifest": "inventory/terra-manifests/batch-040.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 41,
+    "manifest": "inventory/terra-manifests/batch-041.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 42,
+    "manifest": "inventory/terra-manifests/batch-042.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 43,
+    "manifest": "inventory/terra-manifests/batch-043.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 44,
+    "manifest": "inventory/terra-manifests/batch-044.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 45,
+    "manifest": "inventory/terra-manifests/batch-045.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 46,
+    "manifest": "inventory/terra-manifests/batch-046.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 47,
+    "manifest": "inventory/terra-manifests/batch-047.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 48,
+    "manifest": "inventory/terra-manifests/batch-048.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 49,
+    "manifest": "inventory/terra-manifests/batch-049.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 50,
+    "manifest": "inventory/terra-manifests/batch-050.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 51,
+    "manifest": "inventory/terra-manifests/batch-051.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 52,
+    "manifest": "inventory/terra-manifests/batch-052.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 53,
+    "manifest": "inventory/terra-manifests/batch-053.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 54,
+    "manifest": "inventory/terra-manifests/batch-054.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 55,
+    "manifest": "inventory/terra-manifests/batch-055.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 56,
+    "manifest": "inventory/terra-manifests/batch-056.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 57,
+    "manifest": "inventory/terra-manifests/batch-057.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 58,
+    "manifest": "inventory/terra-manifests/batch-058.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 59,
+    "manifest": "inventory/terra-manifests/batch-059.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 60,
+    "manifest": "inventory/terra-manifests/batch-060.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 61,
+    "manifest": "inventory/terra-manifests/batch-061.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 62,
+    "manifest": "inventory/terra-manifests/batch-062.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 63,
+    "manifest": "inventory/terra-manifests/batch-063.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 64,
+    "manifest": "inventory/terra-manifests/batch-064.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 65,
+    "manifest": "inventory/terra-manifests/batch-065.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 66,
+    "manifest": "inventory/terra-manifests/batch-066.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 67,
+    "manifest": "inventory/terra-manifests/batch-067.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 68,
+    "manifest": "inventory/terra-manifests/batch-068.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 69,
+    "manifest": "inventory/terra-manifests/batch-069.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 70,
+    "manifest": "inventory/terra-manifests/batch-070.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 71,
+    "manifest": "inventory/terra-manifests/batch-071.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 72,
+    "manifest": "inventory/terra-manifests/batch-072.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 73,
+    "manifest": "inventory/terra-manifests/batch-073.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 74,
+    "manifest": "inventory/terra-manifests/batch-074.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 75,
+    "manifest": "inventory/terra-manifests/batch-075.json",
+    "candidate_count": 10,
+    "status": "pending",
+    "result": null
+  },
+  {
+    "batch": 76,
+    "manifest": "inventory/terra-manifests/batch-076.json",
+    "candidate_count": 4,
+    "status": "pending",
+    "result": null
+  }
+]

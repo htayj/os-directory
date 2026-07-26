@@ -1,0 +1,276 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 72,
+  "candidates": [
+    {
+      "candidate_id": "gargoyle",
+      "suggested_title": "Gargoyle",
+      "canonical_title": "Gargoyle (router firmware)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Gargoyle_(router_firmware)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 840,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 3,
+          "parent_position": 837,
+          "label": "Gargoyle",
+          "links": [
+            {
+              "label": "Gargoyle",
+              "target": "https://en.wikipedia.org/wiki/Gargoyle_(router_firmware)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "librecmc",
+      "suggested_title": "LibreCMC",
+      "canonical_title": "LibreCMC",
+      "canonical_url": "https://en.wikipedia.org/wiki/LibreCMC",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 841,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 3,
+          "parent_position": 837,
+          "label": "LibreCMC",
+          "links": [
+            {
+              "label": "LibreCMC",
+              "target": "https://en.wikipedia.org/wiki/LibreCMC",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "zeroshell",
+      "suggested_title": "Zeroshell",
+      "canonical_title": "Zeroshell",
+      "canonical_url": "https://en.wikipedia.org/wiki/Zeroshell",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 842,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 2,
+          "parent_position": 835,
+          "label": "Zeroshell",
+          "links": [
+            {
+              "label": "Zeroshell",
+              "target": "https://en.wikipedia.org/wiki/Zeroshell",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ftos",
+      "suggested_title": "FTOS",
+      "canonical_title": "FTOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/FTOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 843,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "FTOS – by Force10 Networks",
+          "links": [
+            {
+              "label": "FTOS",
+              "target": "https://en.wikipedia.org/wiki/FTOS",
+              "article": true
+            },
+            {
+              "label": "Force10 Networks",
+              "target": "https://en.wikipedia.org/wiki/Force10_Networks",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "freebsd-2",
+      "suggested_title": "FreeBSD",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 844,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "FreeBSD",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "huawei-vrp-versatile-routing-platform-that-many-huawei-devices-operate-on-50",
+      "suggested_title": "Huawei VRP (Versatile Routing Platform) that many Huawei devices operate on [ 50 ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 845,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Huawei VRP (Versatile Routing Platform) that many Huawei devices operate on [ 50 ]",
+          "links": [
+            {
+              "label": "[ 50 ]",
+              "target": "https://en.wikipedia.org#cite_note-50",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "m0n0wall",
+      "suggested_title": "m0n0wall",
+      "canonical_title": "M0n0wall",
+      "canonical_url": "https://en.wikipedia.org/wiki/M0n0wall",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 851,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "m0n0wall",
+          "links": [
+            {
+              "label": "m0n0wall",
+              "target": "https://en.wikipedia.org/wiki/M0n0wall",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "opnsense",
+      "suggested_title": "OPNsense",
+      "canonical_title": "OPNsense",
+      "canonical_url": "https://en.wikipedia.org/wiki/OPNsense",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 852,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OPNsense",
+          "links": [
+            {
+              "label": "OPNsense",
+              "target": "https://en.wikipedia.org/wiki/OPNsense",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "pfsense",
+      "suggested_title": "pfsense",
+      "canonical_title": "PfSense",
+      "canonical_url": "https://en.wikipedia.org/wiki/PfSense",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 853,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "pfsense",
+          "links": [
+            {
+              "label": "pfsense",
+              "target": "https://en.wikipedia.org/wiki/PfSense",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "list-of-wireless-router-firmware-projects",
+      "suggested_title": "List of wireless router firmware projects",
+      "canonical_title": "List of wireless router firmware projects",
+      "canonical_url": "https://en.wikipedia.org/wiki/List_of_wireless_router_firmware_projects",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 854,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "List of wireless router firmware projects",
+          "links": [
+            {
+              "label": "List of wireless router firmware projects",
+              "target": "https://en.wikipedia.org/wiki/List_of_wireless_router_firmware_projects",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

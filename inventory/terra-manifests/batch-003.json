@@ -1,0 +1,287 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 3,
+  "candidates": [
+    {
+      "candidate_id": "gno-me",
+      "suggested_title": "GNO/ME",
+      "canonical_title": "GNO/ME",
+      "canonical_url": "https://en.wikipedia.org/wiki/GNO/ME",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 21,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 16,
+          "label": "GNO/ME",
+          "links": [
+            {
+              "label": "GNO/ME",
+              "target": "https://en.wikipedia.org/wiki/GNO/ME",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "apple-iii",
+      "suggested_title": "Apple III",
+      "canonical_title": "Apple III",
+      "canonical_url": "https://en.wikipedia.org/wiki/Apple_III",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 23,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Apple III",
+          "links": [
+            {
+              "label": "Apple III",
+              "target": "https://en.wikipedia.org/wiki/Apple_III",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "apple-sos",
+      "suggested_title": "Apple SOS",
+      "canonical_title": "Apple SOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Apple_SOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 24,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 23,
+          "label": "Apple SOS",
+          "links": [
+            {
+              "label": "Apple SOS",
+              "target": "https://en.wikipedia.org/wiki/Apple_SOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "apple-lisa",
+      "suggested_title": "Apple Lisa",
+      "canonical_title": "Apple Lisa",
+      "canonical_url": "https://en.wikipedia.org/wiki/Apple_Lisa",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 25,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Apple Lisa",
+          "links": [
+            {
+              "label": "Apple Lisa",
+              "target": "https://en.wikipedia.org/wiki/Apple_Lisa",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mac",
+      "suggested_title": "Mac",
+      "canonical_title": "Mac (computer)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Mac_(computer)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 26,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Mac",
+          "links": [
+            {
+              "label": "Mac",
+              "target": "https://en.wikipedia.org/wiki/Mac_(computer)",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "classic-mac-os",
+      "suggested_title": "Classic Mac OS",
+      "canonical_title": "Classic Mac OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Classic_Mac_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 27,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 26,
+          "label": "Classic Mac OS",
+          "links": [
+            {
+              "label": "Classic Mac OS",
+              "target": "https://en.wikipedia.org/wiki/Classic_Mac_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "a-ux",
+      "suggested_title": "A/UX",
+      "canonical_title": "A/UX",
+      "canonical_url": "https://en.wikipedia.org/wiki/A/UX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 28,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 26,
+          "label": "A/UX ( UNIX System V with BSD extensions)",
+          "links": [
+            {
+              "label": "A/UX",
+              "target": "https://en.wikipedia.org/wiki/A/UX",
+              "article": true
+            },
+            {
+              "label": "UNIX System V",
+              "target": "https://en.wikipedia.org/wiki/UNIX_System_V",
+              "article": true
+            },
+            {
+              "label": "BSD",
+              "target": "https://en.wikipedia.org/wiki/Berkeley_Software_Distribution",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "copland",
+      "suggested_title": "Copland",
+      "canonical_title": "Copland (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Copland_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 29,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 26,
+          "label": "Copland",
+          "links": [
+            {
+              "label": "Copland",
+              "target": "https://en.wikipedia.org/wiki/Copland_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mklinux",
+      "suggested_title": "MkLinux",
+      "canonical_title": "MkLinux",
+      "canonical_url": "https://en.wikipedia.org/wiki/MkLinux",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 30,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 26,
+          "label": "MkLinux",
+          "links": [
+            {
+              "label": "MkLinux",
+              "target": "https://en.wikipedia.org/wiki/MkLinux",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "pink",
+      "suggested_title": "Pink",
+      "canonical_title": "Taligent",
+      "canonical_url": "https://en.wikipedia.org/wiki/Taligent",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 31,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 26,
+          "label": "Pink",
+          "links": [
+            {
+              "label": "Pink",
+              "target": "https://en.wikipedia.org/wiki/Taligent",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

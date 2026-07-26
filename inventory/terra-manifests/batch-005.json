@@ -1,0 +1,319 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 5,
+  "candidates": [
+    {
+      "candidate_id": "ipados",
+      "suggested_title": "iPadOS",
+      "canonical_title": "IPadOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/IPadOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 42,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 4,
+          "parent_position": 41,
+          "label": "iPadOS",
+          "links": [
+            {
+              "label": "iPadOS",
+              "target": "https://en.wikipedia.org/wiki/IPadOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "apple-watch",
+      "suggested_title": "Apple Watch",
+      "canonical_title": "Apple Watch",
+      "canonical_url": "https://en.wikipedia.org/wiki/Apple_Watch",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 43,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 3,
+          "parent_position": 40,
+          "label": "Apple Watch",
+          "links": [
+            {
+              "label": "Apple Watch",
+              "target": "https://en.wikipedia.org/wiki/Apple_Watch",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "watchos",
+      "suggested_title": "watchOS",
+      "canonical_title": "WatchOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/WatchOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 44,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 4,
+          "parent_position": 43,
+          "label": "watchOS",
+          "links": [
+            {
+              "label": "watchOS",
+              "target": "https://en.wikipedia.org/wiki/WatchOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 817,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 816,
+          "label": "watchOS",
+          "links": [
+            {
+              "label": "watchOS",
+              "target": "https://en.wikipedia.org/wiki/WatchOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "apple-tv",
+      "suggested_title": "Apple TV",
+      "canonical_title": "Apple TV (device)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Apple_TV_(device)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 45,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 3,
+          "parent_position": 40,
+          "label": "Apple TV",
+          "links": [
+            {
+              "label": "Apple TV",
+              "target": "https://en.wikipedia.org/wiki/Apple_TV_(device)",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "tvos",
+      "suggested_title": "tvOS",
+      "canonical_title": "TvOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/TvOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 46,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 4,
+          "parent_position": 45,
+          "label": "tvOS",
+          "links": [
+            {
+              "label": "tvOS",
+              "target": "https://en.wikipedia.org/wiki/TvOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 818,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 816,
+          "label": "tvOS",
+          "links": [
+            {
+              "label": "tvOS",
+              "target": "https://en.wikipedia.org/wiki/TvOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "embedded-operating-systems",
+      "suggested_title": "Embedded operating systems",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 47,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 3,
+          "parent_position": 40,
+          "label": "Embedded operating systems",
+          "links": [],
+          "has_children": true
+        },
+        {
+          "position": 51,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Embedded operating systems",
+          "links": [],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "bridgeos",
+      "suggested_title": "bridgeOS",
+      "canonical_title": "BridgeOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/BridgeOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 48,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 4,
+          "parent_position": 47,
+          "label": "bridgeOS",
+          "links": [
+            {
+              "label": "bridgeOS",
+              "target": "https://en.wikipedia.org/wiki/BridgeOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "apple-vision-pro",
+      "suggested_title": "Apple Vision Pro",
+      "canonical_title": "Apple Vision Pro",
+      "canonical_url": "https://en.wikipedia.org/wiki/Apple_Vision_Pro",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 49,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 3,
+          "parent_position": 40,
+          "label": "Apple Vision Pro",
+          "links": [
+            {
+              "label": "Apple Vision Pro",
+              "target": "https://en.wikipedia.org/wiki/Apple_Vision_Pro",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "visionos",
+      "suggested_title": "visionOS",
+      "canonical_title": "VisionOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/VisionOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 50,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 4,
+          "parent_position": 49,
+          "label": "visionOS",
+          "links": [
+            {
+              "label": "visionOS",
+              "target": "https://en.wikipedia.org/wiki/VisionOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "a-rose",
+      "suggested_title": "A/ROSE",
+      "canonical_title": "A/ROSE",
+      "canonical_url": "https://en.wikipedia.org/wiki/A/ROSE",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 52,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 51,
+          "label": "A/ROSE",
+          "links": [
+            {
+              "label": "A/ROSE",
+              "target": "https://en.wikipedia.org/wiki/A/ROSE",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

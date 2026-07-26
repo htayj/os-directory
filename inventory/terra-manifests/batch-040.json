@@ -1,0 +1,332 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 40,
+  "candidates": [
+    {
+      "candidate_id": "xbox-system-software",
+      "suggested_title": "Xbox system software",
+      "canonical_title": "Xbox system software",
+      "canonical_url": "https://en.wikipedia.org/wiki/Xbox_system_software",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 416,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Xbox system software",
+          "links": [
+            {
+              "label": "Xbox system software",
+              "target": "https://en.wikipedia.org/wiki/Xbox_system_software",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "xbox-first-generation-system-software",
+      "suggested_title": "Xbox (first generation) system software",
+      "canonical_title": "Xbox system software",
+      "canonical_url": "https://en.wikipedia.org/wiki/Xbox_system_software#Original_Xbox_system_software",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 417,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 416,
+          "label": "Xbox (first generation) system software",
+          "links": [
+            {
+              "label": "Xbox (first generation) system software",
+              "target": "https://en.wikipedia.org/wiki/Xbox_system_software#Original_Xbox_system_software",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "xbox-360-system-software",
+      "suggested_title": "Xbox 360 system software",
+      "canonical_title": "Xbox 360 system software",
+      "canonical_url": "https://en.wikipedia.org/wiki/Xbox_360_system_software",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 418,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 416,
+          "label": "Xbox 360 system software",
+          "links": [
+            {
+              "label": "Xbox 360 system software",
+              "target": "https://en.wikipedia.org/wiki/Xbox_360_system_software",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "xbox-one-system-software",
+      "suggested_title": "Xbox One system software",
+      "canonical_title": "Xbox One system software",
+      "canonical_url": "https://en.wikipedia.org/wiki/Xbox_One_system_software",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 419,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 416,
+          "label": "Xbox One system software",
+          "links": [
+            {
+              "label": "Xbox One system software",
+              "target": "https://en.wikipedia.org/wiki/Xbox_One_system_software",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "xbox-series-x-s-system-software",
+      "suggested_title": "Xbox Series X/S system software",
+      "canonical_title": "Xbox system software",
+      "canonical_url": "https://en.wikipedia.org/wiki/Xbox_system_software#Xbox_One_and_Xbox_Series_X/S_software",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 420,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 416,
+          "label": "Xbox Series X/S system software",
+          "links": [
+            {
+              "label": "Xbox Series X/S system software",
+              "target": "https://en.wikipedia.org/wiki/Xbox_system_software#Xbox_One_and_Xbox_Series_X/S_software",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "singularity",
+      "suggested_title": "Singularity",
+      "canonical_title": "Singularity (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Singularity_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 421,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Singularity – A research operating system written mostly in managed code ( C# )",
+          "links": [
+            {
+              "label": "Singularity",
+              "target": "https://en.wikipedia.org/wiki/Singularity_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "managed code",
+              "target": "https://en.wikipedia.org/wiki/Managed_code",
+              "article": true
+            },
+            {
+              "label": "C#",
+              "target": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 632,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Singularity – experimental OS from Microsoft Research written in managed code to be highly dependable",
+          "links": [
+            {
+              "label": "Singularity",
+              "target": "https://en.wikipedia.org/wiki/Singularity_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "managed code",
+              "target": "https://en.wikipedia.org/wiki/Managed_code",
+              "article": true
+            },
+            {
+              "label": "dependable",
+              "target": "https://en.wikipedia.org/wiki/Dependability",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "midori",
+      "suggested_title": "Midori",
+      "canonical_title": "Midori (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Midori_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 422,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Midori – A managed code operating system",
+          "links": [
+            {
+              "label": "Midori",
+              "target": "https://en.wikipedia.org/wiki/Midori_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "sonic",
+      "suggested_title": "SONiC",
+      "canonical_title": "SONiC (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/SONiC_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 423,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SONiC",
+          "links": [
+            {
+              "label": "SONiC",
+              "target": "https://en.wikipedia.org/wiki/SONiC_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 705,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SONiC",
+          "links": [
+            {
+              "label": "SONiC",
+              "target": "https://en.wikipedia.org/wiki/SONiC_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "azure-sphere",
+      "suggested_title": "Azure Sphere",
+      "canonical_title": "Azure Sphere",
+      "canonical_url": "https://en.wikipedia.org/wiki/Azure_Sphere",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 424,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Azure Sphere",
+          "links": [
+            {
+              "label": "Azure Sphere",
+              "target": "https://en.wikipedia.org/wiki/Azure_Sphere",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cbl-mariner",
+      "suggested_title": "CBL-Mariner",
+      "canonical_title": "CBL-Mariner",
+      "canonical_url": "https://en.wikipedia.org/wiki/CBL-Mariner",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 425,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "CBL-Mariner",
+          "links": [
+            {
+              "label": "CBL-Mariner",
+              "target": "https://en.wikipedia.org/wiki/CBL-Mariner",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 44,
+  "candidates": [
+    {
+      "candidate_id": "gordo-from-ucla-18",
+      "suggested_title": "GORDO from UCLA [ 18 ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 456,
+          "section": [
+            "Proprietary",
+            "Scientific Data Systems (SDS)",
+            "SDS Sigma series"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "GORDO from UCLA [ 18 ]",
+          "links": [
+            {
+              "label": "[ 18 ]",
+              "target": "https://en.wikipedia.org#cite_note-18",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "esope-operating-system",
+      "suggested_title": "Ésope (operating system)",
+      "canonical_title": "Ésope (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/%C3%89sope_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 457,
+          "section": [
+            "Proprietary",
+            "Scientific Data Systems (SDS)",
+            "SDS Sigma series"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Ésope (operating system) from IRIA for the Sigma 7 and CII 10070 [ 19 ]",
+          "links": [
+            {
+              "label": "Ésope (operating system)",
+              "target": "https://en.wikipedia.org/wiki/%C3%89sope_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "[ 19 ]",
+              "target": "https://en.wikipedia.org#cite_note-19",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "sco-unix",
+      "suggested_title": "SCO Unix",
+      "canonical_title": "SCO OpenServer",
+      "canonical_url": "https://en.wikipedia.org/wiki/SCO_OpenServer",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 461,
+          "section": [
+            "Proprietary",
+            "SCO, SCO Group"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SCO Unix , SCO UNIX System V/386 was the first volume commercial product licensed by AT&T to use the UNIX System trademark (1989). Derived from AT&T System V Release 3.2 with an infusion of Xenix device drivers and utilities plus most of the SVR4 features",
+          "links": [
+            {
+              "label": "SCO Unix",
+              "target": "https://en.wikipedia.org/wiki/SCO_OpenServer",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 463,
+          "section": [
+            "Proprietary",
+            "SCO, SCO Group"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SCO OpenServer 5, AT&T UNIX System V Release 3 based",
+          "links": [
+            {
+              "label": "SCO OpenServer",
+              "target": "https://en.wikipedia.org/wiki/SCO_OpenServer",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 464,
+          "section": [
+            "Proprietary",
+            "SCO, SCO Group"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SCO OpenServer 6, SVR5 (UnixWare 7) based kernel with SCO OpenServer 5 application and binary compatibility, system administration, and user environments",
+          "links": [
+            {
+              "label": "SCO OpenServer",
+              "target": "https://en.wikipedia.org/wiki/SCO_OpenServer",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "sco-open-desktop",
+      "suggested_title": "SCO Open Desktop",
+      "canonical_title": "SCO Open Desktop",
+      "canonical_url": "https://en.wikipedia.org/wiki/SCO_Open_Desktop",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 462,
+          "section": [
+            "Proprietary",
+            "SCO, SCO Group"
+          ],
+          "depth": 2,
+          "parent_position": 461,
+          "label": "SCO Open Desktop , the first 32-bit graphical user interface for UNIX Systems running on Intel processor-based computers. Based on SCO Unix",
+          "links": [
+            {
+              "label": "SCO Open Desktop",
+              "target": "https://en.wikipedia.org/wiki/SCO_Open_Desktop",
+              "article": true
+            },
+            {
+              "label": "SCO Unix",
+              "target": "https://en.wikipedia.org/wiki/SCO_OpenServer",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "micrium-os",
+      "suggested_title": "Micrium OS",
+      "canonical_title": "Micro-Controller Operating Systems",
+      "canonical_url": "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#History",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 468,
+          "section": [
+            "Proprietary",
+            "Silicon Laboratories (formerly Micrium Inc.)"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Micrium OS - customized μC/OS-III for Silicon Laboratories's SoC products",
+          "links": [
+            {
+              "label": "Micrium OS",
+              "target": "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#History",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 495,
+          "section": [
+            "Proprietary",
+            "Weston Embedded Solutions"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Cesium RTOS - commercial continuation of Micrium's μC/OS-III forked from the open-sources release",
+          "links": [
+            {
+              "label": "Cesium RTOS",
+              "target": "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems#History",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "sinclair-basic",
+      "suggested_title": "Sinclair BASIC",
+      "canonical_title": "Sinclair BASIC",
+      "canonical_url": "https://en.wikipedia.org/wiki/Sinclair_BASIC",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 469,
+          "section": [
+            "Proprietary",
+            "Sinclair Research"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Sinclair BASIC was used in the 8-bit home computers from Sinclair Research and Timex Sinclair . It was included in the ROM, and the computers booted to the Basic interpreter. Various versions exist, with the latter ones supporting disk drive operations.",
+          "links": [
+            {
+              "label": "Sinclair BASIC",
+              "target": "https://en.wikipedia.org/wiki/Sinclair_BASIC",
+              "article": true
+            },
+            {
+              "label": "Sinclair Research",
+              "target": "https://en.wikipedia.org/wiki/Sinclair_Research",
+              "article": true
+            },
+            {
+              "label": "Timex Sinclair",
+              "target": "https://en.wikipedia.org/wiki/Timex_Sinclair",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "playstation-vita-system-software",
+      "suggested_title": "PlayStation Vita system software",
+      "canonical_title": "PlayStation Vita system software",
+      "canonical_url": "https://en.wikipedia.org/wiki/PlayStation_Vita_system_software",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 470,
+          "section": [
+            "Proprietary",
+            "Sony"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PlayStation Vita system software",
+          "links": [
+            {
+              "label": "PlayStation Vita system software",
+              "target": "https://en.wikipedia.org/wiki/PlayStation_Vita_system_software",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "playstation-3-system-software",
+      "suggested_title": "PlayStation 3 system software",
+      "canonical_title": "PlayStation 3 system software",
+      "canonical_url": "https://en.wikipedia.org/wiki/PlayStation_3_system_software",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 471,
+          "section": [
+            "Proprietary",
+            "Sony"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PlayStation 3 system software",
+          "links": [
+            {
+              "label": "PlayStation 3 system software",
+              "target": "https://en.wikipedia.org/wiki/PlayStation_3_system_software",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "playstation-4-system-software",
+      "suggested_title": "PlayStation 4 system software",
+      "canonical_title": "PlayStation 4 system software",
+      "canonical_url": "https://en.wikipedia.org/wiki/PlayStation_4_system_software",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 472,
+          "section": [
+            "Proprietary",
+            "Sony"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PlayStation 4 system software",
+          "links": [
+            {
+              "label": "PlayStation 4 system software",
+              "target": "https://en.wikipedia.org/wiki/PlayStation_4_system_software",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "playstation-5-system-software",
+      "suggested_title": "PlayStation 5 system software",
+      "canonical_title": "PlayStation 5 system software",
+      "canonical_url": "https://en.wikipedia.org/wiki/PlayStation_5_system_software",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 473,
+          "section": [
+            "Proprietary",
+            "Sony"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PlayStation 5 system software",
+          "links": [
+            {
+              "label": "PlayStation 5 system software",
+              "target": "https://en.wikipedia.org/wiki/PlayStation_5_system_software",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

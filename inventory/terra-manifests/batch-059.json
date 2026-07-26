@@ -1,0 +1,316 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 59,
+  "candidates": [
+    {
+      "candidate_id": "v",
+      "suggested_title": "V",
+      "canonical_title": "V (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/V_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 637,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "V – from Stanford, early 1980s [ 38 ]",
+          "links": [
+            {
+              "label": "V",
+              "target": "https://en.wikipedia.org/wiki/V_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "[ 38 ]",
+              "target": "https://en.wikipedia.org#cite_note-capabook-38",
+              "article": false
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 898,
+          "section": [
+            "Capability-based"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "V – from Stanford, early 1980s [ 38 ]",
+          "links": [
+            {
+              "label": "V",
+              "target": "https://en.wikipedia.org/wiki/V_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "[ 38 ]",
+              "target": "https://en.wikipedia.org#cite_note-capabook-38",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "verve",
+      "suggested_title": "Verve",
+      "canonical_title": "Verve (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Verve_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 638,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Verve – OS designed by Microsoft Research to be verified end-to-end for type safety and memory safety",
+          "links": [
+            {
+              "label": "Verve",
+              "target": "https://en.wikipedia.org/wiki/Verve_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "type safety",
+              "target": "https://en.wikipedia.org/wiki/Type_safety",
+              "article": true
+            },
+            {
+              "label": "memory safety",
+              "target": "https://en.wikipedia.org/wiki/Memory_safety",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "xinu",
+      "suggested_title": "Xinu",
+      "canonical_title": "Xinu",
+      "canonical_url": "https://en.wikipedia.org/wiki/Xinu",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 639,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Xinu – Study OS developed by Douglas E. Comer in the United States [ 39 ]",
+          "links": [
+            {
+              "label": "Xinu",
+              "target": "https://en.wikipedia.org/wiki/Xinu",
+              "article": true
+            },
+            {
+              "label": "Douglas E. Comer",
+              "target": "https://en.wikipedia.org/wiki/Douglas_E._Comer",
+              "article": true
+            },
+            {
+              "label": "[ 39 ]",
+              "target": "https://en.wikipedia.org#cite_note-39",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "86-dos",
+      "suggested_title": "86-DOS",
+      "canonical_title": "86-DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/86-DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 640,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "86-DOS (developed at Seattle Computer Products by Tim Paterson for the new Intel 808x CPUs; licensed to Microsoft , became PC DOS/MS-DOS. Also known by its working title QDOS.)",
+          "links": [
+            {
+              "label": "86-DOS",
+              "target": "https://en.wikipedia.org/wiki/86-DOS",
+              "article": true
+            },
+            {
+              "label": "Microsoft",
+              "target": "https://en.wikipedia.org/wiki/Microsoft",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "pc-dos-2",
+      "suggested_title": "PC DOS",
+      "canonical_title": "IBM PC DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_PC_DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 641,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 2,
+          "parent_position": 640,
+          "label": "PC DOS (IBM's DOS variant, developed jointly with Microsoft, versions 1.0–7.0, 2000, 7.10)",
+          "links": [
+            {
+              "label": "PC DOS",
+              "target": "https://en.wikipedia.org/wiki/IBM_PC_DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ims-real-32-7-50-7-51-7-52-7-53-7-54-7-60-7-61-7-62-7-63-7-70-7-71-7-72-7-73-7-74-7-80-7-81-7-82-7-83-7-90-7-91-7-92-7-93-7-94-7-95-bdos-6-8-and-higher-derivative-of-multiuser-dos",
+      "suggested_title": "IMS REAL/32 7.50, 7.51, 7.52, 7.53, 7.54, 7.60, 7.61, 7.62, 7.63, 7.70, 7.71, 7.72, 7.73, 7.74, 7.80, 7.81, 7.82, 7.83, 7.90, 7.91, 7.92, 7.93, 7.94, 7.95 (BDOS 6.8 and higher) (derivative of Multiuser DOS)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 666,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 6,
+          "parent_position": 665,
+          "label": "IMS REAL/32 7.50, 7.51, 7.52, 7.53, 7.54, 7.60, 7.61, 7.62, 7.63, 7.70, 7.71, 7.72, 7.73, 7.74, 7.80, 7.81, 7.82, 7.83, 7.90, 7.91, 7.92, 7.93, 7.94, 7.95 (BDOS 6.8 and higher) (derivative of Multiuser DOS)",
+          "links": [
+            {
+              "label": "REAL/32",
+              "target": "https://en.wikipedia.org/wiki/REAL/32",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "ims-real-ng-successor-of-real-32",
+      "suggested_title": "IMS REAL/NG (successor of REAL/32)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 667,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 7,
+          "parent_position": 666,
+          "label": "IMS REAL/NG (successor of REAL/32)",
+          "links": [
+            {
+              "label": "REAL/NG",
+              "target": "https://en.wikipedia.org/wiki/REAL/NG",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "novell-palmdos-1-bdos-7-0",
+      "suggested_title": "Novell PalmDOS 1 (BDOS 7.0)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 670,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 5,
+          "parent_position": 669,
+          "label": "Novell PalmDOS 1 (BDOS 7.0)",
+          "links": [
+            {
+              "label": "PalmDOS",
+              "target": "https://en.wikipedia.org/wiki/PalmDOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "novell-dr-dos-startrek",
+      "suggested_title": "Novell DR DOS \"StarTrek\"",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 671,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 5,
+          "parent_position": 669,
+          "label": "Novell DR DOS \"StarTrek\"",
+          "links": [
+            {
+              "label": "DR DOS \"StarTrek\"",
+              "target": "https://en.wikipedia.org/wiki/DR_DOS_%22StarTrek%22",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "novell-dos-7-updates-1-10-bdos-7-2",
+      "suggested_title": "Novell DOS 7 updates 1-10 (BDOS 7.2)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 673,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 6,
+          "parent_position": 672,
+          "label": "Novell DOS 7 updates 1-10 (BDOS 7.2)",
+          "links": [],
+          "has_children": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 55,
+  "candidates": [
+    {
+      "candidate_id": "vsta",
+      "suggested_title": "VSTa",
+      "canonical_title": "VSTa",
+      "canonical_url": "https://en.wikipedia.org/wiki/VSTa",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 591,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "VSTa",
+          "links": [
+            {
+              "label": "VSTa",
+              "target": "https://en.wikipedia.org/wiki/VSTa",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "plurix",
+      "suggested_title": "Plurix",
+      "canonical_title": "Plurix",
+      "canonical_url": "https://en.wikipedia.org/wiki/Plurix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 592,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Plurix (or Tropix [ 32 ] ) (by Federal University of Rio de Janeiro – UFRJ)",
+          "links": [
+            {
+              "label": "Plurix",
+              "target": "https://en.wikipedia.org/wiki/Plurix",
+              "article": true
+            },
+            {
+              "label": "[ 32 ]",
+              "target": "https://en.wikipedia.org#cite_note-32",
+              "article": false
+            },
+            {
+              "label": "Federal University of Rio de Janeiro",
+              "target": "https://en.wikipedia.org/wiki/Federal_University_of_Rio_de_Janeiro",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tunis",
+      "suggested_title": "TUNIS",
+      "canonical_title": "TUNIS",
+      "canonical_url": "https://en.wikipedia.org/wiki/TUNIS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 593,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TUNIS (University of Toronto)",
+          "links": [
+            {
+              "label": "TUNIS",
+              "target": "https://en.wikipedia.org/wiki/TUNIS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "xv6",
+      "suggested_title": "Xv6",
+      "canonical_title": "Xv6",
+      "canonical_url": "https://en.wikipedia.org/wiki/Xv6",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 594,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Xv6 - a simple Unix-like teaching operating system from MIT",
+          "links": [
+            {
+              "label": "Xv6",
+              "target": "https://en.wikipedia.org/wiki/Xv6",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "serenityos",
+      "suggested_title": "SerenityOS",
+      "canonical_title": "SerenityOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/SerenityOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 595,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SerenityOS - aims to be a modern Unix-like operating system, yet with a look and feel that emulates 1990s operating systems such as Microsoft Windows and the classic Mac OS .",
+          "links": [
+            {
+              "label": "SerenityOS",
+              "target": "https://en.wikipedia.org/wiki/SerenityOS",
+              "article": true
+            },
+            {
+              "label": "Microsoft Windows",
+              "target": "https://en.wikipedia.org/wiki/Microsoft_Windows",
+              "article": true
+            },
+            {
+              "label": "classic Mac OS",
+              "target": "https://en.wikipedia.org/wiki/Classic_Mac_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 755,
+          "section": [
+            "Hobby"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SerenityOS",
+          "links": [
+            {
+              "label": "SerenityOS",
+              "target": "https://en.wikipedia.org/wiki/SerenityOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cosmos",
+      "suggested_title": "Cosmos",
+      "canonical_title": "Cosmos (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Cosmos_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 596,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Cosmos – written in C#",
+          "links": [
+            {
+              "label": "Cosmos",
+              "target": "https://en.wikipedia.org/wiki/Cosmos_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "emutos",
+      "suggested_title": "EmuTOS",
+      "canonical_title": "EmuTOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/EmuTOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 597,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "EmuTOS - open source Atari TOS variant",
+          "links": [
+            {
+              "label": "EmuTOS",
+              "target": "https://en.wikipedia.org/wiki/EmuTOS",
+              "article": true
+            },
+            {
+              "label": "Atari TOS",
+              "target": "https://en.wikipedia.org/wiki/Atari_TOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 747,
+          "section": [
+            "Hobby"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "EmuTOS",
+          "links": [
+            {
+              "label": "EmuTOS",
+              "target": "https://en.wikipedia.org/wiki/EmuTOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "freedos",
+      "suggested_title": "FreeDOS",
+      "canonical_title": "FreeDOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/FreeDOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 598,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "FreeDOS – open source MS-DOS variant",
+          "links": [
+            {
+              "label": "FreeDOS",
+              "target": "https://en.wikipedia.org/wiki/FreeDOS",
+              "article": true
+            },
+            {
+              "label": "MS-DOS",
+              "target": "https://en.wikipedia.org/wiki/MS-DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 683,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "FreeDOS ( open source DOS variant)",
+          "links": [
+            {
+              "label": "FreeDOS",
+              "target": "https://en.wikipedia.org/wiki/FreeDOS",
+              "article": true
+            },
+            {
+              "label": "open source",
+              "target": "https://en.wikipedia.org/wiki/Open-source_software",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "genode",
+      "suggested_title": "Genode",
+      "canonical_title": "Genode",
+      "canonical_url": "https://en.wikipedia.org/wiki/Genode",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 599,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Genode – operating system framework for microkernels (written in C++)",
+          "links": [
+            {
+              "label": "Genode",
+              "target": "https://en.wikipedia.org/wiki/Genode",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "haiku",
+      "suggested_title": "Haiku",
+      "canonical_title": "Haiku (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Haiku_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 601,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Haiku – open source inspired by BeOS , in development",
+          "links": [
+            {
+              "label": "Haiku",
+              "target": "https://en.wikipedia.org/wiki/Haiku_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "BeOS",
+              "target": "https://en.wikipedia.org/wiki/BeOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

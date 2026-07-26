@@ -1,0 +1,282 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 74,
+  "candidates": [
+    {
+      "candidate_id": "fuchsia-2",
+      "suggested_title": "Fuchsia",
+      "canonical_title": "Google Fuchsia",
+      "canonical_url": "https://en.wikipedia.org/wiki/Google_Fuchsia",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 868,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Fuchsia",
+          "links": [
+            {
+              "label": "Fuchsia",
+              "target": "https://en.wikipedia.org/wiki/Google_Fuchsia",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "openembedded",
+      "suggested_title": "OpenEmbedded",
+      "canonical_title": "OpenEmbedded",
+      "canonical_url": "https://en.wikipedia.org/wiki/OpenEmbedded",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 869,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OpenEmbedded (or Yocto Project )",
+          "links": [
+            {
+              "label": "OpenEmbedded",
+              "target": "https://en.wikipedia.org/wiki/OpenEmbedded",
+              "article": true
+            },
+            {
+              "label": "Yocto Project",
+              "target": "https://en.wikipedia.org/wiki/Yocto_Project",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "psos",
+      "suggested_title": "pSOS",
+      "canonical_title": "PSOS (real-time operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/PSOS_(real-time_operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 871,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "pSOS (Portable Software On Silicon)",
+          "links": [
+            {
+              "label": "pSOS",
+              "target": "https://en.wikipedia.org/wiki/PSOS_(real-time_operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "px5-rtos",
+      "suggested_title": "PX5 RTOS",
+      "canonical_title": "PX5 RTOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/PX5_RTOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 872,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PX5 RTOS",
+          "links": [
+            {
+              "label": "PX5 RTOS",
+              "target": "https://en.wikipedia.org/wiki/PX5_RTOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "rex-os",
+      "suggested_title": "REX OS",
+      "canonical_title": "REX OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/REX_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 874,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "REX OS – microkernel; usually an embedded cell phone OS",
+          "links": [
+            {
+              "label": "REX OS",
+              "target": "https://en.wikipedia.org/wiki/REX_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "riot",
+      "suggested_title": "RIOT",
+      "canonical_title": "RIOT (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/RIOT_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 875,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RIOT",
+          "links": [
+            {
+              "label": "RIOT",
+              "target": "https://en.wikipedia.org/wiki/RIOT_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "rom-dos",
+      "suggested_title": "ROM-DOS",
+      "canonical_title": "ROM-DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/ROM-DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 876,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ROM-DOS",
+          "links": [
+            {
+              "label": "ROM-DOS",
+              "target": "https://en.wikipedia.org/wiki/ROM-DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tinyos",
+      "suggested_title": "TinyOS",
+      "canonical_title": "TinyOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/TinyOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 877,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TinyOS",
+          "links": [
+            {
+              "label": "TinyOS",
+              "target": "https://en.wikipedia.org/wiki/TinyOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "threadx",
+      "suggested_title": "ThreadX",
+      "canonical_title": "ThreadX",
+      "canonical_url": "https://en.wikipedia.org/wiki/ThreadX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 878,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ThreadX",
+          "links": [
+            {
+              "label": "ThreadX",
+              "target": "https://en.wikipedia.org/wiki/ThreadX",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "rt-thread",
+      "suggested_title": "RT-Thread",
+      "canonical_title": "RT-Thread",
+      "canonical_url": "https://en.wikipedia.org/wiki/RT-Thread",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 880,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RT-Thread",
+          "links": [
+            {
+              "label": "RT-Thread",
+              "target": "https://en.wikipedia.org/wiki/RT-Thread",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

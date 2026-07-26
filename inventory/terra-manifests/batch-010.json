@@ -1,0 +1,322 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 10,
+  "candidates": [
+    {
+      "candidate_id": "mace-mansfield-and-cahlander-executive",
+      "suggested_title": "MACE (Mansfield and Cahlander Executive)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 96,
+          "section": [
+            "Proprietary",
+            "Control Data Corporation",
+            "6x00 and related Cyber"
+          ],
+          "depth": 2,
+          "parent_position": 95,
+          "label": "MACE (Mansfield and Cahlander Executive)",
+          "links": [],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "kronos",
+      "suggested_title": "Kronos",
+      "canonical_title": "CDC Kronos",
+      "canonical_url": "https://en.wikipedia.org/wiki/CDC_Kronos",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 97,
+          "section": [
+            "Proprietary",
+            "Control Data Corporation",
+            "6x00 and related Cyber"
+          ],
+          "depth": 3,
+          "parent_position": 96,
+          "label": "Kronos (Kronographic OS) [ 5 ]",
+          "links": [
+            {
+              "label": "Kronos",
+              "target": "https://en.wikipedia.org/wiki/CDC_Kronos",
+              "article": true
+            },
+            {
+              "label": "[ 5 ]",
+              "target": "https://en.wikipedia.org#cite_note-5",
+              "article": false
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "nos",
+      "suggested_title": "NOS",
+      "canonical_title": "NOS (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/NOS_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 98,
+          "section": [
+            "Proprietary",
+            "Control Data Corporation",
+            "6x00 and related Cyber"
+          ],
+          "depth": 4,
+          "parent_position": 97,
+          "label": "NOS (Network Operating System) [ 6 ] [ 7 ]",
+          "links": [
+            {
+              "label": "NOS",
+              "target": "https://en.wikipedia.org/wiki/NOS_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "[ 6 ]",
+              "target": "https://en.wikipedia.org#cite_note-6",
+              "article": false
+            },
+            {
+              "label": "[ 7 ]",
+              "target": "https://en.wikipedia.org#cite_note-7",
+              "article": false
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "nos-ve",
+      "suggested_title": "NOS/VE",
+      "canonical_title": "NOS/VE",
+      "canonical_url": "https://en.wikipedia.org/wiki/NOS/VE",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 99,
+          "section": [
+            "Proprietary",
+            "Control Data Corporation",
+            "6x00 and related Cyber"
+          ],
+          "depth": 5,
+          "parent_position": 98,
+          "label": "NOS/VE (NOS Virtual Environment)",
+          "links": [
+            {
+              "label": "NOS/VE",
+              "target": "https://en.wikipedia.org/wiki/NOS/VE",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "nos-be-nos-batch-environment-9",
+      "suggested_title": "NOS/BE NOS Batch Environment [ 9 ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 101,
+          "section": [
+            "Proprietary",
+            "Control Data Corporation",
+            "6x00 and related Cyber"
+          ],
+          "depth": 3,
+          "parent_position": 100,
+          "label": "NOS/BE NOS Batch Environment [ 9 ]",
+          "links": [
+            {
+              "label": "[ 9 ]",
+              "target": "https://en.wikipedia.org#cite_note-9",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "sipros-simultaneous-processing-operating-system-10",
+      "suggested_title": "SIPROS (Simultaneous Processing Operating System) [ 10 ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 102,
+          "section": [
+            "Proprietary",
+            "Control Data Corporation",
+            "6x00 and related Cyber"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SIPROS (Simultaneous Processing Operating System) [ 10 ]",
+          "links": [
+            {
+              "label": "[ 10 ]",
+              "target": "https://en.wikipedia.org#cite_note-10",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "puffin-os",
+      "suggested_title": "Puffin OS",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 103,
+          "section": [
+            "Proprietary",
+            "CloudMosa"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Puffin OS",
+          "links": [
+            {
+              "label": "Puffin OS",
+              "target": "https://en.wikipedia.org/w/index.php?title=Puffin_OS&action=edit&redlink=1",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "convergent-technologies-operating-system",
+      "suggested_title": "Convergent Technologies Operating System",
+      "canonical_title": "Convergent Technologies Operating System",
+      "canonical_url": "https://en.wikipedia.org/wiki/Convergent_Technologies_Operating_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 104,
+          "section": [
+            "Proprietary",
+            "Convergent Technologies"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Convergent Technologies Operating System (CTOS) – later acquired by Unisys",
+          "links": [
+            {
+              "label": "Convergent Technologies Operating System",
+              "target": "https://en.wikipedia.org/wiki/Convergent_Technologies_Operating_System",
+              "article": true
+            },
+            {
+              "label": "Unisys",
+              "target": "https://en.wikipedia.org/wiki/Unisys",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cromemco-dos",
+      "suggested_title": "Cromemco DOS",
+      "canonical_title": "Cromemco DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Cromemco_DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 105,
+          "section": [
+            "Proprietary",
+            "Cromemco"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Cromemco DOS (CDOS) – a Disk Operating system compatible with CP/M",
+          "links": [
+            {
+              "label": "Cromemco DOS",
+              "target": "https://en.wikipedia.org/wiki/Cromemco_DOS",
+              "article": true
+            },
+            {
+              "label": "CP/M",
+              "target": "https://en.wikipedia.org/wiki/CP/M",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cromix",
+      "suggested_title": "Cromix",
+      "canonical_title": "Cromix",
+      "canonical_url": "https://en.wikipedia.org/wiki/Cromix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 106,
+          "section": [
+            "Proprietary",
+            "Cromemco"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Cromix – a multitasking, multi-user, Unix -like OS for Cromemco microcomputers with Z80A and/or 68000 CPU",
+          "links": [
+            {
+              "label": "Cromix",
+              "target": "https://en.wikipedia.org/wiki/Cromix",
+              "article": true
+            },
+            {
+              "label": "Unix",
+              "target": "https://en.wikipedia.org/wiki/Unix",
+              "article": true
+            },
+            {
+              "label": "Cromemco",
+              "target": "https://en.wikipedia.org/wiki/Cromemco",
+              "article": true
+            },
+            {
+              "label": "Z80A",
+              "target": "https://en.wikipedia.org/wiki/Zilog_Z80",
+              "article": true
+            },
+            {
+              "label": "68000",
+              "target": "https://en.wikipedia.org/wiki/Motorola_68000",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

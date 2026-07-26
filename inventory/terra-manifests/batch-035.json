@@ -1,0 +1,277 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 35,
+  "candidates": [
+    {
+      "candidate_id": "windows-1-0",
+      "suggested_title": "Windows 1.0",
+      "canonical_title": "Windows 1.0",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_1.0",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 366,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 365,
+          "label": "Windows 1.0 (Windows 1)",
+          "links": [
+            {
+              "label": "Windows 1.0",
+              "target": "https://en.wikipedia.org/wiki/Windows_1.0",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-2-0",
+      "suggested_title": "Windows 2.0",
+      "canonical_title": "Windows 2.0",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_2.0",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 367,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 365,
+          "label": "Windows 2.0 (Windows 2 – separate version for i386 processor)",
+          "links": [
+            {
+              "label": "Windows 2.0",
+              "target": "https://en.wikipedia.org/wiki/Windows_2.0",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-2-1",
+      "suggested_title": "Windows 2.1",
+      "canonical_title": "Windows 2.1",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_2.1",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 368,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 365,
+          "label": "Windows 2.1 (Windows/286, Windows/386)",
+          "links": [
+            {
+              "label": "Windows 2.1",
+              "target": "https://en.wikipedia.org/wiki/Windows_2.1",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-3-0",
+      "suggested_title": "Windows 3.0",
+      "canonical_title": "Windows 3.0",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_3.0",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 369,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 365,
+          "label": "Windows 3.0 (Windows 3)",
+          "links": [
+            {
+              "label": "Windows 3.0",
+              "target": "https://en.wikipedia.org/wiki/Windows_3.0",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-3-1x",
+      "suggested_title": "Windows 3.1x",
+      "canonical_title": "Windows 3.1x",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_3.1x",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 370,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 365,
+          "label": "Windows 3.1x (Windows 3.1)",
+          "links": [
+            {
+              "label": "Windows 3.1x",
+              "target": "https://en.wikipedia.org/wiki/Windows_3.1x",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-for-workgroups-3-1",
+      "suggested_title": "Windows for Workgroups 3.1",
+      "canonical_title": "Windows for Workgroups 3.1",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_for_Workgroups_3.1",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 371,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 365,
+          "label": "Windows for Workgroups 3.1 (Codename Snowball)",
+          "links": [
+            {
+              "label": "Windows for Workgroups 3.1",
+              "target": "https://en.wikipedia.org/wiki/Windows_for_Workgroups_3.1",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-3-2",
+      "suggested_title": "Windows 3.2",
+      "canonical_title": "Windows 3.2",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_3.2",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 372,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 365,
+          "label": "Windows 3.2 (Chinese-only release)",
+          "links": [
+            {
+              "label": "Windows 3.2",
+              "target": "https://en.wikipedia.org/wiki/Windows_3.2",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-for-workgroups-3-11",
+      "suggested_title": "Windows for Workgroups 3.11",
+      "canonical_title": "Windows for Workgroups 3.11",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_for_Workgroups_3.11",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 373,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 365,
+          "label": "Windows for Workgroups 3.11",
+          "links": [
+            {
+              "label": "Windows for Workgroups 3.11",
+              "target": "https://en.wikipedia.org/wiki/Windows_for_Workgroups_3.11",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-95",
+      "suggested_title": "Windows 95",
+      "canonical_title": "Windows 95",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_95",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 374,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 365,
+          "label": "Windows 95 (codename Chicago – Windows 4.0)",
+          "links": [
+            {
+              "label": "Windows 95",
+              "target": "https://en.wikipedia.org/wiki/Windows_95",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-98",
+      "suggested_title": "Windows 98",
+      "canonical_title": "Windows 98",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_98",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 375,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 365,
+          "label": "Windows 98 (codename Memphis – Windows 4.1)",
+          "links": [
+            {
+              "label": "Windows 98",
+              "target": "https://en.wikipedia.org/wiki/Windows_98",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

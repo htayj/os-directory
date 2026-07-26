@@ -1,0 +1,342 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 4,
+  "candidates": [
+    {
+      "candidate_id": "rhapsody",
+      "suggested_title": "Rhapsody",
+      "canonical_title": "Rhapsody (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Rhapsody_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 32,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 26,
+          "label": "Rhapsody",
+          "links": [
+            {
+              "label": "Rhapsody",
+              "target": "https://en.wikipedia.org/wiki/Rhapsody_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 545,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Rhapsody (an early form of Mac OS X)",
+          "links": [
+            {
+              "label": "Rhapsody",
+              "target": "https://en.wikipedia.org/wiki/Rhapsody_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "macos",
+      "suggested_title": "macOS",
+      "canonical_title": "MacOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/MacOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 33,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 26,
+          "label": "macOS (formerly Mac OS X and OS X)",
+          "links": [
+            {
+              "label": "macOS",
+              "target": "https://en.wikipedia.org/wiki/MacOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "macos-server",
+      "suggested_title": "macOS Server",
+      "canonical_title": "MacOS Server",
+      "canonical_url": "https://en.wikipedia.org/wiki/MacOS_Server",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 34,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 3,
+          "parent_position": 33,
+          "label": "macOS Server (formerly Mac OS X Server and OS X Server)",
+          "links": [
+            {
+              "label": "macOS Server",
+              "target": "https://en.wikipedia.org/wiki/MacOS_Server",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "apple-network-server",
+      "suggested_title": "Apple Network Server",
+      "canonical_title": "Apple Network Server",
+      "canonical_url": "https://en.wikipedia.org/wiki/Apple_Network_Server",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 35,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Apple Network Server",
+          "links": [
+            {
+              "label": "Apple Network Server",
+              "target": "https://en.wikipedia.org/wiki/Apple_Network_Server",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "ibm-aix",
+      "suggested_title": "IBM AIX",
+      "canonical_title": "IBM AIX",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_AIX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 36,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 35,
+          "label": "IBM AIX (Apple-customized)",
+          "links": [
+            {
+              "label": "IBM AIX",
+              "target": "https://en.wikipedia.org/wiki/IBM_AIX",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "apple-messagepad",
+      "suggested_title": "Apple MessagePad",
+      "canonical_title": "MessagePad",
+      "canonical_url": "https://en.wikipedia.org/wiki/MessagePad",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 37,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Apple MessagePad",
+          "links": [
+            {
+              "label": "Apple MessagePad",
+              "target": "https://en.wikipedia.org/wiki/MessagePad",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "newton-os",
+      "suggested_title": "Newton OS",
+      "canonical_title": "Newton OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Newton_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 38,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 37,
+          "label": "Newton OS",
+          "links": [
+            {
+              "label": "Newton OS",
+              "target": "https://en.wikipedia.org/wiki/Newton_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 800,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Newton OS on Apple MessagePad",
+          "links": [
+            {
+              "label": "Newton OS",
+              "target": "https://en.wikipedia.org/wiki/Newton_OS",
+              "article": true
+            },
+            {
+              "label": "Apple MessagePad",
+              "target": "https://en.wikipedia.org/wiki/Apple_MessagePad",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "iphone",
+      "suggested_title": "iPhone",
+      "canonical_title": "IPhone",
+      "canonical_url": "https://en.wikipedia.org/wiki/IPhone",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 39,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "iPhone and iPod Touch",
+          "links": [
+            {
+              "label": "iPhone",
+              "target": "https://en.wikipedia.org/wiki/IPhone",
+              "article": true
+            },
+            {
+              "label": "iPod Touch",
+              "target": "https://en.wikipedia.org/wiki/IPod_Touch",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "ios",
+      "suggested_title": "iOS",
+      "canonical_title": "IOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/IOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 40,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 2,
+          "parent_position": 39,
+          "label": "iOS (formerly iPhone OS)",
+          "links": [
+            {
+              "label": "iOS",
+              "target": "https://en.wikipedia.org/wiki/IOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 816,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "iOS",
+          "links": [
+            {
+              "label": "iOS",
+              "target": "https://en.wikipedia.org/wiki/IOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "ipad",
+      "suggested_title": "iPad",
+      "canonical_title": "IPad",
+      "canonical_url": "https://en.wikipedia.org/wiki/IPad",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 41,
+          "section": [
+            "Proprietary",
+            "Apple"
+          ],
+          "depth": 3,
+          "parent_position": 40,
+          "label": "iPad",
+          "links": [
+            {
+              "label": "iPad",
+              "target": "https://en.wikipedia.org/wiki/IPad",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    }
+  ]
+}

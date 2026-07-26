@@ -1,0 +1,319 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 57,
+  "candidates": [
+    {
+      "candidate_id": "visopsys",
+      "suggested_title": "Visopsys",
+      "canonical_title": "Visopsys",
+      "canonical_url": "https://en.wikipedia.org/wiki/Visopsys",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 614,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Visopsys – written in C and assembly by Andy McLaughlin",
+          "links": [
+            {
+              "label": "Visopsys",
+              "target": "https://en.wikipedia.org/wiki/Visopsys",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "quantix",
+      "suggested_title": "Quantix",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 615,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Quantix",
+          "links": [
+            {
+              "label": "Quantix",
+              "target": "https://en.wikipedia.org/w/index.php?title=Quantix&action=edit&redlink=1",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "9front",
+      "suggested_title": "9front",
+      "canonical_title": "9front",
+      "canonical_url": "https://en.wikipedia.org/wiki/9front",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 618,
+          "section": [
+            "Research",
+            "Unix or Unix-like"
+          ],
+          "depth": 2,
+          "parent_position": 616,
+          "label": "9front , a derivative open-source project [ 34 ] made to resurrect Plan 9 [ 35 ] to passionate developers",
+          "links": [
+            {
+              "label": "9front",
+              "target": "https://en.wikipedia.org/wiki/9front",
+              "article": true
+            },
+            {
+              "label": "[ 34 ]",
+              "target": "https://en.wikipedia.org#cite_note-34",
+              "article": false
+            },
+            {
+              "label": "[ 35 ]",
+              "target": "https://en.wikipedia.org#cite_note-35",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "research-unix",
+      "suggested_title": "Research Unix",
+      "canonical_title": "Research Unix",
+      "canonical_url": "https://en.wikipedia.org/wiki/Research_Unix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 619,
+          "section": [
+            "Research",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Research Unix [ 36 ] [ 37 ]",
+          "links": [
+            {
+              "label": "Research Unix",
+              "target": "https://en.wikipedia.org/wiki/Research_Unix",
+              "article": true
+            },
+            {
+              "label": "[ 36 ]",
+              "target": "https://en.wikipedia.org#cite_note-36",
+              "article": false
+            },
+            {
+              "label": "[ 37 ]",
+              "target": "https://en.wikipedia.org#cite_note-37",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "sprite",
+      "suggested_title": "Sprite",
+      "canonical_title": "Sprite (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Sprite_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 620,
+          "section": [
+            "Research",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Sprite from U.C Berkeley",
+          "links": [
+            {
+              "label": "Sprite",
+              "target": "https://en.wikipedia.org/wiki/Sprite_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "accent",
+      "suggested_title": "Accent",
+      "canonical_title": "Accent kernel",
+      "canonical_url": "https://en.wikipedia.org/wiki/Accent_kernel",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 621,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Accent - the precursor of CMU Mach, for the PERQ computer",
+          "links": [
+            {
+              "label": "Accent",
+              "target": "https://en.wikipedia.org/wiki/Accent_kernel",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "amoeba",
+      "suggested_title": "Amoeba",
+      "canonical_title": "Amoeba distributed operating system",
+      "canonical_url": "https://en.wikipedia.org/wiki/Amoeba_distributed_operating_system",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 622,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Amoeba – research OS by Andrew S. Tanenbaum",
+          "links": [
+            {
+              "label": "Amoeba",
+              "target": "https://en.wikipedia.org/wiki/Amoeba_distributed_operating_system",
+              "article": true
+            },
+            {
+              "label": "Andrew S. Tanenbaum",
+              "target": "https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "barrelfish",
+      "suggested_title": "Barrelfish",
+      "canonical_title": "Barrelfish (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Barrelfish_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 623,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Barrelfish",
+          "links": [
+            {
+              "label": "Barrelfish",
+              "target": "https://en.wikipedia.org/wiki/Barrelfish_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "croquet",
+      "suggested_title": "Croquet",
+      "canonical_title": "Croquet Project",
+      "canonical_url": "https://en.wikipedia.org/wiki/Croquet_Project",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 624,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Croquet",
+          "links": [
+            {
+              "label": "Croquet",
+              "target": "https://en.wikipedia.org/wiki/Croquet_Project",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "eros",
+      "suggested_title": "EROS",
+      "canonical_title": "Extremely Reliable Operating System",
+      "canonical_url": "https://en.wikipedia.org/wiki/Extremely_Reliable_Operating_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 625,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "EROS – microkernel, capability-based",
+          "links": [
+            {
+              "label": "EROS",
+              "target": "https://en.wikipedia.org/wiki/Extremely_Reliable_Operating_System",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 897,
+          "section": [
+            "Capability-based"
+          ],
+          "depth": 2,
+          "parent_position": 896,
+          "label": "EROS microkernel",
+          "links": [
+            {
+              "label": "EROS",
+              "target": "https://en.wikipedia.org/wiki/Extremely_Reliable_Operating_System",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

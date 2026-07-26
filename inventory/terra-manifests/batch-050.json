@@ -1,0 +1,396 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 50,
+  "candidates": [
+    {
+      "candidate_id": "dspnano-rtos-posix-nanokernel-dsp-optimized-open-source",
+      "suggested_title": "DSPnano RTOS (POSIX nanokernel, DSP Optimized, Open Source)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 531,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DSPnano RTOS (POSIX nanokernel, DSP Optimized, Open Source)",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "helios",
+      "suggested_title": "HeliOS",
+      "canonical_title": "HeliOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/HeliOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 532,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HeliOS developed and sold by Perihelion Software mainly for transputer -based systems",
+          "links": [
+            {
+              "label": "HeliOS",
+              "target": "https://en.wikipedia.org/wiki/HeliOS",
+              "article": true
+            },
+            {
+              "label": "Perihelion Software",
+              "target": "https://en.wikipedia.org/wiki/Perihelion_Software",
+              "article": true
+            },
+            {
+              "label": "transputer",
+              "target": "https://en.wikipedia.org/wiki/Transputer",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "interactive-unix",
+      "suggested_title": "Interactive Unix",
+      "canonical_title": "Interactive Unix",
+      "canonical_url": "https://en.wikipedia.org/wiki/Interactive_Unix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 533,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Interactive Unix (a port of the UNIX System V operating system for Intel x86 by Interactive Systems Corporation )",
+          "links": [
+            {
+              "label": "Interactive Unix",
+              "target": "https://en.wikipedia.org/wiki/Interactive_Unix",
+              "article": true
+            },
+            {
+              "label": "port",
+              "target": "https://en.wikipedia.org/wiki/Porting",
+              "article": true
+            },
+            {
+              "label": "UNIX System V",
+              "target": "https://en.wikipedia.org/wiki/UNIX_System_V",
+              "article": true
+            },
+            {
+              "label": "operating system",
+              "target": "https://en.wikipedia.org/wiki/Operating_system",
+              "article": true
+            },
+            {
+              "label": "Intel x86",
+              "target": "https://en.wikipedia.org/wiki/X86",
+              "article": true
+            },
+            {
+              "label": "Interactive Systems Corporation",
+              "target": "https://en.wikipedia.org/wiki/Interactive_Systems_Corporation",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "irix",
+      "suggested_title": "IRIX",
+      "canonical_title": "IRIX",
+      "canonical_url": "https://en.wikipedia.org/wiki/IRIX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 534,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "IRIX from SGI",
+          "links": [
+            {
+              "label": "IRIX",
+              "target": "https://en.wikipedia.org/wiki/IRIX",
+              "article": true
+            },
+            {
+              "label": "SGI",
+              "target": "https://en.wikipedia.org/wiki/Silicon_Graphics",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "masix-25-from-masi-laboratory-a-multiserver-operating-system-based-on-mach-microkernel",
+      "suggested_title": "MASIX [ 25 ] from MASI laboratory (a multiserver operating system based on Mach microkernel)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 535,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MASIX [ 25 ] from MASI laboratory (a multiserver operating system based on Mach microkernel)",
+          "links": [
+            {
+              "label": "[ 25 ]",
+              "target": "https://en.wikipedia.org#cite_note-25",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "meikos",
+      "suggested_title": "MeikOS",
+      "canonical_title": "MeikOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/MeikOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 536,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MeikOS",
+          "links": [
+            {
+              "label": "MeikOS",
+              "target": "https://en.wikipedia.org/wiki/MeikOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-9",
+      "suggested_title": "OS-9",
+      "canonical_title": "OS-9",
+      "canonical_url": "https://en.wikipedia.org/wiki/OS-9",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 538,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OS-9 Unix-like RTOS . (OS from Microware for Motorola 6809 based microcomputers)",
+          "links": [
+            {
+              "label": "OS-9",
+              "target": "https://en.wikipedia.org/wiki/OS-9",
+              "article": true
+            },
+            {
+              "label": "Unix-like",
+              "target": "https://en.wikipedia.org/wiki/Unix-like",
+              "article": true
+            },
+            {
+              "label": "RTOS",
+              "target": "https://en.wikipedia.org/wiki/Real-time_operating_system",
+              "article": true
+            },
+            {
+              "label": "Microware",
+              "target": "https://en.wikipedia.org/wiki/Microware",
+              "article": true
+            },
+            {
+              "label": "Motorola 6809",
+              "target": "https://en.wikipedia.org/wiki/Motorola_6809",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os9-68k-unix-like-rtos-os-from-microware-for-motorola-680x0-based-microcomputers-based-on-os-9",
+      "suggested_title": "OS9/68K Unix-like RTOS . (OS from Microware for Motorola 680x0 based microcomputers; based on OS-9 )",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 539,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OS9/68K Unix-like RTOS . (OS from Microware for Motorola 680x0 based microcomputers; based on OS-9 )",
+          "links": [
+            {
+              "label": "Unix-like",
+              "target": "https://en.wikipedia.org/wiki/Unix-like",
+              "article": true
+            },
+            {
+              "label": "RTOS",
+              "target": "https://en.wikipedia.org/wiki/Real-time_operating_system",
+              "article": true
+            },
+            {
+              "label": "Microware",
+              "target": "https://en.wikipedia.org/wiki/Microware",
+              "article": true
+            },
+            {
+              "label": "Motorola 680x0",
+              "target": "https://en.wikipedia.org/wiki/Motorola_68000_series",
+              "article": true
+            },
+            {
+              "label": "OS-9",
+              "target": "https://en.wikipedia.org/wiki/OS-9",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-9000",
+      "suggested_title": "OS-9000",
+      "canonical_title": "OS-9000",
+      "canonical_url": "https://en.wikipedia.org/wiki/OS-9000",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 540,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OS-9000 Unix-like RTOS . (OS from Microware for Intel x86 based microcomputers; based on OS-9 , written in C )",
+          "links": [
+            {
+              "label": "OS-9000",
+              "target": "https://en.wikipedia.org/wiki/OS-9000",
+              "article": true
+            },
+            {
+              "label": "Unix-like",
+              "target": "https://en.wikipedia.org/wiki/Unix-like",
+              "article": true
+            },
+            {
+              "label": "RTOS",
+              "target": "https://en.wikipedia.org/wiki/Real-time_operating_system",
+              "article": true
+            },
+            {
+              "label": "Microware",
+              "target": "https://en.wikipedia.org/wiki/Microware",
+              "article": true
+            },
+            {
+              "label": "Intel",
+              "target": "https://en.wikipedia.org/wiki/Intel",
+              "article": true
+            },
+            {
+              "label": "OS-9",
+              "target": "https://en.wikipedia.org/wiki/OS-9",
+              "article": true
+            },
+            {
+              "label": "C",
+              "target": "https://en.wikipedia.org/wiki/C_(programming_language)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "osf-1",
+      "suggested_title": "OSF/1",
+      "canonical_title": "OSF/1",
+      "canonical_url": "https://en.wikipedia.org/wiki/OSF/1",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 541,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OSF/1 (developed into a commercial offering by Digital Equipment Corporation )",
+          "links": [
+            {
+              "label": "OSF/1",
+              "target": "https://en.wikipedia.org/wiki/OSF/1",
+              "article": true
+            },
+            {
+              "label": "Digital Equipment Corporation",
+              "target": "https://en.wikipedia.org/wiki/Digital_Equipment_Corporation",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

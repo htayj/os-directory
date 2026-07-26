@@ -1,0 +1,339 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 22,
+  "candidates": [
+    {
+      "candidate_id": "1410",
+      "suggested_title": "1410",
+      "canonical_title": "IBM 1410",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_1410",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 222,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On early mainframes: 1410, 7010, 704, 709, 7090, 7094, 7040, 7044, 7030"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "1410 Processor Operating System (PR-155) for the 1410 and 7010",
+          "links": [
+            {
+              "label": "1410",
+              "target": "https://en.wikipedia.org/wiki/IBM_1410",
+              "article": true
+            },
+            {
+              "label": "7010",
+              "target": "https://en.wikipedia.org/wiki/IBM_7010",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "share-operating-system",
+      "suggested_title": "SHARE Operating System",
+      "canonical_title": "SHARE Operating System",
+      "canonical_url": "https://en.wikipedia.org/wiki/SHARE_Operating_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 223,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On early mainframes: 1410, 7010, 704, 709, 7090, 7094, 7040, 7044, 7030"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SHARE Operating System (SOS) – for the IBM 704 and 709",
+          "links": [
+            {
+              "label": "SHARE Operating System",
+              "target": "https://en.wikipedia.org/wiki/SHARE_Operating_System",
+              "article": true
+            },
+            {
+              "label": "IBM 704",
+              "target": "https://en.wikipedia.org/wiki/IBM_704",
+              "article": true
+            },
+            {
+              "label": "709",
+              "target": "https://en.wikipedia.org/wiki/IBM_709",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "university-of-michigan-executive-system",
+      "suggested_title": "University of Michigan Executive System",
+      "canonical_title": "University of Michigan Executive System",
+      "canonical_url": "https://en.wikipedia.org/wiki/University_of_Michigan_Executive_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 224,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On early mainframes: 1410, 7010, 704, 709, 7090, 7094, 7040, 7044, 7030"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "University of Michigan Executive System (UMES) – for the IBM 704 , 709 , and 7090 )",
+          "links": [
+            {
+              "label": "University of Michigan Executive System",
+              "target": "https://en.wikipedia.org/wiki/University_of_Michigan_Executive_System",
+              "article": true
+            },
+            {
+              "label": "IBM 704",
+              "target": "https://en.wikipedia.org/wiki/IBM_704",
+              "article": true
+            },
+            {
+              "label": "709",
+              "target": "https://en.wikipedia.org/wiki/IBM_709",
+              "article": true
+            },
+            {
+              "label": "7090",
+              "target": "https://en.wikipedia.org/wiki/IBM_7090",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-360-and-successors",
+      "suggested_title": "OS/360 and successors",
+      "canonical_title": "OS/360 and successors",
+      "canonical_url": "https://en.wikipedia.org/wiki/OS/360_and_successors",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 225,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OS/360 and successors on IBM S/360, S/370, and successor mainframes",
+          "links": [
+            {
+              "label": "OS/360 and successors",
+              "target": "https://en.wikipedia.org/wiki/OS/360_and_successors",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-360",
+      "suggested_title": "OS/360",
+      "canonical_title": "OS/360",
+      "canonical_url": "https://en.wikipedia.org/wiki/OS/360",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 226,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 225,
+          "label": "OS/360 (first official OS targeted for the System/360 architecture)",
+          "links": [
+            {
+              "label": "OS/360",
+              "target": "https://en.wikipedia.org/wiki/OS/360",
+              "article": true
+            },
+            {
+              "label": "System/360",
+              "target": "https://en.wikipedia.org/wiki/System/360",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "pcp-primary-control-program-a-kernel-and-a-ground-breaking-automatic-space-allocating-file-system",
+      "suggested_title": "PCP (Primary Control Program, a kernel and a ground breaking automatic space allocating file system)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 227,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 3,
+          "parent_position": 226,
+          "label": "PCP (Primary Control Program, a kernel and a ground breaking automatic space allocating file system)",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mft",
+      "suggested_title": "MFT",
+      "canonical_title": "MFT (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/MFT_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 228,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 3,
+          "parent_position": 226,
+          "label": "MFT (original Multi-programming with a Fixed number of Tasks, replaced by MFT II)",
+          "links": [
+            {
+              "label": "MFT",
+              "target": "https://en.wikipedia.org/wiki/MFT_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 229,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 3,
+          "parent_position": 226,
+          "label": "MFT II (Multi-Programming with a Fixed number of Tasks, had up to 15 fixed size application partitions, plus partitions for system tasks, initially defined at boot time but redefinable by operator command)",
+          "links": [
+            {
+              "label": "MFT II",
+              "target": "https://en.wikipedia.org/wiki/MFT_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mvt",
+      "suggested_title": "MVT",
+      "canonical_title": "Multiprogramming with a Variable number of Tasks",
+      "canonical_url": "https://en.wikipedia.org/wiki/Multiprogramming_with_a_Variable_number_of_Tasks",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 230,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 3,
+          "parent_position": 226,
+          "label": "MVT (Multi-Programming with a Variable number of Tasks, had up to 15 application regions defined dynamically, plus additional regions for system tasks)",
+          "links": [
+            {
+              "label": "MVT",
+              "target": "https://en.wikipedia.org/wiki/Multiprogramming_with_a_Variable_number_of_Tasks",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "m65mp-mvt-with-support-for-a-multiprocessor-360-65",
+      "suggested_title": "M65MP (MVT with support for a multiprocessor 360/65)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 231,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 3,
+          "parent_position": 226,
+          "label": "M65MP (MVT with support for a multiprocessor 360/65)",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-vs",
+      "suggested_title": "OS/VS",
+      "canonical_title": "OS/VS",
+      "canonical_url": "https://en.wikipedia.org/wiki/OS/VS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 232,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 225,
+          "label": "OS/VS (port of OS/360 targeted for the System/370 virtual memory architecture (OS/370 is not the correct name for OS/VS1 and OS/VS2.) OS/VS has the following variations:",
+          "links": [
+            {
+              "label": "OS/VS",
+              "target": "https://en.wikipedia.org/wiki/OS/VS",
+              "article": true
+            },
+            {
+              "label": "System/370",
+              "target": "https://en.wikipedia.org/wiki/System/370",
+              "article": true
+            },
+            {
+              "label": "virtual memory",
+              "target": "https://en.wikipedia.org/wiki/Virtual_memory",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    }
+  ]
+}

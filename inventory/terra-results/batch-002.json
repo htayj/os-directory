@@ -1,0 +1,76 @@
+{
+  "schema_version": "0.1",
+  "batch": 2,
+  "results": [
+    {
+      "candidate_id": "amsdos",
+      "disposition": "included-system",
+      "path": "systems/amsdos/",
+      "canonical_title": "AMSDOS",
+      "notes": "Distinct Amstrad disk operating-system identity; DDI-1 manual supplies first-pass primary evidence."
+    },
+    {
+      "candidate_id": "contiki",
+      "disposition": "included-system",
+      "path": "systems/contiki/",
+      "canonical_title": "Contiki",
+      "notes": "One system identity despite repeated list placements; historical project tree is distinct from successor Contiki-NG."
+    },
+    {
+      "candidate_id": "cp-m-2-2",
+      "disposition": "included-release",
+      "path": null,
+      "canonical_title": "CP/M 2.2",
+      "notes": "Version-level title of CP/M; it belongs under the CP/M system record, which is not a candidate directory owned by this batch."
+    },
+    {
+      "candidate_id": "cp-m-plus",
+      "disposition": "included-release",
+      "path": null,
+      "canonical_title": "CP/M Plus",
+      "notes": "Named CP/M release line (BDOS 3.0), not a separate operating-system lineage; parent CP/M record is outside this batch."
+    },
+    {
+      "candidate_id": "symbos",
+      "disposition": "included-system",
+      "path": "systems/symbos/",
+      "canonical_title": "SymbOS",
+      "notes": "Independently named multitasking graphical Z80 operating system; official project documentation consulted."
+    },
+    {
+      "candidate_id": "apple-ii",
+      "disposition": "not-an-operating-system",
+      "path": null,
+      "canonical_title": "Apple II",
+      "notes": "Hardware computer-family identity, not an operating system."
+    },
+    {
+      "candidate_id": "apple-dos",
+      "disposition": "included-system",
+      "path": "systems/apple-dos/",
+      "canonical_title": "Apple DOS",
+      "notes": "Distinct Apple II disk-operating-system lineage; preserved Apple manual collection used for first-pass evidence."
+    },
+    {
+      "candidate_id": "apple-pascal",
+      "disposition": "included-system",
+      "path": "systems/apple-pascal/",
+      "canonical_title": "Apple Pascal",
+      "notes": "List treats it as a separately named operating-system identity; core historical attributes remain explicitly unresearched."
+    },
+    {
+      "candidate_id": "prodos",
+      "disposition": "included-system",
+      "path": "systems/prodos/",
+      "canonical_title": "ProDOS",
+      "notes": "Distinct Apple II operating-system lineage, preserving both source-list occurrences."
+    },
+    {
+      "candidate_id": "gs-os",
+      "disposition": "included-system",
+      "path": "systems/gs-os/",
+      "canonical_title": "GS/OS",
+      "notes": "Distinct Apple IIGS operating-system lineage; contemporary GS/OS reference manual consulted."
+    }
+  ]
+}

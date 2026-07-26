@@ -1,0 +1,342 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 52,
+  "candidates": [
+    {
+      "candidate_id": "trusted-solaris",
+      "suggested_title": "Trusted Solaris",
+      "canonical_title": "Trusted Solaris",
+      "canonical_url": "https://en.wikipedia.org/wiki/Trusted_Solaris",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 556,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Trusted Solaris (Solaris with kernel and other enhancements to support multilevel security )",
+          "links": [
+            {
+              "label": "Trusted Solaris",
+              "target": "https://en.wikipedia.org/wiki/Trusted_Solaris",
+              "article": true
+            },
+            {
+              "label": "multilevel security",
+              "target": "https://en.wikipedia.org/wiki/Multilevel_security",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "uniflex",
+      "suggested_title": "UniFLEX",
+      "canonical_title": "UniFLEX",
+      "canonical_url": "https://en.wikipedia.org/wiki/UniFLEX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 557,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "UniFLEX ( Unix-like OS from TSC for DMA-capable, extended addresses, Motorola 6809 based computers; e.g. SWTPC , Gimix and others)",
+          "links": [
+            {
+              "label": "UniFLEX",
+              "target": "https://en.wikipedia.org/wiki/UniFLEX",
+              "article": true
+            },
+            {
+              "label": "Unix-like",
+              "target": "https://en.wikipedia.org/wiki/Unix-like",
+              "article": true
+            },
+            {
+              "label": "TSC",
+              "target": "https://en.wikipedia.org/wiki/Technical_Systems_Consultants",
+              "article": true
+            },
+            {
+              "label": "SWTPC",
+              "target": "https://en.wikipedia.org/wiki/SWTPC",
+              "article": true
+            },
+            {
+              "label": "Gimix",
+              "target": "https://en.wikipedia.org/wiki/Gimix",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "unicos",
+      "suggested_title": "Unicos",
+      "canonical_title": "Unicos",
+      "canonical_url": "https://en.wikipedia.org/wiki/Unicos",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 558,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Unicos (the version of Unix designed for Cray Supercomputers, mainly geared to vector calculations)",
+          "links": [
+            {
+              "label": "Unicos",
+              "target": "https://en.wikipedia.org/wiki/Unicos",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "utx-32-developed-by-gould-csd-computer-system-division-a-unix-based-os-that-included-both-bsd-and-system-v-characteristics-it-was-one-of-the-first-unix-based-systems-to-receive-nsa-s-c2-security-level-certification-citation-needed",
+      "suggested_title": "UTX-32 (Developed by Gould CSD (Computer System Division), a Unix-based OS that included both BSD and System V characteristics. It was one of the first Unix based systems to receive NSA's C2 security level certification.) [ citation needed ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 559,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "UTX-32 (Developed by Gould CSD (Computer System Division), a Unix-based OS that included both BSD and System V characteristics. It was one of the first Unix based systems to receive NSA's C2 security level certification.) [ citation needed ]",
+          "links": [
+            {
+              "label": "citation needed",
+              "target": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "zenix-zenith-corporations-unix-a-popular-usa-electronics-maker-at-the-time-citation-needed",
+      "suggested_title": "Zenix , Zenith corporations Unix (a popular USA electronics maker at the time) [ citation needed ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 560,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Zenix , Zenith corporations Unix (a popular USA electronics maker at the time) [ citation needed ]",
+          "links": [
+            {
+              "label": "Zenix",
+              "target": "https://en.wikipedia.org/w/index.php?title=Zenix&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "citation needed",
+              "target": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "minix",
+      "suggested_title": "MINIX",
+      "canonical_title": "MINIX",
+      "canonical_url": "https://en.wikipedia.org/wiki/MINIX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 561,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MINIX (study OS developed by Andrew S. Tanenbaum in the Netherlands )",
+          "links": [
+            {
+              "label": "MINIX",
+              "target": "https://en.wikipedia.org/wiki/MINIX",
+              "article": true
+            },
+            {
+              "label": "Andrew S. Tanenbaum",
+              "target": "https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum",
+              "article": true
+            },
+            {
+              "label": "Netherlands",
+              "target": "https://en.wikipedia.org/wiki/Netherlands",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "berkeley-software-distribution",
+      "suggested_title": "Berkeley Software Distribution",
+      "canonical_title": "Berkeley Software Distribution",
+      "canonical_url": "https://en.wikipedia.org/wiki/Berkeley_Software_Distribution",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 562,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Berkeley Software Distribution (BSD), a variant of Unix originally for DEC PDP-11 and VAX hardware)",
+          "links": [
+            {
+              "label": "Berkeley Software Distribution",
+              "target": "https://en.wikipedia.org/wiki/Berkeley_Software_Distribution",
+              "article": true
+            },
+            {
+              "label": "DEC",
+              "target": "https://en.wikipedia.org/wiki/Digital_Equipment_Corporation",
+              "article": true
+            },
+            {
+              "label": "PDP-11",
+              "target": "https://en.wikipedia.org/wiki/PDP-11",
+              "article": true
+            },
+            {
+              "label": "VAX",
+              "target": "https://en.wikipedia.org/wiki/VAX",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "freebsd",
+      "suggested_title": "FreeBSD",
+      "canonical_title": "FreeBSD",
+      "canonical_url": "https://en.wikipedia.org/wiki/FreeBSD",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 563,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 2,
+          "parent_position": 562,
+          "label": "FreeBSD (one of the outgrowths of UC Regents' abandonment of CSRG 's 'BSD Unix')",
+          "links": [
+            {
+              "label": "FreeBSD",
+              "target": "https://en.wikipedia.org/wiki/FreeBSD",
+              "article": true
+            },
+            {
+              "label": "CSRG",
+              "target": "https://en.wikipedia.org/wiki/CSRG",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "dragonfly-bsd",
+      "suggested_title": "DragonFly BSD",
+      "canonical_title": "DragonFly BSD",
+      "canonical_url": "https://en.wikipedia.org/wiki/DragonFly_BSD",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 564,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 3,
+          "parent_position": 563,
+          "label": "DragonFly BSD , forked from FreeBSD 4.8",
+          "links": [
+            {
+              "label": "DragonFly BSD",
+              "target": "https://en.wikipedia.org/wiki/DragonFly_BSD",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "midnightbsd",
+      "suggested_title": "MidnightBSD",
+      "canonical_title": "MidnightBSD",
+      "canonical_url": "https://en.wikipedia.org/wiki/MidnightBSD",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 565,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 3,
+          "parent_position": 563,
+          "label": "MidnightBSD , forked from FreeBSD 6.1",
+          "links": [
+            {
+              "label": "MidnightBSD",
+              "target": "https://en.wikipedia.org/wiki/MidnightBSD",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 43,
+  "candidates": [
+    {
+      "candidate_id": "rtxc-quadros",
+      "suggested_title": "RTXC Quadros",
+      "canonical_title": "RTXC Quadros",
+      "canonical_url": "https://en.wikipedia.org/wiki/RTXC_Quadros",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 446,
+          "section": [
+            "Proprietary",
+            "Quadros Systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RTXC Quadros RTOS – proprietary C-based RTOS used in embedded systems",
+          "links": [
+            {
+              "label": "RTXC Quadros",
+              "target": "https://en.wikipedia.org/wiki/RTXC_Quadros",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "time-sharing-operating-system",
+      "suggested_title": "Time Sharing Operating System",
+      "canonical_title": "Time Sharing Operating System",
+      "canonical_url": "https://en.wikipedia.org/wiki/Time_Sharing_Operating_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 447,
+          "section": [
+            "Proprietary",
+            "RCA"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Time Sharing Operating System (TSOS) – first OS supporting virtual addressing of the main storage and support for both timeshare and batch interface",
+          "links": [
+            {
+              "label": "Time Sharing Operating System",
+              "target": "https://en.wikipedia.org/wiki/Time_Sharing_Operating_System",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dspnano-rtos",
+      "suggested_title": "DSPnano RTOS",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 448,
+          "section": [
+            "Proprietary",
+            "RoweBots"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DSPnano RTOS – 8/16 Bit Ultra Tiny Embedded Linux Compatible RTOS",
+          "links": [],
+          "has_children": false
+        },
+        {
+          "position": 746,
+          "section": [
+            "Hobby"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DSPnano RTOS",
+          "links": [],
+          "has_children": false
+        },
+        {
+          "position": 815,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DSPnano RTOS",
+          "links": [],
+          "has_children": false
+        },
+        {
+          "position": 881,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DSPnano RTOS",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "bada",
+      "suggested_title": "Bada",
+      "canonical_title": "Bada (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Bada_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 449,
+          "section": [
+            "Proprietary",
+            "Samsung Electronics"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Bada",
+          "links": [
+            {
+              "label": "Bada",
+              "target": "https://en.wikipedia.org/wiki/Bada_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 785,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "bada",
+          "links": [
+            {
+              "label": "bada",
+              "target": "https://en.wikipedia.org/wiki/Bada_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tizen",
+      "suggested_title": "Tizen",
+      "canonical_title": "Tizen",
+      "canonical_url": "https://en.wikipedia.org/wiki/Tizen",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 450,
+          "section": [
+            "Proprietary",
+            "Samsung Electronics"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Tizen is an operating system based on the Linux kernel, a project within the Linux Foundation and is governed by a Technical Steering Group (TSG) while controlled by Samsung and backed by Intel. Tizen works on a wide range of Samsung devices including smartphones, tablets, smart TVs, PCs and wearable.",
+          "links": [
+            {
+              "label": "Tizen",
+              "target": "https://en.wikipedia.org/wiki/Tizen",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 793,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "Tizen (earlier called LiMo Platform )",
+          "links": [
+            {
+              "label": "Tizen",
+              "target": "https://en.wikipedia.org/wiki/Tizen",
+              "article": true
+            },
+            {
+              "label": "LiMo Platform",
+              "target": "https://en.wikipedia.org/wiki/LiMo_Platform",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "orsay",
+      "suggested_title": "Orsay",
+      "canonical_title": "Samsung Smart TV",
+      "canonical_url": "https://en.wikipedia.org/wiki/Samsung_Smart_TV",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 451,
+          "section": [
+            "Proprietary",
+            "Samsung Electronics"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Orsay",
+          "links": [
+            {
+              "label": "Orsay",
+              "target": "https://en.wikipedia.org/wiki/Samsung_Smart_TV",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "one-ui",
+      "suggested_title": "One UI",
+      "canonical_title": "One UI",
+      "canonical_url": "https://en.wikipedia.org/wiki/One_UI",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 452,
+          "section": [
+            "Proprietary",
+            "Samsung Electronics"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "One UI - Android custom ROM",
+          "links": [
+            {
+              "label": "One UI",
+              "target": "https://en.wikipedia.org/wiki/One_UI",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 774,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 3,
+          "parent_position": 764,
+          "label": "One UI",
+          "links": [
+            {
+              "label": "One UI",
+              "target": "https://en.wikipedia.org/wiki/One_UI",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "berkeley-timesharing-system",
+      "suggested_title": "Berkeley Timesharing System",
+      "canonical_title": "Berkeley Timesharing System",
+      "canonical_url": "https://en.wikipedia.org/wiki/Berkeley_Timesharing_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 453,
+          "section": [
+            "Proprietary",
+            "Scientific Data Systems (SDS)",
+            "SDS 900 series"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Berkeley Timesharing System for the SDS 940",
+          "links": [
+            {
+              "label": "Berkeley Timesharing System",
+              "target": "https://en.wikipedia.org/wiki/Berkeley_Timesharing_System",
+              "article": true
+            },
+            {
+              "label": "SDS 940",
+              "target": "https://en.wikipedia.org/wiki/SDS_940",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "universal-time-sharing-system",
+      "suggested_title": "Universal Time-Sharing System",
+      "canonical_title": "Universal Time-Sharing System",
+      "canonical_url": "https://en.wikipedia.org/wiki/Universal_Time-Sharing_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 454,
+          "section": [
+            "Proprietary",
+            "Scientific Data Systems (SDS)",
+            "SDS Sigma series"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Universal Time-Sharing System CP-V, CP-R",
+          "links": [
+            {
+              "label": "Universal Time-Sharing System",
+              "target": "https://en.wikipedia.org/wiki/Universal_Time-Sharing_System",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "xerox-operating-system",
+      "suggested_title": "Xerox Operating System",
+      "canonical_title": "Xerox Operating System",
+      "canonical_url": "https://en.wikipedia.org/wiki/Xerox_Operating_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 455,
+          "section": [
+            "Proprietary",
+            "Scientific Data Systems (SDS)",
+            "SDS Sigma series"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Xerox Operating System (XOS)",
+          "links": [
+            {
+              "label": "Xerox Operating System",
+              "target": "https://en.wikipedia.org/wiki/Xerox_Operating_System",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

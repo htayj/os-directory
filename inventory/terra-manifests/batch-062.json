@@ -1,0 +1,345 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 62,
+  "candidates": [
+    {
+      "candidate_id": "extremeware",
+      "suggested_title": "ExtremeWare",
+      "canonical_title": "ExtremeWare",
+      "canonical_url": "https://en.wikipedia.org/wiki/ExtremeWare",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 696,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ExtremeWare – by Extreme Networks",
+          "links": [
+            {
+              "label": "ExtremeWare",
+              "target": "https://en.wikipedia.org/wiki/ExtremeWare",
+              "article": true
+            },
+            {
+              "label": "Extreme Networks",
+              "target": "https://en.wikipedia.org/wiki/Extreme_Networks",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "extremexos",
+      "suggested_title": "ExtremeXOS",
+      "canonical_title": "ExtremeXOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/ExtremeXOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 697,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ExtremeXOS – by Extreme Networks",
+          "links": [
+            {
+              "label": "ExtremeXOS",
+              "target": "https://en.wikipedia.org/wiki/ExtremeXOS",
+              "article": true
+            },
+            {
+              "label": "Extreme Networks",
+              "target": "https://en.wikipedia.org/wiki/Extreme_Networks",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "fabric-os",
+      "suggested_title": "Fabric OS",
+      "canonical_title": "Fabric OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Fabric_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 698,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Fabric OS – by Brocade",
+          "links": [
+            {
+              "label": "Fabric OS",
+              "target": "https://en.wikipedia.org/wiki/Fabric_OS",
+              "article": true
+            },
+            {
+              "label": "Brocade",
+              "target": "https://en.wikipedia.org/wiki/Brocade_Communications_Systems",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "junos",
+      "suggested_title": "JunOS",
+      "canonical_title": "JunOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/JunOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 699,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "JunOS – by Juniper",
+          "links": [
+            {
+              "label": "JunOS",
+              "target": "https://en.wikipedia.org/wiki/JunOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 833,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "JunOS – by Juniper Networks",
+          "links": [
+            {
+              "label": "JunOS",
+              "target": "https://en.wikipedia.org/wiki/JunOS",
+              "article": true
+            },
+            {
+              "label": "Juniper Networks",
+              "target": "https://en.wikipedia.org/wiki/Juniper_Networks",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "network-operating-system",
+      "suggested_title": "Network operating system",
+      "canonical_title": "Network operating system",
+      "canonical_url": "https://en.wikipedia.org/wiki/Network_operating_system",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 701,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Network operating system (NOS) – developed by CDC for use in their Cyber line of supercomputers",
+          "links": [
+            {
+              "label": "Network operating system",
+              "target": "https://en.wikipedia.org/wiki/Network_operating_system",
+              "article": true
+            },
+            {
+              "label": "CDC",
+              "target": "https://en.wikipedia.org/wiki/Control_Data_Corporation",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "novell-open-enterprise-server",
+      "suggested_title": "Novell Open Enterprise Server",
+      "canonical_title": "Novell Open Enterprise Server",
+      "canonical_url": "https://en.wikipedia.org/wiki/Novell_Open_Enterprise_Server",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 702,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Novell Open Enterprise Server – Open Source networking OS by Novell . Can incorporate either SUSE Linux or Novell NetWare as its kernel",
+          "links": [
+            {
+              "label": "Novell Open Enterprise Server",
+              "target": "https://en.wikipedia.org/wiki/Novell_Open_Enterprise_Server",
+              "article": true
+            },
+            {
+              "label": "Novell",
+              "target": "https://en.wikipedia.org/wiki/Novell",
+              "article": true
+            },
+            {
+              "label": "SUSE Linux",
+              "target": "https://en.wikipedia.org/wiki/SUSE_Linux",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "blis-cobol",
+      "suggested_title": "BLIS/COBOL",
+      "canonical_title": "BLIS/COBOL",
+      "canonical_url": "https://en.wikipedia.org/wiki/BLIS/COBOL",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 707,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "BLIS/COBOL",
+          "links": [
+            {
+              "label": "BLIS/COBOL",
+              "target": "https://en.wikipedia.org/wiki/BLIS/COBOL",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "a2",
+      "suggested_title": "A2",
+      "canonical_title": "A2 (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/A2_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 708,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "A2 formerly named Active Object System (AOS), and then Bluebottle (a concurrent and active object update to the Oberon operating system )",
+          "links": [
+            {
+              "label": "A2",
+              "target": "https://en.wikipedia.org/wiki/A2_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "Oberon operating system",
+              "target": "https://en.wikipedia.org/wiki/Oberon_operating_system",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "bs1000-by-siemens",
+      "suggested_title": "BS1000 by Siemens",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 709,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "BS1000 by Siemens",
+          "links": [
+            {
+              "label": "BS1000",
+              "target": "https://en.wikipedia.org/w/index.php?title=BS1000&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "Siemens",
+              "target": "https://en.wikipedia.org/wiki/Siemens",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "bs2000",
+      "suggested_title": "BS2000",
+      "canonical_title": "BS2000",
+      "canonical_url": "https://en.wikipedia.org/wiki/BS2000",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 710,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "BS2000 by Siemens , now BS2000/OSD from Fujitsu Siemens (formerly Siemens Nixdorf Informationssysteme )",
+          "links": [
+            {
+              "label": "BS2000",
+              "target": "https://en.wikipedia.org/wiki/BS2000",
+              "article": true
+            },
+            {
+              "label": "Siemens",
+              "target": "https://en.wikipedia.org/wiki/Siemens",
+              "article": true
+            },
+            {
+              "label": "Fujitsu Siemens",
+              "target": "https://en.wikipedia.org/wiki/Fujitsu_Siemens",
+              "article": true
+            },
+            {
+              "label": "Siemens Nixdorf Informationssysteme",
+              "target": "https://en.wikipedia.org/wiki/Siemens_Nixdorf_Informationssysteme",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

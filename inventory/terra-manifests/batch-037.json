@@ -1,0 +1,295 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 37,
+  "candidates": [
+    {
+      "candidate_id": "windows-vista",
+      "suggested_title": "Windows Vista",
+      "canonical_title": "Windows Vista",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Vista",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 386,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows Vista (Windows NT 6.0)",
+          "links": [
+            {
+              "label": "Windows Vista",
+              "target": "https://en.wikipedia.org/wiki/Windows_Vista",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-azure",
+      "suggested_title": "Windows Azure",
+      "canonical_title": "Windows Azure",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Azure",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 387,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows Azure (Cloud OS Platform) 2009",
+          "links": [
+            {
+              "label": "Windows Azure",
+              "target": "https://en.wikipedia.org/wiki/Windows_Azure",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-home-server",
+      "suggested_title": "Windows Home Server",
+      "canonical_title": "Windows Home Server",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Home_Server",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 388,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows Home Server (based on Windows Server 2003)",
+          "links": [
+            {
+              "label": "Windows Home Server",
+              "target": "https://en.wikipedia.org/wiki/Windows_Home_Server",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-server-2008",
+      "suggested_title": "Windows Server 2008",
+      "canonical_title": "Windows Server 2008",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Server_2008",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 389,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows Server 2008 (based on Windows Vista)",
+          "links": [
+            {
+              "label": "Windows Server 2008",
+              "target": "https://en.wikipedia.org/wiki/Windows_Server_2008",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-7",
+      "suggested_title": "Windows 7",
+      "canonical_title": "Windows 7",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_7",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 390,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows 7 (Windows NT 6.1)",
+          "links": [
+            {
+              "label": "Windows 7",
+              "target": "https://en.wikipedia.org/wiki/Windows_7",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-server-2008-r2",
+      "suggested_title": "Windows Server 2008 R2",
+      "canonical_title": "Windows Server 2008 R2",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Server_2008_R2",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 391,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows Server 2008 R2 (based on Windows 7)",
+          "links": [
+            {
+              "label": "Windows Server 2008 R2",
+              "target": "https://en.wikipedia.org/wiki/Windows_Server_2008_R2",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-home-server-2011",
+      "suggested_title": "Windows Home Server 2011",
+      "canonical_title": "Windows Home Server 2011",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Home_Server_2011",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 392,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows Home Server 2011 (based on Windows Server 2008 R2)",
+          "links": [
+            {
+              "label": "Windows Home Server 2011",
+              "target": "https://en.wikipedia.org/wiki/Windows_Home_Server_2011",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-8",
+      "suggested_title": "Windows 8",
+      "canonical_title": "Windows 8",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_8",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 393,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows 8 (Windows NT 6.2)",
+          "links": [
+            {
+              "label": "Windows 8",
+              "target": "https://en.wikipedia.org/wiki/Windows_8",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-rt",
+      "suggested_title": "Windows RT",
+      "canonical_title": "Windows RT",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_RT",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 394,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows RT",
+          "links": [
+            {
+              "label": "Windows RT",
+              "target": "https://en.wikipedia.org/wiki/Windows_RT",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-phone-8",
+      "suggested_title": "Windows Phone 8",
+      "canonical_title": "Windows Phone 8",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Phone_8",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 395,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows Phone 8",
+          "links": [
+            {
+              "label": "Windows Phone 8",
+              "target": "https://en.wikipedia.org/wiki/Windows_Phone_8",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 813,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 812,
+          "label": "Windows Phone 8",
+          "links": [
+            {
+              "label": "Windows Phone 8",
+              "target": "https://en.wikipedia.org/wiki/Windows_Phone_8",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

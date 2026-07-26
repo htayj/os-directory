@@ -1,0 +1,359 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 11,
+  "candidates": [
+    {
+      "candidate_id": "aos",
+      "suggested_title": "AOS",
+      "canonical_title": "Data General AOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Data_General_AOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 107,
+          "section": [
+            "Proprietary",
+            "Data General"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "AOS for 16-bit Data General Eclipse computers and AOS/VS for 32-bit (MV series) Eclipses, MP/AOS for microNOVA-based computers",
+          "links": [
+            {
+              "label": "AOS",
+              "target": "https://en.wikipedia.org/wiki/Data_General_AOS",
+              "article": true
+            },
+            {
+              "label": "Data General Eclipse",
+              "target": "https://en.wikipedia.org/wiki/Data_General_Eclipse",
+              "article": true
+            },
+            {
+              "label": "AOS/VS",
+              "target": "https://en.wikipedia.org/wiki/Data_General_AOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dg-ux",
+      "suggested_title": "DG/UX",
+      "canonical_title": "DG/UX",
+      "canonical_url": "https://en.wikipedia.org/wiki/DG/UX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 108,
+          "section": [
+            "Proprietary",
+            "Data General"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DG/UX",
+          "links": [
+            {
+              "label": "DG/UX",
+              "target": "https://en.wikipedia.org/wiki/DG/UX",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 529,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DG/UX (Data General Corp)",
+          "links": [
+            {
+              "label": "DG/UX",
+              "target": "https://en.wikipedia.org/wiki/DG/UX",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "rdos",
+      "suggested_title": "RDOS",
+      "canonical_title": "Data General RDOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Data_General_RDOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 109,
+          "section": [
+            "Proprietary",
+            "Data General"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RDOS Real-time Disk Operating System, with variants: RTOS and DOS (not related to PC DOS , MS-DOS etc.)",
+          "links": [
+            {
+              "label": "RDOS",
+              "target": "https://en.wikipedia.org/wiki/Data_General_RDOS",
+              "article": true
+            },
+            {
+              "label": "PC DOS",
+              "target": "https://en.wikipedia.org/wiki/PC_DOS",
+              "article": true
+            },
+            {
+              "label": "MS-DOS",
+              "target": "https://en.wikipedia.org/wiki/MS-DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ctos-cassette-tape-operating-system-for-the-datapoint-2200-11",
+      "suggested_title": "CTOS Cassette Tape Operating System for the Datapoint 2200 [ 11 ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 110,
+          "section": [
+            "Proprietary",
+            "Datapoint"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "CTOS Cassette Tape Operating System for the Datapoint 2200 [ 11 ]",
+          "links": [
+            {
+              "label": "Datapoint 2200",
+              "target": "https://en.wikipedia.org/wiki/Datapoint_2200",
+              "article": true
+            },
+            {
+              "label": "[ 11 ]",
+              "target": "https://en.wikipedia.org#cite_note-11",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dos-disk-operating-system-for-the-datapoint-2200-5500-and-1100-12",
+      "suggested_title": "DOS Disk Operating System for the Datapoint 2200, 5500, and 1100 [ 12 ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 111,
+          "section": [
+            "Proprietary",
+            "Datapoint"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DOS Disk Operating System for the Datapoint 2200, 5500, and 1100 [ 12 ]",
+          "links": [
+            {
+              "label": "[ 12 ]",
+              "target": "https://en.wikipedia.org#cite_note-12",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "deos",
+      "suggested_title": "Deos",
+      "canonical_title": "Deos",
+      "canonical_url": "https://en.wikipedia.org/wiki/Deos",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 112,
+          "section": [
+            "Proprietary",
+            "DDC-I, Inc."
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Deos – Time & Space Partitioned RTOS, Certified to DO-178B, Level A since 1998",
+          "links": [
+            {
+              "label": "Deos",
+              "target": "https://en.wikipedia.org/wiki/Deos",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "heartos",
+      "suggested_title": "HeartOS",
+      "canonical_title": "HeartOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/HeartOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 113,
+          "section": [
+            "Proprietary",
+            "DDC-I, Inc."
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HeartOS – POSIX-based Hard Real-Time Operating System",
+          "links": [
+            {
+              "label": "HeartOS",
+              "target": "https://en.wikipedia.org/wiki/HeartOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cp-m",
+      "suggested_title": "CP/M",
+      "canonical_title": "CP/M",
+      "canonical_url": "https://en.wikipedia.org/wiki/CP/M",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 114,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "CP/M",
+          "links": [
+            {
+              "label": "CP/M",
+              "target": "https://en.wikipedia.org/wiki/CP/M",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 115,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 114,
+          "label": "CP/M CP/M for Intel 8080 / 8085 and Zilog Z80",
+          "links": [
+            {
+              "label": "CP/M",
+              "target": "https://en.wikipedia.org/wiki/CP/M",
+              "article": true
+            },
+            {
+              "label": "Intel 8080",
+              "target": "https://en.wikipedia.org/wiki/Intel_8080",
+              "article": true
+            },
+            {
+              "label": "8085",
+              "target": "https://en.wikipedia.org/wiki/Intel_8085",
+              "article": true
+            },
+            {
+              "label": "Zilog Z80",
+              "target": "https://en.wikipedia.org/wiki/Zilog_Z80",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "personal-cp-m",
+      "suggested_title": "Personal CP/M",
+      "canonical_title": "Personal CP/M",
+      "canonical_url": "https://en.wikipedia.org/wiki/Personal_CP/M",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 116,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 115,
+          "label": "Personal CP/M , a refinement of CP/M",
+          "links": [
+            {
+              "label": "Personal CP/M",
+              "target": "https://en.wikipedia.org/wiki/Personal_CP/M",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cp-m-68k",
+      "suggested_title": "CP/M-68K",
+      "canonical_title": "CP/M-68K",
+      "canonical_url": "https://en.wikipedia.org/wiki/CP/M-68K",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 118,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 114,
+          "label": "CP/M-68K CP/M for Motorola 68000",
+          "links": [
+            {
+              "label": "CP/M-68K",
+              "target": "https://en.wikipedia.org/wiki/CP/M-68K",
+              "article": true
+            },
+            {
+              "label": "Motorola 68000",
+              "target": "https://en.wikipedia.org/wiki/Motorola_68000",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

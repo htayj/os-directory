@@ -1,0 +1,428 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 19,
+  "candidates": [
+    {
+      "candidate_id": "chromeos",
+      "suggested_title": "ChromeOS",
+      "canonical_title": "ChromeOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/ChromeOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 191,
+          "section": [
+            "Proprietary",
+            "Google"
+          ],
+          "depth": 2,
+          "parent_position": 190,
+          "label": "ChromeOS is designed to work exclusively with web applications, though has been updated to run Android apps with full support for Google Play Store. Announced on July 7, 2009, ChromeOS is currently publicly available and was released summer 2011. The ChromeOS source code was released on November 19, 2009, under the BSD license as ChromiumOS.",
+          "links": [
+            {
+              "label": "ChromeOS",
+              "target": "https://en.wikipedia.org/wiki/ChromeOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "container-optimized-os-cos-is-an-operating-system-that-is-optimized-for-running-docker-containers-based-on-chromiumos-13",
+      "suggested_title": "Container-Optimized OS (COS) is an operating system that is optimized for running Docker containers, based on ChromiumOS . [ 13 ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 192,
+          "section": [
+            "Proprietary",
+            "Google"
+          ],
+          "depth": 2,
+          "parent_position": 190,
+          "label": "Container-Optimized OS (COS) is an operating system that is optimized for running Docker containers, based on ChromiumOS . [ 13 ]",
+          "links": [
+            {
+              "label": "Container-Optimized OS",
+              "target": "https://en.wikipedia.org/w/index.php?title=Container-Optimized_OS&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "ChromiumOS",
+              "target": "https://en.wikipedia.org/wiki/ChromiumOS",
+              "article": true
+            },
+            {
+              "label": "[ 13 ]",
+              "target": "https://en.wikipedia.org#cite_note-13",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "android",
+      "suggested_title": "Android",
+      "canonical_title": "Android (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 193,
+          "section": [
+            "Proprietary",
+            "Google"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Android is an operating system for mobile devices. It consists of Android Runtime (userland) with Linux (kernel), with its Linux kernel modified to add drivers for mobile device hardware and to remove unused Vanilla Linux drivers.",
+          "links": [
+            {
+              "label": "Android",
+              "target": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "Android Runtime",
+              "target": "https://en.wikipedia.org/wiki/Android_Runtime",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 576,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 2,
+          "parent_position": 575,
+          "label": "Android [ 29 ]",
+          "links": [
+            {
+              "label": "Android",
+              "target": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "[ 29 ]",
+              "target": "https://en.wikipedia.org#cite_note-29",
+              "article": false
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 764,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "Android",
+          "links": [
+            {
+              "label": "Android",
+              "target": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "android-tv",
+      "suggested_title": "Android TV",
+      "canonical_title": "Android TV",
+      "canonical_url": "https://en.wikipedia.org/wiki/Android_TV",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 194,
+          "section": [
+            "Proprietary",
+            "Google"
+          ],
+          "depth": 2,
+          "parent_position": 193,
+          "label": "Android TV",
+          "links": [
+            {
+              "label": "Android TV",
+              "target": "https://en.wikipedia.org/wiki/Android_TV",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "glinux",
+      "suggested_title": "gLinux",
+      "canonical_title": "GLinux",
+      "canonical_url": "https://en.wikipedia.org/wiki/GLinux",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 195,
+          "section": [
+            "Proprietary",
+            "Google"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "gLinux , a Linux distribution that Google uses internally",
+          "links": [
+            {
+              "label": "gLinux",
+              "target": "https://en.wikipedia.org/wiki/GLinux",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "fuchsia",
+      "suggested_title": "Fuchsia",
+      "canonical_title": "Fuchsia (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Fuchsia_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 196,
+          "section": [
+            "Proprietary",
+            "Google"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Fuchsia is a capability-based real-time operating system (RTOS) scalable to universal devices, in early development, from the tiniest embedded hardware, wristwatches , tablets to the largest personal computers. Unlike ChromeOS and Android, it is not based on the Linux kernel, but instead began on a new microkernel called \"Zircon\", derived from \"Little Kernel\".",
+          "links": [
+            {
+              "label": "Fuchsia",
+              "target": "https://en.wikipedia.org/wiki/Fuchsia_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "capability-based",
+              "target": "https://en.wikipedia.org/wiki/Capability-based_operating_system",
+              "article": true
+            },
+            {
+              "label": "real-time",
+              "target": "https://en.wikipedia.org/wiki/Real-time_operating_system",
+              "article": true
+            },
+            {
+              "label": "scalable",
+              "target": "https://en.wikipedia.org/wiki/Scalability",
+              "article": true
+            },
+            {
+              "label": "embedded",
+              "target": "https://en.wikipedia.org/wiki/Embedded_system",
+              "article": true
+            },
+            {
+              "label": "wristwatches",
+              "target": "https://en.wikipedia.org/wiki/Smartwatch",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 600,
+          "section": [
+            "Non-proprietary",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Google Fuchsia",
+          "links": [
+            {
+              "label": "Google Fuchsia",
+              "target": "https://en.wikipedia.org/wiki/Fuchsia_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 900,
+          "section": [
+            "Capability-based"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Google Fuchsia",
+          "links": [
+            {
+              "label": "Google Fuchsia",
+              "target": "https://en.wikipedia.org/wiki/Fuchsia_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "wear-os",
+      "suggested_title": "Wear OS",
+      "canonical_title": "Wear OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Wear_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 197,
+          "section": [
+            "Proprietary",
+            "Google"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Wear OS a version of Google 's Android operating system designed for smartwatches and other wearables .",
+          "links": [
+            {
+              "label": "Wear OS",
+              "target": "https://en.wikipedia.org/wiki/Wear_OS",
+              "article": true
+            },
+            {
+              "label": "Google",
+              "target": "https://en.wikipedia.org/wiki/Google",
+              "article": true
+            },
+            {
+              "label": "Android",
+              "target": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "operating system",
+              "target": "https://en.wikipedia.org/wiki/Operating_system",
+              "article": true
+            },
+            {
+              "label": "smartwatches",
+              "target": "https://en.wikipedia.org/wiki/Smartwatch",
+              "article": true
+            },
+            {
+              "label": "wearables",
+              "target": "https://en.wikipedia.org/wiki/Wearable_computer",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "integrity",
+      "suggested_title": "INTEGRITY",
+      "canonical_title": "Integrity (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Integrity_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 198,
+          "section": [
+            "Proprietary",
+            "Green Hills Software"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "INTEGRITY – Reliable Operating system",
+          "links": [
+            {
+              "label": "INTEGRITY",
+              "target": "https://en.wikipedia.org/wiki/Integrity_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "integrity-178b",
+      "suggested_title": "INTEGRITY-178B",
+      "canonical_title": "INTEGRITY-178B",
+      "canonical_url": "https://en.wikipedia.org/wiki/INTEGRITY-178B",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 199,
+          "section": [
+            "Proprietary",
+            "Green Hills Software"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "INTEGRITY-178B – A DO-178B certified version of INTEGRITY .",
+          "links": [
+            {
+              "label": "INTEGRITY-178B",
+              "target": "https://en.wikipedia.org/wiki/INTEGRITY-178B",
+              "article": true
+            },
+            {
+              "label": "INTEGRITY",
+              "target": "https://en.wikipedia.org/wiki/Integrity_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "velosity",
+      "suggested_title": "μ-velOSity",
+      "canonical_title": "Green Hills Software",
+      "canonical_url": "https://en.wikipedia.org/wiki/Green_Hills_Software#Real-time_operating_systems",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 200,
+          "section": [
+            "Proprietary",
+            "Green Hills Software"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "μ-velOSity – A lightweight microkernel .",
+          "links": [
+            {
+              "label": "μ-velOSity",
+              "target": "https://en.wikipedia.org/wiki/Green_Hills_Software#Real-time_operating_systems",
+              "article": true
+            },
+            {
+              "label": "microkernel",
+              "target": "https://en.wikipedia.org/wiki/Microkernel",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

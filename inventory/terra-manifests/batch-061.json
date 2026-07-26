@@ -1,0 +1,358 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 61,
+  "candidates": [
+    {
+      "candidate_id": "turbodos",
+      "suggested_title": "TurboDOS",
+      "canonical_title": "TurboDOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/TurboDOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 686,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TurboDOS (Software 2000, Inc.) for Z80 and Intel 8086 processor-based systems",
+          "links": [
+            {
+              "label": "TurboDOS",
+              "target": "https://en.wikipedia.org/wiki/TurboDOS",
+              "article": true
+            },
+            {
+              "label": "Z80",
+              "target": "https://en.wikipedia.org/wiki/Zilog_Z80",
+              "article": true
+            },
+            {
+              "label": "Intel 8086",
+              "target": "https://en.wikipedia.org/wiki/Intel_8086",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 706,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TurboDOS – by Software 2000, Inc.",
+          "links": [
+            {
+              "label": "TurboDOS",
+              "target": "https://en.wikipedia.org/wiki/TurboDOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 734,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TurboDOS (Software 2000, Inc.)",
+          "links": [
+            {
+              "label": "TurboDOS",
+              "target": "https://en.wikipedia.org/wiki/TurboDOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "multi-tasking-user-interfaces-and-environments-for-ms-dos-compatible-operating-systems",
+      "suggested_title": "Multi-tasking user interfaces and environments for MS-DOS compatible operating systems",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 687,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Multi-tasking user interfaces and environments for MS-DOS compatible operating systems",
+          "links": [],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "desqview",
+      "suggested_title": "DESQview",
+      "canonical_title": "DESQview",
+      "canonical_url": "https://en.wikipedia.org/wiki/DESQview",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 688,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 2,
+          "parent_position": 687,
+          "label": "DESQview + QEMM 386 multi-tasking user interface",
+          "links": [
+            {
+              "label": "DESQview",
+              "target": "https://en.wikipedia.org/wiki/DESQview",
+              "article": true
+            },
+            {
+              "label": "QEMM 386",
+              "target": "https://en.wikipedia.org/w/index.php?title=QEMM_386&action=edit&redlink=1",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "desqview-x-x-windowing-gui",
+      "suggested_title": "DESQView/X ( X-windowing GUI",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 689,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 2,
+          "parent_position": 687,
+          "label": "DESQView/X ( X-windowing GUI",
+          "links": [
+            {
+              "label": "X-windowing",
+              "target": "https://en.wikipedia.org/wiki/X_Window_System",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "banyan-vines",
+      "suggested_title": "Banyan VINES",
+      "canonical_title": "Banyan VINES",
+      "canonical_url": "https://en.wikipedia.org/wiki/Banyan_VINES",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 690,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Banyan VINES – by Banyan Systems",
+          "links": [
+            {
+              "label": "Banyan VINES",
+              "target": "https://en.wikipedia.org/wiki/Banyan_VINES",
+              "article": true
+            },
+            {
+              "label": "Banyan Systems",
+              "target": "https://en.wikipedia.org/wiki/Banyan_Systems",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cambridge-ring",
+      "suggested_title": "Cambridge Ring",
+      "canonical_title": "Cambridge Ring (computer network)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Cambridge_Ring_(computer_network)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 691,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Cambridge Ring",
+          "links": [
+            {
+              "label": "Cambridge Ring",
+              "target": "https://en.wikipedia.org/wiki/Cambridge_Ring_(computer_network)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cisco-ios",
+      "suggested_title": "Cisco IOS",
+      "canonical_title": "Cisco IOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Cisco_IOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 692,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Cisco IOS – by Cisco Systems",
+          "links": [
+            {
+              "label": "Cisco IOS",
+              "target": "https://en.wikipedia.org/wiki/Cisco_IOS",
+              "article": true
+            },
+            {
+              "label": "Cisco Systems",
+              "target": "https://en.wikipedia.org/wiki/Cisco_Systems",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 829,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Cisco IOS – originally Internetwork Operating System by Cisco Systems",
+          "links": [
+            {
+              "label": "Cisco IOS",
+              "target": "https://en.wikipedia.org/wiki/Cisco_IOS",
+              "article": true
+            },
+            {
+              "label": "Cisco Systems",
+              "target": "https://en.wikipedia.org/wiki/Cisco_Systems",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cisco-nx-os",
+      "suggested_title": "Cisco NX-OS",
+      "canonical_title": "Cisco NX-OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Cisco_NX-OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 693,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Cisco NX-OS – previously SAN-OS",
+          "links": [
+            {
+              "label": "Cisco NX-OS",
+              "target": "https://en.wikipedia.org/wiki/Cisco_NX-OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ctos",
+      "suggested_title": "CTOS",
+      "canonical_title": "CTOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/CTOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 694,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "CTOS – by Convergent Technologies , later acquired by Unisys",
+          "links": [
+            {
+              "label": "CTOS",
+              "target": "https://en.wikipedia.org/wiki/CTOS",
+              "article": true
+            },
+            {
+              "label": "Convergent Technologies",
+              "target": "https://en.wikipedia.org/wiki/Convergent_Technologies_(Unisys)",
+              "article": true
+            },
+            {
+              "label": "Unisys",
+              "target": "https://en.wikipedia.org/wiki/Unisys",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "data-ontap",
+      "suggested_title": "Data ONTAP",
+      "canonical_title": "Data ONTAP",
+      "canonical_url": "https://en.wikipedia.org/wiki/Data_ONTAP",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 695,
+          "section": [
+            "Network operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Data ONTAP – by NetApp",
+          "links": [
+            {
+              "label": "Data ONTAP",
+              "target": "https://en.wikipedia.org/wiki/Data_ONTAP",
+              "article": true
+            },
+            {
+              "label": "NetApp",
+              "target": "https://en.wikipedia.org/wiki/NetApp",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

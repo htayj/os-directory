@@ -1,0 +1,287 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 67,
+  "candidates": [
+    {
+      "candidate_id": "dip-dos",
+      "suggested_title": "DIP DOS",
+      "canonical_title": "DIP DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/DIP_DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 762,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DIP DOS on Atari Portfolio",
+          "links": [
+            {
+              "label": "DIP DOS",
+              "target": "https://en.wikipedia.org/wiki/DIP_DOS",
+              "article": true
+            },
+            {
+              "label": "Atari Portfolio",
+              "target": "https://en.wikipedia.org/wiki/Atari_Portfolio",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "embedded-linux",
+      "suggested_title": "Embedded Linux",
+      "canonical_title": "Embedded Linux",
+      "canonical_url": "https://en.wikipedia.org/wiki/Embedded_Linux",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 763,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Embedded Linux (see also Linux for mobile devices )",
+          "links": [
+            {
+              "label": "Embedded Linux",
+              "target": "https://en.wikipedia.org/wiki/Embedded_Linux",
+              "article": true
+            },
+            {
+              "label": "Linux for mobile devices",
+              "target": "https://en.wikipedia.org/wiki/Linux_for_mobile_devices",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "calyxos",
+      "suggested_title": "CalyxOS",
+      "canonical_title": "CalyxOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/CalyxOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 765,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 3,
+          "parent_position": 764,
+          "label": "CalyxOS",
+          "links": [
+            {
+              "label": "CalyxOS",
+              "target": "https://en.wikipedia.org/wiki/CalyxOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "coloros",
+      "suggested_title": "ColorOS",
+      "canonical_title": "ColorOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/ColorOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 766,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 3,
+          "parent_position": 764,
+          "label": "ColorOS",
+          "links": [
+            {
+              "label": "ColorOS",
+              "target": "https://en.wikipedia.org/wiki/ColorOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "divestos",
+      "suggested_title": "DivestOS",
+      "canonical_title": "DivestOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/DivestOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 767,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 3,
+          "parent_position": 764,
+          "label": "DivestOS",
+          "links": [
+            {
+              "label": "DivestOS",
+              "target": "https://en.wikipedia.org/wiki/DivestOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "emui",
+      "suggested_title": "EMUI",
+      "canonical_title": "EMUI",
+      "canonical_url": "https://en.wikipedia.org/wiki/EMUI",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 768,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 3,
+          "parent_position": 764,
+          "label": "EMUI",
+          "links": [
+            {
+              "label": "EMUI",
+              "target": "https://en.wikipedia.org/wiki/EMUI",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "grapheneos",
+      "suggested_title": "GrapheneOS",
+      "canonical_title": "GrapheneOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/GrapheneOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 770,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 3,
+          "parent_position": 764,
+          "label": "GrapheneOS",
+          "links": [
+            {
+              "label": "GrapheneOS",
+              "target": "https://en.wikipedia.org/wiki/GrapheneOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "kali-nethunter",
+      "suggested_title": "Kali NetHunter",
+      "canonical_title": "Kali NetHunter",
+      "canonical_url": "https://en.wikipedia.org/wiki/Kali_NetHunter",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 771,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 3,
+          "parent_position": 764,
+          "label": "Kali NetHunter",
+          "links": [
+            {
+              "label": "Kali NetHunter",
+              "target": "https://en.wikipedia.org/wiki/Kali_NetHunter",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "lineageos",
+      "suggested_title": "LineageOS",
+      "canonical_title": "LineageOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/LineageOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 772,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 3,
+          "parent_position": 764,
+          "label": "LineageOS",
+          "links": [
+            {
+              "label": "LineageOS",
+              "target": "https://en.wikipedia.org/wiki/LineageOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "miui",
+      "suggested_title": "MIUI",
+      "canonical_title": "MIUI",
+      "canonical_url": "https://en.wikipedia.org/wiki/MIUI",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 773,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 3,
+          "parent_position": 764,
+          "label": "MIUI",
+          "links": [
+            {
+              "label": "MIUI",
+              "target": "https://en.wikipedia.org/wiki/MIUI",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

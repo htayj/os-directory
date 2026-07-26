@@ -1,0 +1,287 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 73,
+  "candidates": [
+    {
+      "candidate_id": "hyperos",
+      "suggested_title": "HyperOS",
+      "canonical_title": "HyperOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/HyperOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 855,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HyperOS",
+          "links": [
+            {
+              "label": "HyperOS",
+              "target": "https://en.wikipedia.org/wiki/HyperOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "apache-mynewt",
+      "suggested_title": "Apache Mynewt",
+      "canonical_title": "Apache Mynewt",
+      "canonical_url": "https://en.wikipedia.org/wiki/Apache_Mynewt",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 856,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Apache Mynewt",
+          "links": [
+            {
+              "label": "Apache Mynewt",
+              "target": "https://en.wikipedia.org/wiki/Apache_Mynewt",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "chibios-rt",
+      "suggested_title": "ChibiOS/RT",
+      "canonical_title": "ChibiOS/RT",
+      "canonical_url": "https://en.wikipedia.org/wiki/ChibiOS/RT",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 857,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ChibiOS/RT",
+          "links": [
+            {
+              "label": "ChibiOS/RT",
+              "target": "https://en.wikipedia.org/wiki/ChibiOS/RT",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cortos-world-s-simplest-embedded-rtos-51",
+      "suggested_title": "CoRTOS \"World's simplest embedded RTOS\" [ 51 ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 859,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "CoRTOS \"World's simplest embedded RTOS\" [ 51 ]",
+          "links": [
+            {
+              "label": "CoRTOS",
+              "target": "https://en.wikipedia.org/w/index.php?title=CoRTOS&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "[ 51 ]",
+              "target": "https://en.wikipedia.org#cite_note-51",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "erika-enterprise",
+      "suggested_title": "ERIKA Enterprise",
+      "canonical_title": "ERIKA Enterprise",
+      "canonical_url": "https://en.wikipedia.org/wiki/ERIKA_Enterprise",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 860,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ERIKA Enterprise",
+          "links": [
+            {
+              "label": "ERIKA Enterprise",
+              "target": "https://en.wikipedia.org/wiki/ERIKA_Enterprise",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ecos",
+      "suggested_title": "eCos",
+      "canonical_title": "ECos",
+      "canonical_url": "https://en.wikipedia.org/wiki/ECos",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 861,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "eCos",
+          "links": [
+            {
+              "label": "eCos",
+              "target": "https://en.wikipedia.org/wiki/ECos",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "nucleus-rtos",
+      "suggested_title": "Nucleus RTOS",
+      "canonical_title": "Nucleus RTOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Nucleus_RTOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 863,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Nucleus RTOS [ 52 ]",
+          "links": [
+            {
+              "label": "Nucleus RTOS",
+              "target": "https://en.wikipedia.org/wiki/Nucleus_RTOS",
+              "article": true
+            },
+            {
+              "label": "[ 52 ]",
+              "target": "https://en.wikipedia.org#cite_note-52",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "minix-2",
+      "suggested_title": "Minix",
+      "canonical_title": "Minix",
+      "canonical_url": "https://en.wikipedia.org/wiki/Minix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 865,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Minix",
+          "links": [
+            {
+              "label": "Minix",
+              "target": "https://en.wikipedia.org/wiki/Minix",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ncos",
+      "suggested_title": "NCOS",
+      "canonical_title": "NCOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/NCOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 866,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "NCOS",
+          "links": [
+            {
+              "label": "NCOS",
+              "target": "https://en.wikipedia.org/wiki/NCOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "freertos-openrtos-safertos",
+      "suggested_title": "freeRTOS, openRTOS, safeRTOS",
+      "canonical_title": "FreeRTOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/FreeRTOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 867,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "freeRTOS, openRTOS, safeRTOS",
+          "links": [
+            {
+              "label": "freeRTOS, openRTOS, safeRTOS",
+              "target": "https://en.wikipedia.org/wiki/FreeRTOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

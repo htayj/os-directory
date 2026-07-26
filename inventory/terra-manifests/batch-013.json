@@ -1,0 +1,396 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 13,
+  "candidates": [
+    {
+      "candidate_id": "concurrent-cp-m-8-16",
+      "suggested_title": "Concurrent CP/M 8-16",
+      "canonical_title": "Concurrent CP/M 8-16",
+      "canonical_url": "https://en.wikipedia.org/wiki/Concurrent_CP/M_8-16",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 129,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 128,
+          "label": "Concurrent CP/M 8-16 , a dual-processor variant of Concurrent CP/M for 8086 and 8080 CPUs.",
+          "links": [
+            {
+              "label": "Concurrent CP/M 8-16",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_CP/M_8-16",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "concurrent-cp-m-68k",
+      "suggested_title": "Concurrent CP/M-68K",
+      "canonical_title": "Concurrent CP/M-68K",
+      "canonical_url": "https://en.wikipedia.org/wiki/Concurrent_CP/M-68K",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 130,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 114,
+          "label": "Concurrent CP/M-68K , a variant for the 68000",
+          "links": [
+            {
+              "label": "Concurrent CP/M-68K",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_CP/M-68K",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dos",
+      "suggested_title": "DOS",
+      "canonical_title": "DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 131,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DOS",
+          "links": [
+            {
+              "label": "DOS",
+              "target": "https://en.wikipedia.org/wiki/DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "concurrent-dos",
+      "suggested_title": "Concurrent DOS",
+      "canonical_title": "Concurrent DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Concurrent_DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 132,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 131,
+          "label": "Concurrent DOS , the successor of Concurrent CP/M-86 with PC-MODE",
+          "links": [
+            {
+              "label": "Concurrent DOS",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 644,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 2,
+          "parent_position": 643,
+          "label": "Concurrent DOS 3.1-4.1 (BDOS 3.1-4.1)",
+          "links": [
+            {
+              "label": "Concurrent DOS",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "concurrent-pc-dos",
+      "suggested_title": "Concurrent PC DOS",
+      "canonical_title": "Concurrent PC DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Concurrent_PC_DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 133,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 132,
+          "label": "Concurrent PC DOS , a Concurrent DOS variant for IBM compatible PCs",
+          "links": [
+            {
+              "label": "Concurrent PC DOS",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_PC_DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 645,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 3,
+          "parent_position": 644,
+          "label": "Concurrent PC DOS 3.2 (BDOS 3.2) (Concurrent DOS variant for IBM compatible PCs)",
+          "links": [
+            {
+              "label": "Concurrent PC DOS",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_PC_DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "concurrent-dos-8-16",
+      "suggested_title": "Concurrent DOS 8-16",
+      "canonical_title": "Concurrent DOS 8-16",
+      "canonical_url": "https://en.wikipedia.org/wiki/Concurrent_DOS_8-16",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 134,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 132,
+          "label": "Concurrent DOS 8-16 , a dual-processor variant of Concurrent DOS for 8086 and 8080 CPUs",
+          "links": [
+            {
+              "label": "Concurrent DOS 8-16",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS_8-16",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 647,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 3,
+          "parent_position": 644,
+          "label": "Concurrent DOS 8-16 (dual-processor variant of Concurrent DOS for 8086 and 8080 CPUs)",
+          "links": [
+            {
+              "label": "Concurrent DOS 8-16",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS_8-16",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "concurrent-dos-286",
+      "suggested_title": "Concurrent DOS 286",
+      "canonical_title": "Concurrent DOS 286",
+      "canonical_url": "https://en.wikipedia.org/wiki/Concurrent_DOS_286",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 135,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 132,
+          "label": "Concurrent DOS 286",
+          "links": [
+            {
+              "label": "Concurrent DOS 286",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS_286",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 648,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 3,
+          "parent_position": 644,
+          "label": "Concurrent DOS 286 1.x",
+          "links": [
+            {
+              "label": "Concurrent DOS 286",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS_286",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "concurrent-dos-xm",
+      "suggested_title": "Concurrent DOS XM",
+      "canonical_title": "Concurrent DOS XM",
+      "canonical_url": "https://en.wikipedia.org/wiki/Concurrent_DOS_XM",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 136,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 132,
+          "label": "Concurrent DOS XM , a real-mode variant of Concurrent DOS with EEMS support",
+          "links": [
+            {
+              "label": "Concurrent DOS XM",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS_XM",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 668,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 3,
+          "parent_position": 644,
+          "label": "Concurrent DOS XM 5.0, 5.2, 6.0, 6.2 (BDOS 5.0-6.2) (real-mode variant of Concurrent DOS with EEMS support)",
+          "links": [
+            {
+              "label": "Concurrent DOS XM",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS_XM",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "concurrent-dos-386",
+      "suggested_title": "Concurrent DOS 386",
+      "canonical_title": "Concurrent DOS 386",
+      "canonical_url": "https://en.wikipedia.org/wiki/Concurrent_DOS_386",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 137,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 132,
+          "label": "Concurrent DOS 386",
+          "links": [
+            {
+              "label": "Concurrent DOS 386",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS_386",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 659,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 3,
+          "parent_position": 644,
+          "label": "Concurrent DOS 386 1.0, 1.1, 2.0, 3.0 (BDOS 5.0-6.2)",
+          "links": [
+            {
+              "label": "Concurrent DOS 386",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS_386",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "concurrent-dos-386-mge",
+      "suggested_title": "Concurrent DOS 386/MGE",
+      "canonical_title": "Concurrent DOS 386/MGE",
+      "canonical_url": "https://en.wikipedia.org/wiki/Concurrent_DOS_386/MGE",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 138,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 4,
+          "parent_position": 137,
+          "label": "Concurrent DOS 386/MGE , a Concurrent DOS 386 variant with advanced graphics terminal capabilities",
+          "links": [
+            {
+              "label": "Concurrent DOS 386/MGE",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS_386/MGE",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 660,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 4,
+          "parent_position": 659,
+          "label": "Concurrent DOS 386/MGE (Concurrent DOS 386 variant with advanced graphics terminal capabilities)",
+          "links": [
+            {
+              "label": "Concurrent DOS 386/MGE",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_DOS_386/MGE",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

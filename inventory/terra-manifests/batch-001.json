@@ -1,0 +1,338 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 1,
+  "candidates": [
+    {
+      "candidate_id": "arthur",
+      "suggested_title": "Arthur",
+      "canonical_title": "Arthur (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Arthur_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 1,
+          "section": [
+            "Proprietary",
+            "Acorn Computers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Arthur",
+          "links": [
+            {
+              "label": "Arthur",
+              "target": "https://en.wikipedia.org/wiki/Arthur_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "arx",
+      "suggested_title": "ARX",
+      "canonical_title": "ARX (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/ARX_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 2,
+          "section": [
+            "Proprietary",
+            "Acorn Computers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ARX",
+          "links": [
+            {
+              "label": "ARX",
+              "target": "https://en.wikipedia.org/wiki/ARX_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mos",
+      "suggested_title": "MOS",
+      "canonical_title": "Acorn MOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Acorn_MOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 3,
+          "section": [
+            "Proprietary",
+            "Acorn Computers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MOS",
+          "links": [
+            {
+              "label": "MOS",
+              "target": "https://en.wikipedia.org/wiki/Acorn_MOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "risc-ix",
+      "suggested_title": "RISC iX",
+      "canonical_title": "RISC iX",
+      "canonical_url": "https://en.wikipedia.org/wiki/RISC_iX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 4,
+          "section": [
+            "Proprietary",
+            "Acorn Computers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RISC iX",
+          "links": [
+            {
+              "label": "RISC iX",
+              "target": "https://en.wikipedia.org/wiki/RISC_iX",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 546,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RISC iX – derived from BSD 4.3, by Acorn computers, for their ARM family of machines",
+          "links": [
+            {
+              "label": "RISC iX",
+              "target": "https://en.wikipedia.org/wiki/RISC_iX",
+              "article": true
+            },
+            {
+              "label": "ARM",
+              "target": "https://en.wikipedia.org/wiki/ARM_architecture",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "risc-os",
+      "suggested_title": "RISC OS",
+      "canonical_title": "RISC OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/RISC_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 5,
+          "section": [
+            "Proprietary",
+            "Acorn Computers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RISC OS",
+          "links": [
+            {
+              "label": "RISC OS",
+              "target": "https://en.wikipedia.org/wiki/RISC_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "fire-os",
+      "suggested_title": "Fire OS",
+      "canonical_title": "Fire OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Fire_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 6,
+          "section": [
+            "Proprietary",
+            "Amazon"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Fire OS",
+          "links": [
+            {
+              "label": "Fire OS",
+              "target": "https://en.wikipedia.org/wiki/Fire_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "amigaos",
+      "suggested_title": "AmigaOS",
+      "canonical_title": "AmigaOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/AmigaOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 7,
+          "section": [
+            "Proprietary",
+            "Amiga Inc."
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "AmigaOS",
+          "links": [
+            {
+              "label": "AmigaOS",
+              "target": "https://en.wikipedia.org/wiki/AmigaOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 90,
+          "section": [
+            "Proprietary",
+            "Commodore International"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "AmigaOS",
+          "links": [
+            {
+              "label": "AmigaOS",
+              "target": "https://en.wikipedia.org/wiki/AmigaOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "amigaos-1-0-3-9",
+      "suggested_title": "AmigaOS 1.0-3.9",
+      "canonical_title": "AmigaOS versions",
+      "canonical_url": "https://en.wikipedia.org/wiki/AmigaOS_versions",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 8,
+          "section": [
+            "Proprietary",
+            "Amiga Inc."
+          ],
+          "depth": 2,
+          "parent_position": 7,
+          "label": "AmigaOS 1.0-3.9 (Motorola 68000)",
+          "links": [
+            {
+              "label": "AmigaOS 1.0-3.9",
+              "target": "https://en.wikipedia.org/wiki/AmigaOS_versions",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "amigaos-4",
+      "suggested_title": "AmigaOS 4",
+      "canonical_title": "AmigaOS 4",
+      "canonical_url": "https://en.wikipedia.org/wiki/AmigaOS_4",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 9,
+          "section": [
+            "Proprietary",
+            "Amiga Inc."
+          ],
+          "depth": 2,
+          "parent_position": 7,
+          "label": "AmigaOS 4 (PowerPC)",
+          "links": [
+            {
+              "label": "AmigaOS 4",
+              "target": "https://en.wikipedia.org/wiki/AmigaOS_4",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "amiga-unix",
+      "suggested_title": "Amiga Unix",
+      "canonical_title": "Amiga Unix",
+      "canonical_url": "https://en.wikipedia.org/wiki/Amiga_Unix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 10,
+          "section": [
+            "Proprietary",
+            "Amiga Inc."
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Amiga Unix (a.k.a. Amix)",
+          "links": [
+            {
+              "label": "Amiga Unix",
+              "target": "https://en.wikipedia.org/wiki/Amiga_Unix",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 525,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Amiga Unix (Amiga ports of Unix System V release 3.2 with Amiga A2500UX and SVR4 with Amiga A3000UX. Started in 1990, last version was in 1992)",
+          "links": [
+            {
+              "label": "Amiga Unix",
+              "target": "https://en.wikipedia.org/wiki/Amiga_Unix",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

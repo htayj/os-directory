@@ -1,0 +1,286 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 65,
+  "candidates": [
+    {
+      "candidate_id": "vm2000",
+      "suggested_title": "VM2000",
+      "canonical_title": "VM2000",
+      "canonical_url": "https://en.wikipedia.org/wiki/VM2000",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 738,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "VM2000 by Siemens",
+          "links": [
+            {
+              "label": "VM2000",
+              "target": "https://en.wikipedia.org/wiki/VM2000",
+              "article": true
+            },
+            {
+              "label": "Siemens",
+              "target": "https://en.wikipedia.org/wiki/Siemens",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "visi-on",
+      "suggested_title": "Visi On",
+      "canonical_title": "Visi On",
+      "canonical_url": "https://en.wikipedia.org/wiki/Visi_On",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 739,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Visi On (first GUI for early PC machines; not commercially successful)",
+          "links": [
+            {
+              "label": "Visi On",
+              "target": "https://en.wikipedia.org/wiki/Visi_On",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "vps-vm",
+      "suggested_title": "VPS/VM",
+      "canonical_title": "VPS/VM",
+      "canonical_url": "https://en.wikipedia.org/wiki/VPS/VM",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 740,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "VPS/VM (IBM based, main operating system at Boston University for over 10 years.)",
+          "links": [
+            {
+              "label": "VPS/VM",
+              "target": "https://en.wikipedia.org/wiki/VPS/VM",
+              "article": true
+            },
+            {
+              "label": "Boston University",
+              "target": "https://en.wikipedia.org/wiki/Boston_University",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "539kernel-44",
+      "suggested_title": "539kernel [ 44 ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 741,
+          "section": [
+            "Hobby"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "539kernel [ 44 ] - a simple x86 32-bit educational kernel",
+          "links": [
+            {
+              "label": "539kernel",
+              "target": "https://539kernel.com/",
+              "article": false
+            },
+            {
+              "label": "[ 44 ]",
+              "target": "https://en.wikipedia.org#cite_note-44",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "aros",
+      "suggested_title": "AROS",
+      "canonical_title": "AROS",
+      "canonical_url": "https://en.wikipedia.org/wiki/AROS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 742,
+          "section": [
+            "Hobby"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "AROS – AROS Research Operating System (formerly known as Amiga Research Operating System)",
+          "links": [
+            {
+              "label": "AROS",
+              "target": "https://en.wikipedia.org/wiki/AROS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "atheos",
+      "suggested_title": "AtheOS",
+      "canonical_title": "AtheOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/AtheOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 743,
+          "section": [
+            "Hobby"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "AtheOS – branched to become Syllable Desktop",
+          "links": [
+            {
+              "label": "AtheOS",
+              "target": "https://en.wikipedia.org/wiki/AtheOS",
+              "article": true
+            },
+            {
+              "label": "Syllable Desktop",
+              "target": "https://en.wikipedia.org/wiki/Syllable_Desktop",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "syllable-desktop-2",
+      "suggested_title": "Syllable Desktop",
+      "canonical_title": "Syllable Desktop (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Syllable_Desktop_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 744,
+          "section": [
+            "Hobby"
+          ],
+          "depth": 2,
+          "parent_position": 743,
+          "label": "Syllable Desktop – a modern, independently originated OS; see AtheOS",
+          "links": [
+            {
+              "label": "Syllable Desktop",
+              "target": "https://en.wikipedia.org/wiki/Syllable_Desktop_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "AtheOS",
+              "target": "https://en.wikipedia.org/wiki/AtheOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "baremetal",
+      "suggested_title": "BareMetal",
+      "canonical_title": "BareMetal",
+      "canonical_url": "https://en.wikipedia.org/wiki/BareMetal",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 745,
+          "section": [
+            "Hobby"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "BareMetal",
+          "links": [
+            {
+              "label": "BareMetal",
+              "target": "https://en.wikipedia.org/wiki/BareMetal",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "eros-2",
+      "suggested_title": "EROS",
+      "canonical_title": "EROS (microkernel)",
+      "canonical_url": "https://en.wikipedia.org/wiki/EROS_(microkernel)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 748,
+          "section": [
+            "Hobby"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "EROS – Extremely Reliable Operating System",
+          "links": [
+            {
+              "label": "EROS",
+              "target": "https://en.wikipedia.org/wiki/EROS_(microkernel)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "lse-os",
+      "suggested_title": "LSE/OS",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 750,
+          "section": [
+            "Hobby"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "LSE/OS",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 68,
+  "candidates": [
+    {
+      "candidate_id": "replicant",
+      "suggested_title": "Replicant",
+      "canonical_title": "Replicant (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Replicant_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 775,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 3,
+          "parent_position": 764,
+          "label": "Replicant",
+          "links": [
+            {
+              "label": "Replicant",
+              "target": "https://en.wikipedia.org/wiki/Replicant_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "see-also-list-of-custom-android-distributions",
+      "suggested_title": "See also List of custom Android distributions",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 776,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 3,
+          "parent_position": 764,
+          "label": "See also List of custom Android distributions",
+          "links": [
+            {
+              "label": "List of custom Android distributions",
+              "target": "https://en.wikipedia.org/wiki/List_of_custom_Android_distributions",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "firefox-os",
+      "suggested_title": "Firefox OS",
+      "canonical_title": "Firefox OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Firefox_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 777,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "Firefox OS",
+          "links": [
+            {
+              "label": "Firefox OS",
+              "target": "https://en.wikipedia.org/wiki/Firefox_OS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "angstrom-distribution",
+      "suggested_title": "Ångström distribution",
+      "canonical_title": "Ångström distribution",
+      "canonical_url": "https://en.wikipedia.org/wiki/%C3%85ngstr%C3%B6m_distribution",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 779,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "Ångström distribution",
+          "links": [
+            {
+              "label": "Ångström distribution",
+              "target": "https://en.wikipedia.org/wiki/%C3%85ngstr%C3%B6m_distribution",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "familiar-linux",
+      "suggested_title": "Familiar Linux",
+      "canonical_title": "Familiar Linux",
+      "canonical_url": "https://en.wikipedia.org/wiki/Familiar_Linux",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 780,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "Familiar Linux",
+          "links": [
+            {
+              "label": "Familiar Linux",
+              "target": "https://en.wikipedia.org/wiki/Familiar_Linux",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mmo",
+      "suggested_title": "Mæmo",
+      "canonical_title": "Maemo",
+      "canonical_url": "https://en.wikipedia.org/wiki/Maemo",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 781,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "Mæmo based on Debian deployed on Nokia 's Nokia 770 , N800 and N810 Internet Tablets.",
+          "links": [
+            {
+              "label": "Mæmo",
+              "target": "https://en.wikipedia.org/wiki/Maemo",
+              "article": true
+            },
+            {
+              "label": "Debian",
+              "target": "https://en.wikipedia.org/wiki/Debian",
+              "article": true
+            },
+            {
+              "label": "Nokia",
+              "target": "https://en.wikipedia.org/wiki/Nokia",
+              "article": true
+            },
+            {
+              "label": "Nokia 770",
+              "target": "https://en.wikipedia.org/wiki/Nokia_770",
+              "article": true
+            },
+            {
+              "label": "N800",
+              "target": "https://en.wikipedia.org/wiki/Nokia_N800",
+              "article": true
+            },
+            {
+              "label": "N810",
+              "target": "https://en.wikipedia.org/wiki/Nokia_N810",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "openzaurus",
+      "suggested_title": "OpenZaurus",
+      "canonical_title": "OpenZaurus",
+      "canonical_url": "https://en.wikipedia.org/wiki/OpenZaurus",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 782,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "OpenZaurus",
+          "links": [
+            {
+              "label": "OpenZaurus",
+              "target": "https://en.wikipedia.org/wiki/OpenZaurus",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "webos",
+      "suggested_title": "webOS",
+      "canonical_title": "WebOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/WebOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 783,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "webOS from Palm, Inc. , later Hewlett-Packard via acquisition, and most recently at LG Electronics through acquisition from Hewlett-Packard [ 48 ]",
+          "links": [
+            {
+              "label": "webOS",
+              "target": "https://en.wikipedia.org/wiki/WebOS",
+              "article": true
+            },
+            {
+              "label": "Palm, Inc.",
+              "target": "https://en.wikipedia.org/wiki/Palm,_Inc.",
+              "article": true
+            },
+            {
+              "label": "Hewlett-Packard",
+              "target": "https://en.wikipedia.org/wiki/Hewlett-Packard",
+              "article": true
+            },
+            {
+              "label": "LG Electronics",
+              "target": "https://en.wikipedia.org/wiki/LG_Electronics",
+              "article": true
+            },
+            {
+              "label": "[ 48 ]",
+              "target": "https://en.wikipedia.org#cite_note-48",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "access-linux-platform",
+      "suggested_title": "Access Linux Platform",
+      "canonical_title": "Access Linux Platform",
+      "canonical_url": "https://en.wikipedia.org/wiki/Access_Linux_Platform",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 784,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "Access Linux Platform",
+          "links": [
+            {
+              "label": "Access Linux Platform",
+              "target": "https://en.wikipedia.org/wiki/Access_Linux_Platform",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "openmoko-linux",
+      "suggested_title": "Openmoko Linux",
+      "canonical_title": "Openmoko Linux",
+      "canonical_url": "https://en.wikipedia.org/wiki/Openmoko_Linux",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 786,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "Openmoko Linux",
+          "links": [
+            {
+              "label": "Openmoko Linux",
+              "target": "https://en.wikipedia.org/wiki/Openmoko_Linux",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

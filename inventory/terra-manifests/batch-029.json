@@ -1,0 +1,305 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 29,
+  "candidates": [
+    {
+      "candidate_id": "ibm-dos-4-x-5-0-developed-jointly-with-microsoft",
+      "suggested_title": "IBM DOS 4.x, 5.0 (developed jointly with Microsoft)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 297,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 2,
+          "parent_position": 295,
+          "label": "IBM DOS 4.x, 5.0 (developed jointly with Microsoft)",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "pc-dos-6-1-6-3-7-2000-7-10",
+      "suggested_title": "PC DOS 6.1, 6.3, 7, 2000, 7.10",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 298,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 2,
+          "parent_position": 295,
+          "label": "PC DOS 6.1, 6.3, 7, 2000, 7.10",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-2",
+      "suggested_title": "OS/2",
+      "canonical_title": "OS/2",
+      "canonical_url": "https://en.wikipedia.org/wiki/OS/2",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 299,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OS/2",
+          "links": [
+            {
+              "label": "OS/2",
+              "target": "https://en.wikipedia.org/wiki/OS/2",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 363,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OS/2 1.x (developed jointly with IBM until version 1.3)",
+          "links": [
+            {
+              "label": "OS/2",
+              "target": "https://en.wikipedia.org/wiki/OS/2",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-2-1-x-developed-jointly-with-microsoft",
+      "suggested_title": "OS/2 1.x (developed jointly with Microsoft)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 300,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 2,
+          "parent_position": 299,
+          "label": "OS/2 1.x (developed jointly with Microsoft)",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-2-2-x",
+      "suggested_title": "OS/2 2.x",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 301,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 2,
+          "parent_position": 299,
+          "label": "OS/2 2.x",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-2-warp",
+      "suggested_title": "OS/2 Warp",
+      "canonical_title": "OS/2 Warp",
+      "canonical_url": "https://en.wikipedia.org/wiki/OS/2_Warp",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 302,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 2,
+          "parent_position": 299,
+          "label": "OS/2 Warp 3 (ported to PPC via Workplace OS )",
+          "links": [
+            {
+              "label": "OS/2 Warp",
+              "target": "https://en.wikipedia.org/wiki/OS/2_Warp",
+              "article": true
+            },
+            {
+              "label": "Workplace OS",
+              "target": "https://en.wikipedia.org/wiki/Workplace_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 303,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 2,
+          "parent_position": 299,
+          "label": "OS/2 Warp 4",
+          "links": [
+            {
+              "label": "OS/2 Warp",
+              "target": "https://en.wikipedia.org/wiki/OS/2_Warp",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ecomstation",
+      "suggested_title": "eComStation",
+      "canonical_title": "EComStation",
+      "canonical_url": "https://en.wikipedia.org/wiki/EComStation",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 304,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 2,
+          "parent_position": 299,
+          "label": "eComStation (Warp 4.5/Workspace on Demand, rebundled by Serenity Systems International)",
+          "links": [
+            {
+              "label": "eComStation",
+              "target": "https://en.wikipedia.org/wiki/EComStation",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "arcaos",
+      "suggested_title": "ArcaOS",
+      "canonical_title": "ArcaOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/ArcaOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 305,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 2,
+          "parent_position": 299,
+          "label": "ArcaOS (Warp 4.52 based system sold by Arca Noae, LLC)",
+          "links": [
+            {
+              "label": "ArcaOS",
+              "target": "https://en.wikipedia.org/wiki/ArcaOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "aix",
+      "suggested_title": "AIX",
+      "canonical_title": "IBM AIX",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_AIX#IBM_PS/2_series",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 310,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 2,
+          "parent_position": 309,
+          "label": "AIX (IBM's Advanced Interactive eXecutive, a System V Unix version)",
+          "links": [
+            {
+              "label": "AIX",
+              "target": "https://en.wikipedia.org/wiki/IBM_AIX#IBM_PS/2_series",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ibm-series-1",
+      "suggested_title": "IBM Series/1",
+      "canonical_title": "IBM Series/1",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_Series/1",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 311,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On other hardware platforms"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "IBM Series/1",
+          "links": [
+            {
+              "label": "IBM Series/1",
+              "target": "https://en.wikipedia.org/wiki/IBM_Series/1",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    }
+  ]
+}

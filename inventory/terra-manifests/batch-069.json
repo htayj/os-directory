@@ -1,0 +1,325 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 69,
+  "candidates": [
+    {
+      "candidate_id": "ophone",
+      "suggested_title": "OPhone",
+      "canonical_title": "OPhone",
+      "canonical_url": "https://en.wikipedia.org/wiki/OPhone",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 787,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "OPhone",
+          "links": [
+            {
+              "label": "OPhone",
+              "target": "https://en.wikipedia.org/wiki/OPhone",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "meego",
+      "suggested_title": "MeeGo",
+      "canonical_title": "MeeGo",
+      "canonical_url": "https://en.wikipedia.org/wiki/MeeGo",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 788,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "MeeGo (from merger of Maemo & Moblin )",
+          "links": [
+            {
+              "label": "MeeGo",
+              "target": "https://en.wikipedia.org/wiki/MeeGo",
+              "article": true
+            },
+            {
+              "label": "Maemo",
+              "target": "https://en.wikipedia.org/wiki/Maemo",
+              "article": true
+            },
+            {
+              "label": "Moblin",
+              "target": "https://en.wikipedia.org/wiki/Moblin",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mobilinux",
+      "suggested_title": "Mobilinux",
+      "canonical_title": "Mobilinux",
+      "canonical_url": "https://en.wikipedia.org/wiki/Mobilinux",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 789,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "Mobilinux",
+          "links": [
+            {
+              "label": "Mobilinux",
+              "target": "https://en.wikipedia.org/wiki/Mobilinux",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "motomagx",
+      "suggested_title": "MotoMagx",
+      "canonical_title": "MotoMagx",
+      "canonical_url": "https://en.wikipedia.org/wiki/MotoMagx",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 790,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "MotoMagx",
+          "links": [
+            {
+              "label": "MotoMagx",
+              "target": "https://en.wikipedia.org/wiki/MotoMagx",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "qt-extended",
+      "suggested_title": "Qt Extended",
+      "canonical_title": "Qt Extended",
+      "canonical_url": "https://en.wikipedia.org/wiki/Qt_Extended",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 791,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "Qt Extended",
+          "links": [
+            {
+              "label": "Qt Extended",
+              "target": "https://en.wikipedia.org/wiki/Qt_Extended",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ubuntu-touch",
+      "suggested_title": "Ubuntu Touch",
+      "canonical_title": "Ubuntu Touch",
+      "canonical_url": "https://en.wikipedia.org/wiki/Ubuntu_Touch",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 794,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "Ubuntu Touch",
+          "links": [
+            {
+              "label": "Ubuntu Touch",
+              "target": "https://en.wikipedia.org/wiki/Ubuntu_Touch",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "postmarketos",
+      "suggested_title": "postmarketOS",
+      "canonical_title": "PostmarketOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/PostmarketOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 795,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "postmarketOS",
+          "links": [
+            {
+              "label": "postmarketOS",
+              "target": "https://en.wikipedia.org/wiki/PostmarketOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "magic-cap",
+      "suggested_title": "Magic Cap",
+      "canonical_title": "Magic Cap",
+      "canonical_url": "https://en.wikipedia.org/wiki/Magic_Cap",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 797,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Magic Cap",
+          "links": [
+            {
+              "label": "Magic Cap",
+              "target": "https://en.wikipedia.org/wiki/Magic_Cap",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "palm-os",
+      "suggested_title": "Palm OS",
+      "canonical_title": "Palm OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Palm_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 801,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Palm OS from Palm, Inc; now spun off as PalmSource",
+          "links": [
+            {
+              "label": "Palm OS",
+              "target": "https://en.wikipedia.org/wiki/Palm_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "pen-geos",
+      "suggested_title": "PEN/GEOS",
+      "canonical_title": "PEN/GEOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/PEN/GEOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 802,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PEN/GEOS on HP OmniGo 100 and 120",
+          "links": [
+            {
+              "label": "PEN/GEOS",
+              "target": "https://en.wikipedia.org/wiki/PEN/GEOS",
+              "article": true
+            },
+            {
+              "label": "HP OmniGo 100",
+              "target": "https://en.wikipedia.org/wiki/HP_OmniGo_100",
+              "article": true
+            },
+            {
+              "label": "120",
+              "target": "https://en.wikipedia.org/wiki/HP_OmniGo_120",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 824,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PEN/GEOS , GEOS-SC , GEOS-SE",
+          "links": [
+            {
+              "label": "PEN/GEOS",
+              "target": "https://en.wikipedia.org/wiki/PEN/GEOS",
+              "article": true
+            },
+            {
+              "label": "GEOS-SC",
+              "target": "https://en.wikipedia.org/wiki/GEOS-SC",
+              "article": true
+            },
+            {
+              "label": "GEOS-SE",
+              "target": "https://en.wikipedia.org/wiki/GEOS-SE",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

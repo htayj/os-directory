@@ -1,0 +1,316 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 17,
+  "candidates": [
+    {
+      "candidate_id": "tenex",
+      "suggested_title": "TENEX",
+      "canonical_title": "TENEX (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/TENEX_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 171,
+          "section": [
+            "Proprietary",
+            "Digital Equipment Corporation , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TENEX – an ancestor of TOPS-20 from BBN , for the PDP-10",
+          "links": [
+            {
+              "label": "TENEX",
+              "target": "https://en.wikipedia.org/wiki/TENEX_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "TOPS-20",
+              "target": "https://en.wikipedia.org/wiki/TOPS-20",
+              "article": true
+            },
+            {
+              "label": "BBN",
+              "target": "https://en.wikipedia.org/wiki/BBN_Technologies",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tops-20",
+      "suggested_title": "TOPS-20",
+      "canonical_title": "TOPS-20",
+      "canonical_url": "https://en.wikipedia.org/wiki/TOPS-20",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 172,
+          "section": [
+            "Proprietary",
+            "Digital Equipment Corporation , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TOPS-20 – for the PDP-10",
+          "links": [
+            {
+              "label": "TOPS-20",
+              "target": "https://en.wikipedia.org/wiki/TOPS-20",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dec-mica",
+      "suggested_title": "DEC MICA",
+      "canonical_title": "DEC MICA",
+      "canonical_url": "https://en.wikipedia.org/wiki/DEC_MICA",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 173,
+          "section": [
+            "Proprietary",
+            "Digital Equipment Corporation , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DEC MICA – for the DEC PRISM",
+          "links": [
+            {
+              "label": "DEC MICA",
+              "target": "https://en.wikipedia.org/wiki/DEC_MICA",
+              "article": true
+            },
+            {
+              "label": "DEC PRISM",
+              "target": "https://en.wikipedia.org/wiki/DEC_PRISM",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "digital-unix",
+      "suggested_title": "Digital UNIX",
+      "canonical_title": "Tru64 UNIX",
+      "canonical_url": "https://en.wikipedia.org/wiki/Tru64_UNIX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 174,
+          "section": [
+            "Proprietary",
+            "Digital Equipment Corporation , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Digital UNIX – derived from OSF/1, became HP's Tru64 UNIX",
+          "links": [
+            {
+              "label": "Digital UNIX",
+              "target": "https://en.wikipedia.org/wiki/Tru64_UNIX",
+              "article": true
+            },
+            {
+              "label": "Tru64 UNIX",
+              "target": "https://en.wikipedia.org/wiki/Tru64_UNIX",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ultrix",
+      "suggested_title": "Ultrix",
+      "canonical_title": "Ultrix",
+      "canonical_url": "https://en.wikipedia.org/wiki/Ultrix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 175,
+          "section": [
+            "Proprietary",
+            "Digital Equipment Corporation , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Ultrix",
+          "links": [
+            {
+              "label": "Ultrix",
+              "target": "https://en.wikipedia.org/wiki/Ultrix",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "vms",
+      "suggested_title": "VMS",
+      "canonical_title": "OpenVMS",
+      "canonical_url": "https://en.wikipedia.org/wiki/OpenVMS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 176,
+          "section": [
+            "Proprietary",
+            "Digital Equipment Corporation , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "VMS – originally by DEC (now by VMS Software Inc.) for the VAX mini-computer range; later renamed OpenVMS and ported to Alpha , and subsequently ported to Intel Itanium and then to x86-64",
+          "links": [
+            {
+              "label": "VMS",
+              "target": "https://en.wikipedia.org/wiki/OpenVMS",
+              "article": true
+            },
+            {
+              "label": "DEC",
+              "target": "https://en.wikipedia.org/wiki/Digital_Equipment_Corporation",
+              "article": true
+            },
+            {
+              "label": "VAX",
+              "target": "https://en.wikipedia.org/wiki/VAX",
+              "article": true
+            },
+            {
+              "label": "Alpha",
+              "target": "https://en.wikipedia.org/wiki/DEC_Alpha",
+              "article": true
+            },
+            {
+              "label": "Itanium",
+              "target": "https://en.wikipedia.org/wiki/Itanium",
+              "article": true
+            },
+            {
+              "label": "x86-64",
+              "target": "https://en.wikipedia.org/wiki/X86-64",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "waits",
+      "suggested_title": "WAITS",
+      "canonical_title": "WAITS",
+      "canonical_url": "https://en.wikipedia.org/wiki/WAITS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 177,
+          "section": [
+            "Proprietary",
+            "Digital Equipment Corporation , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "WAITS – for the PDP-6 and PDP-10",
+          "links": [
+            {
+              "label": "WAITS",
+              "target": "https://en.wikipedia.org/wiki/WAITS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ose",
+      "suggested_title": "OSE",
+      "canonical_title": "Operating System Embedded",
+      "canonical_url": "https://en.wikipedia.org/wiki/Operating_System_Embedded",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 178,
+          "section": [
+            "Proprietary",
+            "ENEA AB"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OSE – Flexible, small footprint, high-performance RTOS for control processors",
+          "links": [
+            {
+              "label": "OSE",
+              "target": "https://en.wikipedia.org/wiki/Operating_System_Embedded",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "towns-os",
+      "suggested_title": "Towns OS",
+      "canonical_title": "Towns OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Towns_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 179,
+          "section": [
+            "Proprietary",
+            "Fujitsu"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Towns OS",
+          "links": [
+            {
+              "label": "Towns OS",
+              "target": "https://en.wikipedia.org/wiki/Towns_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "xsp",
+      "suggested_title": "XSP",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 180,
+          "section": [
+            "Proprietary",
+            "Fujitsu"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "XSP",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

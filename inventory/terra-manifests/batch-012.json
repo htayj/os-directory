@@ -1,0 +1,324 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 12,
+  "candidates": [
+    {
+      "candidate_id": "cp-m-8000",
+      "suggested_title": "CP/M-8000",
+      "canonical_title": "CP/M-8000",
+      "canonical_url": "https://en.wikipedia.org/wiki/CP/M-8000",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 119,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 114,
+          "label": "CP/M-8000 CP/M for Zilog Z8000",
+          "links": [
+            {
+              "label": "CP/M-8000",
+              "target": "https://en.wikipedia.org/wiki/CP/M-8000",
+              "article": true
+            },
+            {
+              "label": "Zilog Z8000",
+              "target": "https://en.wikipedia.org/wiki/Zilog_Z8000",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "cp-m-86",
+      "suggested_title": "CP/M-86",
+      "canonical_title": "CP/M-86",
+      "canonical_url": "https://en.wikipedia.org/wiki/CP/M-86",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 120,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 114,
+          "label": "CP/M-86 CP/M for Intel 8088 / 8086",
+          "links": [
+            {
+              "label": "CP/M-86",
+              "target": "https://en.wikipedia.org/wiki/CP/M-86",
+              "article": true
+            },
+            {
+              "label": "Intel 8088",
+              "target": "https://en.wikipedia.org/wiki/Intel_8088",
+              "article": true
+            },
+            {
+              "label": "8086",
+              "target": "https://en.wikipedia.org/wiki/Intel_8086",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "cp-m-86-plus",
+      "suggested_title": "CP/M-86 Plus",
+      "canonical_title": "CP/M-86 Plus",
+      "canonical_url": "https://en.wikipedia.org/wiki/CP/M-86_Plus",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 121,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 120,
+          "label": "CP/M-86 Plus",
+          "links": [
+            {
+              "label": "CP/M-86 Plus",
+              "target": "https://en.wikipedia.org/wiki/CP/M-86_Plus",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "personal-cp-m-86",
+      "suggested_title": "Personal CP/M-86",
+      "canonical_title": "Personal CP/M-86",
+      "canonical_url": "https://en.wikipedia.org/wiki/Personal_CP/M-86",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 122,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 120,
+          "label": "Personal CP/M-86",
+          "links": [
+            {
+              "label": "Personal CP/M-86",
+              "target": "https://en.wikipedia.org/wiki/Personal_CP/M-86",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mp-m",
+      "suggested_title": "MP/M",
+      "canonical_title": "MP/M",
+      "canonical_url": "https://en.wikipedia.org/wiki/MP/M",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 123,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 114,
+          "label": "MP/M Multi-user version of CP/M-80",
+          "links": [
+            {
+              "label": "MP/M",
+              "target": "https://en.wikipedia.org/wiki/MP/M",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "mp-m-ii",
+      "suggested_title": "MP/M II",
+      "canonical_title": "MP/M II",
+      "canonical_url": "https://en.wikipedia.org/wiki/MP/M_II",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 124,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 123,
+          "label": "MP/M II",
+          "links": [
+            {
+              "label": "MP/M II",
+              "target": "https://en.wikipedia.org/wiki/MP/M_II",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mp-m-86",
+      "suggested_title": "MP/M-86",
+      "canonical_title": "MP/M-86",
+      "canonical_url": "https://en.wikipedia.org/wiki/MP/M-86",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 125,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 114,
+          "label": "MP/M-86 Multi-user version of CP/M-86",
+          "links": [
+            {
+              "label": "MP/M-86",
+              "target": "https://en.wikipedia.org/wiki/MP/M-86",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "mp-m-8-16",
+      "suggested_title": "MP/M 8-16",
+      "canonical_title": "MP/M 8-16",
+      "canonical_url": "https://en.wikipedia.org/wiki/MP/M_8-16",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 126,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 125,
+          "label": "MP/M 8-16 , a dual-processor variant of MP/M for 8086 and 8080 CPUs.",
+          "links": [
+            {
+              "label": "MP/M 8-16",
+              "target": "https://en.wikipedia.org/wiki/MP/M_8-16",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "concurrent-cp-m",
+      "suggested_title": "Concurrent CP/M",
+      "canonical_title": "Concurrent CP/M",
+      "canonical_url": "https://en.wikipedia.org/wiki/Concurrent_CP/M",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 127,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 114,
+          "label": "Concurrent CP/M , the successor of CP/M-80 and MP/M-80",
+          "links": [
+            {
+              "label": "Concurrent CP/M",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_CP/M",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "concurrent-cp-m-86",
+      "suggested_title": "Concurrent CP/M-86",
+      "canonical_title": "Concurrent CP/M-86",
+      "canonical_url": "https://en.wikipedia.org/wiki/Concurrent_CP/M-86",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 128,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 2,
+          "parent_position": 114,
+          "label": "Concurrent CP/M-86 , the successor of CP/M-86 and MP/M-86",
+          "links": [
+            {
+              "label": "Concurrent CP/M-86",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_CP/M-86",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 643,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Concurrent CP/M-86 3.1 (BDOS 3.1) with PC-MODE (Digital Research's successor of CP/M-86 and MP/M-86 )",
+          "links": [
+            {
+              "label": "Concurrent CP/M-86",
+              "target": "https://en.wikipedia.org/wiki/Concurrent_CP/M-86",
+              "article": true
+            },
+            {
+              "label": "PC-MODE",
+              "target": "https://en.wikipedia.org/wiki/PC-MODE",
+              "article": true
+            },
+            {
+              "label": "CP/M-86",
+              "target": "https://en.wikipedia.org/wiki/CP/M-86",
+              "article": true
+            },
+            {
+              "label": "MP/M-86",
+              "target": "https://en.wikipedia.org/wiki/MP/M-86",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    }
+  ]
+}

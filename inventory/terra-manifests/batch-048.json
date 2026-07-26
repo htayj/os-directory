@@ -1,0 +1,337 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 48,
+  "candidates": [
+    {
+      "candidate_id": "pilot",
+      "suggested_title": "Pilot",
+      "canonical_title": "Pilot (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Pilot_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 505,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Non-standard language-based"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Pilot operating system – written in the Mesa language and used on Xerox Star workstations.",
+          "links": [
+            {
+              "label": "Pilot",
+              "target": "https://en.wikipedia.org/wiki/Pilot_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "Mesa",
+              "target": "https://en.wikipedia.org/wiki/Mesa_(programming_language)",
+              "article": true
+            },
+            {
+              "label": "Xerox Star",
+              "target": "https://en.wikipedia.org/wiki/Xerox_Star",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "perq",
+      "suggested_title": "PERQ",
+      "canonical_title": "PERQ",
+      "canonical_url": "https://en.wikipedia.org/wiki/PERQ",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 506,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Non-standard language-based"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PERQ Operating System (POS) – written in PERQ Pascal .",
+          "links": [
+            {
+              "label": "PERQ",
+              "target": "https://en.wikipedia.org/wiki/PERQ",
+              "article": true
+            },
+            {
+              "label": "Pascal",
+              "target": "https://en.wikipedia.org/wiki/Pascal_(programming_language)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "operating-system-for-1-elbrus-1-and-2",
+      "suggested_title": "Operating system for Эльбрус-1 (Elbrus-1) and Эльбрус-2",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 507,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Operating system for Эльбрус-1 (Elbrus-1) and Эльбрус-2 – used for application, job control, system programming, [ 23 ] implemented in uЭль-76 (AL-76) .",
+          "links": [
+            {
+              "label": "Эльбрус-1 (Elbrus-1)",
+              "target": "https://en.wikipedia.org/wiki/Elbrus_(computer)",
+              "article": true
+            },
+            {
+              "label": "[ 23 ]",
+              "target": "https://en.wikipedia.org#cite_note-23",
+              "article": false
+            },
+            {
+              "label": "uЭль-76 (AL-76)",
+              "target": "https://en.wikipedia.org/wiki/AL-76_programming_language",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "business-operating-system",
+      "suggested_title": "Business Operating System",
+      "canonical_title": "Business Operating System (software)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Business_Operating_System_(software)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 508,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Business Operating System (BOS) – developed to be ported across microcomputers.",
+          "links": [
+            {
+              "label": "Business Operating System",
+              "target": "https://en.wikipedia.org/wiki/Business_Operating_System_(software)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "eos",
+      "suggested_title": "EOS",
+      "canonical_title": "EOS (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/EOS_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 509,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "EOS – developed by ETA Systems for use in their ETA-10 line of supercomputers",
+          "links": [
+            {
+              "label": "EOS",
+              "target": "https://en.wikipedia.org/wiki/EOS_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "ETA Systems",
+              "target": "https://en.wikipedia.org/wiki/ETA_Systems",
+              "article": true
+            },
+            {
+              "label": "ETA-10",
+              "target": "https://en.wikipedia.org/wiki/ETA-10",
+              "article": true
+            },
+            {
+              "label": "supercomputers",
+              "target": "https://en.wikipedia.org/wiki/Supercomputer",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "embos",
+      "suggested_title": "EMBOS",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 510,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "EMBOS – developed by Elxsi for use on their mini-supercomputers",
+          "links": [
+            {
+              "label": "Elxsi",
+              "target": "https://en.wikipedia.org/wiki/Elxsi",
+              "article": true
+            },
+            {
+              "label": "mini-supercomputers",
+              "target": "https://en.wikipedia.org/wiki/Mini-supercomputer",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mai-basic-four",
+      "suggested_title": "MAI Basic Four",
+      "canonical_title": "MAI Basic Four",
+      "canonical_url": "https://en.wikipedia.org/wiki/MAI_Basic_Four",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 512,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MAI Basic Four – An OS implementing Business Basic from MAI Systems.",
+          "links": [
+            {
+              "label": "MAI Basic Four",
+              "target": "https://en.wikipedia.org/wiki/MAI_Basic_Four",
+              "article": true
+            },
+            {
+              "label": "Business Basic",
+              "target": "https://en.wikipedia.org/wiki/Business_Basic",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-es",
+      "suggested_title": "OS ES",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 515,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OS ES – an operating system for ES EVM",
+          "links": [
+            {
+              "label": "ES EVM",
+              "target": "https://en.wikipedia.org/wiki/ES_EVM",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "pc-mos-386",
+      "suggested_title": "PC-MOS/386",
+      "canonical_title": "PC-MOS/386",
+      "canonical_url": "https://en.wikipedia.org/wiki/PC-MOS/386",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 516,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PC-MOS/386 – DOS-like, but multiuser/multitasking",
+          "links": [
+            {
+              "label": "PC-MOS/386",
+              "target": "https://en.wikipedia.org/wiki/PC-MOS/386",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "prolog-dispatcher",
+      "suggested_title": "Prolog-Dispatcher",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 517,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Prolog-Dispatcher – used to control Soviet Buran space shuttle.",
+          "links": [
+            {
+              "label": "Buran",
+              "target": "https://en.wikipedia.org/wiki/Buran_(spacecraft)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

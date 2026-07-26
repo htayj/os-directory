@@ -1,0 +1,374 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 51,
+  "candidates": [
+    {
+      "candidate_id": "openstep",
+      "suggested_title": "OPENSTEP",
+      "canonical_title": "OPENSTEP",
+      "canonical_url": "https://en.wikipedia.org/wiki/OPENSTEP",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 542,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OPENSTEP",
+          "links": [
+            {
+              "label": "OPENSTEP",
+              "target": "https://en.wikipedia.org/wiki/OPENSTEP",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "qnx",
+      "suggested_title": "QNX",
+      "canonical_title": "QNX",
+      "canonical_url": "https://en.wikipedia.org/wiki/QNX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 543,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "QNX (POSIX, microkernel OS; usually a real time embedded OS)",
+          "links": [
+            {
+              "label": "QNX",
+              "target": "https://en.wikipedia.org/wiki/QNX",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 873,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "QNX – Unix-like real-time operating system, aimed primarily at the embedded systems market. [ 53 ]",
+          "links": [
+            {
+              "label": "QNX",
+              "target": "https://en.wikipedia.org/wiki/QNX",
+              "article": true
+            },
+            {
+              "label": "[ 53 ]",
+              "target": "https://en.wikipedia.org#cite_note-53",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "pnx-a-port-of-unix-v7-and-system-iii-to-the-perq-computer",
+      "suggested_title": "PNX, a port of UNIX v7 and System III to the PERQ computer",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 544,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PNX, a port of UNIX v7 and System III to the PERQ computer",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "risc-os-2",
+      "suggested_title": "RISC/os",
+      "canonical_title": "MIPS RISC/os",
+      "canonical_url": "https://en.wikipedia.org/wiki/MIPS_RISC/os",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 547,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RISC/os (a port by MIPS Technologies of 4.3BSD for its MIPS -based computers)",
+          "links": [
+            {
+              "label": "RISC/os",
+              "target": "https://en.wikipedia.org/wiki/MIPS_RISC/os",
+              "article": true
+            },
+            {
+              "label": "MIPS Technologies",
+              "target": "https://en.wikipedia.org/wiki/MIPS_Technologies",
+              "article": true
+            },
+            {
+              "label": "4.3BSD",
+              "target": "https://en.wikipedia.org/wiki/4.3BSD",
+              "article": true
+            },
+            {
+              "label": "MIPS",
+              "target": "https://en.wikipedia.org/wiki/MIPS_architecture",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "sco-unix-2",
+      "suggested_title": "SCO UNIX",
+      "canonical_title": "SCO UNIX",
+      "canonical_url": "https://en.wikipedia.org/wiki/SCO_UNIX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 549,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SCO UNIX (from SCO , bought by Caldera who renamed themselves SCO Group )",
+          "links": [
+            {
+              "label": "SCO UNIX",
+              "target": "https://en.wikipedia.org/wiki/SCO_UNIX",
+              "article": true
+            },
+            {
+              "label": "SCO",
+              "target": "https://en.wikipedia.org/wiki/Santa_Cruz_Operation",
+              "article": true
+            },
+            {
+              "label": "SCO Group",
+              "target": "https://en.wikipedia.org/wiki/SCO_Group",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "sinix",
+      "suggested_title": "SINIX",
+      "canonical_title": "SINIX",
+      "canonical_url": "https://en.wikipedia.org/wiki/SINIX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 550,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SINIX (a port by SNI of Unix to the MIPS architecture )",
+          "links": [
+            {
+              "label": "SINIX",
+              "target": "https://en.wikipedia.org/wiki/SINIX",
+              "article": true
+            },
+            {
+              "label": "SNI",
+              "target": "https://en.wikipedia.org/wiki/Siemens_Nixdorf_Informationssysteme",
+              "article": true
+            },
+            {
+              "label": "Unix",
+              "target": "https://en.wikipedia.org/wiki/Unix",
+              "article": true
+            },
+            {
+              "label": "MIPS architecture",
+              "target": "https://en.wikipedia.org/wiki/MIPS_architecture",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "solaris",
+      "suggested_title": "Solaris",
+      "canonical_title": "Solaris (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Solaris_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 551,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Solaris (from Sun, bought by Oracle; a System V-based replacement for SunOS)",
+          "links": [
+            {
+              "label": "Solaris",
+              "target": "https://en.wikipedia.org/wiki/Solaris_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "sunos",
+      "suggested_title": "SunOS",
+      "canonical_title": "SunOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/SunOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 552,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SunOS (BSD-based Unix system used on early Sun hardware)",
+          "links": [
+            {
+              "label": "SunOS",
+              "target": "https://en.wikipedia.org/wiki/SunOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "super-ux",
+      "suggested_title": "SUPER-UX",
+      "canonical_title": "SUPER-UX",
+      "canonical_url": "https://en.wikipedia.org/wiki/SUPER-UX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 553,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SUPER-UX (a port of System V Release 4.2MP with features adopted from BSD and Linux for NEC SX architecture supercomputers )",
+          "links": [
+            {
+              "label": "SUPER-UX",
+              "target": "https://en.wikipedia.org/wiki/SUPER-UX",
+              "article": true
+            },
+            {
+              "label": "System V Release 4.2MP",
+              "target": "https://en.wikipedia.org/wiki/UNIX_System_V",
+              "article": true
+            },
+            {
+              "label": "BSD",
+              "target": "https://en.wikipedia.org/wiki/Berkeley_Software_Distribution",
+              "article": true
+            },
+            {
+              "label": "Linux",
+              "target": "https://en.wikipedia.org/wiki/Linux",
+              "article": true
+            },
+            {
+              "label": "NEC SX architecture",
+              "target": "https://en.wikipedia.org/wiki/NEC_SX_architecture",
+              "article": true
+            },
+            {
+              "label": "supercomputers",
+              "target": "https://en.wikipedia.org/wiki/Supercomputer",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "system-v-at-386",
+      "suggested_title": "System V/AT, 386",
+      "canonical_title": "Microport (software)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Microport_(software)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 555,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "System V/AT, 386 (The first version of AT&T System V UNIX on the IBM 286 and 386 PCs, ported and sold by Microport )",
+          "links": [
+            {
+              "label": "System V/AT, 386",
+              "target": "https://en.wikipedia.org/wiki/Microport_(software)",
+              "article": true
+            },
+            {
+              "label": "Microport",
+              "target": "https://en.wikipedia.org/wiki/Microport_(software)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

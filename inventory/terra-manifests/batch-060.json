@@ -1,0 +1,241 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 60,
+  "candidates": [
+    {
+      "candidate_id": "caldera-opendos-7-01-bdos-7-2",
+      "suggested_title": "Caldera OpenDOS 7.01 (BDOS 7.2)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 674,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 7,
+          "parent_position": 673,
+          "label": "Caldera OpenDOS 7.01 (BDOS 7.2)",
+          "links": [
+            {
+              "label": "OpenDOS",
+              "target": "https://en.wikipedia.org/wiki/OpenDOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "enhanced-dr-dos-7-01-0x-bdos-7-2",
+      "suggested_title": "Enhanced DR-DOS 7.01.0x (BDOS 7.2)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 675,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 8,
+          "parent_position": 674,
+          "label": "Enhanced DR-DOS 7.01.0x (BDOS 7.2)",
+          "links": [],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "dell-real-mode-kernel-drmk",
+      "suggested_title": "Dell Real Mode Kernel (DRMK)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 676,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 9,
+          "parent_position": 675,
+          "label": "Dell Real Mode Kernel (DRMK)",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "novell-dos-7-updates-1115-2-bdos-7-2",
+      "suggested_title": "Novell DOS 7 updates 11–15.2 (BDOS 7.2)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 677,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 6,
+          "parent_position": 672,
+          "label": "Novell DOS 7 updates 11–15.2 (BDOS 7.2)",
+          "links": [],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "caldera-dr-dos-7-02-7-03-bdos-7-3",
+      "suggested_title": "Caldera DR-DOS 7.02-7.03 (BDOS 7.3)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 678,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 7,
+          "parent_position": 677,
+          "label": "Caldera DR-DOS 7.02-7.03 (BDOS 7.3)",
+          "links": [
+            {
+              "label": "DR-DOS",
+              "target": "https://en.wikipedia.org/wiki/DR-DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "dr-dos-winbolt",
+      "suggested_title": "DR-DOS \"WinBolt\"",
+      "canonical_title": "DR-DOS \"WinBolt\"",
+      "canonical_url": "https://en.wikipedia.org/wiki/DR-DOS_%22WinBolt%22",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 679,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 8,
+          "parent_position": 678,
+          "label": "DR-DOS \"WinBolt\"",
+          "links": [
+            {
+              "label": "DR-DOS \"WinBolt\"",
+              "target": "https://en.wikipedia.org/wiki/DR-DOS_%22WinBolt%22",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "oem-dr-dos-7-04-7-05-bdos-7-3",
+      "suggested_title": "OEM DR-DOS 7.04-7.05 (BDOS 7.3)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 680,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 8,
+          "parent_position": 678,
+          "label": "OEM DR-DOS 7.04-7.05 (BDOS 7.3)",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "oem-dr-dos-7-06-pqdos",
+      "suggested_title": "OEM DR-DOS 7.06 (PQDOS)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 681,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 8,
+          "parent_position": 678,
+          "label": "OEM DR-DOS 7.06 (PQDOS)",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "oem-dr-dos-7-07-bdos-7-4-7-7",
+      "suggested_title": "OEM DR-DOS 7.07 (BDOS 7.4/7.7)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 682,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 8,
+          "parent_position": 678,
+          "label": "OEM DR-DOS 7.07 (BDOS 7.4/7.7)",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "pts-dos",
+      "suggested_title": "PTS-DOS",
+      "canonical_title": "PTS-DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/PTS-DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 685,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PTS-DOS (MS-DOS variant by Russian company Phystechsoft )",
+          "links": [
+            {
+              "label": "PTS-DOS",
+              "target": "https://en.wikipedia.org/wiki/PTS-DOS",
+              "article": true
+            },
+            {
+              "label": "Russian",
+              "target": "https://en.wikipedia.org/wiki/Russia",
+              "article": true
+            },
+            {
+              "label": "Phystechsoft",
+              "target": "https://en.wikipedia.org/w/index.php?title=Phystechsoft&action=edit&redlink=1",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

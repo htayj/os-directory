@@ -1,0 +1,369 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 33,
+  "candidates": [
+    {
+      "candidate_id": "edinburgh-multiple-access-system",
+      "suggested_title": "Edinburgh Multiple Access System",
+      "canonical_title": "Edinburgh Multiple Access System",
+      "canonical_url": "https://en.wikipedia.org/wiki/Edinburgh_Multiple_Access_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 345,
+          "section": [
+            "Proprietary",
+            "International Computers Limited"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Edinburgh Multiple Access System (EMAS) for the ICL System 4/75 , from the University of Edinburgh , later ported to other systems.",
+          "links": [
+            {
+              "label": "Edinburgh Multiple Access System",
+              "target": "https://en.wikipedia.org/wiki/Edinburgh_Multiple_Access_System",
+              "article": true
+            },
+            {
+              "label": "ICL System 4/75",
+              "target": "https://en.wikipedia.org/wiki/ICL_System_4/75",
+              "article": true
+            },
+            {
+              "label": "University of Edinburgh",
+              "target": "https://en.wikipedia.org/wiki/University_of_Edinburgh",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "executive",
+      "suggested_title": "Executive",
+      "canonical_title": "Executive (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Executive_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 346,
+          "section": [
+            "Proprietary",
+            "International Computers Limited"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Executive – used on the 1900 and 290x range of minicomputers. A modified version of Executive was also used as part of GEORGE 3 and 4.",
+          "links": [
+            {
+              "label": "Executive",
+              "target": "https://en.wikipedia.org/wiki/Executive_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tme",
+      "suggested_title": "TME",
+      "canonical_title": "TME (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/TME_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 347,
+          "section": [
+            "Proprietary",
+            "International Computers Limited"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TME – used on the ME29 minicomputer",
+          "links": [
+            {
+              "label": "TME",
+              "target": "https://en.wikipedia.org/wiki/TME_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "icl-vme",
+      "suggested_title": "ICL VME",
+      "canonical_title": "ICL VME",
+      "canonical_url": "https://en.wikipedia.org/wiki/ICL_VME",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 348,
+          "section": [
+            "Proprietary",
+            "International Computers Limited"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ICL VME – including early variants VME/B and VME/2900, appearing on the ICL 2900 Series and Series 39 mainframes, implemented in S3",
+          "links": [
+            {
+              "label": "ICL VME",
+              "target": "https://en.wikipedia.org/wiki/ICL_VME",
+              "article": true
+            },
+            {
+              "label": "ICL 2900 Series",
+              "target": "https://en.wikipedia.org/wiki/ICL_2900_Series",
+              "article": true
+            },
+            {
+              "label": "S3",
+              "target": "https://en.wikipedia.org/wiki/S3_programming_language",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "vme-k",
+      "suggested_title": "VME/K",
+      "canonical_title": "VME/K",
+      "canonical_url": "https://en.wikipedia.org/wiki/VME/K",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 349,
+          "section": [
+            "Proprietary",
+            "International Computers Limited"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "VME/K – on early smaller 2900s",
+          "links": [
+            {
+              "label": "VME/K",
+              "target": "https://en.wikipedia.org/wiki/VME/K",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "remix-os",
+      "suggested_title": "Remix OS",
+      "canonical_title": "Remix OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Remix_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 350,
+          "section": [
+            "Proprietary",
+            "Jide"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Remix OS",
+          "links": [
+            {
+              "label": "Remix OS",
+              "target": "https://en.wikipedia.org/wiki/Remix_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 578,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 4,
+          "parent_position": 577,
+          "label": "Remix OS",
+          "links": [
+            {
+              "label": "Remix OS",
+              "target": "https://en.wikipedia.org/wiki/Remix_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "sailfish-os",
+      "suggested_title": "Sailfish OS",
+      "canonical_title": "Sailfish OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Sailfish_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 351,
+          "section": [
+            "Proprietary",
+            "Jolla"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Sailfish OS",
+          "links": [
+            {
+              "label": "Sailfish OS",
+              "target": "https://en.wikipedia.org/wiki/Sailfish_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 792,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 763,
+          "label": "Sailfish OS",
+          "links": [
+            {
+              "label": "Sailfish OS",
+              "target": "https://en.wikipedia.org/wiki/Sailfish_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "kaios",
+      "suggested_title": "KaiOS",
+      "canonical_title": "KaiOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/KaiOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 352,
+          "section": [
+            "Proprietary",
+            "KaiOS"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "KaiOS",
+          "links": [
+            {
+              "label": "KaiOS",
+              "target": "https://en.wikipedia.org/wiki/KaiOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 778,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 3,
+          "parent_position": 777,
+          "label": "KaiOS",
+          "links": [
+            {
+              "label": "KaiOS",
+              "target": "https://en.wikipedia.org/wiki/KaiOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "lynxos",
+      "suggested_title": "LynxOS",
+      "canonical_title": "LynxOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/LynxOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 353,
+          "section": [
+            "Proprietary",
+            "Lynx Real-time Systems, LynuxWorks, Lynx Software Technologies"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "LynxOS",
+          "links": [
+            {
+              "label": "LynxOS",
+              "target": "https://en.wikipedia.org/wiki/LynxOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "flyme-os",
+      "suggested_title": "Flyme OS",
+      "canonical_title": "Flyme OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Flyme_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 354,
+          "section": [
+            "Proprietary",
+            "Meizu"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Flyme OS",
+          "links": [
+            {
+              "label": "Flyme OS",
+              "target": "https://en.wikipedia.org/wiki/Flyme_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 769,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 3,
+          "parent_position": 764,
+          "label": "Flyme OS",
+          "links": [
+            {
+              "label": "Flyme OS",
+              "target": "https://en.wikipedia.org/wiki/Flyme_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

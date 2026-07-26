@@ -1,0 +1,331 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 39,
+  "candidates": [
+    {
+      "candidate_id": "windows-server-2025",
+      "suggested_title": "Windows Server 2025",
+      "canonical_title": "Windows Server 2025",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Server_2025",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 406,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 377,
+          "label": "Windows Server 2025",
+          "links": [
+            {
+              "label": "Windows Server 2025",
+              "target": "https://en.wikipedia.org/wiki/Windows_Server_2025",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-ce",
+      "suggested_title": "Windows CE",
+      "canonical_title": "Windows CE",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_CE",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 407,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Windows CE (OS for handhelds, embedded devices, and real-time applications that is similar to other versions of Windows)",
+          "links": [
+            {
+              "label": "Windows CE",
+              "target": "https://en.wikipedia.org/wiki/Windows_CE",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 808,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Windows CE , from Microsoft",
+          "links": [
+            {
+              "label": "Windows CE",
+              "target": "https://en.wikipedia.org/wiki/Windows_CE",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-ce-3-0",
+      "suggested_title": "Windows CE 3.0",
+      "canonical_title": "Windows CE 3.0",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_CE_3.0",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 408,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 407,
+          "label": "Windows CE 3.0",
+          "links": [
+            {
+              "label": "Windows CE 3.0",
+              "target": "https://en.wikipedia.org/wiki/Windows_CE_3.0",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-ce-5-0",
+      "suggested_title": "Windows CE 5.0",
+      "canonical_title": "Windows CE 5.0",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_CE_5.0",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 409,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 407,
+          "label": "Windows CE 5.0",
+          "links": [
+            {
+              "label": "Windows CE 5.0",
+              "target": "https://en.wikipedia.org/wiki/Windows_CE_5.0",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-embedded-ce-6-0",
+      "suggested_title": "Windows Embedded CE 6.0",
+      "canonical_title": "Windows Embedded CE 6.0",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Embedded_CE_6.0",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 410,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 407,
+          "label": "Windows Embedded CE 6.0",
+          "links": [
+            {
+              "label": "Windows Embedded CE 6.0",
+              "target": "https://en.wikipedia.org/wiki/Windows_Embedded_CE_6.0",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-embedded-compact-7",
+      "suggested_title": "Windows Embedded Compact 7",
+      "canonical_title": "Windows Embedded Compact 7",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Embedded_Compact_7",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 411,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 407,
+          "label": "Windows Embedded Compact 7",
+          "links": [
+            {
+              "label": "Windows Embedded Compact 7",
+              "target": "https://en.wikipedia.org/wiki/Windows_Embedded_Compact_7",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-embedded-compact-2013",
+      "suggested_title": "Windows Embedded Compact 2013",
+      "canonical_title": "Windows Embedded Compact 2013",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Embedded_Compact_2013",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 412,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 407,
+          "label": "Windows Embedded Compact 2013",
+          "links": [
+            {
+              "label": "Windows Embedded Compact 2013",
+              "target": "https://en.wikipedia.org/wiki/Windows_Embedded_Compact_2013",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-mobile",
+      "suggested_title": "Windows Mobile",
+      "canonical_title": "Windows Mobile",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Mobile",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 413,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 407,
+          "label": "Windows Mobile (based on Windows CE, but for a smaller form factor)",
+          "links": [
+            {
+              "label": "Windows Mobile",
+              "target": "https://en.wikipedia.org/wiki/Windows_Mobile",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 810,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 808,
+          "label": "Windows Mobile from Microsoft, a variant of Windows CE",
+          "links": [
+            {
+              "label": "Windows Mobile",
+              "target": "https://en.wikipedia.org/wiki/Windows_Mobile",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-phone-7",
+      "suggested_title": "Windows Phone 7",
+      "canonical_title": "Windows Phone 7",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Phone_7",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 414,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 407,
+          "label": "Windows Phone 7",
+          "links": [
+            {
+              "label": "Windows Phone 7",
+              "target": "https://en.wikipedia.org/wiki/Windows_Phone_7",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 811,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 808,
+          "label": "Windows Phone 7 from Microsoft",
+          "links": [
+            {
+              "label": "Windows Phone 7",
+              "target": "https://en.wikipedia.org/wiki/Windows_Phone_7",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "kin-os",
+      "suggested_title": "KIN OS",
+      "canonical_title": "KIN OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/KIN_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 415,
+          "section": [
+            "Proprietary",
+            "Microsoft Corporation"
+          ],
+          "depth": 2,
+          "parent_position": 407,
+          "label": "KIN OS",
+          "links": [
+            {
+              "label": "KIN OS",
+              "target": "https://en.wikipedia.org/wiki/KIN_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

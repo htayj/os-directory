@@ -1,0 +1,332 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 58,
+  "candidates": [
+    {
+      "candidate_id": "harmony",
+      "suggested_title": "Harmony",
+      "canonical_title": "Harmony (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Harmony_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 626,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Harmony – realtime, multitasking, multiprocessing message-passing system developed at the National Research Council of Canada.",
+          "links": [
+            {
+              "label": "Harmony",
+              "target": "https://en.wikipedia.org/wiki/Harmony_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "helenos",
+      "suggested_title": "HelenOS",
+      "canonical_title": "HelenOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/HelenOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 627,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HelenOS – research and experimental operating system",
+          "links": [
+            {
+              "label": "HelenOS",
+              "target": "https://en.wikipedia.org/wiki/HelenOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 749,
+          "section": [
+            "Hobby"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "HelenOS – based on a preemptible microkernel design",
+          "links": [
+            {
+              "label": "HelenOS",
+              "target": "https://en.wikipedia.org/wiki/HelenOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ilios",
+      "suggested_title": "ILIOS",
+      "canonical_title": "ILIOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/ILIOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 628,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ILIOS – Research OS designed for routing",
+          "links": [
+            {
+              "label": "ILIOS",
+              "target": "https://en.wikipedia.org/wiki/ILIOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "l4",
+      "suggested_title": "L4",
+      "canonical_title": "L4 microkernel family",
+      "canonical_url": "https://en.wikipedia.org/wiki/L4_microkernel_family",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 629,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "L4 – second generation microkernel",
+          "links": [
+            {
+              "label": "L4",
+              "target": "https://en.wikipedia.org/wiki/L4_microkernel_family",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mach",
+      "suggested_title": "Mach",
+      "canonical_title": "Mach kernel",
+      "canonical_url": "https://en.wikipedia.org/wiki/Mach_kernel",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 630,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Mach – from OS kernel research at Carnegie Mellon University ; see NeXTSTEP",
+          "links": [
+            {
+              "label": "Mach",
+              "target": "https://en.wikipedia.org/wiki/Mach_kernel",
+              "article": true
+            },
+            {
+              "label": "Carnegie Mellon University",
+              "target": "https://en.wikipedia.org/wiki/Carnegie_Mellon_University",
+              "article": true
+            },
+            {
+              "label": "NeXTSTEP",
+              "target": "https://en.wikipedia.org/wiki/NeXTSTEP",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "nemesis",
+      "suggested_title": "Nemesis",
+      "canonical_title": "Nemesis (computing)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Nemesis_(computing)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 631,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Nemesis – Cambridge University research OS – detailed quality of service abilities",
+          "links": [
+            {
+              "label": "Nemesis",
+              "target": "https://en.wikipedia.org/wiki/Nemesis_(computing)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "spring",
+      "suggested_title": "Spring",
+      "canonical_title": "Spring (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Spring_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 633,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Spring – research OS from Sun Microsystems",
+          "links": [
+            {
+              "label": "Spring",
+              "target": "https://en.wikipedia.org/wiki/Spring_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "the-multiprogramming-system",
+      "suggested_title": "THE multiprogramming system",
+      "canonical_title": "THE multiprogramming system",
+      "canonical_url": "https://en.wikipedia.org/wiki/THE_multiprogramming_system",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 634,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "THE multiprogramming system – by Dijkstra in 1968, at the Eindhoven University of Technology in the Netherlands, introduced the first form of software-based memory segmentation, freeing programmers from being forced to use actual physical locations",
+          "links": [
+            {
+              "label": "THE multiprogramming system",
+              "target": "https://en.wikipedia.org/wiki/THE_multiprogramming_system",
+              "article": true
+            },
+            {
+              "label": "Eindhoven University of Technology",
+              "target": "https://en.wikipedia.org/wiki/Eindhoven_University_of_Technology",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "thoth",
+      "suggested_title": "Thoth",
+      "canonical_title": "Thoth (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Thoth_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 635,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Thoth – realtime, multiprocess message-passing system developed at the University of Waterloo .",
+          "links": [
+            {
+              "label": "Thoth",
+              "target": "https://en.wikipedia.org/wiki/Thoth_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "University of Waterloo",
+              "target": "https://en.wikipedia.org/wiki/University_of_Waterloo",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tock",
+      "suggested_title": "Tock",
+      "canonical_title": "Tock (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Tock_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 636,
+          "section": [
+            "Research",
+            "Non-Unix"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Tock",
+          "links": [
+            {
+              "label": "Tock",
+              "target": "https://en.wikipedia.org/wiki/Tock_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 879,
+          "section": [
+            "Embedded",
+            "Other embedded"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Tock",
+          "links": [
+            {
+              "label": "Tock",
+              "target": "https://en.wikipedia.org/wiki/Tock_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

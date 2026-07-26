@@ -1,0 +1,334 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 28,
+  "candidates": [
+    {
+      "candidate_id": "distributed-processing-programming-executive-370",
+      "suggested_title": "Distributed Processing Programming Executive/370",
+      "canonical_title": "IBM DPPX",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_DPPX",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 287,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 285,
+          "label": "Distributed Processing Programming Executive/370 (DPPX/370) a port of DDPX from 8100 to S/370.",
+          "links": [
+            {
+              "label": "Distributed Processing Programming Executive/370",
+              "target": "https://en.wikipedia.org/wiki/IBM_DPPX",
+              "article": true
+            },
+            {
+              "label": "8100",
+              "target": "https://en.wikipedia.org/wiki/IBM_8100",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "mts",
+      "suggested_title": "MTS",
+      "canonical_title": "Michigan Terminal System",
+      "canonical_url": "https://en.wikipedia.org/wiki/Michigan_Terminal_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 288,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 285,
+          "label": "MTS (Michigan Terminal System, developed by a group of universities in the US, Canada, and the UK for the IBM System/360 Model 67, System/370 series, and compatible mainframes)",
+          "links": [
+            {
+              "label": "MTS",
+              "target": "https://en.wikipedia.org/wiki/Michigan_Terminal_System",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 513,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Michigan Terminal System – Developed by a group of universities in the US, Canada, and the UK for use on the IBM System/360 Model 67, the System/370 series, and compatible mainframes",
+          "links": [
+            {
+              "label": "Michigan Terminal System",
+              "target": "https://en.wikipedia.org/wiki/Michigan_Terminal_System",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "rtos-360-ibm-s-real-time-operating-system-ran-on-5-nasa-custom-system-360-75s-16",
+      "suggested_title": "RTOS/360 (IBM's Real Time Operating System, ran on 5 NASA custom System/360-75s) [ 16 ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 289,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 285,
+          "label": "RTOS/360 (IBM's Real Time Operating System, ran on 5 NASA custom System/360-75s) [ 16 ]",
+          "links": [
+            {
+              "label": "[ 16 ]",
+              "target": "https://en.wikipedia.org#cite_note-16",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tos-360-2",
+      "suggested_title": "TOS/360",
+      "canonical_title": "TOS/360",
+      "canonical_url": "https://en.wikipedia.org/wiki/TOS/360",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 290,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 285,
+          "label": "TOS/360 (Tape Operating System)",
+          "links": [
+            {
+              "label": "TOS/360",
+              "target": "https://en.wikipedia.org/wiki/TOS/360",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tss-360",
+      "suggested_title": "TSS/360",
+      "canonical_title": "TSS/360",
+      "canonical_url": "https://en.wikipedia.org/wiki/TSS/360",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 291,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 285,
+          "label": "TSS/360 (IBM's Time Sharing System)",
+          "links": [
+            {
+              "label": "TSS/360",
+              "target": "https://en.wikipedia.org/wiki/TSS/360",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tss-370",
+      "suggested_title": "TSS/370",
+      "canonical_title": "TSS/370",
+      "canonical_url": "https://en.wikipedia.org/wiki/TSS/370",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 292,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 285,
+          "label": "TSS/370 PRPQ (IBM's Time Sharing System ported to S/370)",
+          "links": [
+            {
+              "label": "TSS/370",
+              "target": "https://en.wikipedia.org/wiki/TSS/370",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "music-sp",
+      "suggested_title": "MUSIC/SP",
+      "canonical_title": "MUSIC/SP",
+      "canonical_url": "https://en.wikipedia.org/wiki/MUSIC/SP",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 293,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 285,
+          "label": "MUSIC/SP (developed by McGill University for IBM System/370)",
+          "links": [
+            {
+              "label": "MUSIC/SP",
+              "target": "https://en.wikipedia.org/wiki/MUSIC/SP",
+              "article": true
+            },
+            {
+              "label": "McGill University",
+              "target": "https://en.wikipedia.org/wiki/McGill_University",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 514,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary non-Unix-like"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MUSIC/SP – an operating system developed for the S/370, running normally under VM",
+          "links": [
+            {
+              "label": "MUSIC/SP",
+              "target": "https://en.wikipedia.org/wiki/MUSIC/SP",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "orvyl-and-wylbur",
+      "suggested_title": "ORVYL and WYLBUR",
+      "canonical_title": "ORVYL and WYLBUR",
+      "canonical_url": "https://en.wikipedia.org/wiki/ORVYL_and_WYLBUR",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 294,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On S/360, S/370, and successor mainframes"
+          ],
+          "depth": 2,
+          "parent_position": 285,
+          "label": "ORVYL and WYLBUR (developed by Stanford University for IBM System/360)",
+          "links": [
+            {
+              "label": "ORVYL and WYLBUR",
+              "target": "https://en.wikipedia.org/wiki/ORVYL_and_WYLBUR",
+              "article": true
+            },
+            {
+              "label": "Stanford University",
+              "target": "https://en.wikipedia.org/wiki/Stanford_University",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "pc-dos",
+      "suggested_title": "PC DOS",
+      "canonical_title": "PC DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/PC_DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 295,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PC DOS , IBM DOS",
+          "links": [
+            {
+              "label": "PC DOS",
+              "target": "https://en.wikipedia.org/wiki/PC_DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "pc-dos-1-x-2-x-3-x-developed-jointly-with-microsoft",
+      "suggested_title": "PC DOS 1.x, 2.x, 3.x (developed jointly with Microsoft)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 296,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On PC and Intel x86 based architectures"
+          ],
+          "depth": 2,
+          "parent_position": 295,
+          "label": "PC DOS 1.x, 2.x, 3.x (developed jointly with Microsoft)",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

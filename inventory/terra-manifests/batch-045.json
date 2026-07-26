@@ -1,0 +1,337 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 45,
+  "candidates": [
+    {
+      "candidate_id": "pikeos",
+      "suggested_title": "PikeOS",
+      "canonical_title": "PikeOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/PikeOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 474,
+          "section": [
+            "Proprietary",
+            "SYSGO"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PikeOS – a certified real time operating system for safety and security critical embedded systems",
+          "links": [
+            {
+              "label": "PikeOS",
+              "target": "https://en.wikipedia.org/wiki/PikeOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "nonstop-os",
+      "suggested_title": "NonStop OS",
+      "canonical_title": "NonStop (server computers)",
+      "canonical_url": "https://en.wikipedia.org/wiki/NonStop_(server_computers)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 475,
+          "section": [
+            "Proprietary",
+            "Tandem Computers , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "NonStop OS - formerly Guardian (Tandem), then NonStop Kernel, then NonStop OS; runs on HPE's NonStop line of servers",
+          "links": [
+            {
+              "label": "NonStop OS",
+              "target": "https://en.wikipedia.org/wiki/NonStop_(server_computers)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "trsdos",
+      "suggested_title": "TRSDOS",
+      "canonical_title": "TRSDOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/TRSDOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 476,
+          "section": [
+            "Proprietary",
+            "Tandy Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TRSDOS – A floppy-disk-oriented OS supplied by Tandy/Radio Shack for their TRS-80 Z80-based line of personal computers. Eventually renamed as LS-DOS or LDOS.",
+          "links": [
+            {
+              "label": "TRSDOS",
+              "target": "https://en.wikipedia.org/wiki/TRSDOS",
+              "article": true
+            },
+            {
+              "label": "TRS-80",
+              "target": "https://en.wikipedia.org/wiki/TRS-80",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "color-basic",
+      "suggested_title": "Color BASIC",
+      "canonical_title": "Color BASIC",
+      "canonical_url": "https://en.wikipedia.org/wiki/Color_BASIC",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 477,
+          "section": [
+            "Proprietary",
+            "Tandy Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Color BASIC – A ROM-based OS created by Microsoft for the TRS-80 Color Computer . [ 21 ]",
+          "links": [
+            {
+              "label": "Color BASIC",
+              "target": "https://en.wikipedia.org/wiki/Color_BASIC",
+              "article": true
+            },
+            {
+              "label": "TRS-80 Color Computer",
+              "target": "https://en.wikipedia.org/wiki/TRS-80_Color_Computer",
+              "article": true
+            },
+            {
+              "label": "[ 21 ]",
+              "target": "https://en.wikipedia.org#cite_note-21",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "newdos-80",
+      "suggested_title": "NewDos/80",
+      "canonical_title": "NewDos/80",
+      "canonical_url": "https://en.wikipedia.org/wiki/NewDos/80",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 478,
+          "section": [
+            "Proprietary",
+            "Tandy Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "NewDos/80 – A third-party OS for Tandy's TRS-80 personal computers.",
+          "links": [
+            {
+              "label": "NewDos/80",
+              "target": "https://en.wikipedia.org/wiki/NewDos/80",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "deskmate",
+      "suggested_title": "DeskMate",
+      "canonical_title": "DeskMate",
+      "canonical_url": "https://en.wikipedia.org/wiki/DeskMate",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 479,
+          "section": [
+            "Proprietary",
+            "Tandy Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DeskMate – Operating system created by Tandy Corporation and introduced with the Tandy 1000 computer. [ citation needed ]",
+          "links": [
+            {
+              "label": "DeskMate",
+              "target": "https://en.wikipedia.org/wiki/DeskMate",
+              "article": true
+            },
+            {
+              "label": "Tandy 1000",
+              "target": "https://en.wikipedia.org/wiki/Tandy_1000",
+              "article": true
+            },
+            {
+              "label": "citation needed",
+              "target": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "edos",
+      "suggested_title": "Edos",
+      "canonical_title": "Edos",
+      "canonical_url": "https://en.wikipedia.org/wiki/Edos",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 480,
+          "section": [
+            "Proprietary",
+            "TCSC (later NCSC)"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Edos – enhanced version of IBM's DOS/360 (and later DOS/VS and DOS/VSE ) operating system for System/360 and System/370 IBM mainframes",
+          "links": [
+            {
+              "label": "Edos",
+              "target": "https://en.wikipedia.org/wiki/Edos",
+              "article": true
+            },
+            {
+              "label": "DOS/360",
+              "target": "https://en.wikipedia.org/wiki/DOS/360",
+              "article": true
+            },
+            {
+              "label": "DOS/VS",
+              "target": "https://en.wikipedia.org/wiki/DOS/VS",
+              "article": true
+            },
+            {
+              "label": "DOS/VSE",
+              "target": "https://en.wikipedia.org/wiki/DOS/VSE",
+              "article": true
+            },
+            {
+              "label": "System/360",
+              "target": "https://en.wikipedia.org/wiki/System/360",
+              "article": true
+            },
+            {
+              "label": "System/370",
+              "target": "https://en.wikipedia.org/wiki/System/370",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ti-rtos-kernel",
+      "suggested_title": "TI-RTOS Kernel",
+      "canonical_title": "TI-RTOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/TI-RTOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 481,
+          "section": [
+            "Proprietary",
+            "Texas Instruments"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TI-RTOS Kernel – Real-time operating system for TI's embedded devices.",
+          "links": [
+            {
+              "label": "TI-RTOS Kernel",
+              "target": "https://en.wikipedia.org/wiki/TI-RTOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tron",
+      "suggested_title": "TRON",
+      "canonical_title": "TRON Project",
+      "canonical_url": "https://en.wikipedia.org/wiki/TRON_Project",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 482,
+          "section": [
+            "Proprietary",
+            "TRON Project"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TRON – open real-time operating system kernel",
+          "links": [
+            {
+              "label": "TRON",
+              "target": "https://en.wikipedia.org/wiki/TRON_Project",
+              "article": true
+            },
+            {
+              "label": "real-time operating system",
+              "target": "https://en.wikipedia.org/wiki/Real-time_operating_system",
+              "article": true
+            },
+            {
+              "label": "kernel",
+              "target": "https://en.wikipedia.org/wiki/Kernel_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "t-kernel",
+      "suggested_title": "T-Kernel",
+      "canonical_title": "T-Kernel",
+      "canonical_url": "https://en.wikipedia.org/wiki/T-Kernel",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 483,
+          "section": [
+            "Proprietary",
+            "TRON Project"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "T-Kernel",
+          "links": [
+            {
+              "label": "T-Kernel",
+              "target": "https://en.wikipedia.org/wiki/T-Kernel",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

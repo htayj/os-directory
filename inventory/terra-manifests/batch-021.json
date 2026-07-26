@@ -1,0 +1,446 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 21,
+  "candidates": [
+    {
+      "candidate_id": "euleros",
+      "suggested_title": "EulerOS",
+      "canonical_title": "EulerOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/EulerOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 211,
+          "section": [
+            "Proprietary",
+            "Huawei"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "EulerOS",
+          "links": [
+            {
+              "label": "EulerOS",
+              "target": "https://en.wikipedia.org/wiki/EulerOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 579,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 3,
+          "parent_position": 576,
+          "label": "EulerOS - Linux commercial distribution for cloud based software by Huawei",
+          "links": [
+            {
+              "label": "EulerOS",
+              "target": "https://en.wikipedia.org/wiki/EulerOS",
+              "article": true
+            },
+            {
+              "label": "Huawei",
+              "target": "https://en.wikipedia.org/wiki/Huawei",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 580,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 4,
+          "parent_position": 579,
+          "label": "openEuler - open-source community version of EulerOS",
+          "links": [
+            {
+              "label": "openEuler",
+              "target": "https://en.wikipedia.org/wiki/EulerOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 581,
+          "section": [
+            "Non-proprietary",
+            "Unix or Unix-like"
+          ],
+          "depth": 4,
+          "parent_position": 579,
+          "label": "NestOS - open-source cloud based operating system based on EulerOS, contributed by openEuler community",
+          "links": [
+            {
+              "label": "NestOS",
+              "target": "https://en.wikipedia.org/wiki/EulerOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 849,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "EulerOS",
+          "links": [
+            {
+              "label": "EulerOS",
+              "target": "https://en.wikipedia.org/wiki/EulerOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        },
+        {
+          "position": 850,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 2,
+          "parent_position": 849,
+          "label": "openEuler",
+          "links": [
+            {
+              "label": "openEuler",
+              "target": "https://en.wikipedia.org/wiki/EulerOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "irmx",
+      "suggested_title": "iRMX",
+      "canonical_title": "RMX (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/RMX_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 212,
+          "section": [
+            "Proprietary",
+            "Intel Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "iRMX – real-time operating system originally created to support the Intel 8080 and 8086 processor families in embedded applications.",
+          "links": [
+            {
+              "label": "iRMX",
+              "target": "https://en.wikipedia.org/wiki/RMX_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 548,
+          "section": [
+            "Proprietary",
+            "Other",
+            "Other proprietary Unix-like and POSIX-compliant"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RMX",
+          "links": [
+            {
+              "label": "RMX",
+              "target": "https://en.wikipedia.org/wiki/RMX_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "isis",
+      "suggested_title": "ISIS",
+      "canonical_title": "ISIS (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/ISIS_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 213,
+          "section": [
+            "Proprietary",
+            "Intel Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "ISIS , ISIS-II – \"Intel Systems Implementation Supervisor\" was an environment for development of software within the Intel microprocessor family in the early 1980s on their Intellec Microcomputer Development System and clones. ISIS-II worked with 8 inch floppy disks and had an editor, cross-assemblers, a linker, an object locator, debugger, compilers for PL/M , a BASIC interpreter, etc. and allowed file management through a console.",
+          "links": [
+            {
+              "label": "ISIS",
+              "target": "https://en.wikipedia.org/wiki/ISIS_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "ISIS-II",
+              "target": "https://en.wikipedia.org/wiki/ISIS-II",
+              "article": true
+            },
+            {
+              "label": "Intellec",
+              "target": "https://en.wikipedia.org/wiki/Intellec",
+              "article": true
+            },
+            {
+              "label": "PL/M",
+              "target": "https://en.wikipedia.org/wiki/PL/M",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "imax-432",
+      "suggested_title": "iMAX 432",
+      "canonical_title": "IMAX 432",
+      "canonical_url": "https://en.wikipedia.org/wiki/IMAX_432",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 214,
+          "section": [
+            "Proprietary",
+            "Intel Corporation"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "iMAX 432 - an operating system for systems based on Intel's iAPX 432 architecture.",
+          "links": [
+            {
+              "label": "iMAX 432",
+              "target": "https://en.wikipedia.org/wiki/IMAX_432",
+              "article": true
+            },
+            {
+              "label": "iAPX 432",
+              "target": "https://en.wikipedia.org/wiki/IAPX_432",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "compatible-time-sharing-system",
+      "suggested_title": "Compatible Time-Sharing System",
+      "canonical_title": "Compatible Time-Sharing System",
+      "canonical_url": "https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 216,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On early mainframes: 1410, 7010, 704, 709, 7090, 7094, 7040, 7044, 7030"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Compatible Time-Sharing System (CTSS) – developed at MIT's Computation Center for use on a modified IBM 7094",
+          "links": [
+            {
+              "label": "Compatible Time-Sharing System",
+              "target": "https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System",
+              "article": true
+            },
+            {
+              "label": "IBM 7094",
+              "target": "https://en.wikipedia.org/wiki/IBM_7094",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "fortran-monitor-system-fms",
+      "suggested_title": "FORTRAN Monitor System (FMS)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 217,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On early mainframes: 1410, 7010, 704, 709, 7090, 7094, 7040, 7044, 7030"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "FORTRAN Monitor System (FMS) – for the IBM 709 and 7090",
+          "links": [
+            {
+              "label": "IBM 709",
+              "target": "https://en.wikipedia.org/wiki/IBM_709",
+              "article": true
+            },
+            {
+              "label": "7090",
+              "target": "https://en.wikipedia.org/wiki/IBM_7090",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "gm-os-gm-naa-i-o",
+      "suggested_title": "GM OS & GM-NAA I/O",
+      "canonical_title": "GM-NAA I/O",
+      "canonical_url": "https://en.wikipedia.org/wiki/GM-NAA_I/O",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 218,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On early mainframes: 1410, 7010, 704, 709, 7090, 7094, 7040, 7044, 7030"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "GM OS & GM-NAA I/O – for the IBM 704",
+          "links": [
+            {
+              "label": "GM OS & GM-NAA I/O",
+              "target": "https://en.wikipedia.org/wiki/GM-NAA_I/O",
+              "article": true
+            },
+            {
+              "label": "IBM 704",
+              "target": "https://en.wikipedia.org/wiki/IBM_704",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ibsys",
+      "suggested_title": "IBSYS",
+      "canonical_title": "IBM 7090/94 IBSYS",
+      "canonical_url": "https://en.wikipedia.org/wiki/IBM_7090/94_IBSYS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 219,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On early mainframes: 1410, 7010, 704, 709, 7090, 7094, 7040, 7044, 7030"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "IBSYS – tape based operating system for IBM 7090 and IBM 7094",
+          "links": [
+            {
+              "label": "IBSYS",
+              "target": "https://en.wikipedia.org/wiki/IBM_7090/94_IBSYS",
+              "article": true
+            },
+            {
+              "label": "IBM 7090",
+              "target": "https://en.wikipedia.org/wiki/IBM_7090",
+              "article": true
+            },
+            {
+              "label": "IBM 7094",
+              "target": "https://en.wikipedia.org/wiki/IBM_7094",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "7040-7044-operating-system-16-32k",
+      "suggested_title": "7040/7044 Operating System (16/32K)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 220,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On early mainframes: 1410, 7010, 704, 709, 7090, 7094, 7040, 7044, 7030"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "7040/7044 Operating System (16/32K) - 7040-PR-150",
+          "links": [],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ijmon",
+      "suggested_title": "IJMON",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 221,
+          "section": [
+            "Proprietary",
+            "IBM",
+            "On early mainframes: 1410, 7010, 704, 709, 7090, 7094, 7040, 7044, 7030"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "IJMON – A bootable serial I/O monitor for loading programs for the IBM 1400 series [ citation needed ]",
+          "links": [
+            {
+              "label": "IJMON",
+              "target": "https://en.wikipedia.org/w/index.php?title=IJMON&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "IBM 1400 series",
+              "target": "https://en.wikipedia.org/wiki/IBM_1400_series",
+              "article": true
+            },
+            {
+              "label": "citation needed",
+              "target": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

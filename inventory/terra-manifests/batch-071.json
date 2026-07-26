@@ -1,0 +1,297 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 71,
+  "candidates": [
+    {
+      "candidate_id": "symbian-platform",
+      "suggested_title": "Symbian platform",
+      "canonical_title": "Symbian platform",
+      "canonical_url": "https://en.wikipedia.org/wiki/Symbian_platform",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 825,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Symbian platform (successor to Symbian OS )",
+          "links": [
+            {
+              "label": "Symbian platform",
+              "target": "https://en.wikipedia.org/wiki/Symbian_platform",
+              "article": true
+            },
+            {
+              "label": "Symbian OS",
+              "target": "https://en.wikipedia.org/wiki/Symbian_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "blackberry-10",
+      "suggested_title": "BlackBerry 10",
+      "canonical_title": "BlackBerry 10",
+      "canonical_url": "https://en.wikipedia.org/wiki/BlackBerry_10",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 826,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "BlackBerry 10",
+          "links": [
+            {
+              "label": "BlackBerry 10",
+              "target": "https://en.wikipedia.org/wiki/BlackBerry_10",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "catos",
+      "suggested_title": "CatOS",
+      "canonical_title": "CatOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/CatOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 828,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "CatOS – by Cisco Systems",
+          "links": [
+            {
+              "label": "CatOS",
+              "target": "https://en.wikipedia.org/wiki/CatOS",
+              "article": true
+            },
+            {
+              "label": "Cisco Systems",
+              "target": "https://en.wikipedia.org/wiki/Cisco_Systems",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dnos",
+      "suggested_title": "DNOS",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 830,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "DNOS – by DriveNets",
+          "links": [
+            {
+              "label": "DriveNets",
+              "target": "https://en.wikipedia.org/wiki/DriveNets",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ios-xr",
+      "suggested_title": "IOS-XR",
+      "canonical_title": "IOS-XR",
+      "canonical_url": "https://en.wikipedia.org/wiki/IOS-XR",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 832,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "IOS-XR – by Cisco Systems",
+          "links": [
+            {
+              "label": "IOS-XR",
+              "target": "https://en.wikipedia.org/wiki/IOS-XR",
+              "article": true
+            },
+            {
+              "label": "Cisco Systems",
+              "target": "https://en.wikipedia.org/wiki/Cisco_Systems",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "lcos",
+      "suggested_title": "LCOS",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 834,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "LCOS – by LANCOM Systems [ 49 ]",
+          "links": [
+            {
+              "label": "LANCOM Systems",
+              "target": "https://en.wikipedia.org/w/index.php?title=LANCOM_Systems&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "[ 49 ]",
+              "target": "https://en.wikipedia.org#cite_note-49",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ipfire",
+      "suggested_title": "IPFire",
+      "canonical_title": "IPFire",
+      "canonical_url": "https://en.wikipedia.org/wiki/IPFire",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 836,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 2,
+          "parent_position": 835,
+          "label": "IPFire",
+          "links": [
+            {
+              "label": "IPFire",
+              "target": "https://en.wikipedia.org/wiki/IPFire",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "openwrt",
+      "suggested_title": "OpenWrt",
+      "canonical_title": "OpenWrt",
+      "canonical_url": "https://en.wikipedia.org/wiki/OpenWrt",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 837,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 2,
+          "parent_position": 835,
+          "label": "OpenWrt",
+          "links": [
+            {
+              "label": "OpenWrt",
+              "target": "https://en.wikipedia.org/wiki/OpenWrt",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "dd-wrt",
+      "suggested_title": "DD-WRT",
+      "canonical_title": "DD-WRT",
+      "canonical_url": "https://en.wikipedia.org/wiki/DD-WRT",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 838,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 3,
+          "parent_position": 837,
+          "label": "DD-WRT",
+          "links": [
+            {
+              "label": "DD-WRT",
+              "target": "https://en.wikipedia.org/wiki/DD-WRT",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "lede",
+      "suggested_title": "LEDE",
+      "canonical_title": "LEDE",
+      "canonical_url": "https://en.wikipedia.org/wiki/LEDE",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 839,
+          "section": [
+            "Embedded",
+            "Routers"
+          ],
+          "depth": 3,
+          "parent_position": 837,
+          "label": "LEDE",
+          "links": [
+            {
+              "label": "LEDE",
+              "target": "https://en.wikipedia.org/wiki/LEDE",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

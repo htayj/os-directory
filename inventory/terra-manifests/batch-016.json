@@ -1,0 +1,299 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 16,
+  "candidates": [
+    {
+      "candidate_id": "novell-star-trek",
+      "suggested_title": "Novell \"Star Trek\"",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 161,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 159,
+          "label": "Novell \"Star Trek\"",
+          "links": [
+            {
+              "label": "\"Star Trek\"",
+              "target": "https://en.wikipedia.org/wiki/Star_Trek_project",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "novell-dos",
+      "suggested_title": "Novell DOS",
+      "canonical_title": "Novell DOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Novell_DOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 162,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 159,
+          "label": "Novell DOS 7, a single-user, multi-tasking system derived from DR DOS",
+          "links": [
+            {
+              "label": "Novell DOS",
+              "target": "https://en.wikipedia.org/wiki/Novell_DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        },
+        {
+          "position": 672,
+          "section": [
+            "Disk operating systems (DOS)"
+          ],
+          "depth": 5,
+          "parent_position": 669,
+          "label": "Novell DOS 7 (single-user, multi-tasking system derived from DR DOS, BDOS 7.2)",
+          "links": [
+            {
+              "label": "Novell DOS",
+              "target": "https://en.wikipedia.org/wiki/Novell_DOS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "caldera-opendos-7-01",
+      "suggested_title": "Caldera OpenDOS 7.01",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 163,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 159,
+          "label": "Caldera OpenDOS 7.01",
+          "links": [
+            {
+              "label": "OpenDOS",
+              "target": "https://en.wikipedia.org/wiki/OpenDOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "caldera-dr-dos-7-02-and-higher",
+      "suggested_title": "Caldera DR-DOS 7.02 and higher",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 164,
+          "section": [
+            "Proprietary",
+            "Digital Research, Inc."
+          ],
+          "depth": 3,
+          "parent_position": 159,
+          "label": "Caldera DR-DOS 7.02 and higher",
+          "links": [
+            {
+              "label": "DR-DOS",
+              "target": "https://en.wikipedia.org/wiki/DR-DOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "batch-11-dos-11",
+      "suggested_title": "Batch-11/DOS-11",
+      "canonical_title": "DEC BATCH-11/DOS-11",
+      "canonical_url": "https://en.wikipedia.org/wiki/DEC_BATCH-11/DOS-11",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 165,
+          "section": [
+            "Proprietary",
+            "Digital Equipment Corporation , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Batch-11/DOS-11",
+          "links": [
+            {
+              "label": "Batch-11/DOS-11",
+              "target": "https://en.wikipedia.org/wiki/DEC_BATCH-11/DOS-11",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-8",
+      "suggested_title": "OS/8",
+      "canonical_title": "OS/8",
+      "canonical_url": "https://en.wikipedia.org/wiki/OS/8",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 166,
+          "section": [
+            "Proprietary",
+            "Digital Equipment Corporation , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OS/8",
+          "links": [
+            {
+              "label": "OS/8",
+              "target": "https://en.wikipedia.org/wiki/OS/8",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "rsts-e",
+      "suggested_title": "RSTS/E",
+      "canonical_title": "RSTS/E",
+      "canonical_url": "https://en.wikipedia.org/wiki/RSTS/E",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 167,
+          "section": [
+            "Proprietary",
+            "Digital Equipment Corporation , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RSTS/E – multi-user time-sharing OS for PDP-11s",
+          "links": [
+            {
+              "label": "RSTS/E",
+              "target": "https://en.wikipedia.org/wiki/RSTS/E",
+              "article": true
+            },
+            {
+              "label": "PDP-11s",
+              "target": "https://en.wikipedia.org/wiki/PDP-11",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "rsx-11",
+      "suggested_title": "RSX-11",
+      "canonical_title": "RSX-11",
+      "canonical_url": "https://en.wikipedia.org/wiki/RSX-11",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 168,
+          "section": [
+            "Proprietary",
+            "Digital Equipment Corporation , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RSX-11 – multiuser, multitasking OS for PDP-11s",
+          "links": [
+            {
+              "label": "RSX-11",
+              "target": "https://en.wikipedia.org/wiki/RSX-11",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "rt-11",
+      "suggested_title": "RT-11",
+      "canonical_title": "RT-11",
+      "canonical_url": "https://en.wikipedia.org/wiki/RT-11",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 169,
+          "section": [
+            "Proprietary",
+            "Digital Equipment Corporation , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RT-11 – single user OS for PDP-11",
+          "links": [
+            {
+              "label": "RT-11",
+              "target": "https://en.wikipedia.org/wiki/RT-11",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tops-10",
+      "suggested_title": "TOPS-10",
+      "canonical_title": "TOPS-10",
+      "canonical_url": "https://en.wikipedia.org/wiki/TOPS-10",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 170,
+          "section": [
+            "Proprietary",
+            "Digital Equipment Corporation , Compaq , Hewlett-Packard , Hewlett Packard Enterprise"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TOPS-10 – for the PDP-10",
+          "links": [
+            {
+              "label": "TOPS-10",
+              "target": "https://en.wikipedia.org/wiki/TOPS-10",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 70,
+  "candidates": [
+    {
+      "candidate_id": "penpoint-os",
+      "suggested_title": "PenPoint OS",
+      "canonical_title": "PenPoint OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/PenPoint_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 803,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PenPoint OS",
+          "links": [
+            {
+              "label": "PenPoint OS",
+              "target": "https://en.wikipedia.org/wiki/PenPoint_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "pvos",
+      "suggested_title": "PVOS",
+      "canonical_title": "Pocket viewer",
+      "canonical_url": "https://en.wikipedia.org/wiki/Pocket_viewer",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 805,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PVOS",
+          "links": [
+            {
+              "label": "PVOS",
+              "target": "https://en.wikipedia.org/wiki/Pocket_viewer",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "symbian-os",
+      "suggested_title": "Symbian OS",
+      "canonical_title": "Symbian OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Symbian_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 806,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Symbian OS",
+          "links": [
+            {
+              "label": "Symbian OS",
+              "target": "https://en.wikipedia.org/wiki/Symbian_OS",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "epoc",
+      "suggested_title": "EPOC",
+      "canonical_title": "EPOC (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/EPOC_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 807,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 806,
+          "label": "EPOC",
+          "links": [
+            {
+              "label": "EPOC",
+              "target": "https://en.wikipedia.org/wiki/EPOC_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "pocket-pc",
+      "suggested_title": "Pocket PC",
+      "canonical_title": "Pocket PC",
+      "canonical_url": "https://en.wikipedia.org/wiki/Pocket_PC",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 809,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 2,
+          "parent_position": 808,
+          "label": "Pocket PC from Microsoft, a variant of Windows CE",
+          "links": [
+            {
+              "label": "Pocket PC",
+              "target": "https://en.wikipedia.org/wiki/Pocket_PC",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "windows-phone",
+      "suggested_title": "Windows Phone",
+      "canonical_title": "Windows Phone",
+      "canonical_url": "https://en.wikipedia.org/wiki/Windows_Phone",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 812,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Windows Phone based on Windows NT",
+          "links": [
+            {
+              "label": "Windows Phone",
+              "target": "https://en.wikipedia.org/wiki/Windows_Phone",
+              "article": true
+            },
+            {
+              "label": "Windows NT",
+              "target": "https://en.wikipedia.org/wiki/Windows_NT",
+              "article": true
+            }
+          ],
+          "has_children": true
+        }
+      ]
+    },
+    {
+      "candidate_id": "ipodlinux",
+      "suggested_title": "iPodLinux",
+      "canonical_title": "IPodLinux",
+      "canonical_url": "https://en.wikipedia.org/wiki/IPodLinux",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 820,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "iPodLinux",
+          "links": [
+            {
+              "label": "iPodLinux",
+              "target": "https://en.wikipedia.org/wiki/IPodLinux",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "iriver-clix",
+      "suggested_title": "iriver clix",
+      "canonical_title": "Iriver clix",
+      "canonical_url": "https://en.wikipedia.org/wiki/Iriver_clix",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 821,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "iriver clix OS",
+          "links": [
+            {
+              "label": "iriver clix",
+              "target": "https://en.wikipedia.org/wiki/Iriver_clix",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "rockbox",
+      "suggested_title": "RockBox",
+      "canonical_title": "RockBox",
+      "canonical_url": "https://en.wikipedia.org/wiki/RockBox",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 822,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "RockBox",
+          "links": [
+            {
+              "label": "RockBox",
+              "target": "https://en.wikipedia.org/wiki/RockBox",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "blackberry-os",
+      "suggested_title": "BlackBerry OS",
+      "canonical_title": "BlackBerry OS",
+      "canonical_url": "https://en.wikipedia.org/wiki/BlackBerry_OS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 823,
+          "section": [
+            "Embedded",
+            "Mobile operating systems"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "BlackBerry OS",
+          "links": [
+            {
+              "label": "BlackBerry OS",
+              "target": "https://en.wikipedia.org/wiki/BlackBerry_OS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

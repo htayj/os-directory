@@ -1,0 +1,312 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 63,
+  "candidates": [
+    {
+      "candidate_id": "bs3000-by-siemens-rebadging-of-fujitsu-s-msp-operating-system-40",
+      "suggested_title": "BS3000 by Siemens (rebadging of Fujitsu's MSP operating system) [ 40 ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 711,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "BS3000 by Siemens (rebadging of Fujitsu's MSP operating system) [ 40 ]",
+          "links": [
+            {
+              "label": "BS3000",
+              "target": "https://en.wikipedia.org/w/index.php?title=BS3000&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "Siemens",
+              "target": "https://en.wikipedia.org/wiki/Siemens",
+              "article": true
+            },
+            {
+              "label": "[ 40 ]",
+              "target": "https://en.wikipedia.org#cite_note-40",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "flex9-by-technical-systems-consultants-tsc-for-motorola-6809-based-machines-successor-to-flex-which-was-for-motorola-6800-cpus",
+      "suggested_title": "FLEX9 (by Technical Systems Consultants (TSC) for Motorola 6809 based machines; successor to FLEX , which was for Motorola 6800 CPUs)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 713,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "FLEX9 (by Technical Systems Consultants (TSC) for Motorola 6809 based machines; successor to FLEX , which was for Motorola 6800 CPUs)",
+          "links": [
+            {
+              "label": "FLEX9",
+              "target": "https://en.wikipedia.org/w/index.php?title=FLEX9&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "Technical Systems Consultants",
+              "target": "https://en.wikipedia.org/wiki/Technical_Systems_Consultants",
+              "article": true
+            },
+            {
+              "label": "FLEX",
+              "target": "https://en.wikipedia.org/wiki/FLEX_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "graphics-environment-manager",
+      "suggested_title": "Graphics Environment Manager",
+      "canonical_title": "Graphics Environment Manager",
+      "canonical_url": "https://en.wikipedia.org/wiki/Graphics_Environment_Manager",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 714,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Graphics Environment Manager (GEM) (windowing GUI for CP/M, DOS, and Atari TOS)",
+          "links": [
+            {
+              "label": "Graphics Environment Manager",
+              "target": "https://en.wikipedia.org/wiki/Graphics_Environment_Manager",
+              "article": true
+            },
+            {
+              "label": "Atari",
+              "target": "https://en.wikipedia.org/wiki/Atari",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "javaos",
+      "suggested_title": "JavaOS",
+      "canonical_title": "JavaOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/JavaOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 716,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "JavaOS",
+          "links": [
+            {
+              "label": "JavaOS",
+              "target": "https://en.wikipedia.org/wiki/JavaOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "jnode-java-new-operating-system-design-effort-written-99-in-java-native-compiled-provides-own-jvm-and-jit-compiler-based-on-gnu-classpath-41-42",
+      "suggested_title": "JNode (Java New Operating System Design Effort), written 99% in Java (native compiled), provides own JVM and JIT compiler. Based on GNU Classpath . [ 41 ] [ 42 ]",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 717,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "JNode (Java New Operating System Design Effort), written 99% in Java (native compiled), provides own JVM and JIT compiler. Based on GNU Classpath . [ 41 ] [ 42 ]",
+          "links": [
+            {
+              "label": "JNode",
+              "target": "https://en.wikipedia.org/w/index.php?title=JNode&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "GNU Classpath",
+              "target": "https://en.wikipedia.org/wiki/GNU_Classpath",
+              "article": true
+            },
+            {
+              "label": "[ 41 ]",
+              "target": "https://en.wikipedia.org#cite_note-41",
+              "article": false
+            },
+            {
+              "label": "[ 42 ]",
+              "target": "https://en.wikipedia.org#cite_note-42",
+              "article": false
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "jx",
+      "suggested_title": "JX",
+      "canonical_title": "JX (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/JX_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 718,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "JX Java operating system that focuses on a flexible and robust operating system architecture developed as an open source system by the University of Erlangen.",
+          "links": [
+            {
+              "label": "JX",
+              "target": "https://en.wikipedia.org/wiki/JX_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "kernal",
+      "suggested_title": "KERNAL",
+      "canonical_title": "KERNAL",
+      "canonical_url": "https://en.wikipedia.org/wiki/KERNAL",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 719,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "KERNAL (default OS on Commodore 64)",
+          "links": [
+            {
+              "label": "KERNAL",
+              "target": "https://en.wikipedia.org/wiki/KERNAL",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "merlin-for-the-corvus-concept",
+      "suggested_title": "MERLIN for the Corvus Concept",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 720,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MERLIN for the Corvus Concept",
+          "links": [
+            {
+              "label": "Corvus Concept",
+              "target": "https://en.wikipedia.org/wiki/Corvus_Concept",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "morphos",
+      "suggested_title": "MorphOS",
+      "canonical_title": "MorphOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/MorphOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 721,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "MorphOS (Amiga compatible)",
+          "links": [
+            {
+              "label": "MorphOS",
+              "target": "https://en.wikipedia.org/wiki/MorphOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "oberon-operating-system",
+      "suggested_title": "Oberon (operating system)",
+      "canonical_title": "Oberon (operating system)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Oberon_(operating_system)",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 724,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Oberon (operating system) (developed at ETH-Zürich by Niklaus Wirth et al.) for the Ceres and Chameleon workstation projects",
+          "links": [
+            {
+              "label": "Oberon (operating system)",
+              "target": "https://en.wikipedia.org/wiki/Oberon_(operating_system)",
+              "article": true
+            },
+            {
+              "label": "Niklaus Wirth",
+              "target": "https://en.wikipedia.org/wiki/Niklaus_Wirth",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}

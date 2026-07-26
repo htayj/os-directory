@@ -1,0 +1,347 @@
+{
+  "schema_version": "0.1",
+  "source_revision": 1365063001,
+  "batch": 64,
+  "candidates": [
+    {
+      "candidate_id": "osd-xc-by-fujitsu-siemens-bs2000-ported-to-an-emulation-on-a-sun-sparc-platform",
+      "suggested_title": "OSD/XC by Fujitsu-Siemens (BS2000 ported to an emulation on a Sun SPARC platform)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 725,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OSD/XC by Fujitsu-Siemens (BS2000 ported to an emulation on a Sun SPARC platform)",
+          "links": [
+            {
+              "label": "OSD/XC",
+              "target": "https://en.wikipedia.org/w/index.php?title=OSD/XC&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "Fujitsu-Siemens",
+              "target": "https://en.wikipedia.org/wiki/Fujitsu-Siemens",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "os-iv-by-fujitsu-based-on-early-versions-of-ibm-s-mvs",
+      "suggested_title": "OS-IV by Fujitsu (based on early versions of IBM's MVS )",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 726,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "OS-IV by Fujitsu (based on early versions of IBM's MVS )",
+          "links": [
+            {
+              "label": "OS-IV",
+              "target": "https://en.wikipedia.org/w/index.php?title=OS-IV&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "Fujitsu",
+              "target": "https://en.wikipedia.org/wiki/Fujitsu",
+              "article": true
+            },
+            {
+              "label": "MVS",
+              "target": "https://en.wikipedia.org/wiki/MVS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "pick",
+      "suggested_title": "Pick",
+      "canonical_title": "Pick operating system",
+      "canonical_url": "https://en.wikipedia.org/wiki/Pick_operating_system",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 727,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Pick (often licensed and renamed)",
+          "links": [
+            {
+              "label": "Pick",
+              "target": "https://en.wikipedia.org/wiki/Pick_operating_system",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "primos",
+      "suggested_title": "PRIMOS",
+      "canonical_title": "PRIMOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/PRIMOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 728,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "PRIMOS by Prime Computer (sometimes spelled PR1MOS and PR1ME)",
+          "links": [
+            {
+              "label": "PRIMOS",
+              "target": "https://en.wikipedia.org/wiki/PRIMOS",
+              "article": true
+            },
+            {
+              "label": "Prime Computer",
+              "target": "https://en.wikipedia.org/wiki/Prime_Computer",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "sinclair-qdos",
+      "suggested_title": "Sinclair QDOS",
+      "canonical_title": "Sinclair QDOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/Sinclair_QDOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 729,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Sinclair QDOS (multitasking for the Sinclair QL computer)",
+          "links": [
+            {
+              "label": "Sinclair QDOS",
+              "target": "https://en.wikipedia.org/wiki/Sinclair_QDOS",
+              "article": true
+            },
+            {
+              "label": "Sinclair QL",
+              "target": "https://en.wikipedia.org/wiki/Sinclair_QL",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ssb-dos-by-technical-systems-consultants-tsc-for-smoke-signal-broadcasting-a-variant-of-flex-in-most-respects",
+      "suggested_title": "SSB-DOS (by Technical Systems Consultants (TSC) for Smoke Signal Broadcasting ; a variant of FLEX in most respects)",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 730,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "SSB-DOS (by Technical Systems Consultants (TSC) for Smoke Signal Broadcasting ; a variant of FLEX in most respects)",
+          "links": [
+            {
+              "label": "SSB-DOS",
+              "target": "https://en.wikipedia.org/w/index.php?title=SSB-DOS&action=edit&redlink=1",
+              "article": false
+            },
+            {
+              "label": "Technical Systems Consultants",
+              "target": "https://en.wikipedia.org/wiki/Technical_Systems_Consultants",
+              "article": true
+            },
+            {
+              "label": "Smoke Signal Broadcasting",
+              "target": "https://en.wikipedia.org/wiki/Smoke_Signal_Broadcasting",
+              "article": true
+            },
+            {
+              "label": "FLEX",
+              "target": "https://en.wikipedia.org/wiki/FLEX_(operating_system)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "symobi",
+      "suggested_title": "Symobi",
+      "canonical_title": "Symobi",
+      "canonical_url": "https://en.wikipedia.org/wiki/Symobi",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 732,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "Symobi (GUI based modern micro-kernel OS for x86 , ARM and PowerPC processors, developed by Miray Software; used and developed further at Technical University of Munich )",
+          "links": [
+            {
+              "label": "Symobi",
+              "target": "https://en.wikipedia.org/wiki/Symobi",
+              "article": true
+            },
+            {
+              "label": "x86",
+              "target": "https://en.wikipedia.org/wiki/X86",
+              "article": true
+            },
+            {
+              "label": "ARM",
+              "target": "https://en.wikipedia.org/wiki/ARM_architecture",
+              "article": true
+            },
+            {
+              "label": "PowerPC",
+              "target": "https://en.wikipedia.org/wiki/PowerPC",
+              "article": true
+            },
+            {
+              "label": "Technical University of Munich",
+              "target": "https://en.wikipedia.org/wiki/Technical_University_of_Munich",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "tripos",
+      "suggested_title": "TripOS",
+      "canonical_title": "TripOS",
+      "canonical_url": "https://en.wikipedia.org/wiki/TripOS",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 733,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "TripOS , 1978",
+          "links": [
+            {
+              "label": "TripOS",
+              "target": "https://en.wikipedia.org/wiki/TripOS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "ucsd-p-system",
+      "suggested_title": "UCSD p-System",
+      "canonical_title": "UCSD Pascal",
+      "canonical_url": "https://en.wikipedia.org/wiki/UCSD_Pascal",
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 735,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "UCSD p-System (portable complete programming environment/operating system/virtual machine developed by a long running student project at UCSD ; directed by Prof Kenneth Bowles ; written in Pascal )",
+          "links": [
+            {
+              "label": "UCSD p-System",
+              "target": "https://en.wikipedia.org/wiki/UCSD_Pascal",
+              "article": true
+            },
+            {
+              "label": "UCSD",
+              "target": "https://en.wikipedia.org/wiki/UCSD",
+              "article": true
+            },
+            {
+              "label": "Kenneth Bowles",
+              "target": "https://en.wikipedia.org/wiki/Kenneth_Bowles",
+              "article": true
+            },
+            {
+              "label": "Pascal",
+              "target": "https://en.wikipedia.org/wiki/Pascal_(programming_language)",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "vos3-by-hitachi-for-its-ibm-compatible-mainframes-based-on-ibm-s-mvs",
+      "suggested_title": "VOS3 by Hitachi for its IBM-compatible mainframes, based on IBM's MVS",
+      "canonical_title": null,
+      "canonical_url": null,
+      "initial_disposition": "needs-review",
+      "occurrences": [
+        {
+          "position": 737,
+          "section": [
+            "Generic, commodity, and other"
+          ],
+          "depth": 1,
+          "parent_position": null,
+          "label": "VOS3 by Hitachi for its IBM-compatible mainframes, based on IBM's MVS",
+          "links": [
+            {
+              "label": "Hitachi",
+              "target": "https://en.wikipedia.org/wiki/Hitachi,_Ltd.",
+              "article": true
+            },
+            {
+              "label": "MVS",
+              "target": "https://en.wikipedia.org/wiki/MVS",
+              "article": true
+            }
+          ],
+          "has_children": false
+        }
+      ]
+    }
+  ]
+}
