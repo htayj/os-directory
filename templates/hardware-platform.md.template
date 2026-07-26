@@ -1,0 +1,28 @@
+---
+type: Hardware Platform
+title: ""
+description: ""
+tags: [hardware]
+status: draft
+generated: { by: "human:replace-me", at: "YYYY-MM-DDTHH:MM:SSZ" }
+manufacturer:
+introduced:
+architecture:
+resource:
+sources:
+  - id: replace-me
+    resource: https://example.invalid/source
+    title: Replace with a concrete source
+---
+
+# Overview
+
+# Architecture
+
+# Relationship to Cataloged Systems
+
+# Preservation
+
+# Open Questions
+
+[^replace-me]: Replace with the source title.

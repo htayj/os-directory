@@ -1,0 +1,35 @@
+---
+type: Software Artifact
+title: ""
+description: ""
+tags: [artifact, preservation]
+status: draft
+generated: { by: "human:replace-me", at: "YYYY-MM-DDTHH:MM:SSZ" }
+system: /systems/replace-me/system.md
+release:
+artifact_kind:
+media_format:
+extent:
+checksums: {}
+custody:
+access:
+rights:
+sources:
+  - id: replace-me
+    resource: https://example.invalid/source
+    title: Replace with a concrete source
+---
+
+# Description
+
+# Provenance
+
+# Technical Details
+
+# Contents and Completeness
+
+# Access and Rights
+
+# Verification
+
+[^replace-me]: Replace with the source title.

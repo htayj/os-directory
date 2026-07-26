@@ -1,0 +1,39 @@
+---
+type: Operating System
+title: ""
+description: ""
+tags: [operating-system]
+status: draft
+generated: { by: "human:replace-me", at: "YYYY-MM-DDTHH:MM:SSZ" }
+names: []
+developers: []
+introduced:
+discontinued:
+lineage: []
+platforms: []
+interfaces: []
+languages: []
+availability:
+sources:
+  - id: replace-me
+    resource: https://example.invalid/source
+    title: Replace with a concrete source
+---
+
+# Overview
+
+# History
+
+# Architecture
+
+# Interfaces
+
+# Hardware
+
+# Lineage and Influence
+
+# Preservation
+
+# Open Questions
+
+[^replace-me]: Replace with the source title.

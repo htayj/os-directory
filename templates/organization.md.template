@@ -1,0 +1,24 @@
+---
+type: Organization
+title: ""
+description: ""
+tags: [organization]
+status: draft
+generated: { by: "human:replace-me", at: "YYYY-MM-DDTHH:MM:SSZ" }
+names: []
+founded:
+dissolved:
+resource:
+sources:
+  - id: replace-me
+    resource: https://example.invalid/source
+    title: Replace with a concrete source
+---
+
+# Overview
+
+# Relationship to Cataloged Systems
+
+# Open Questions
+
+[^replace-me]: Replace with the source title.

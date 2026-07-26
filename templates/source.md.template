@@ -1,0 +1,32 @@
+---
+type: Historical Source
+title: ""
+description: ""
+tags: [source]
+status: draft
+generated: { by: "human:replace-me", at: "YYYY-MM-DDTHH:MM:SSZ" }
+resource:
+source_kind:
+creator:
+date:
+publisher_or_repository:
+identifier:
+accessed:
+rights:
+sources:
+  - id: catalog-record
+    resource: https://example.invalid/catalog-record
+    title: Replace with the source's catalog or finding-aid record
+---
+
+# Description
+
+# Scope and Contents
+
+# Provenance
+
+# Access and Rights
+
+# Catalog Use
+
+[^catalog-record]: Replace with the catalog or finding-aid title.

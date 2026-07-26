@@ -1,0 +1,28 @@
+---
+type: Operating System Release
+title: ""
+description: ""
+tags: [operating-system, release]
+status: draft
+generated: { by: "human:replace-me", at: "YYYY-MM-DDTHH:MM:SSZ" }
+system: /systems/replace-me/system.md
+version:
+release_date:
+platforms: []
+sources:
+  - id: replace-me
+    resource: https://example.invalid/source
+    title: Replace with a concrete source
+---
+
+# Overview
+
+# Changes
+
+# Distribution
+
+# Preservation
+
+# Open Questions
+
+[^replace-me]: Replace with the source title.
