@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":16,"results":[
+{"candidate_id":"novell-star-trek","disposition":"needs-review","path":null,"canonical_title":"Novell Star Trek","notes":"Project label requires scope evidence."},
+{"candidate_id":"novell-dos","disposition":"included-system","path":"systems/novell-dos/","canonical_title":"Novell DOS","notes":"Named DR DOS-derived system."},
+{"candidate_id":"caldera-opendos-7-01","disposition":"included-release","path":null,"canonical_title":"Caldera OpenDOS 7.01","notes":"Versioned DR DOS-family distribution."},
+{"candidate_id":"caldera-dr-dos-7-02-and-higher","disposition":"included-release","path":null,"canonical_title":"Caldera DR-DOS 7.02 and higher","notes":"Versioned DR DOS-family releases."},
+{"candidate_id":"batch-11-dos-11","disposition":"included-system","path":"systems/batch-11-dos-11/","canonical_title":"DEC BATCH-11/DOS-11","notes":"Distinct linked DEC operating-system identity."},
+{"candidate_id":"os-8","disposition":"included-system","path":"systems/os-8/","canonical_title":"OS/8","notes":"Distinct linked DEC operating-system identity."},
+{"candidate_id":"rsts-e","disposition":"included-system","path":"systems/rsts-e/","canonical_title":"RSTS/E","notes":"Named DEC PDP-11 time-sharing system."},
+{"candidate_id":"rsx-11","disposition":"included-system","path":"systems/rsx-11/","canonical_title":"RSX-11","notes":"Distinct linked DEC operating-system identity."},
+{"candidate_id":"rt-11","disposition":"included-system","path":"systems/rt-11/","canonical_title":"RT-11","notes":"Distinct linked DEC operating-system identity."},
+{"candidate_id":"tops-10","disposition":"included-system","path":"systems/tops-10/","canonical_title":"TOPS-10","notes":"Distinct linked DEC operating-system identity."}
+]}
