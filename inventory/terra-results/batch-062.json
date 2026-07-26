@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":62,"results":[
+{"candidate_id":"extremeware","disposition":"included-system","path":"systems/extremeware/","canonical_title":"ExtremeWare","notes":"Distinct linked network operating-system identity."},
+{"candidate_id":"extremexos","disposition":"included-system","path":"systems/extremexos/","canonical_title":"ExtremeXOS","notes":"Distinct linked network operating-system identity."},
+{"candidate_id":"fabric-os","disposition":"included-system","path":"systems/fabric-os/","canonical_title":"Fabric OS","notes":"Distinct linked network operating-system identity."},
+{"candidate_id":"junos","disposition":"included-system","path":"systems/junos/","canonical_title":"JunOS","notes":"Distinct linked network operating-system identity."},
+{"candidate_id":"network-operating-system","disposition":"grouping","path":null,"canonical_title":"Network operating system","notes":"Generic class, not one operating-system identity."},
+{"candidate_id":"novell-open-enterprise-server","disposition":"included-system","path":"systems/novell-open-enterprise-server/","canonical_title":"Novell Open Enterprise Server","notes":"Distinct linked server operating-system identity."},
+{"candidate_id":"blis-cobol","disposition":"included-system","path":"systems/blis-cobol/","canonical_title":"BLIS/COBOL","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"a2","disposition":"included-system","path":"systems/a2/","canonical_title":"A2","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"bs1000-by-siemens","disposition":"needs-review","path":null,"canonical_title":"BS1000","notes":"Unlinked label requiring identity evidence."},
+{"candidate_id":"bs2000","disposition":"included-system","path":"systems/bs2000/","canonical_title":"BS2000","notes":"Distinct linked operating-system identity."}
+]}

@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":63,"results":[
+{"candidate_id":"bs3000-by-siemens-rebadging-of-fujitsu-s-msp-operating-system-40","disposition":"needs-review","path":null,"canonical_title":"BS3000","notes":"Unlinked descriptive title; relation to Fujitsu MSP needs source confirmation."},
+{"candidate_id":"flex9-by-technical-systems-consultants-tsc-for-motorola-6809-based-machines-successor-to-flex-which-was-for-motorola-6800-cpus","disposition":"needs-review","path":null,"canonical_title":"FLEX9","notes":"Unlinked descriptive title; identity needs source confirmation."},
+{"candidate_id":"graphics-environment-manager","disposition":"not-an-operating-system","path":null,"canonical_title":"Graphics Environment Manager","notes":"Graphical environment, not a standalone OS."},
+{"candidate_id":"javaos","disposition":"included-system","path":"systems/javaos/","canonical_title":"JavaOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"jnode-java-new-operating-system-design-effort-written-99-in-java-native-compiled-provides-own-jvm-and-jit-compiler-based-on-gnu-classpath-41-42","disposition":"needs-review","path":null,"canonical_title":"JNode","notes":"Unlinked descriptive title; identity needs source confirmation."},
+{"candidate_id":"jx","disposition":"included-system","path":"systems/jx/","canonical_title":"JX","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"kernal","disposition":"not-an-operating-system","path":null,"canonical_title":"KERNAL","notes":"Firmware/kernel component, not a full OS."},
+{"candidate_id":"merlin-for-the-corvus-concept","disposition":"needs-review","path":null,"canonical_title":"Merlin","notes":"Unlinked descriptive title; identity needs source confirmation."},
+{"candidate_id":"morphos","disposition":"included-system","path":"systems/morphos/","canonical_title":"MorphOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"oberon-operating-system","disposition":"included-system","path":"systems/oberon-operating-system/","canonical_title":"Oberon","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}
