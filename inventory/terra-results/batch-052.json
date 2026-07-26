@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":52,"results":[
+{"candidate_id":"trusted-solaris","disposition":"included-system","path":"systems/trusted-solaris/","canonical_title":"Trusted Solaris","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"uniflex","disposition":"included-system","path":"systems/uniflex/","canonical_title":"UniFLEX","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"unicos","disposition":"included-system","path":"systems/unicos/","canonical_title":"Unicos","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"utx-32-developed-by-gould-csd-computer-system-division-a-unix-based-os-that-included-both-bsd-and-system-v-characteristics-it-was-one-of-the-first-unix-based-systems-to-receive-nsa-s-c2-security-level-certification-citation-needed","disposition":"needs-review","path":null,"canonical_title":"UTX/32","notes":"Unlinked descriptive label requiring identity evidence."},
+{"candidate_id":"zenix-zenith-corporations-unix-a-popular-usa-electronics-maker-at-the-time-citation-needed","disposition":"needs-review","path":null,"canonical_title":"Zenix","notes":"Unlinked descriptive label requiring identity evidence."},
+{"candidate_id":"minix","disposition":"included-system","path":"systems/minix/","canonical_title":"MINIX","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"berkeley-software-distribution","disposition":"included-system","path":"systems/berkeley-software-distribution/","canonical_title":"Berkeley Software Distribution","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"freebsd","disposition":"included-system","path":"systems/freebsd/","canonical_title":"FreeBSD","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"dragonfly-bsd","disposition":"included-system","path":"systems/dragonfly-bsd/","canonical_title":"DragonFly BSD","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"midnightbsd","disposition":"included-system","path":"systems/midnightbsd/","canonical_title":"MidnightBSD","notes":"Distinct linked operating-system identity."}
+]}

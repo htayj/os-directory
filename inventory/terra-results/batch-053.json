@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":53,"results":[
+{"candidate_id":"ghostbsd","disposition":"included-system","path":"systems/ghostbsd/","canonical_title":"GhostBSD","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"trueos","disposition":"included-system","path":"systems/trueos/","canonical_title":"TrueOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"nomadbsd-a-project-aiming-to-tend-freebsd-to-desktop-laptop-needs","disposition":"needs-review","path":null,"canonical_title":"NomadBSD","notes":"Unlinked descriptive title; identity needs source confirmation."},
+{"candidate_id":"netbsd","disposition":"included-system","path":"systems/netbsd/","canonical_title":"NetBSD","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"openbsd","disposition":"included-system","path":"systems/openbsd/","canonical_title":"OpenBSD","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"bitrig","disposition":"included-system","path":"systems/bitrig/","canonical_title":"Bitrig","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"fuguita-26-a-live-openbsd-fork-by-a-japanese-developer-27","disposition":"needs-review","path":null,"canonical_title":"FuguIta","notes":"Unlinked descriptive title; identity needs source confirmation."},
+{"candidate_id":"darwin","disposition":"included-system","path":"systems/darwin/","canonical_title":"Darwin","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"gnu","disposition":"included-system","path":"systems/gnu/","canonical_title":"GNU","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"linux","disposition":"included-system","path":"systems/linux/","canonical_title":"Linux","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}
