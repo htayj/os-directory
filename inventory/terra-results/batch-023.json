@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":23,"results":[
+{"candidate_id":"os-vs1","disposition":"included-system","path":"systems/os-vs1/","canonical_title":"OS/VS1","notes":"Clear linked IBM OS identity; draft fields remain unverified."},
+{"candidate_id":"os-vs1-basic-programming-extensions-bpe-adds-device-support-and-vm-handshaking","disposition":"included-release","path":null,"canonical_title":"OS/VS1 BPE","notes":"Named OS/VS1 extension, not a separate system."},
+{"candidate_id":"os-vs2-operating-system-virtual-storage-2-virtual-memory-version-of-os-360-mvt","disposition":"included-release","path":null,"canonical_title":"OS/VS2","notes":"Named OS/360 virtual-memory release line."},
+{"candidate_id":"os-vs2-r1-called-single-virtual-storage-svs-virtual-memory-version-of-os-360-mvt-but-without-multiprocessing-support","disposition":"included-release","path":null,"canonical_title":"OS/VS2 R1 (SVS)","notes":"Release/version of OS/VS2."},
+{"candidate_id":"os-vs2-r2-through-r3-8-called-multiple-virtual-storage-mvs-eliminated-most-need-for-vs1","disposition":"included-release","path":null,"canonical_title":"OS/VS2 R2-R3.8 (MVS)","notes":"Release/version stream of OS/VS2."},
+{"candidate_id":"mvs-se-mvs-system-extensions","disposition":"included-release","path":null,"canonical_title":"MVS/SE","notes":"MVS product/release designation."},
+{"candidate_id":"mvs-sp-mvs-system-product-v1","disposition":"included-release","path":null,"canonical_title":"MVS/SP","notes":"MVS product/release designation."},
+{"candidate_id":"mvs-370-refers-to-os-vs2-mvs-mvs-se-and-mvs-sp-version-1","disposition":"grouping","path":null,"canonical_title":"MVS/370","notes":"Umbrella label spanning multiple OS/VS2 MVS variants."},
+{"candidate_id":"mvs-xa","disposition":"included-release","path":null,"canonical_title":"MVS/XA","notes":"MVS architecture/release generation."},
+{"candidate_id":"mvs-esa","disposition":"included-release","path":null,"canonical_title":"MVS/ESA","notes":"MVS architecture/release generation."}
+]}

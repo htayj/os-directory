@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":20,"results":[
+{"candidate_id":"vulcan-o-s","disposition":"needs-review","path":null,"canonical_title":"Vulcan O/S","notes":"Redlinked Harris label; identity needs evidence."},
+{"candidate_id":"cx-ux","disposition":"needs-review","path":null,"canonical_title":"CX/UX","notes":"Redlinked Harris UNIX-based label; identity needs evidence."},
+{"candidate_id":"hdos","disposition":"included-system","path":"systems/hdos/","canonical_title":"HDOS","notes":"Distinct linked Heathkit operating-system identity."},
+{"candidate_id":"ht-11","disposition":"included-release","path":null,"canonical_title":"HT-11","notes":"Explicit modified RT-11 distribution."},
+{"candidate_id":"hp-multi-programming-executive","disposition":"included-system","path":"systems/hp-multi-programming-executive/","canonical_title":"HP Multi-Programming Executive","notes":"Distinct linked HP operating-system identity."},
+{"candidate_id":"hp-ux","disposition":"included-system","path":"systems/hp-ux/","canonical_title":"HP-UX","notes":"Distinct linked HP Unix operating-system identity."},
+{"candidate_id":"cp-6","disposition":"included-system","path":"systems/cp-6/","canonical_title":"Honeywell CP-6","notes":"Distinct linked Honeywell operating-system identity."},
+{"candidate_id":"harmonyos","disposition":"included-system","path":"systems/harmonyos/","canonical_title":"HarmonyOS","notes":"Distinct linked Huawei operating-system identity; occurrences retained in source inventory."},
+{"candidate_id":"harmonyos-next","disposition":"included-release","path":null,"canonical_title":"HarmonyOS NEXT","notes":"Named HarmonyOS derivative/release line."},
+{"candidate_id":"liteos","disposition":"included-system","path":"systems/liteos/","canonical_title":"LiteOS","notes":"Distinct linked Huawei embedded operating-system identity."}
+]}
