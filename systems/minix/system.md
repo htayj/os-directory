@@ -8,6 +8,9 @@ schema_version: "0.1"
 as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: Draft coverage record; no verified claim is asserted. }
 field_dispositions:
+  # BEGIN GENERATED TEXT EDITOR DISPOSITION
+  - { field: text_editors, disposition: documented, checked_at: 2026-07-26 }
+  # END GENERATED TEXT EDITOR DISPOSITION
   - { field: organizations, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: countries_of_origin, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: design_purposes, disposition: not-researched, checked_at: 2026-07-26 }
@@ -59,6 +62,21 @@ first_pass_attributes:
     license: '2005: BSD 3-Clause [ a ] 2000: BSD 3-Clause 1995: Proprietary 1987:
       Proprietary'
 # END GENERATED ENWIKI INFOBOX
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: has-associations
+  note: One or more discovery relationships were found; provisional relationships
+    still require primary-source confirmation.
+text_editors:
+- name: Mined
+  relationship: bundled-default
+  interface_style: full-screen-text
+  source: https://man.minix3.org/cgi-bin/man.cgi?query=mined&sektion=1
+  source_kind: official-system-manual
+  assertion_status: documented
+# END GENERATED TEXT EDITORS
 ---
 
 ## Overview

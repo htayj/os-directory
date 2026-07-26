@@ -8,6 +8,9 @@ schema_version: "0.1"
 as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: Draft coverage record; no verified claim is asserted. }
 field_dispositions:
+  # BEGIN GENERATED TEXT EDITOR DISPOSITION
+  - { field: text_editors, disposition: provisional, checked_at: 2026-07-26 }
+  # END GENERATED TEXT EDITOR DISPOSITION
   - { field: organizations, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: countries_of_origin, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: design_purposes, disposition: not-researched, checked_at: 2026-07-26 }
@@ -60,6 +63,21 @@ first_pass_attributes:
     method: inferred-from-developer-country
     source: https://www.wikidata.org/wiki/Q690079
 # END GENERATED ENWIKI INFOBOX
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: has-associations
+  note: One or more discovery relationships were found; provisional relationships
+    still require primary-source confirmation.
+text_editors:
+- name: EDT
+  relationship: first-party
+  interface_style: full-screen-text
+  source: https://en.wikipedia.org/wiki/EDT_(text_editor)
+  source_kind: editor-history-secondary-reference
+  assertion_status: provisional
+# END GENERATED TEXT EDITORS
 ---
 
 ## Overview

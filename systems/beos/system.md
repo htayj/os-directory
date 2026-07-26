@@ -8,6 +8,9 @@ schema_version: "0.1"
 as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: Draft coverage record; no verified claim is asserted. }
 field_dispositions:
+  # BEGIN GENERATED TEXT EDITOR DISPOSITION
+  - { field: text_editors, disposition: provisional, checked_at: 2026-07-26 }
+  # END GENERATED TEXT EDITOR DISPOSITION
   - { field: countries_of_origin, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: design_purposes, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: lifecycle_events, disposition: not-researched, checked_at: 2026-07-26 }
@@ -60,6 +63,27 @@ first_pass_attributes:
     method: inferred-from-developer-country
     source: https://www.wikidata.org/wiki/Q791615
 # END GENERATED ENWIKI INFOBOX
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: has-associations
+  note: One or more discovery relationships were found; provisional relationships
+    still require primary-source confirmation.
+text_editors:
+- name: Eddie
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q5335795
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: StyledEdit
+  relationship: bundled-default
+  interface_style: graphical
+  source: https://www.haiku-os.org/legacy-docs/bebook/TheStyledEditApplication.html
+  source_kind: system-documentation
+  assertion_status: provisional
+# END GENERATED TEXT EDITORS
 ---
 
 ## Overview

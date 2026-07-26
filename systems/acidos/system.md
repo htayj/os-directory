@@ -9,6 +9,9 @@ schema_version: "0.1"
 as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: "Draft identity accepted from multilingual discovery; no factual claim is verified." }
 field_dispositions:
+  # BEGIN GENERATED TEXT EDITOR DISPOSITION
+  - { field: text_editors, disposition: no-evidence-found, checked_at: 2026-07-26 }
+  # END GENERATED TEXT EDITOR DISPOSITION
   - { field: developer, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: country_of_origin, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: purpose, disposition: not-researched, checked_at: 2026-07-26 }
@@ -89,6 +92,16 @@ multilingual_wikidata_snapshot:
   fields: {}
   retrieved_at: '2026-07-26'
 # END GENERATED MULTILINGUAL WIKIDATA
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: no-evidence-found
+  note: No editor relationship was found in the linked Wikipedia page or direct Wikidata
+    text-editor platform statements; primary manuals and distribution manifests still
+    require research.
+text_editors: []
+# END GENERATED TEXT EDITORS
 ---
 
 # AcidOS

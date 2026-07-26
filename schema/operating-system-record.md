@@ -41,6 +41,7 @@ Use only sections for which evidence exists:
 * **Licensing and Availability** - source, binary, documentation, and time-scoped license facts.
 * **Implementation and Kernel** - languages, kernel name and type, userland, process, memory, storage, networking, and security model.
 * **Interfaces** - command, graphical, batch, programming, and administrative interfaces.
+* **Text Editors** - bundled, first-party, native, ported, or historically prominent text-editing software with relationship and release/platform scope.
 * **Platforms** - supported hardware families, architectures, devices, and virtual targets.
 * **System Facilities** - scheduling, user model, memory, storage, networking, IPC, security, drivers, packaging, virtualization, and reliability.
 * **Lineage and Compatibility** - predecessors, descendants, ports, forks, influence, and compatibility.
@@ -65,3 +66,33 @@ systems/<system-slug>/
 
 Use lower-case ASCII slugs with hyphens. Links in prose should normally be
 bundle-relative paths beginning with `/`.
+
+# Text-editor Relationships
+
+Text editors are related software, not intrinsic operating-system attributes.
+Record an editor only when a source establishes a concrete relationship:
+
+```yaml
+text_editors:
+  - name: Example Editor
+    relationship: bundled-default
+    interface_style: graphical
+    scope:
+      releases: []
+      platforms: []
+    source: https://example.org/editor-manual
+    source_kind: official-system-manual
+    assertion_status: documented
+```
+
+Allowed relationship values are `integral`, `bundled-default`,
+`bundled-optional`, `first-party`, `native`, `ported`,
+`supported-platform`, `historically-prominent`, `development-host-tool`, and
+`other`. Interface styles include `line`, `terminal`, `full-screen-text`,
+`graphical`, `structural`, and `other`.
+
+Do not infer an editor merely because it commonly runs on the system's broader
+family. Linux or Unix compatibility alone does not establish that vi, Vim,
+Emacs, or another editor was bundled with a specific distribution. When no
+defensible relationship has been found, use a field disposition for
+`text_editors`; an empty list is not a claim that no editor existed.

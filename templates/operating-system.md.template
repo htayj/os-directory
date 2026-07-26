@@ -75,6 +75,7 @@ execution_environments: []
 build_toolchains: []
 gui_status: []
 interfaces: []
+text_editors: []
 shells: []
 window_systems: []
 desktop_environments: []
@@ -143,6 +144,8 @@ sources:
 # Implementation and Kernel
 
 # Interfaces
+
+# Text Editors
 
 # Platforms
 

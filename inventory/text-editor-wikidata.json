@@ -1,0 +1,1246 @@
+{
+  "query": "SELECT ?editor ?editorLabel ?os WHERE {\n      ?editor wdt:P31 wd:Q131212; wdt:P306 ?os.\n      SERVICE wikibase:label { bd:serviceParam wikibase:language \"en\". }\n    }",
+  "results": [
+    {
+      "editor": "WordPerfect",
+      "editor_qid": "Q174757",
+      "os_qid": "Q11215"
+    },
+    {
+      "editor": "WordPerfect",
+      "editor_qid": "Q174757",
+      "os_qid": "Q174666"
+    },
+    {
+      "editor": "SciTE",
+      "editor_qid": "Q186301",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "SciTE",
+      "editor_qid": "Q186301",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "Emacs",
+      "editor_qid": "Q189722",
+      "os_qid": "Q1481861"
+    },
+    {
+      "editor": "Emacs",
+      "editor_qid": "Q189722",
+      "os_qid": "Q1660989"
+    },
+    {
+      "editor": "Emacs",
+      "editor_qid": "Q189722",
+      "os_qid": "Q2992529"
+    },
+    {
+      "editor": "gedit",
+      "editor_qid": "Q194501",
+      "os_qid": "Q174666"
+    },
+    {
+      "editor": "Kate",
+      "editor_qid": "Q261933",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Kate",
+      "editor_qid": "Q261933",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Kate",
+      "editor_qid": "Q261933",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "Sublime Text",
+      "editor_qid": "Q267193",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Sublime Text",
+      "editor_qid": "Q267193",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Sublime Text",
+      "editor_qid": "Q267193",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Notepad",
+      "editor_qid": "Q274098",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "ACE",
+      "editor_qid": "Q288243",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "jEdit",
+      "editor_qid": "Q292976",
+      "os_qid": "Q174666"
+    },
+    {
+      "editor": "GNU nano",
+      "editor_qid": "Q306101",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "GNU nano",
+      "editor_qid": "Q306101",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "GNU nano",
+      "editor_qid": "Q306101",
+      "os_qid": "Q58636917"
+    },
+    {
+      "editor": "acme",
+      "editor_qid": "Q341970",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "acme",
+      "editor_qid": "Q341970",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "acme",
+      "editor_qid": "Q341970",
+      "os_qid": "Q725779"
+    },
+    {
+      "editor": "acme",
+      "editor_qid": "Q341970",
+      "os_qid": "Q908615"
+    },
+    {
+      "editor": "acme",
+      "editor_qid": "Q341970",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "acme",
+      "editor_qid": "Q341970",
+      "os_qid": "Q4646465"
+    },
+    {
+      "editor": "JED",
+      "editor_qid": "Q467413",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "sam",
+      "editor_qid": "Q522265",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "sam",
+      "editor_qid": "Q522265",
+      "os_qid": "Q725779"
+    },
+    {
+      "editor": "sam",
+      "editor_qid": "Q522265",
+      "os_qid": "Q4646465"
+    },
+    {
+      "editor": "nvi",
+      "editor_qid": "Q556171",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "E",
+      "editor_qid": "Q598156",
+      "os_qid": "Q1481861"
+    },
+    {
+      "editor": "E",
+      "editor_qid": "Q598156",
+      "os_qid": "Q2992529"
+    },
+    {
+      "editor": "Bluefish",
+      "editor_qid": "Q651027",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Bluefish",
+      "editor_qid": "Q651027",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Bluefish",
+      "editor_qid": "Q651027",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Bluefish",
+      "editor_qid": "Q651027",
+      "os_qid": "Q14646"
+    },
+    {
+      "editor": "Bluefish",
+      "editor_qid": "Q651027",
+      "os_qid": "Q34215"
+    },
+    {
+      "editor": "Bluefish",
+      "editor_qid": "Q651027",
+      "os_qid": "Q34236"
+    },
+    {
+      "editor": "ConTEXT",
+      "editor_qid": "Q728134",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "KWrite",
+      "editor_qid": "Q742712",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "BBEdit",
+      "editor_qid": "Q795617",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Xedit",
+      "editor_qid": "Q936245",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "Scribes",
+      "editor_qid": "Q941959",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "MS-DOS Editor",
+      "editor_qid": "Q1066510",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "MS-DOS Editor",
+      "editor_qid": "Q1066510",
+      "os_qid": "Q47604"
+    },
+    {
+      "editor": "Leafpad",
+      "editor_qid": "Q1194102",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "GNU Emacs",
+      "editor_qid": "Q1252773",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "GNU Emacs",
+      "editor_qid": "Q1252773",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "GNU Emacs",
+      "editor_qid": "Q1252773",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "GNU Emacs",
+      "editor_qid": "Q1252773",
+      "os_qid": "Q58636917"
+    },
+    {
+      "editor": "UltraEdit",
+      "editor_qid": "Q1305902",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "UltraEdit",
+      "editor_qid": "Q1305902",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "UltraEdit",
+      "editor_qid": "Q1305902",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "PSPad",
+      "editor_qid": "Q1342374",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Yudit",
+      "editor_qid": "Q1414741",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "TeXShop",
+      "editor_qid": "Q1417891",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "FlashDevelop",
+      "editor_qid": "Q1427202",
+      "os_qid": "Q11248"
+    },
+    {
+      "editor": "Gobby",
+      "editor_qid": "Q1533493",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "Joe's Own Editor",
+      "editor_qid": "Q1691315",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "Joe's Own Editor",
+      "editor_qid": "Q1691315",
+      "os_qid": "Q170434"
+    },
+    {
+      "editor": "WinEdt",
+      "editor_qid": "Q1755575",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Hiew",
+      "editor_qid": "Q2026564",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "EditPad",
+      "editor_qid": "Q2142184",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "EditPad",
+      "editor_qid": "Q2142184",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "XEmacs",
+      "editor_qid": "Q2164944",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "TextMate",
+      "editor_qid": "Q2297533",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Pico",
+      "editor_qid": "Q2335664",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "LEd",
+      "editor_qid": "Q2366565",
+      "os_qid": "Q83370"
+    },
+    {
+      "editor": "Elvis",
+      "editor_qid": "Q2631227",
+      "os_qid": "Q174666"
+    },
+    {
+      "editor": "Yi",
+      "editor_qid": "Q3571162",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Codelobster",
+      "editor_qid": "Q4036361",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Codelobster",
+      "editor_qid": "Q4036361",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Codelobster",
+      "editor_qid": "Q4036361",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "LE",
+      "editor_qid": "Q4042433",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "Medit",
+      "editor_qid": "Q4043893",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Medit",
+      "editor_qid": "Q4043893",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "Multi-Edit",
+      "editor_qid": "Q4044630",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Multi-Edit",
+      "editor_qid": "Q4044630",
+      "os_qid": "Q170434"
+    },
+    {
+      "editor": "PolyEdit",
+      "editor_qid": "Q4047184",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "vile",
+      "editor_qid": "Q4119396",
+      "os_qid": "Q174666"
+    },
+    {
+      "editor": "Lexicon",
+      "editor_qid": "Q4257675",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Lexicon",
+      "editor_qid": "Q4257675",
+      "os_qid": "Q170434"
+    },
+    {
+      "editor": "BRIEF",
+      "editor_qid": "Q4967008",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "BRIEF",
+      "editor_qid": "Q4967008",
+      "os_qid": "Q47604"
+    },
+    {
+      "editor": "BRIEF",
+      "editor_qid": "Q4967008",
+      "os_qid": "Q189794"
+    },
+    {
+      "editor": "CygnusEd",
+      "editor_qid": "Q5199203",
+      "os_qid": "Q380526"
+    },
+    {
+      "editor": "CygnusEd",
+      "editor_qid": "Q5199203",
+      "os_qid": "Q646795"
+    },
+    {
+      "editor": "CygnusEd",
+      "editor_qid": "Q5199203",
+      "os_qid": "Q3300674"
+    },
+    {
+      "editor": "DEC SED",
+      "editor_qid": "Q5204789",
+      "os_qid": "Q479882"
+    },
+    {
+      "editor": "DEC SED",
+      "editor_qid": "Q5204789",
+      "os_qid": "Q1481861"
+    },
+    {
+      "editor": "DEC SED",
+      "editor_qid": "Q5204789",
+      "os_qid": "Q1670222"
+    },
+    {
+      "editor": "E",
+      "editor_qid": "Q5324774",
+      "os_qid": "Q189794"
+    },
+    {
+      "editor": "Eddie",
+      "editor_qid": "Q5335795",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Eddie",
+      "editor_qid": "Q5335795",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Eddie",
+      "editor_qid": "Q5335795",
+      "os_qid": "Q62563"
+    },
+    {
+      "editor": "Epsilon",
+      "editor_qid": "Q5383949",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Epsilon",
+      "editor_qid": "Q5383949",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Epsilon",
+      "editor_qid": "Q5383949",
+      "os_qid": "Q34236"
+    },
+    {
+      "editor": "Epsilon",
+      "editor_qid": "Q5383949",
+      "os_qid": "Q170434"
+    },
+    {
+      "editor": "Epsilon",
+      "editor_qid": "Q5383949",
+      "os_qid": "Q189794"
+    },
+    {
+      "editor": "Epsilon",
+      "editor_qid": "Q5383949",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "iA Writer",
+      "editor_qid": "Q5968467",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "iA Writer",
+      "editor_qid": "Q5968467",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "iA Writer",
+      "editor_qid": "Q5968467",
+      "os_qid": "Q48493"
+    },
+    {
+      "editor": "iA Writer",
+      "editor_qid": "Q5968467",
+      "os_qid": "Q64350339"
+    },
+    {
+      "editor": "Win Vi",
+      "editor_qid": "Q6167941",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Kod",
+      "editor_qid": "Q6425029",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Lapis",
+      "editor_qid": "Q6488206",
+      "os_qid": "Q11248"
+    },
+    {
+      "editor": "Leo",
+      "editor_qid": "Q6523506",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Leo",
+      "editor_qid": "Q6523506",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Leo",
+      "editor_qid": "Q6523506",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Liquid XML Studio",
+      "editor_qid": "Q6557410",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Meadow",
+      "editor_qid": "Q6803210",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "ne",
+      "editor_qid": "Q6983892",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "Notepad+",
+      "editor_qid": "Q7062573",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Programmer's File Editor",
+      "editor_qid": "Q7248476",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Programmer's File Editor",
+      "editor_qid": "Q7248476",
+      "os_qid": "Q83370"
+    },
+    {
+      "editor": "Programmer's File Editor",
+      "editor_qid": "Q7248476",
+      "os_qid": "Q483132"
+    },
+    {
+      "editor": "Programmer's File Editor",
+      "editor_qid": "Q7248476",
+      "os_qid": "Q483881"
+    },
+    {
+      "editor": "Programmer's File Editor",
+      "editor_qid": "Q7248476",
+      "os_qid": "Q488978"
+    },
+    {
+      "editor": "Programmer's File Editor",
+      "editor_qid": "Q7248476",
+      "os_qid": "Q495432"
+    },
+    {
+      "editor": "STET",
+      "editor_qid": "Q7394729",
+      "os_qid": "Q944135"
+    },
+    {
+      "editor": "Se",
+      "editor_qid": "Q7439755",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "StoryMill",
+      "editor_qid": "Q7620368",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Stylus Studio",
+      "editor_qid": "Q7629743",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "The SemWare Editor",
+      "editor_qid": "Q7763278",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "The SemWare Editor",
+      "editor_qid": "Q7763278",
+      "os_qid": "Q47604"
+    },
+    {
+      "editor": "The SemWare Editor",
+      "editor_qid": "Q7763278",
+      "os_qid": "Q189794"
+    },
+    {
+      "editor": "The SemWare Editor",
+      "editor_qid": "Q7763278",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "XML Notepad",
+      "editor_qid": "Q8042318",
+      "os_qid": "Q483881"
+    },
+    {
+      "editor": "YUI Rich Text Editor",
+      "editor_qid": "Q8046051",
+      "os_qid": "Q174666"
+    },
+    {
+      "editor": "Personal Editor",
+      "editor_qid": "Q9371437",
+      "os_qid": "Q863568"
+    },
+    {
+      "editor": "Personal Editor",
+      "editor_qid": "Q9371437",
+      "os_qid": "Q1049628"
+    },
+    {
+      "editor": "Ymacs",
+      "editor_qid": "Q9383470",
+      "os_qid": "Q174666"
+    },
+    {
+      "editor": "Mousepad",
+      "editor_qid": "Q10750580",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Mousepad",
+      "editor_qid": "Q10750580",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "NEdit",
+      "editor_qid": "Q2719620",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "AMIS",
+      "editor_qid": "Q2819260",
+      "os_qid": "Q1670222"
+    },
+    {
+      "editor": "Aquamacs",
+      "editor_qid": "Q2859156",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "aXe",
+      "editor_qid": "Q2874702",
+      "os_qid": "Q542726"
+    },
+    {
+      "editor": "aXe",
+      "editor_qid": "Q2874702",
+      "os_qid": "Q847593"
+    },
+    {
+      "editor": "aXe",
+      "editor_qid": "Q2874702",
+      "os_qid": "Q1208460"
+    },
+    {
+      "editor": "aXe",
+      "editor_qid": "Q2874702",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "Barry's Emacs",
+      "editor_qid": "Q2885703",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Barry's Emacs",
+      "editor_qid": "Q2885703",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Barry's Emacs",
+      "editor_qid": "Q2885703",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "PyRoom",
+      "editor_qid": "Q3031951",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "FINE",
+      "editor_qid": "Q3063241",
+      "os_qid": "Q1481861"
+    },
+    {
+      "editor": "Freemacs",
+      "editor_qid": "Q3087345",
+      "os_qid": "Q473751"
+    },
+    {
+      "editor": "GNU Zile",
+      "editor_qid": "Q3093309",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "GNU Zile",
+      "editor_qid": "Q3093309",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "GNU Zile",
+      "editor_qid": "Q3093309",
+      "os_qid": "Q58636917"
+    },
+    {
+      "editor": "GNU moe",
+      "editor_qid": "Q3093311",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "GNU moe",
+      "editor_qid": "Q3093311",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "GNU moe",
+      "editor_qid": "Q3093311",
+      "os_qid": "Q58636917"
+    },
+    {
+      "editor": "JOVE",
+      "editor_qid": "Q3156938",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "The Hessling Editor",
+      "editor_qid": "Q3521247",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "The Hessling Editor",
+      "editor_qid": "Q3521247",
+      "os_qid": "Q11368"
+    },
+    {
+      "editor": "The Hessling Editor",
+      "editor_qid": "Q3521247",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "The Hessling Editor",
+      "editor_qid": "Q3521247",
+      "os_qid": "Q189794"
+    },
+    {
+      "editor": "The Hessling Editor",
+      "editor_qid": "Q3521247",
+      "os_qid": "Q215448"
+    },
+    {
+      "editor": "Ulysses",
+      "editor_qid": "Q3548159",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Ulysses",
+      "editor_qid": "Q3548159",
+      "os_qid": "Q48493"
+    },
+    {
+      "editor": "VZ Editor",
+      "editor_qid": "Q11252853",
+      "os_qid": "Q170434"
+    },
+    {
+      "editor": "SAKURA Editor",
+      "editor_qid": "Q11304492",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Metapad",
+      "editor_qid": "Q11777663",
+      "os_qid": "Q11215"
+    },
+    {
+      "editor": "Metapad",
+      "editor_qid": "Q11777663",
+      "os_qid": "Q11230"
+    },
+    {
+      "editor": "Metapad",
+      "editor_qid": "Q11777663",
+      "os_qid": "Q11248"
+    },
+    {
+      "editor": "Metapad",
+      "editor_qid": "Q11777663",
+      "os_qid": "Q83370"
+    },
+    {
+      "editor": "Metapad",
+      "editor_qid": "Q11777663",
+      "os_qid": "Q483132"
+    },
+    {
+      "editor": "Metapad",
+      "editor_qid": "Q11777663",
+      "os_qid": "Q486487"
+    },
+    {
+      "editor": "ZeroBrane Studio",
+      "editor_qid": "Q17048776",
+      "os_qid": "Q174666"
+    },
+    {
+      "editor": "Apostrophe",
+      "editor_qid": "Q17085299",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Textadept",
+      "editor_qid": "Q18388827",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Textadept",
+      "editor_qid": "Q18388827",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Textadept",
+      "editor_qid": "Q18388827",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Textadept",
+      "editor_qid": "Q18388827",
+      "os_qid": "Q34264"
+    },
+    {
+      "editor": "Gwrite",
+      "editor_qid": "Q19597383",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Perfect Writer",
+      "editor_qid": "Q19903540",
+      "os_qid": "Q47604"
+    },
+    {
+      "editor": "Perfect Writer",
+      "editor_qid": "Q19903540",
+      "os_qid": "Q219528"
+    },
+    {
+      "editor": "SPFlite",
+      "editor_qid": "Q20712270",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "pluma",
+      "editor_qid": "Q20712439",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "Remarkable",
+      "editor_qid": "Q20762487",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Remarkable",
+      "editor_qid": "Q20762487",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Xi",
+      "editor_qid": "Q24817375",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Xi",
+      "editor_qid": "Q24817375",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Xi",
+      "editor_qid": "Q24817375",
+      "os_qid": "Q26267190"
+    },
+    {
+      "editor": "Spacemacs",
+      "editor_qid": "Q28687323",
+      "os_qid": "Q11368"
+    },
+    {
+      "editor": "Typora",
+      "editor_qid": "Q48938027",
+      "os_qid": "Q381"
+    },
+    {
+      "editor": "Typora",
+      "editor_qid": "Q48938027",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Typora",
+      "editor_qid": "Q48938027",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Notepadqq",
+      "editor_qid": "Q50559933",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Notepadqq",
+      "editor_qid": "Q50559933",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "micro",
+      "editor_qid": "Q62514269",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "micro",
+      "editor_qid": "Q62514269",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "micro",
+      "editor_qid": "Q62514269",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "de",
+      "editor_qid": "Q66615377",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "TV editor",
+      "editor_qid": "Q72410576",
+      "os_qid": "Q1481861"
+    },
+    {
+      "editor": "TV editor",
+      "editor_qid": "Q72410576",
+      "os_qid": "Q3011188"
+    },
+    {
+      "editor": "Norton Editor",
+      "editor_qid": "Q73395025",
+      "os_qid": "Q170434"
+    },
+    {
+      "editor": "a",
+      "editor_qid": "Q76991647",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "a",
+      "editor_qid": "Q76991647",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "dte",
+      "editor_qid": "Q88926112",
+      "os_qid": "Q94"
+    },
+    {
+      "editor": "dte",
+      "editor_qid": "Q88926112",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "dte",
+      "editor_qid": "Q88926112",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "dte",
+      "editor_qid": "Q88926112",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "dte",
+      "editor_qid": "Q88926112",
+      "os_qid": "Q34215"
+    },
+    {
+      "editor": "dte",
+      "editor_qid": "Q88926112",
+      "os_qid": "Q34225"
+    },
+    {
+      "editor": "dte",
+      "editor_qid": "Q88926112",
+      "os_qid": "Q34236"
+    },
+    {
+      "editor": "Howl",
+      "editor_qid": "Q96803835",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "CotEditor",
+      "editor_qid": "Q97186868",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "o",
+      "editor_qid": "Q98437093",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "Kibi",
+      "editor_qid": "Q104451372",
+      "os_qid": "Q94"
+    },
+    {
+      "editor": "Kibi",
+      "editor_qid": "Q104451372",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Kibi",
+      "editor_qid": "Q104451372",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "Kibi",
+      "editor_qid": "Q104451372",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "Kibi",
+      "editor_qid": "Q104451372",
+      "os_qid": "Q18168774"
+    },
+    {
+      "editor": "novelWriter",
+      "editor_qid": "Q104904049",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "novelWriter",
+      "editor_qid": "Q104904049",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "novelWriter",
+      "editor_qid": "Q104904049",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Another Easy Editor",
+      "editor_qid": "Q110299722",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "Another Easy Editor",
+      "editor_qid": "Q110299722",
+      "os_qid": "Q58636917"
+    },
+    {
+      "editor": "Zed",
+      "editor_qid": "Q112301707",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Zed",
+      "editor_qid": "Q112301707",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Zed",
+      "editor_qid": "Q112301707",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Zed",
+      "editor_qid": "Q112301707",
+      "os_qid": "Q34236"
+    },
+    {
+      "editor": "GNOME Text Editor",
+      "editor_qid": "Q114258073",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "ghostwriter",
+      "editor_qid": "Q115797394",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "ghostwriter",
+      "editor_qid": "Q115797394",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "Scientific WorkPlace 2.5",
+      "editor_qid": "Q117313565",
+      "os_qid": "Q83370"
+    },
+    {
+      "editor": "Scientific WorkPlace 2.5",
+      "editor_qid": "Q117313565",
+      "os_qid": "Q488978"
+    },
+    {
+      "editor": "Scientific WorkPlace 2.5",
+      "editor_qid": "Q117313565",
+      "os_qid": "Q495432"
+    },
+    {
+      "editor": "sad",
+      "editor_qid": "Q123145701",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "sad",
+      "editor_qid": "Q123145701",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "Anvil",
+      "editor_qid": "Q125973268",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Anvil",
+      "editor_qid": "Q125973268",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Edit",
+      "editor_qid": "Q134540318",
+      "os_qid": "Q388"
+    },
+    {
+      "editor": "Edit",
+      "editor_qid": "Q134540318",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Edit",
+      "editor_qid": "Q134540318",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Edit",
+      "editor_qid": "Q134540318",
+      "os_qid": "Q58636917"
+    },
+    {
+      "editor": "MarkEdit",
+      "editor_qid": "Q135840899",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "HippoEDIT",
+      "editor_qid": "Q138842518",
+      "os_qid": "Q5046"
+    },
+    {
+      "editor": "HippoEDIT",
+      "editor_qid": "Q138842518",
+      "os_qid": "Q11215"
+    },
+    {
+      "editor": "HippoEDIT",
+      "editor_qid": "Q138842518",
+      "os_qid": "Q11230"
+    },
+    {
+      "editor": "HippoEDIT",
+      "editor_qid": "Q138842518",
+      "os_qid": "Q11248"
+    },
+    {
+      "editor": "HippoEDIT",
+      "editor_qid": "Q138842518",
+      "os_qid": "Q3569290"
+    },
+    {
+      "editor": "HippoEDIT",
+      "editor_qid": "Q138842518",
+      "os_qid": "Q18168774"
+    }
+  ],
+  "retrieved_at": "2026-07-26"
+}

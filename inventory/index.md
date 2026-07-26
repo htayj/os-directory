@@ -16,6 +16,9 @@ Generated and curated inventories used to establish catalog coverage.
 * `enwiki-infobox-snapshots.json` - cached provisional attribute snapshots used by system records.
 * `wikidata-country-origins.json` - direct or explicitly inferred country evidence.
 * `interface-environment-candidates.json` - unique raw GUI/interface terms and their host systems, awaiting entity-type review.
+* `text-editor-associations.json` - editor relationships or an explicit no-evidence disposition for every system.
+* `text-editor-page-snapshots.json` - frozen linked-page revision metadata and provisional editor discoveries.
+* `text-editor-wikidata.json` - frozen direct text-editor platform statements used for provisional discovery.
 
 # Supplemental
 
@@ -35,3 +38,8 @@ Run `python scripts/build_baseline_inventory.py` followed by
 public APIs permit it. Generated occurrences and Terra manifests are
 deterministic for the frozen source revision; linked-page metadata reflects the
 retrieval date.
+
+Run `python scripts/catalog_text_editors.py` to refresh editor discovery and
+write the normalized relationships into every system record. Then run
+`python scripts/validate_text_editor_coverage.py` to confirm complete inventory
+and record-level coverage.

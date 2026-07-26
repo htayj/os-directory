@@ -9,6 +9,9 @@ schema_version: "0.1"
 as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: "First-pass record; no claim is marked verified." }
 field_dispositions:
+  # BEGIN GENERATED TEXT EDITOR DISPOSITION
+  - { field: text_editors, disposition: provisional, checked_at: 2026-07-26 }
+  # END GENERATED TEXT EDITOR DISPOSITION
   - { field: development_origins, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: development_status, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: lifecycle_events, disposition: not-researched, checked_at: 2026-07-26 }
@@ -57,6 +60,21 @@ first_pass_attributes:
     method: inferred-from-developer-country
     source: https://www.wikidata.org/wiki/Q312
 # END GENERATED ENWIKI INFOBOX
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: has-associations
+  note: One or more discovery relationships were found; provisional relationships
+    still require primary-source confirmation.
+text_editors:
+- name: iA Writer
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q5968467
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+# END GENERATED TEXT EDITORS
 ---
 
 # iPadOS

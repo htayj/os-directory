@@ -9,6 +9,9 @@ schema_version: "0.1"
 as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: Draft coverage record; no verified claim is asserted. }
 field_dispositions:
+  # BEGIN GENERATED TEXT EDITOR DISPOSITION
+  - { field: text_editors, disposition: documented, checked_at: 2026-07-26 }
+  # END GENERATED TEXT EDITOR DISPOSITION
   - { field: programming_languages, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: licenses, disposition: no-evidence-found, checked_at: 2026-07-26, reason: Reviewed project material establishes ongoing stewardship but not a complete license expression. }
 source_list:
@@ -81,6 +84,21 @@ first_pass_attributes:
     method: inferred-from-developer-headquarters
     source: https://www.wikidata.org/wiki/Q350
 # END GENERATED ENWIKI INFOBOX
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: has-associations
+  note: One or more discovery relationships were found; provisional relationships
+    still require primary-source confirmation.
+text_editors:
+- name: Edit
+  relationship: bundled-default
+  interface_style: graphical
+  source: https://www.riscosopen.org/wiki/documentation/show/Edit
+  source_kind: official-system-manual
+  assertion_status: documented
+# END GENERATED TEXT EDITORS
 ---
 
 ## Overview

@@ -32,6 +32,7 @@ system records.
 * [Field vocabulary](schema/field-vocabulary.md) - Normalized attributes and their meanings.
 * [Scope and identity](schema/scope-and-identity.md) - Rules for deciding what receives a distinct record.
 * [Operating-system record](schema/operating-system-record.md) - Domain fields and expected sections for system concepts.
+* [Text-editor associations](schema/text-editor-associations.md) - Evidence rules for bundled, native, ported, and historically prominent editors.
 * [Graphical-environment record](schema/interface-environment-record.md) - Identity and architecture rules for desktop and operating environments.
 * [Contribution workflow](schema/contribution-workflow.md) - How to add sourced records and represent uncertainty.
 

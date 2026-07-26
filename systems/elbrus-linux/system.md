@@ -11,6 +11,9 @@ catalog_completeness:
   level: core
   note: Source-reviewed against current MCST product pages; unresolved core fields carry explicit dispositions.
 field_dispositions:
+  # BEGIN GENERATED TEXT EDITOR DISPOSITION
+  - { field: text_editors, disposition: no-evidence-found, checked_at: 2026-07-26 }
+  # END GENERATED TEXT EDITOR DISPOSITION
   - field: first_release
     disposition: no-evidence-found
     checked_at: 2026-07-26
@@ -378,6 +381,16 @@ sources:
     author: organization:mcst
     source_kind: vendor-product-matrix
     accessed: 2026-07-26
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: no-evidence-found
+  note: No editor relationship was found in the linked Wikipedia page or direct Wikidata
+    text-editor platform statements; primary manuals and distribution manifests still
+    require research.
+text_editors: []
+# END GENERATED TEXT EDITORS
 ---
 
 # Overview

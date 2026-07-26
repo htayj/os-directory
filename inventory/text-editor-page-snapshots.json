@@ -1,0 +1,4272 @@
+{
+  "systems/1b": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "1B（電房具1B）"
+  },
+  "systems/86-dos": {
+    "associations": [
+      {
+        "assertion_status": "provisional",
+        "interface_style": null,
+        "name": "MS-DOS Editor",
+        "relationship": "bundled-optional",
+        "source": "https://en.wikipedia.org/w/index.php?title=86-DOS&oldid=1365574915",
+        "source_kind": "wikipedia-system-page",
+        "source_revision": 1365574915
+      }
+    ],
+    "language": "en",
+    "revision": 1365574915,
+    "source": "https://en.wikipedia.org/w/index.php?title=86-DOS&oldid=1365574915",
+    "timestamp": "2026-07-23T06:22:29Z",
+    "title": "86-DOS"
+  },
+  "systems/9front": {
+    "associations": [],
+    "language": "en",
+    "revision": 1351978700,
+    "source": "https://en.wikipedia.org/w/index.php?title=Plan_9_from_Bell_Labs&oldid=1351978700",
+    "timestamp": "2026-05-01T07:57:36Z",
+    "title": "Plan 9 from Bell Labs"
+  },
+  "systems/a-rose": {
+    "associations": [],
+    "language": "en",
+    "revision": 1350422255,
+    "source": "https://en.wikipedia.org/w/index.php?title=A/ROSE&oldid=1350422255",
+    "timestamp": "2026-04-21T21:27:01Z",
+    "title": "A/ROSE"
+  },
+  "systems/a-ux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1355580328,
+    "source": "https://en.wikipedia.org/w/index.php?title=A/UX&oldid=1355580328",
+    "timestamp": "2026-05-22T18:23:40Z",
+    "title": "A/UX"
+  },
+  "systems/a2": {
+    "associations": [],
+    "language": "en",
+    "revision": 1307357385,
+    "source": "https://en.wikipedia.org/w/index.php?title=A2_%28operating_system%29&oldid=1307357385",
+    "timestamp": "2025-08-23T05:01:40Z",
+    "title": "A2 (operating system)"
+  },
+  "systems/access-linux-platform": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359006953,
+    "source": "https://en.wikipedia.org/w/index.php?title=Access_Linux_Platform&oldid=1359006953",
+    "timestamp": "2026-06-12T12:56:51Z",
+    "title": "Access Linux Platform"
+  },
+  "systems/acidos": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "AcidOS"
+  },
+  "systems/acos-2": {
+    "associations": [],
+    "language": "ja",
+    "revision": 103684529,
+    "source": "https://ja.wikipedia.org/w/index.php?title=ACOS-2&oldid=103684529",
+    "timestamp": "2025-02-09T20:30:09Z",
+    "title": "ACOS-2"
+  },
+  "systems/acp": {
+    "associations": [],
+    "language": "en",
+    "revision": 1171076073,
+    "source": "https://en.wikipedia.org/w/index.php?title=IBM_Airline_Control_Program&oldid=1171076073",
+    "timestamp": "2023-08-18T22:32:29Z",
+    "title": "IBM Airline Control Program"
+  },
+  "systems/adaos": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "AdaOS"
+  },
+  "systems/alzza-linux": {
+    "associations": [],
+    "language": "ko",
+    "revision": 39040304,
+    "source": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+    "timestamp": "2025-04-04T09:38:37Z",
+    "title": "리눅스원"
+  },
+  "systems/amiga-unix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361201098,
+    "source": "https://en.wikipedia.org/w/index.php?title=Amiga_Unix&oldid=1361201098",
+    "timestamp": "2026-06-26T10:11:41Z",
+    "title": "Amiga Unix"
+  },
+  "systems/amigaos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363683220,
+    "source": "https://en.wikipedia.org/w/index.php?title=AmigaOS&oldid=1363683220",
+    "timestamp": "2026-07-11T17:58:30Z",
+    "title": "AmigaOS"
+  },
+  "systems/amoeba": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359487902,
+    "source": "https://en.wikipedia.org/w/index.php?title=Amoeba_%28operating_system%29&oldid=1359487902",
+    "timestamp": "2026-06-15T15:31:35Z",
+    "title": "Amoeba (operating system)"
+  },
+  "systems/amsdos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1266822485,
+    "source": "https://en.wikipedia.org/w/index.php?title=AMSDOS&oldid=1266822485",
+    "timestamp": "2025-01-02T10:56:06Z",
+    "title": "AMSDOS"
+  },
+  "systems/andos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361001055,
+    "source": "https://en.wikipedia.org/w/index.php?title=ANDOS&oldid=1361001055",
+    "timestamp": "2026-06-25T00:42:08Z",
+    "title": "ANDOS"
+  },
+  "systems/android": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365359864,
+    "source": "https://en.wikipedia.org/w/index.php?title=Android_%28operating_system%29&oldid=1365359864",
+    "timestamp": "2026-07-21T22:36:14Z",
+    "title": "Android (operating system)"
+  },
+  "systems/android-tv": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364831972,
+    "source": "https://en.wikipedia.org/w/index.php?title=Android_TV&oldid=1364831972",
+    "timestamp": "2026-07-18T19:47:20Z",
+    "title": "Android TV"
+  },
+  "systems/android-x86": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365510138,
+    "source": "https://en.wikipedia.org/w/index.php?title=Android-x86&oldid=1365510138",
+    "timestamp": "2026-07-22T22:36:36Z",
+    "title": "Android-x86"
+  },
+  "systems/angstrom-distribution": {
+    "associations": [],
+    "language": "en",
+    "revision": 1287763720,
+    "source": "https://en.wikipedia.org/w/index.php?title=%C3%85ngstr%C3%B6m_distribution&oldid=1287763720",
+    "timestamp": "2025-04-28T09:16:24Z",
+    "title": "Ångström distribution"
+  },
+  "systems/annyung-linux": {
+    "associations": [],
+    "language": "ko",
+    "revision": 39027606,
+    "source": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+    "timestamp": "2025-04-03T17:37:57Z",
+    "title": "안녕 리눅스"
+  },
+  "systems/aos-2": {
+    "associations": [],
+    "language": "en",
+    "revision": 1366092253,
+    "source": "https://en.wikipedia.org/w/index.php?title=IBM_RT_PC&oldid=1366092253",
+    "timestamp": "2026-07-26T05:59:37Z",
+    "title": "IBM RT PC"
+  },
+  "systems/apache-mynewt": {
+    "associations": [],
+    "language": "en",
+    "revision": 1314518546,
+    "source": "https://en.wikipedia.org/w/index.php?title=Apache_Mynewt&oldid=1314518546",
+    "timestamp": "2025-10-01T21:09:59Z",
+    "title": "Apache Mynewt"
+  },
+  "systems/apple-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1258875195,
+    "source": "https://en.wikipedia.org/w/index.php?title=Apple_DOS&oldid=1258875195",
+    "timestamp": "2024-11-22T03:00:35Z",
+    "title": "Apple DOS"
+  },
+  "systems/apple-pascal": {
+    "associations": [],
+    "language": "en",
+    "revision": 1352858611,
+    "source": "https://en.wikipedia.org/w/index.php?title=Apple_Pascal&oldid=1352858611",
+    "timestamp": "2026-05-06T17:16:39Z",
+    "title": "Apple Pascal"
+  },
+  "systems/apple-sos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1290511952,
+    "source": "https://en.wikipedia.org/w/index.php?title=Apple_SOS&oldid=1290511952",
+    "timestamp": "2025-05-15T07:29:43Z",
+    "title": "Apple SOS"
+  },
+  "systems/arabbix": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "عرببكس (Arabbix)"
+  },
+  "systems/arcaos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1357260506,
+    "source": "https://en.wikipedia.org/w/index.php?title=ArcaOS&oldid=1357260506",
+    "timestamp": "2026-06-01T17:32:05Z",
+    "title": "ArcaOS"
+  },
+  "systems/aros": {
+    "associations": [],
+    "language": "en",
+    "revision": 1350952204,
+    "source": "https://en.wikipedia.org/w/index.php?title=AROS_Research_Operating_System&oldid=1350952204",
+    "timestamp": "2026-04-25T01:24:53Z",
+    "title": "AROS Research Operating System"
+  },
+  "systems/arthur": {
+    "associations": [],
+    "language": "en",
+    "revision": 1340571856,
+    "source": "https://en.wikipedia.org/w/index.php?title=History_of_RISC_OS&oldid=1340571856",
+    "timestamp": "2026-02-26T12:16:55Z",
+    "title": "History of RISC OS"
+  },
+  "systems/arx": {
+    "associations": [],
+    "language": "en",
+    "revision": 1356858505,
+    "source": "https://en.wikipedia.org/w/index.php?title=ARX_%28operating_system%29&oldid=1356858505",
+    "timestamp": "2026-05-30T07:19:31Z",
+    "title": "ARX (operating system)"
+  },
+  "systems/asianux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362258647,
+    "source": "https://en.wikipedia.org/w/index.php?title=Asianux&oldid=1362258647",
+    "timestamp": "2026-07-02T20:35:05Z",
+    "title": "Asianux"
+  },
+  "systems/atari-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361602378,
+    "source": "https://en.wikipedia.org/w/index.php?title=Atari_DOS&oldid=1361602378",
+    "timestamp": "2026-06-29T00:08:41Z",
+    "title": "Atari DOS"
+  },
+  "systems/atari-multitos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1299858058,
+    "source": "https://en.wikipedia.org/w/index.php?title=MiNT&oldid=1299858058",
+    "timestamp": "2025-07-10T21:06:09Z",
+    "title": "MiNT"
+  },
+  "systems/atari-tos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1345494943,
+    "source": "https://en.wikipedia.org/w/index.php?title=Atari_TOS&oldid=1345494943",
+    "timestamp": "2026-03-26T10:53:10Z",
+    "title": "Atari TOS"
+  },
+  "systems/atheos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1308603979,
+    "source": "https://en.wikipedia.org/w/index.php?title=Syllable_Desktop&oldid=1308603979",
+    "timestamp": "2025-08-30T12:21:20Z",
+    "title": "Syllable Desktop"
+  },
+  "systems/aurora-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1356789473,
+    "source": "https://en.wikipedia.org/w/index.php?title=Aurora_OS_%28Russian_mobile_platform%29&oldid=1356789473",
+    "timestamp": "2026-05-29T20:44:12Z",
+    "title": "Aurora OS (Russian mobile platform)"
+  },
+  "systems/azure-sphere": {
+    "associations": [],
+    "language": "en",
+    "revision": 1339326781,
+    "source": "https://en.wikipedia.org/w/index.php?title=Azure_Sphere&oldid=1339326781",
+    "timestamp": "2026-02-20T00:16:40Z",
+    "title": "Azure Sphere"
+  },
+  "systems/b-right": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "B-right"
+  },
+  "systems/b-right-v": {
+    "associations": [],
+    "language": "ja",
+    "revision": 107727777,
+    "source": "https://ja.wikipedia.org/w/index.php?title=%E8%B6%85%E6%BC%A2%E5%AD%97&oldid=107727777",
+    "timestamp": "2025-12-24T21:10:00Z",
+    "title": "超漢字"
+  },
+  "systems/bada": {
+    "associations": [],
+    "language": "en",
+    "revision": 1352203347,
+    "source": "https://en.wikipedia.org/w/index.php?title=Bada_%28operating_system%29&oldid=1352203347",
+    "timestamp": "2026-05-02T19:24:54Z",
+    "title": "Bada (operating system)"
+  },
+  "systems/banyan-vines": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363436002,
+    "source": "https://en.wikipedia.org/w/index.php?title=Banyan_VINES&oldid=1363436002",
+    "timestamp": "2026-07-10T04:25:57Z",
+    "title": "Banyan VINES"
+  },
+  "systems/baremetal": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359226115,
+    "source": "https://en.wikipedia.org/w/index.php?title=BareMetal&oldid=1359226115",
+    "timestamp": "2026-06-13T23:30:46Z",
+    "title": "BareMetal"
+  },
+  "systems/barrelfish": {
+    "associations": [],
+    "language": "en",
+    "revision": 1299685994,
+    "source": "https://en.wikipedia.org/w/index.php?title=Barrelfish_%28operating_system%29&oldid=1299685994",
+    "timestamp": "2025-07-09T20:41:26Z",
+    "title": "Barrelfish (operating system)"
+  },
+  "systems/batch-11-dos-11": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362439714,
+    "source": "https://en.wikipedia.org/w/index.php?title=DEC_BATCH-11/DOS-11&oldid=1362439714",
+    "timestamp": "2026-07-03T23:24:41Z",
+    "title": "DEC BATCH-11/DOS-11"
+  },
+  "systems/bcos-olivetti": {
+    "associations": [],
+    "language": "it",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "BCOS"
+  },
+  "systems/beia": {
+    "associations": [],
+    "language": "en",
+    "revision": 1311302535,
+    "source": "https://en.wikipedia.org/w/index.php?title=BeIA&oldid=1311302535",
+    "timestamp": "2025-09-14T16:02:30Z",
+    "title": "BeIA"
+  },
+  "systems/beos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1358675329,
+    "source": "https://en.wikipedia.org/w/index.php?title=BeOS&oldid=1358675329",
+    "timestamp": "2026-06-10T05:39:36Z",
+    "title": "BeOS"
+  },
+  "systems/berkeley-software-distribution": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364846779,
+    "source": "https://en.wikipedia.org/w/index.php?title=Berkeley_Software_Distribution&oldid=1364846779",
+    "timestamp": "2026-07-18T21:36:22Z",
+    "title": "Berkeley Software Distribution"
+  },
+  "systems/berkeley-timesharing-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1358145365,
+    "source": "https://en.wikipedia.org/w/index.php?title=Berkeley_Timesharing_System&oldid=1358145365",
+    "timestamp": "2026-06-06T21:38:27Z",
+    "title": "Berkeley Timesharing System"
+  },
+  "systems/besys": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359456574,
+    "source": "https://en.wikipedia.org/w/index.php?title=BESYS&oldid=1359456574",
+    "timestamp": "2026-06-15T11:36:16Z",
+    "title": "BESYS"
+  },
+  "systems/biglinux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "BigLinux"
+  },
+  "systems/bitrig": {
+    "associations": [],
+    "language": "en",
+    "revision": 1341418258,
+    "source": "https://en.wikipedia.org/w/index.php?title=Bitrig&oldid=1341418258",
+    "timestamp": "2026-03-03T03:21:32Z",
+    "title": "Bitrig"
+  },
+  "systems/blackberry-10": {
+    "associations": [],
+    "language": "en",
+    "revision": 1341651986,
+    "source": "https://en.wikipedia.org/w/index.php?title=BlackBerry_10&oldid=1341651986",
+    "timestamp": "2026-03-04T07:23:40Z",
+    "title": "BlackBerry 10"
+  },
+  "systems/blackberry-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361340710,
+    "source": "https://en.wikipedia.org/w/index.php?title=BlackBerry_OS&oldid=1361340710",
+    "timestamp": "2026-06-27T08:59:04Z",
+    "title": "BlackBerry OS"
+  },
+  "systems/blis-cobol": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362829995,
+    "source": "https://en.wikipedia.org/w/index.php?title=BLIS/COBOL&oldid=1362829995",
+    "timestamp": "2026-07-06T13:27:14Z",
+    "title": "BLIS/COBOL"
+  },
+  "systems/bos-360": {
+    "associations": [],
+    "language": "en",
+    "revision": 1334538632,
+    "source": "https://en.wikipedia.org/w/index.php?title=BOS/360&oldid=1334538632",
+    "timestamp": "2026-01-24T04:19:40Z",
+    "title": "BOS/360"
+  },
+  "systems/brickos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359647776,
+    "source": "https://en.wikipedia.org/w/index.php?title=BrickOS&oldid=1359647776",
+    "timestamp": "2026-06-16T12:02:34Z",
+    "title": "BrickOS"
+  },
+  "systems/bridgeos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1358236902,
+    "source": "https://en.wikipedia.org/w/index.php?title=BridgeOS&oldid=1358236902",
+    "timestamp": "2026-06-07T13:06:38Z",
+    "title": "BridgeOS"
+  },
+  "systems/bs1000-siemens": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "BS1000"
+  },
+  "systems/bs2000": {
+    "associations": [],
+    "language": "en",
+    "revision": 1349226148,
+    "source": "https://en.wikipedia.org/w/index.php?title=BS2000&oldid=1349226148",
+    "timestamp": "2026-04-16T09:25:51Z",
+    "title": "BS2000"
+  },
+  "systems/burroughs-mcp": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363862458,
+    "source": "https://en.wikipedia.org/w/index.php?title=Burroughs_MCP&oldid=1363862458",
+    "timestamp": "2026-07-12T23:17:29Z",
+    "title": "Burroughs MCP"
+  },
+  "systems/business-operating-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1320538073,
+    "source": "https://en.wikipedia.org/w/index.php?title=Business_Operating_System_%28software%29&oldid=1320538073",
+    "timestamp": "2025-11-05T08:58:25Z",
+    "title": "Business Operating System (software)"
+  },
+  "systems/c-os-iii": {
+    "associations": [],
+    "language": "en",
+    "revision": 1337608974,
+    "source": "https://en.wikipedia.org/w/index.php?title=Micro-Controller_Operating_Systems&oldid=1337608974",
+    "timestamp": "2026-02-10T13:50:32Z",
+    "title": "Micro-Controller Operating Systems"
+  },
+  "systems/caine-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362100272,
+    "source": "https://en.wikipedia.org/w/index.php?title=CAINE_Linux&oldid=1362100272",
+    "timestamp": "2026-07-01T22:45:27Z",
+    "title": "CAINE Linux"
+  },
+  "systems/calyxos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362280658,
+    "source": "https://en.wikipedia.org/w/index.php?title=CalyxOS&oldid=1362280658",
+    "timestamp": "2026-07-02T23:13:24Z",
+    "title": "CalyxOS"
+  },
+  "systems/canaima-gnu-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362329143,
+    "source": "https://en.wikipedia.org/w/index.php?title=Canaima_%28operating_system%29&oldid=1362329143",
+    "timestamp": "2026-07-03T06:45:36Z",
+    "title": "Canaima (operating system)"
+  },
+  "systems/catos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1366009048,
+    "source": "https://en.wikipedia.org/w/index.php?title=Cisco_Catalyst&oldid=1366009048",
+    "timestamp": "2026-07-25T19:07:12Z",
+    "title": "Cisco Catalyst"
+  },
+  "systems/cb-unix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1352495911,
+    "source": "https://en.wikipedia.org/w/index.php?title=CB_UNIX&oldid=1352495911",
+    "timestamp": "2026-05-04T14:58:20Z",
+    "title": "CB UNIX"
+  },
+  "systems/cbl-mariner": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362461404,
+    "source": "https://en.wikipedia.org/w/index.php?title=Azure_Linux&oldid=1362461404",
+    "timestamp": "2026-07-04T02:14:09Z",
+    "title": "Azure Linux"
+  },
+  "systems/chibios-rt": {
+    "associations": [],
+    "language": "en",
+    "revision": 1360217310,
+    "source": "https://en.wikipedia.org/w/index.php?title=ChibiOS/RT&oldid=1360217310",
+    "timestamp": "2026-06-20T00:20:21Z",
+    "title": "ChibiOS/RT"
+  },
+  "systems/china-operating-system-cos": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "中国操作系统"
+  },
+  "systems/chorusos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1252227020,
+    "source": "https://en.wikipedia.org/w/index.php?title=ChorusOS&oldid=1252227020",
+    "timestamp": "2024-10-20T11:54:43Z",
+    "title": "ChorusOS"
+  },
+  "systems/chromeos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364135776,
+    "source": "https://en.wikipedia.org/w/index.php?title=ChromeOS&oldid=1364135776",
+    "timestamp": "2026-07-14T18:50:29Z",
+    "title": "ChromeOS"
+  },
+  "systems/chromiumos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364640155,
+    "source": "https://en.wikipedia.org/w/index.php?title=ChromiumOS&oldid=1364640155",
+    "timestamp": "2026-07-17T17:37:56Z",
+    "title": "ChromiumOS"
+  },
+  "systems/cisco-ios": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362069968,
+    "source": "https://en.wikipedia.org/w/index.php?title=Cisco_IOS&oldid=1362069968",
+    "timestamp": "2026-07-01T19:24:31Z",
+    "title": "Cisco IOS"
+  },
+  "systems/cisco-nx-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1355379941,
+    "source": "https://en.wikipedia.org/w/index.php?title=Cisco_NX-OS&oldid=1355379941",
+    "timestamp": "2026-05-21T14:19:16Z",
+    "title": "Cisco NX-OS"
+  },
+  "systems/classic-mac-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364890138,
+    "source": "https://en.wikipedia.org/w/index.php?title=Classic_Mac_OS&oldid=1364890138",
+    "timestamp": "2026-07-19T02:51:10Z",
+    "title": "Classic Mac OS"
+  },
+  "systems/clip-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1343775462,
+    "source": "https://en.wikipedia.org/w/index.php?title=CLIP_OS&oldid=1343775462",
+    "timestamp": "2026-03-16T08:45:53Z",
+    "title": "CLIP OS"
+  },
+  "systems/coherent": {
+    "associations": [
+      {
+        "assertion_status": "provisional",
+        "interface_style": null,
+        "name": "Emacs",
+        "relationship": "ported",
+        "source": "https://en.wikipedia.org/w/index.php?title=Coherent_%28operating_system%29&oldid=1319367048",
+        "source_kind": "wikipedia-system-page",
+        "source_revision": 1319367048
+      }
+    ],
+    "language": "en",
+    "revision": 1319367048,
+    "source": "https://en.wikipedia.org/w/index.php?title=Coherent_%28operating_system%29&oldid=1319367048",
+    "timestamp": "2025-10-29T10:55:49Z",
+    "title": "Coherent (operating system)"
+  },
+  "systems/coloros": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364425836,
+    "source": "https://en.wikipedia.org/w/index.php?title=ColorOS&oldid=1364425836",
+    "timestamp": "2026-07-16T12:51:50Z",
+    "title": "ColorOS"
+  },
+  "systems/compatible-time-sharing-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1358745542,
+    "source": "https://en.wikipedia.org/w/index.php?title=Compatible_Time-Sharing_System&oldid=1358745542",
+    "timestamp": "2026-06-10T17:47:18Z",
+    "title": "Compatible Time-Sharing System"
+  },
+  "systems/concurrent-cp-m": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364653166,
+    "source": "https://en.wikipedia.org/w/index.php?title=MP/M&oldid=1364653166",
+    "timestamp": "2026-07-17T19:23:07Z",
+    "title": "MP/M"
+  },
+  "systems/concurrent-cp-m-86": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364653166,
+    "source": "https://en.wikipedia.org/w/index.php?title=MP/M&oldid=1364653166",
+    "timestamp": "2026-07-17T19:23:07Z",
+    "title": "MP/M"
+  },
+  "systems/concurrent-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361716044,
+    "source": "https://en.wikipedia.org/w/index.php?title=Multiuser_DOS&oldid=1361716044",
+    "timestamp": "2026-06-29T17:25:24Z",
+    "title": "Multiuser DOS"
+  },
+  "systems/conectiva-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359702388,
+    "source": "https://en.wikipedia.org/w/index.php?title=Mandriva&oldid=1359702388",
+    "timestamp": "2026-06-16T18:35:33Z",
+    "title": "Mandriva"
+  },
+  "systems/container-optimized-os-cos-is-an-operating-system-that-is-optimized-for-running-docker-containers-based-on-chromiumos-13": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Container-Optimized OS"
+  },
+  "systems/contiki": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359279910,
+    "source": "https://en.wikipedia.org/w/index.php?title=Contiki&oldid=1359279910",
+    "timestamp": "2026-06-14T09:25:06Z",
+    "title": "Contiki"
+  },
+  "systems/convergent-technologies-operating-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1354243261,
+    "source": "https://en.wikipedia.org/w/index.php?title=Convergent_Technologies_Operating_System&oldid=1354243261",
+    "timestamp": "2026-05-15T05:18:28Z",
+    "title": "Convergent Technologies Operating System"
+  },
+  "systems/copland": {
+    "associations": [],
+    "language": "en",
+    "revision": 1345400238,
+    "source": "https://en.wikipedia.org/w/index.php?title=Copland_%28operating_system%29&oldid=1345400238",
+    "timestamp": "2026-03-25T22:26:49Z",
+    "title": "Copland (operating system)"
+  },
+  "systems/cosmos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359733469,
+    "source": "https://en.wikipedia.org/w/index.php?title=Cosmos_%28operating_system%29&oldid=1359733469",
+    "timestamp": "2026-06-16T22:12:50Z",
+    "title": "Cosmos (operating system)"
+  },
+  "systems/cp-40": {
+    "associations": [],
+    "language": "en",
+    "revision": 1353234619,
+    "source": "https://en.wikipedia.org/w/index.php?title=IBM_CP-40&oldid=1353234619",
+    "timestamp": "2026-05-09T01:07:52Z",
+    "title": "IBM CP-40"
+  },
+  "systems/cp-6": {
+    "associations": [],
+    "language": "en",
+    "revision": 1335969647,
+    "source": "https://en.wikipedia.org/w/index.php?title=Honeywell_CP-6&oldid=1335969647",
+    "timestamp": "2026-02-01T05:37:16Z",
+    "title": "Honeywell CP-6"
+  },
+  "systems/cp-67": {
+    "associations": [],
+    "language": "en",
+    "revision": 1348075504,
+    "source": "https://en.wikipedia.org/w/index.php?title=CP-67&oldid=1348075504",
+    "timestamp": "2026-04-10T14:56:37Z",
+    "title": "CP-67"
+  },
+  "systems/cp-cms": {
+    "associations": [],
+    "language": "en",
+    "revision": 1321102325,
+    "source": "https://en.wikipedia.org/w/index.php?title=CP/CMS&oldid=1321102325",
+    "timestamp": "2025-11-08T18:22:34Z",
+    "title": "CP/CMS"
+  },
+  "systems/cp-m": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364653053,
+    "source": "https://en.wikipedia.org/w/index.php?title=CP/M&oldid=1364653053",
+    "timestamp": "2026-07-17T19:22:15Z",
+    "title": "CP/M"
+  },
+  "systems/cp-m-86": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364653055,
+    "source": "https://en.wikipedia.org/w/index.php?title=CP/M-86&oldid=1364653055",
+    "timestamp": "2026-07-17T19:22:18Z",
+    "title": "CP/M-86"
+  },
+  "systems/cpf": {
+    "associations": [],
+    "language": "en",
+    "revision": 1334527443,
+    "source": "https://en.wikipedia.org/w/index.php?title=Control_Program_Facility&oldid=1334527443",
+    "timestamp": "2026-01-24T02:34:45Z",
+    "title": "Control Program Facility"
+  },
+  "systems/cromemco-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1329266790,
+    "source": "https://en.wikipedia.org/w/index.php?title=Cromemco_DOS&oldid=1329266790",
+    "timestamp": "2025-12-24T21:34:46Z",
+    "title": "Cromemco DOS"
+  },
+  "systems/cromix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359528481,
+    "source": "https://en.wikipedia.org/w/index.php?title=Cromemco&oldid=1359528481",
+    "timestamp": "2026-06-15T20:04:59Z",
+    "title": "Cromemco"
+  },
+  "systems/csi-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1194227300,
+    "source": "https://en.wikipedia.org/w/index.php?title=CSI-DOS&oldid=1194227300",
+    "timestamp": "2024-01-07T22:28:50Z",
+    "title": "CSI-DOS"
+  },
+  "systems/ctos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1354243261,
+    "source": "https://en.wikipedia.org/w/index.php?title=Convergent_Technologies_Operating_System&oldid=1354243261",
+    "timestamp": "2026-05-15T05:18:28Z",
+    "title": "Convergent Technologies Operating System"
+  },
+  "systems/darwin": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365015807,
+    "source": "https://en.wikipedia.org/w/index.php?title=Darwin_%28operating_system%29&oldid=1365015807",
+    "timestamp": "2026-07-19T20:17:59Z",
+    "title": "Darwin (operating system)"
+  },
+  "systems/data-ontap": {
+    "associations": [],
+    "language": "en",
+    "revision": 1360257576,
+    "source": "https://en.wikipedia.org/w/index.php?title=ONTAP&oldid=1360257576",
+    "timestamp": "2026-06-20T07:11:31Z",
+    "title": "ONTAP"
+  },
+  "systems/dc-osx": {
+    "associations": [],
+    "language": "en",
+    "revision": 1322246532,
+    "source": "https://en.wikipedia.org/w/index.php?title=DC/OSx&oldid=1322246532",
+    "timestamp": "2025-11-15T04:48:47Z",
+    "title": "DC/OSx"
+  },
+  "systems/dd-wrt": {
+    "associations": [],
+    "language": "en",
+    "revision": 1322479637,
+    "source": "https://en.wikipedia.org/w/index.php?title=DD-WRT&oldid=1322479637",
+    "timestamp": "2025-11-16T12:50:38Z",
+    "title": "DD-WRT"
+  },
+  "systems/dec-mica": {
+    "associations": [],
+    "language": "en",
+    "revision": 1340073824,
+    "source": "https://en.wikipedia.org/w/index.php?title=DEC_MICA&oldid=1340073824",
+    "timestamp": "2026-02-23T20:38:38Z",
+    "title": "DEC MICA"
+  },
+  "systems/deepin": {
+    "associations": [],
+    "language": "en",
+    "revision": 1358061400,
+    "source": "https://en.wikipedia.org/w/index.php?title=Deepin&oldid=1358061400",
+    "timestamp": "2026-06-06T09:28:09Z",
+    "title": "Deepin"
+  },
+  "systems/deft-linux": {
+    "associations": [],
+    "language": "it",
+    "revision": 141114570,
+    "source": "https://it.wikipedia.org/w/index.php?title=DEFT_Linux&oldid=141114570",
+    "timestamp": "2024-09-14T19:17:27Z",
+    "title": "DEFT Linux"
+  },
+  "systems/diams": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "DIAMS"
+  },
+  "systems/digital-unix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1345711815,
+    "source": "https://en.wikipedia.org/w/index.php?title=Tru64_UNIX&oldid=1345711815",
+    "timestamp": "2026-03-27T18:01:10Z",
+    "title": "Tru64 UNIX"
+  },
+  "systems/dip-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361602390,
+    "source": "https://en.wikipedia.org/w/index.php?title=Atari_Portfolio&oldid=1361602390",
+    "timestamp": "2026-06-29T00:08:47Z",
+    "title": "Atari Portfolio"
+  },
+  "systems/distributed-processing-programming-executive-370": {
+    "associations": [],
+    "language": "en",
+    "revision": 1366171085,
+    "source": "https://en.wikipedia.org/w/index.php?title=IBM_DPPX&oldid=1366171085",
+    "timestamp": "2026-07-26T18:25:31Z",
+    "title": "IBM DPPX"
+  },
+  "systems/divestos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363226663,
+    "source": "https://en.wikipedia.org/w/index.php?title=DivestOS&oldid=1363226663",
+    "timestamp": "2026-07-08T21:13:30Z",
+    "title": "DivestOS"
+  },
+  "systems/dizinha-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Dizinha Linux"
+  },
+  "systems/dms": {
+    "associations": [],
+    "language": "en",
+    "revision": 1360972646,
+    "source": "https://en.wikipedia.org/w/index.php?title=IBM_1130&oldid=1360972646",
+    "timestamp": "2026-06-24T20:47:49Z",
+    "title": "IBM 1130"
+  },
+  "systems/dnix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1324409756,
+    "source": "https://en.wikipedia.org/w/index.php?title=DNIX&oldid=1324409756",
+    "timestamp": "2025-11-27T12:40:55Z",
+    "title": "DNIX"
+  },
+  "systems/domain-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365765084,
+    "source": "https://en.wikipedia.org/w/index.php?title=Domain/OS&oldid=1365765084",
+    "timestamp": "2026-07-24T08:22:28Z",
+    "title": "Domain/OS"
+  },
+  "systems/dos-360-and-successors": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363582296,
+    "source": "https://en.wikipedia.org/w/index.php?title=DOS/360_and_successors&oldid=1363582296",
+    "timestamp": "2026-07-11T02:54:50Z",
+    "title": "DOS/360 and successors"
+  },
+  "systems/dos-ec": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "DOS EC"
+  },
+  "systems/dos-plus": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364653102,
+    "source": "https://en.wikipedia.org/w/index.php?title=DOS_Plus&oldid=1364653102",
+    "timestamp": "2026-07-17T19:22:38Z",
+    "title": "DOS Plus"
+  },
+  "systems/dos-rv": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "DOS RV"
+  },
+  "systems/dos-v": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364308058,
+    "source": "https://en.wikipedia.org/w/index.php?title=DOS/V&oldid=1364308058",
+    "timestamp": "2026-07-15T20:40:26Z",
+    "title": "DOS/V"
+  },
+  "systems/dos-vs": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363582296,
+    "source": "https://en.wikipedia.org/w/index.php?title=DOS/360_and_successors&oldid=1363582296",
+    "timestamp": "2026-07-11T02:54:50Z",
+    "title": "DOS/360 and successors"
+  },
+  "systems/dos-vse": {
+    "associations": [],
+    "language": "en",
+    "revision": 1318600410,
+    "source": "https://en.wikipedia.org/w/index.php?title=VSE_%28operating_system%29&oldid=1318600410",
+    "timestamp": "2025-10-24T21:22:21Z",
+    "title": "VSE (operating system)"
+  },
+  "systems/dpcx": {
+    "associations": [],
+    "language": "en",
+    "revision": 1292488326,
+    "source": "https://en.wikipedia.org/w/index.php?title=IBM_8100_DPCX&oldid=1292488326",
+    "timestamp": "2025-05-27T06:05:51Z",
+    "title": "IBM 8100 DPCX"
+  },
+  "systems/dppx": {
+    "associations": [],
+    "language": "en",
+    "revision": 1366171085,
+    "source": "https://en.wikipedia.org/w/index.php?title=IBM_DPPX&oldid=1366171085",
+    "timestamp": "2026-07-26T18:25:31Z",
+    "title": "IBM DPPX"
+  },
+  "systems/dr-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364780194,
+    "source": "https://en.wikipedia.org/w/index.php?title=DR-DOS&oldid=1364780194",
+    "timestamp": "2026-07-18T14:00:26Z",
+    "title": "DR-DOS"
+  },
+  "systems/dragonfly-bsd": {
+    "associations": [],
+    "language": "en",
+    "revision": 1346567366,
+    "source": "https://en.wikipedia.org/w/index.php?title=DragonFly_BSD&oldid=1346567366",
+    "timestamp": "2026-04-01T16:13:07Z",
+    "title": "DragonFly BSD"
+  },
+  "systems/dragora": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362525054,
+    "source": "https://en.wikipedia.org/w/index.php?title=Dragora_GNU/Linux-Libre&oldid=1362525054",
+    "timestamp": "2026-07-04T15:10:10Z",
+    "title": "Dragora GNU/Linux-Libre"
+  },
+  "systems/dreamlinux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362294353,
+    "source": "https://en.wikipedia.org/w/index.php?title=Dreamlinux&oldid=1362294353",
+    "timestamp": "2026-07-03T00:55:37Z",
+    "title": "Dreamlinux"
+  },
+  "systems/dynebolic": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364382143,
+    "source": "https://en.wikipedia.org/w/index.php?title=Dyne%3Abolic&oldid=1364382143",
+    "timestamp": "2026-07-16T05:30:02Z",
+    "title": "Dyne:bolic"
+  },
+  "systems/dynix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363732341,
+    "source": "https://en.wikipedia.org/w/index.php?title=DYNIX&oldid=1363732341",
+    "timestamp": "2026-07-12T01:57:25Z",
+    "title": "DYNIX"
+  },
+  "systems/ecomstation": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365990466,
+    "source": "https://en.wikipedia.org/w/index.php?title=EComStation&oldid=1365990466",
+    "timestamp": "2026-07-25T16:29:39Z",
+    "title": "EComStation"
+  },
+  "systems/ecos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359575633,
+    "source": "https://en.wikipedia.org/w/index.php?title=ECos&oldid=1359575633",
+    "timestamp": "2026-06-16T01:33:58Z",
+    "title": "ECos"
+  },
+  "systems/edinburgh-multiple-access-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1330932005,
+    "source": "https://en.wikipedia.org/w/index.php?title=Edinburgh_Multiple_Access_System&oldid=1330932005",
+    "timestamp": "2026-01-03T12:15:39Z",
+    "title": "Edinburgh Multiple Access System"
+  },
+  "systems/edos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1318627417,
+    "source": "https://en.wikipedia.org/w/index.php?title=Edos&oldid=1318627417",
+    "timestamp": "2025-10-25T01:22:20Z",
+    "title": "Edos"
+  },
+  "systems/elbrus-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Elbrus Linux"
+  },
+  "systems/emui": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364251971,
+    "source": "https://en.wikipedia.org/w/index.php?title=EMUI&oldid=1364251971",
+    "timestamp": "2026-07-15T12:53:35Z",
+    "title": "EMUI"
+  },
+  "systems/emutos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1345494943,
+    "source": "https://en.wikipedia.org/w/index.php?title=Atari_TOS&oldid=1345494943",
+    "timestamp": "2026-03-26T10:53:10Z",
+    "title": "Atari TOS"
+  },
+  "systems/eos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1335913525,
+    "source": "https://en.wikipedia.org/w/index.php?title=ETA10&oldid=1335913525",
+    "timestamp": "2026-01-31T22:42:17Z",
+    "title": "ETA10"
+  },
+  "systems/epoc": {
+    "associations": [],
+    "language": "en",
+    "revision": 1353375804,
+    "source": "https://en.wikipedia.org/w/index.php?title=EPOC_%28operating_system%29&oldid=1353375804",
+    "timestamp": "2026-05-09T22:40:40Z",
+    "title": "EPOC (operating system)"
+  },
+  "systems/erika-enterprise": {
+    "associations": [],
+    "language": "en",
+    "revision": 1344107046,
+    "source": "https://en.wikipedia.org/w/index.php?title=ERIKA_Enterprise&oldid=1344107046",
+    "timestamp": "2026-03-18T10:32:09Z",
+    "title": "ERIKA Enterprise"
+  },
+  "systems/eros": {
+    "associations": [],
+    "language": "en",
+    "revision": 1346777793,
+    "source": "https://en.wikipedia.org/w/index.php?title=EROS_%28microkernel%29&oldid=1346777793",
+    "timestamp": "2026-04-02T21:09:29Z",
+    "title": "EROS (microkernel)"
+  },
+  "systems/esope-operating-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1284494330,
+    "source": "https://en.wikipedia.org/w/index.php?title=%C3%89sope_%28operating_system%29&oldid=1284494330",
+    "timestamp": "2025-04-07T23:02:46Z",
+    "title": "Ésope (operating system)"
+  },
+  "systems/etertics-gnu-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "EterTICs GNU/Linux"
+  },
+  "systems/euleros": {
+    "associations": [],
+    "language": "en",
+    "revision": 1366112425,
+    "source": "https://en.wikipedia.org/w/index.php?title=EulerOS&oldid=1366112425",
+    "timestamp": "2026-07-26T09:52:37Z",
+    "title": "EulerOS"
+  },
+  "systems/exec-8": {
+    "associations": [],
+    "language": "en",
+    "revision": 1354556472,
+    "source": "https://en.wikipedia.org/w/index.php?title=OS_2200&oldid=1354556472",
+    "timestamp": "2026-05-17T03:20:52Z",
+    "title": "OS 2200"
+  },
+  "systems/exec-i": {
+    "associations": [],
+    "language": "en",
+    "revision": 1182676169,
+    "source": "https://en.wikipedia.org/w/index.php?title=UNIVAC_EXEC_I&oldid=1182676169",
+    "timestamp": "2023-10-30T18:29:34Z",
+    "title": "UNIVAC EXEC I"
+  },
+  "systems/exec-ii": {
+    "associations": [],
+    "language": "en",
+    "revision": 1126197880,
+    "source": "https://en.wikipedia.org/w/index.php?title=UNIVAC_EXEC_II&oldid=1126197880",
+    "timestamp": "2022-12-08T01:59:11Z",
+    "title": "UNIVAC EXEC II"
+  },
+  "systems/executive": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364970255,
+    "source": "https://en.wikipedia.org/w/index.php?title=International_Computers_Limited&oldid=1364970255",
+    "timestamp": "2026-07-19T15:43:41Z",
+    "title": "International Computers Limited"
+  },
+  "systems/explorer-system-software": {
+    "associations": [],
+    "language": "en",
+    "revision": 1173383215,
+    "source": "https://en.wikipedia.org/w/index.php?title=Texas_Instruments_Explorer&oldid=1173383215",
+    "timestamp": "2023-09-02T02:22:54Z",
+    "title": "Texas Instruments Explorer"
+  },
+  "systems/extremeware": {
+    "associations": [],
+    "language": "en",
+    "revision": 1347488173,
+    "source": "https://en.wikipedia.org/w/index.php?title=Extreme_Networks&oldid=1347488173",
+    "timestamp": "2026-04-07T01:04:50Z",
+    "title": "Extreme Networks"
+  },
+  "systems/extremexos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1334843853,
+    "source": "https://en.wikipedia.org/w/index.php?title=ExtremeXOS&oldid=1334843853",
+    "timestamp": "2026-01-25T23:25:32Z",
+    "title": "ExtremeXOS"
+  },
+  "systems/fabric-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364969773,
+    "source": "https://en.wikipedia.org/w/index.php?title=Fabric_OS&oldid=1364969773",
+    "timestamp": "2026-07-19T15:39:41Z",
+    "title": "Fabric OS"
+  },
+  "systems/familiar-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362465819,
+    "source": "https://en.wikipedia.org/w/index.php?title=Familiar_Linux&oldid=1362465819",
+    "timestamp": "2026-07-04T02:59:27Z",
+    "title": "Familiar Linux"
+  },
+  "systems/fire-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365861686,
+    "source": "https://en.wikipedia.org/w/index.php?title=Fire_OS&oldid=1365861686",
+    "timestamp": "2026-07-24T21:43:56Z",
+    "title": "Fire OS"
+  },
+  "systems/firefox-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1343539265,
+    "source": "https://en.wikipedia.org/w/index.php?title=Firefox_OS&oldid=1343539265",
+    "timestamp": "2026-03-14T23:33:49Z",
+    "title": "Firefox OS"
+  },
+  "systems/flexos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361618307,
+    "source": "https://en.wikipedia.org/w/index.php?title=FlexOS&oldid=1361618307",
+    "timestamp": "2026-06-29T02:16:59Z",
+    "title": "FlexOS"
+  },
+  "systems/flyme-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364775892,
+    "source": "https://en.wikipedia.org/w/index.php?title=Meizu&oldid=1364775892",
+    "timestamp": "2026-07-18T13:23:56Z",
+    "title": "Meizu"
+  },
+  "systems/freebsd": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364149709,
+    "source": "https://en.wikipedia.org/w/index.php?title=FreeBSD&oldid=1364149709",
+    "timestamp": "2026-07-14T20:29:18Z",
+    "title": "FreeBSD"
+  },
+  "systems/freedos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364653130,
+    "source": "https://en.wikipedia.org/w/index.php?title=FreeDOS&oldid=1364653130",
+    "timestamp": "2026-07-17T19:22:51Z",
+    "title": "FreeDOS"
+  },
+  "systems/freertos-openrtos-safertos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363125222,
+    "source": "https://en.wikipedia.org/w/index.php?title=FreeRTOS&oldid=1363125222",
+    "timestamp": "2026-07-08T05:30:03Z",
+    "title": "FreeRTOS"
+  },
+  "systems/ftos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1316807508,
+    "source": "https://en.wikipedia.org/w/index.php?title=FTOS&oldid=1316807508",
+    "timestamp": "2025-10-14T16:17:31Z",
+    "title": "FTOS"
+  },
+  "systems/fuchsia": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363375209,
+    "source": "https://en.wikipedia.org/w/index.php?title=Fuchsia_%28operating_system%29&oldid=1363375209",
+    "timestamp": "2026-07-09T20:22:39Z",
+    "title": "Fuchsia (operating system)"
+  },
+  "systems/fuguita-fr-listing": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "FuguIta"
+  },
+  "systems/fuss-linux": {
+    "associations": [],
+    "language": "it",
+    "revision": 151333088,
+    "source": "https://it.wikipedia.org/w/index.php?title=FUSS&oldid=151333088",
+    "timestamp": "2026-06-29T13:51:53Z",
+    "title": "FUSS"
+  },
+  "systems/gargoyle": {
+    "associations": [],
+    "language": "en",
+    "revision": 1318404355,
+    "source": "https://en.wikipedia.org/w/index.php?title=Gargoyle_%28router_firmware%29&oldid=1318404355",
+    "timestamp": "2025-10-23T17:47:39Z",
+    "title": "Gargoyle (router firmware)"
+  },
+  "systems/gcos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361007245,
+    "source": "https://en.wikipedia.org/w/index.php?title=General_Comprehensive_Operating_System&oldid=1361007245",
+    "timestamp": "2026-06-25T01:42:14Z",
+    "title": "General Comprehensive Operating System"
+  },
+  "systems/genode": {
+    "associations": [],
+    "language": "en",
+    "revision": 1358059839,
+    "source": "https://en.wikipedia.org/w/index.php?title=Genode&oldid=1358059839",
+    "timestamp": "2026-06-06T09:07:18Z",
+    "title": "Genode"
+  },
+  "systems/george": {
+    "associations": [],
+    "language": "en",
+    "revision": 1337284940,
+    "source": "https://en.wikipedia.org/w/index.php?title=GEORGE_%28operating_system%29&oldid=1337284940",
+    "timestamp": "2026-02-08T14:53:27Z",
+    "title": "GEORGE (operating system)"
+  },
+  "systems/geos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365114939,
+    "source": "https://en.wikipedia.org/w/index.php?title=GEOS_%288-bit_operating_system%29&oldid=1365114939",
+    "timestamp": "2026-07-20T09:51:27Z",
+    "title": "GEOS (8-bit operating system)"
+  },
+  "systems/ghostbsd": {
+    "associations": [],
+    "language": "en",
+    "revision": 1357783708,
+    "source": "https://en.wikipedia.org/w/index.php?title=GhostBSD&oldid=1357783708",
+    "timestamp": "2026-06-04T17:28:32Z",
+    "title": "GhostBSD"
+  },
+  "systems/ginux": {
+    "associations": [],
+    "language": "ko",
+    "revision": 39066391,
+    "source": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+    "timestamp": "2025-04-05T14:55:06Z",
+    "title": "지눅스"
+  },
+  "systems/glinux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1357418085,
+    "source": "https://en.wikipedia.org/w/index.php?title=GLinux&oldid=1357418085",
+    "timestamp": "2026-06-02T14:30:32Z",
+    "title": "GLinux"
+  },
+  "systems/gm-os-gm-naa-i-o": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364258033,
+    "source": "https://en.wikipedia.org/w/index.php?title=GM-NAA_I/O&oldid=1364258033",
+    "timestamp": "2026-07-15T13:56:58Z",
+    "title": "GM-NAA I/O"
+  },
+  "systems/gno-me": {
+    "associations": [],
+    "language": "en",
+    "revision": 1168720855,
+    "source": "https://en.wikipedia.org/w/index.php?title=GNO/ME&oldid=1168720855",
+    "timestamp": "2023-08-04T15:30:11Z",
+    "title": "GNO/ME"
+  },
+  "systems/gnu": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365632376,
+    "source": "https://en.wikipedia.org/w/index.php?title=GNU&oldid=1365632376",
+    "timestamp": "2026-07-23T14:58:38Z",
+    "title": "GNU"
+  },
+  "systems/gobolinux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365754300,
+    "source": "https://en.wikipedia.org/w/index.php?title=GoboLinux&oldid=1365754300",
+    "timestamp": "2026-07-24T06:55:07Z",
+    "title": "GoboLinux"
+  },
+  "systems/gooroom-platform": {
+    "associations": [],
+    "language": "ko",
+    "revision": 41145482,
+    "source": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+    "timestamp": "2026-01-06T15:34:54Z",
+    "title": "구름 플랫폼"
+  },
+  "systems/grapheneos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365840394,
+    "source": "https://en.wikipedia.org/w/index.php?title=GrapheneOS&oldid=1365840394",
+    "timestamp": "2026-07-24T19:08:58Z",
+    "title": "GrapheneOS"
+  },
+  "systems/gs-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1286269362,
+    "source": "https://en.wikipedia.org/w/index.php?title=Apple_GS/OS&oldid=1286269362",
+    "timestamp": "2025-04-18T20:15:32Z",
+    "title": "Apple GS/OS"
+  },
+  "systems/haiku": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365334244,
+    "source": "https://en.wikipedia.org/w/index.php?title=Haiku_%28operating_system%29&oldid=1365334244",
+    "timestamp": "2026-07-21T19:27:30Z",
+    "title": "Haiku (operating system)"
+  },
+  "systems/hamonikr": {
+    "associations": [],
+    "language": "ko",
+    "revision": 41084648,
+    "source": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_%28%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C%29&oldid=41084648",
+    "timestamp": "2026-01-01T05:03:25Z",
+    "title": "하모니카 (운영 체제)"
+  },
+  "systems/harmony": {
+    "associations": [],
+    "language": "en",
+    "revision": 1334539894,
+    "source": "https://en.wikipedia.org/w/index.php?title=Harmony_%28operating_system%29&oldid=1334539894",
+    "timestamp": "2026-01-24T04:27:55Z",
+    "title": "Harmony (operating system)"
+  },
+  "systems/harmonyos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365590661,
+    "source": "https://en.wikipedia.org/w/index.php?title=HarmonyOS&oldid=1365590661",
+    "timestamp": "2026-07-23T09:22:32Z",
+    "title": "HarmonyOS"
+  },
+  "systems/haydar-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "حيدر لينكس (Haydar Linux)"
+  },
+  "systems/hdos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361711769,
+    "source": "https://en.wikipedia.org/w/index.php?title=HDOS&oldid=1361711769",
+    "timestamp": "2026-06-29T17:00:06Z",
+    "title": "HDOS"
+  },
+  "systems/helenos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1346404115,
+    "source": "https://en.wikipedia.org/w/index.php?title=HelenOS&oldid=1346404115",
+    "timestamp": "2026-03-31T17:01:35Z",
+    "title": "HelenOS"
+  },
+  "systems/helios": {
+    "associations": [],
+    "language": "en",
+    "revision": 1261685474,
+    "source": "https://en.wikipedia.org/w/index.php?title=Helios_%28operating_system%29&oldid=1261685474",
+    "timestamp": "2024-12-07T12:02:42Z",
+    "title": "Helios (operating system)"
+  },
+  "systems/helwan-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "هليوان لينكس (Helwan Linux)"
+  },
+  "systems/hp-multi-programming-executive": {
+    "associations": [],
+    "language": "en",
+    "revision": 1331458972,
+    "source": "https://en.wikipedia.org/w/index.php?title=HP_Multi-Programming_Executive&oldid=1331458972",
+    "timestamp": "2026-01-06T11:50:25Z",
+    "title": "HP Multi-Programming Executive"
+  },
+  "systems/hp-ux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1346997383,
+    "source": "https://en.wikipedia.org/w/index.php?title=HP-UX&oldid=1346997383",
+    "timestamp": "2026-04-04T02:25:44Z",
+    "title": "HP-UX"
+  },
+  "systems/huayra-gnu-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1323831949,
+    "source": "https://en.wikipedia.org/w/index.php?title=Huayra_GNU/Linux&oldid=1323831949",
+    "timestamp": "2025-11-24T00:14:20Z",
+    "title": "Huayra GNU/Linux"
+  },
+  "systems/human68k": {
+    "associations": [],
+    "language": "en",
+    "revision": 1357147132,
+    "source": "https://en.wikipedia.org/w/index.php?title=X68000&oldid=1357147132",
+    "timestamp": "2026-06-01T00:52:41Z",
+    "title": "X68000"
+  },
+  "systems/hydra": {
+    "associations": [],
+    "language": "en",
+    "revision": 1258523470,
+    "source": "https://en.wikipedia.org/w/index.php?title=Hydra_%28operating_system%29&oldid=1258523470",
+    "timestamp": "2024-11-20T05:30:04Z",
+    "title": "Hydra (operating system)"
+  },
+  "systems/hyperos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1366029882,
+    "source": "https://en.wikipedia.org/w/index.php?title=Xiaomi_HyperOS&oldid=1366029882",
+    "timestamp": "2026-07-25T21:45:42Z",
+    "title": "Xiaomi HyperOS"
+  },
+  "systems/hyperpanel-os": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Hyperpanel OS"
+  },
+  "systems/ibm-4680-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361618307,
+    "source": "https://en.wikipedia.org/w/index.php?title=FlexOS&oldid=1361618307",
+    "timestamp": "2026-06-29T02:16:59Z",
+    "title": "FlexOS"
+  },
+  "systems/ibm-4690-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362283562,
+    "source": "https://en.wikipedia.org/w/index.php?title=4690_Operating_System&oldid=1362283562",
+    "timestamp": "2026-07-02T23:36:09Z",
+    "title": "4690 Operating System"
+  },
+  "systems/ibm-aix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365727986,
+    "source": "https://en.wikipedia.org/w/index.php?title=IBM_AIX&oldid=1365727986",
+    "timestamp": "2026-07-24T02:38:09Z",
+    "title": "IBM AIX"
+  },
+  "systems/ibm-i": {
+    "associations": [],
+    "language": "en",
+    "revision": 1356548670,
+    "source": "https://en.wikipedia.org/w/index.php?title=IBM_i&oldid=1356548670",
+    "timestamp": "2026-05-28T12:46:46Z",
+    "title": "IBM i"
+  },
+  "systems/ibsys": {
+    "associations": [],
+    "language": "en",
+    "revision": 1324893612,
+    "source": "https://en.wikipedia.org/w/index.php?title=IBM_7090/94_IBSYS&oldid=1324893612",
+    "timestamp": "2025-11-30T03:08:00Z",
+    "title": "IBM 7090/94 IBSYS"
+  },
+  "systems/icl-vme": {
+    "associations": [],
+    "language": "en",
+    "revision": 1346170181,
+    "source": "https://en.wikipedia.org/w/index.php?title=ICL_VME&oldid=1346170181",
+    "timestamp": "2026-03-30T09:31:09Z",
+    "title": "ICL VME"
+  },
+  "systems/ilios": {
+    "associations": [],
+    "language": "en",
+    "revision": 936634355,
+    "source": "https://en.wikipedia.org/w/index.php?title=ILIOS&oldid=936634355",
+    "timestamp": "2020-01-20T01:54:07Z",
+    "title": "ILIOS"
+  },
+  "systems/illumos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361875901,
+    "source": "https://en.wikipedia.org/w/index.php?title=Illumos&oldid=1361875901",
+    "timestamp": "2026-06-30T16:19:20Z",
+    "title": "Illumos"
+  },
+  "systems/imax-432": {
+    "associations": [],
+    "language": "en",
+    "revision": 1356073857,
+    "source": "https://en.wikipedia.org/w/index.php?title=IMAX_432&oldid=1356073857",
+    "timestamp": "2026-05-25T15:53:59Z",
+    "title": "IMAX 432"
+  },
+  "systems/incompatible-timesharing-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1344643921,
+    "source": "https://en.wikipedia.org/w/index.php?title=Incompatible_Timesharing_System&oldid=1344643921",
+    "timestamp": "2026-03-21T18:28:07Z",
+    "title": "Incompatible Timesharing System"
+  },
+  "systems/inferno": {
+    "associations": [],
+    "language": "en",
+    "revision": 1336470934,
+    "source": "https://en.wikipedia.org/w/index.php?title=Inferno_%28operating_system%29&oldid=1336470934",
+    "timestamp": "2026-02-04T00:11:02Z",
+    "title": "Inferno (operating system)"
+  },
+  "systems/integrity": {
+    "associations": [],
+    "language": "en",
+    "revision": 1271822721,
+    "source": "https://en.wikipedia.org/w/index.php?title=Integrity_%28operating_system%29&oldid=1271822721",
+    "timestamp": "2025-01-25T22:17:59Z",
+    "title": "Integrity (operating system)"
+  },
+  "systems/integrity-178b": {
+    "associations": [],
+    "language": "en",
+    "revision": 1271822721,
+    "source": "https://en.wikipedia.org/w/index.php?title=Integrity_%28operating_system%29&oldid=1271822721",
+    "timestamp": "2025-01-25T22:17:59Z",
+    "title": "Integrity (operating system)"
+  },
+  "systems/interactive-unix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359551440,
+    "source": "https://en.wikipedia.org/w/index.php?title=Interactive_Systems_Corporation&oldid=1359551440",
+    "timestamp": "2026-06-15T22:28:32Z",
+    "title": "Interactive Systems Corporation"
+  },
+  "systems/ios": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363034812,
+    "source": "https://en.wikipedia.org/w/index.php?title=IOS&oldid=1363034812",
+    "timestamp": "2026-07-07T17:32:42Z",
+    "title": "IOS"
+  },
+  "systems/ios-xr": {
+    "associations": [],
+    "language": "en",
+    "revision": 1355379944,
+    "source": "https://en.wikipedia.org/w/index.php?title=Cisco_IOS_XR&oldid=1355379944",
+    "timestamp": "2026-05-21T14:19:18Z",
+    "title": "Cisco IOS XR"
+  },
+  "systems/ipados": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365578221,
+    "source": "https://en.wikipedia.org/w/index.php?title=IPadOS&oldid=1365578221",
+    "timestamp": "2026-07-23T07:00:26Z",
+    "title": "IPadOS"
+  },
+  "systems/ipfire": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362304256,
+    "source": "https://en.wikipedia.org/w/index.php?title=IPFire&oldid=1362304256",
+    "timestamp": "2026-07-03T02:09:42Z",
+    "title": "IPFire"
+  },
+  "systems/ipod-software": {
+    "associations": [],
+    "language": "en",
+    "revision": 1366084273,
+    "source": "https://en.wikipedia.org/w/index.php?title=IPod&oldid=1366084273",
+    "timestamp": "2026-07-26T04:40:06Z",
+    "title": "IPod"
+  },
+  "systems/ipodlinux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362264311,
+    "source": "https://en.wikipedia.org/w/index.php?title=IPodLinux&oldid=1362264311",
+    "timestamp": "2026-07-02T21:12:55Z",
+    "title": "IPodLinux"
+  },
+  "systems/irix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1356374827,
+    "source": "https://en.wikipedia.org/w/index.php?title=IRIX&oldid=1356374827",
+    "timestamp": "2026-05-27T11:07:08Z",
+    "title": "IRIX"
+  },
+  "systems/irmx": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361722169,
+    "source": "https://en.wikipedia.org/w/index.php?title=RMX_%28operating_system%29&oldid=1361722169",
+    "timestamp": "2026-06-29T18:05:27Z",
+    "title": "RMX (operating system)"
+  },
+  "systems/isaac-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365440005,
+    "source": "https://en.wikipedia.org/w/index.php?title=Isaac&oldid=1365440005",
+    "timestamp": "2026-07-22T12:24:44Z",
+    "title": "Isaac"
+  },
+  "systems/isis": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364653149,
+    "source": "https://en.wikipedia.org/w/index.php?title=ISIS_%28operating_system%29&oldid=1364653149",
+    "timestamp": "2026-07-17T19:22:59Z",
+    "title": "ISIS (operating system)"
+  },
+  "systems/j": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364970255,
+    "source": "https://en.wikipedia.org/w/index.php?title=International_Computers_Limited&oldid=1364970255",
+    "timestamp": "2026-07-19T15:43:41Z",
+    "title": "International Computers Limited"
+  },
+  "systems/j-right-v": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "J-right/V"
+  },
+  "systems/javaos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1356814195,
+    "source": "https://en.wikipedia.org/w/index.php?title=JavaOS&oldid=1356814195",
+    "timestamp": "2026-05-30T00:08:20Z",
+    "title": "JavaOS"
+  },
+  "systems/jemao": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "JemaOS"
+  },
+  "systems/junos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1350259190,
+    "source": "https://en.wikipedia.org/w/index.php?title=Junos_OS&oldid=1350259190",
+    "timestamp": "2026-04-21T00:12:23Z",
+    "title": "Junos OS"
+  },
+  "systems/jx": {
+    "associations": [],
+    "language": "en",
+    "revision": 1296986372,
+    "source": "https://en.wikipedia.org/w/index.php?title=JX_%28operating_system%29&oldid=1296986372",
+    "timestamp": "2025-06-23T14:08:17Z",
+    "title": "JX (operating system)"
+  },
+  "systems/k42": {
+    "associations": [],
+    "language": "en",
+    "revision": 1346822230,
+    "source": "https://en.wikipedia.org/w/index.php?title=K42&oldid=1346822230",
+    "timestamp": "2026-04-03T03:54:08Z",
+    "title": "K42"
+  },
+  "systems/kaios": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364379558,
+    "source": "https://en.wikipedia.org/w/index.php?title=KaiOS&oldid=1364379558",
+    "timestamp": "2026-07-16T05:07:25Z",
+    "title": "KaiOS"
+  },
+  "systems/kali-nethunter": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365561640,
+    "source": "https://en.wikipedia.org/w/index.php?title=Kali_NetHunter&oldid=1365561640",
+    "timestamp": "2026-07-23T04:31:19Z",
+    "title": "Kali NetHunter"
+  },
+  "systems/keykos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1250399146,
+    "source": "https://en.wikipedia.org/w/index.php?title=KeyKOS&oldid=1250399146",
+    "timestamp": "2024-10-10T05:43:44Z",
+    "title": "KeyKOS"
+  },
+  "systems/kin-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361476076,
+    "source": "https://en.wikipedia.org/w/index.php?title=Microsoft_Kin&oldid=1361476076",
+    "timestamp": "2026-06-28T04:19:58Z",
+    "title": "Microsoft Kin"
+  },
+  "systems/kolibrios": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364653157,
+    "source": "https://en.wikipedia.org/w/index.php?title=KolibriOS&oldid=1364653157",
+    "timestamp": "2026-07-17T19:23:03Z",
+    "title": "KolibriOS"
+  },
+  "systems/kronos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1334888004,
+    "source": "https://en.wikipedia.org/w/index.php?title=CDC_Kronos&oldid=1334888004",
+    "timestamp": "2026-01-26T05:00:57Z",
+    "title": "CDC Kronos"
+  },
+  "systems/kurumin-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Kurumin"
+  },
+  "systems/kylin-os": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "麒麟操作系统"
+  },
+  "systems/lan-manager": {
+    "associations": [],
+    "language": "en",
+    "revision": 1315227551,
+    "source": "https://en.wikipedia.org/w/index.php?title=LAN_Manager&oldid=1315227551",
+    "timestamp": "2025-10-05T14:37:03Z",
+    "title": "LAN Manager"
+  },
+  "systems/lede": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364067374,
+    "source": "https://en.wikipedia.org/w/index.php?title=OpenWrt&oldid=1364067374",
+    "timestamp": "2026-07-14T07:42:20Z",
+    "title": "OpenWrt"
+  },
+  "systems/lejos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1354161923,
+    "source": "https://en.wikipedia.org/w/index.php?title=LeJOS&oldid=1354161923",
+    "timestamp": "2026-05-14T18:11:41Z",
+    "title": "LeJOS"
+  },
+  "systems/lepton-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363135204,
+    "source": "https://en.wikipedia.org/w/index.php?title=Lepton&oldid=1363135204",
+    "timestamp": "2026-07-08T07:23:49Z",
+    "title": "Lepton"
+  },
+  "systems/libertas-gnu-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Libertas GNU/Linux"
+  },
+  "systems/librecmc": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361747235,
+    "source": "https://en.wikipedia.org/w/index.php?title=LibreCMC&oldid=1361747235",
+    "timestamp": "2026-06-29T20:50:02Z",
+    "title": "LibreCMC"
+  },
+  "systems/lihuen-gnu-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Lihuen GNU/Linux"
+  },
+  "systems/lineageos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1366144188,
+    "source": "https://en.wikipedia.org/w/index.php?title=LineageOS&oldid=1366144188",
+    "timestamp": "2026-07-26T15:02:55Z",
+    "title": "LineageOS"
+  },
+  "systems/linux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365646306,
+    "source": "https://en.wikipedia.org/w/index.php?title=Linux&oldid=1365646306",
+    "timestamp": "2026-07-23T16:44:21Z",
+    "title": "Linux"
+  },
+  "systems/linux-caixa-magica": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363631690,
+    "source": "https://en.wikipedia.org/w/index.php?title=Linux_Caixa_M%C3%A1gica&oldid=1363631690",
+    "timestamp": "2026-07-11T10:46:53Z",
+    "title": "Linux Caixa Mágica"
+  },
+  "systems/liteos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1342338713,
+    "source": "https://en.wikipedia.org/w/index.php?title=LiteOS&oldid=1342338713",
+    "timestamp": "2026-03-08T11:50:04Z",
+    "title": "LiteOS"
+  },
+  "systems/lynxos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1253998711,
+    "source": "https://en.wikipedia.org/w/index.php?title=LynxOS&oldid=1253998711",
+    "timestamp": "2024-10-28T23:17:28Z",
+    "title": "LynxOS"
+  },
+  "systems/m0n0wall": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365848694,
+    "source": "https://en.wikipedia.org/w/index.php?title=M0n0wall&oldid=1365848694",
+    "timestamp": "2026-07-24T20:14:53Z",
+    "title": "M0n0wall"
+  },
+  "systems/macos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1366140054,
+    "source": "https://en.wikipedia.org/w/index.php?title=MacOS&oldid=1366140054",
+    "timestamp": "2026-07-26T14:27:26Z",
+    "title": "MacOS"
+  },
+  "systems/magic": {
+    "associations": [],
+    "language": "en",
+    "revision": 1324472991,
+    "source": "https://en.wikipedia.org/w/index.php?title=MagiC&oldid=1324472991",
+    "timestamp": "2025-11-27T20:12:10Z",
+    "title": "MagiC"
+  },
+  "systems/magic-cap": {
+    "associations": [],
+    "language": "en",
+    "revision": 1358002207,
+    "source": "https://en.wikipedia.org/w/index.php?title=Magic_Cap&oldid=1358002207",
+    "timestamp": "2026-06-05T23:47:12Z",
+    "title": "Magic Cap"
+  },
+  "systems/magnussoft-zeta": {
+    "associations": [],
+    "language": "en",
+    "revision": 1342317266,
+    "source": "https://en.wikipedia.org/w/index.php?title=ZETA_%28operating_system%29&oldid=1342317266",
+    "timestamp": "2026-03-08T08:41:18Z",
+    "title": "ZETA (operating system)"
+  },
+  "systems/maru-linux": {
+    "associations": [],
+    "language": "ko",
+    "revision": 39040304,
+    "source": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+    "timestamp": "2025-04-04T09:38:37Z",
+    "title": "리눅스원"
+  },
+  "systems/mdos-olivetti": {
+    "associations": [],
+    "language": "en",
+    "revision": 1360451682,
+    "source": "https://en.wikipedia.org/w/index.php?title=MDOS&oldid=1360451682",
+    "timestamp": "2026-06-21T15:35:58Z",
+    "title": "MDOS"
+  },
+  "systems/meego": {
+    "associations": [],
+    "language": "en",
+    "revision": 1354674549,
+    "source": "https://en.wikipedia.org/w/index.php?title=MeeGo&oldid=1354674549",
+    "timestamp": "2026-05-17T18:50:35Z",
+    "title": "MeeGo"
+  },
+  "systems/meikos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1348272306,
+    "source": "https://en.wikipedia.org/w/index.php?title=Meiko_Scientific&oldid=1348272306",
+    "timestamp": "2026-04-11T18:45:13Z",
+    "title": "Meiko Scientific"
+  },
+  "systems/menuetos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364653159,
+    "source": "https://en.wikipedia.org/w/index.php?title=MenuetOS&oldid=1364653159",
+    "timestamp": "2026-07-17T19:23:05Z",
+    "title": "MenuetOS"
+  },
+  "systems/micrium-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1337608974,
+    "source": "https://en.wikipedia.org/w/index.php?title=Micro-Controller_Operating_Systems&oldid=1337608974",
+    "timestamp": "2026-02-10T13:50:32Z",
+    "title": "Micro-Controller Operating Systems"
+  },
+  "systems/microos-mos-freedos": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "MicroOS (MOS)"
+  },
+  "systems/midnightbsd": {
+    "associations": [],
+    "language": "en",
+    "revision": 1356908767,
+    "source": "https://en.wikipedia.org/w/index.php?title=MidnightBSD&oldid=1356908767",
+    "timestamp": "2026-05-30T15:43:39Z",
+    "title": "MidnightBSD"
+  },
+  "systems/midori": {
+    "associations": [],
+    "language": "en",
+    "revision": 1316381925,
+    "source": "https://en.wikipedia.org/w/index.php?title=Midori_%28operating_system%29&oldid=1316381925",
+    "timestamp": "2025-10-12T03:43:39Z",
+    "title": "Midori (operating system)"
+  },
+  "systems/mikros-czechoslovak-cpm": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "MIKROS"
+  },
+  "systems/minix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1355503244,
+    "source": "https://en.wikipedia.org/w/index.php?title=Minix&oldid=1355503244",
+    "timestamp": "2026-05-22T06:26:55Z",
+    "title": "Minix"
+  },
+  "systems/mint": {
+    "associations": [],
+    "language": "en",
+    "revision": 1299858058,
+    "source": "https://en.wikipedia.org/w/index.php?title=MiNT&oldid=1299858058",
+    "timestamp": "2025-07-10T21:06:09Z",
+    "title": "MiNT"
+  },
+  "systems/miui": {
+    "associations": [],
+    "language": "en",
+    "revision": 1366152080,
+    "source": "https://en.wikipedia.org/w/index.php?title=MIUI&oldid=1366152080",
+    "timestamp": "2026-07-26T16:06:53Z",
+    "title": "MIUI"
+  },
+  "systems/mizi-linux": {
+    "associations": [],
+    "language": "ko",
+    "revision": 39038161,
+    "source": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+    "timestamp": "2025-04-04T07:10:53Z",
+    "title": "미지리서치"
+  },
+  "systems/mk-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1308419795,
+    "source": "https://en.wikipedia.org/w/index.php?title=MK-DOS&oldid=1308419795",
+    "timestamp": "2025-08-29T10:30:36Z",
+    "title": "MK-DOS"
+  },
+  "systems/mklinux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362267604,
+    "source": "https://en.wikipedia.org/w/index.php?title=MkLinux&oldid=1362267604",
+    "timestamp": "2026-07-02T21:38:53Z",
+    "title": "MkLinux"
+  },
+  "systems/mmo": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363517961,
+    "source": "https://en.wikipedia.org/w/index.php?title=Maemo&oldid=1363517961",
+    "timestamp": "2026-07-10T18:17:58Z",
+    "title": "Maemo"
+  },
+  "systems/mobilinux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1301141217,
+    "source": "https://en.wikipedia.org/w/index.php?title=Mobilinux&oldid=1301141217",
+    "timestamp": "2025-07-18T08:14:20Z",
+    "title": "Mobilinux"
+  },
+  "systems/morphos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359751384,
+    "source": "https://en.wikipedia.org/w/index.php?title=MorphOS&oldid=1359751384",
+    "timestamp": "2026-06-17T00:31:44Z",
+    "title": "MorphOS"
+  },
+  "systems/mos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362283609,
+    "source": "https://en.wikipedia.org/w/index.php?title=Acorn_MOS&oldid=1362283609",
+    "timestamp": "2026-07-02T23:36:26Z",
+    "title": "Acorn MOS"
+  },
+  "systems/mos-ec": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "MOS EC"
+  },
+  "systems/mos-olivetti": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "MOS (Multifunctional Operating System)"
+  },
+  "systems/motomagx": {
+    "associations": [],
+    "language": "en",
+    "revision": 1293164469,
+    "source": "https://en.wikipedia.org/w/index.php?title=MotoMagx&oldid=1293164469",
+    "timestamp": "2025-05-31T02:50:00Z",
+    "title": "MotoMagx"
+  },
+  "systems/mp-m": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364653166,
+    "source": "https://en.wikipedia.org/w/index.php?title=MP/M&oldid=1364653166",
+    "timestamp": "2026-07-17T19:23:07Z",
+    "title": "MP/M"
+  },
+  "systems/mp-m-86": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364653166,
+    "source": "https://en.wikipedia.org/w/index.php?title=MP/M&oldid=1364653166",
+    "timestamp": "2026-07-17T19:23:07Z",
+    "title": "MP/M"
+  },
+  "systems/ms-dos": {
+    "associations": [
+      {
+        "assertion_status": "provisional",
+        "interface_style": null,
+        "name": "EDLIN",
+        "relationship": "historically-prominent",
+        "source": "https://en.wikipedia.org/w/index.php?title=MS-DOS&oldid=1364653196",
+        "source_kind": "wikipedia-system-page",
+        "source_revision": 1364653196
+      }
+    ],
+    "language": "en",
+    "revision": 1364653196,
+    "source": "https://en.wikipedia.org/w/index.php?title=MS-DOS&oldid=1364653196",
+    "timestamp": "2026-07-17T19:23:19Z",
+    "title": "MS-DOS"
+  },
+  "systems/ms-net": {
+    "associations": [],
+    "language": "en",
+    "revision": 1334538917,
+    "source": "https://en.wikipedia.org/w/index.php?title=MS-Net&oldid=1334538917",
+    "timestamp": "2026-01-24T04:21:27Z",
+    "title": "MS-Net"
+  },
+  "systems/msp": {
+    "associations": [],
+    "language": "en",
+    "revision": 1342759311,
+    "source": "https://en.wikipedia.org/w/index.php?title=MVS&oldid=1342759311",
+    "timestamp": "2026-03-10T15:16:45Z",
+    "title": "MVS"
+  },
+  "systems/msx-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1307458655,
+    "source": "https://en.wikipedia.org/w/index.php?title=MSX-DOS&oldid=1307458655",
+    "timestamp": "2025-08-23T19:09:13Z",
+    "title": "MSX-DOS"
+  },
+  "systems/mts": {
+    "associations": [],
+    "language": "en",
+    "revision": 1350150434,
+    "source": "https://en.wikipedia.org/w/index.php?title=Michigan_Terminal_System&oldid=1350150434",
+    "timestamp": "2026-04-20T12:47:45Z",
+    "title": "Michigan Terminal System"
+  },
+  "systems/mulinux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362507890,
+    "source": "https://en.wikipedia.org/w/index.php?title=MuLinux&oldid=1362507890",
+    "timestamp": "2026-07-04T12:13:42Z",
+    "title": "MuLinux"
+  },
+  "systems/multics": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359128887,
+    "source": "https://en.wikipedia.org/w/index.php?title=Multics&oldid=1359128887",
+    "timestamp": "2026-06-13T07:49:54Z",
+    "title": "Multics"
+  },
+  "systems/multiuser-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361716044,
+    "source": "https://en.wikipedia.org/w/index.php?title=Multiuser_DOS&oldid=1361716044",
+    "timestamp": "2026-06-29T17:25:24Z",
+    "title": "Multiuser DOS"
+  },
+  "systems/music-sp": {
+    "associations": [],
+    "language": "en",
+    "revision": 1358091700,
+    "source": "https://en.wikipedia.org/w/index.php?title=MUSIC/SP&oldid=1358091700",
+    "timestamp": "2026-06-06T14:16:37Z",
+    "title": "MUSIC/SP"
+  },
+  "systems/musix-gnu-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361747238,
+    "source": "https://en.wikipedia.org/w/index.php?title=Musix_GNU%2BLinux&oldid=1361747238",
+    "timestamp": "2026-06-29T20:50:03Z",
+    "title": "Musix GNU+Linux"
+  },
+  "systems/navix": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "네빅스 (NAVIX; Naver Linux)"
+  },
+  "systems/ncos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1301153000,
+    "source": "https://en.wikipedia.org/w/index.php?title=NCOS&oldid=1301153000",
+    "timestamp": "2025-07-18T09:56:33Z",
+    "title": "NCOS"
+  },
+  "systems/nemesis": {
+    "associations": [],
+    "language": "en",
+    "revision": 1259116343,
+    "source": "https://en.wikipedia.org/w/index.php?title=Nemesis_%28operating_system%29&oldid=1259116343",
+    "timestamp": "2024-11-23T13:10:35Z",
+    "title": "Nemesis (operating system)"
+  },
+  "systems/netbsd": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363191791,
+    "source": "https://en.wikipedia.org/w/index.php?title=NetBSD&oldid=1363191791",
+    "timestamp": "2026-07-08T17:04:46Z",
+    "title": "NetBSD"
+  },
+  "systems/netware": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365274066,
+    "source": "https://en.wikipedia.org/w/index.php?title=NetWare&oldid=1365274066",
+    "timestamp": "2026-07-21T10:25:32Z",
+    "title": "NetWare"
+  },
+  "systems/newdos-80": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359588080,
+    "source": "https://en.wikipedia.org/w/index.php?title=NewDos/80&oldid=1359588080",
+    "timestamp": "2026-06-16T02:55:40Z",
+    "title": "NewDos/80"
+  },
+  "systems/newton-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361606039,
+    "source": "https://en.wikipedia.org/w/index.php?title=Newton_OS&oldid=1361606039",
+    "timestamp": "2026-06-29T00:40:21Z",
+    "title": "Newton OS"
+  },
+  "systems/nexenta-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1352581685,
+    "source": "https://en.wikipedia.org/w/index.php?title=Nexenta_OS&oldid=1352581685",
+    "timestamp": "2026-05-05T01:59:27Z",
+    "title": "Nexenta OS"
+  },
+  "systems/nextstep": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362284080,
+    "source": "https://en.wikipedia.org/w/index.php?title=NeXTSTEP&oldid=1362284080",
+    "timestamp": "2026-07-02T23:39:04Z",
+    "title": "NeXTSTEP"
+  },
+  "systems/nintendo-3ds-system-software": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363277479,
+    "source": "https://en.wikipedia.org/w/index.php?title=Nintendo_3DS_system_software&oldid=1363277479",
+    "timestamp": "2026-07-09T04:35:35Z",
+    "title": "Nintendo 3DS system software"
+  },
+  "systems/nintendo-dsi-system-software": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359902949,
+    "source": "https://en.wikipedia.org/w/index.php?title=Nintendo_DSi_system_software&oldid=1359902949",
+    "timestamp": "2026-06-17T23:51:54Z",
+    "title": "Nintendo DSi system software"
+  },
+  "systems/nintendo-switch-system-software": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365138233,
+    "source": "https://en.wikipedia.org/w/index.php?title=Nintendo_Switch_system_software&oldid=1365138233",
+    "timestamp": "2026-07-20T13:52:30Z",
+    "title": "Nintendo Switch system software"
+  },
+  "systems/nos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1235533587,
+    "source": "https://en.wikipedia.org/w/index.php?title=NOS_%28operating_system%29&oldid=1235533587",
+    "timestamp": "2024-07-19T19:42:10Z",
+    "title": "NOS (operating system)"
+  },
+  "systems/nos-ve": {
+    "associations": [],
+    "language": "en",
+    "revision": 1182289542,
+    "source": "https://en.wikipedia.org/w/index.php?title=NOS/VE&oldid=1182289542",
+    "timestamp": "2023-10-28T10:55:30Z",
+    "title": "NOS/VE"
+  },
+  "systems/nova-cuban-gnu-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Nova Distribución Cubana de GNU/Linux"
+  },
+  "systems/novell-corsair": {
+    "associations": [],
+    "language": "en",
+    "revision": 1320270347,
+    "source": "https://en.wikipedia.org/w/index.php?title=Caldera_OpenLinux&oldid=1320270347",
+    "timestamp": "2025-11-03T18:56:54Z",
+    "title": "Caldera OpenLinux"
+  },
+  "systems/novell-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364780194,
+    "source": "https://en.wikipedia.org/w/index.php?title=DR-DOS&oldid=1364780194",
+    "timestamp": "2026-07-18T14:00:26Z",
+    "title": "DR-DOS"
+  },
+  "systems/novell-expose": {
+    "associations": [],
+    "language": "en",
+    "revision": 1320270347,
+    "source": "https://en.wikipedia.org/w/index.php?title=Caldera_OpenLinux&oldid=1320270347",
+    "timestamp": "2025-11-03T18:56:54Z",
+    "title": "Caldera OpenLinux"
+  },
+  "systems/novell-open-enterprise-server": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362198748,
+    "source": "https://en.wikipedia.org/w/index.php?title=Open_Enterprise_Server&oldid=1362198748",
+    "timestamp": "2026-07-02T13:22:36Z",
+    "title": "Open Enterprise Server"
+  },
+  "systems/novell-supernos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362559744,
+    "source": "https://en.wikipedia.org/w/index.php?title=UnixWare&oldid=1362559744",
+    "timestamp": "2026-07-04T19:47:33Z",
+    "title": "UnixWare"
+  },
+  "systems/nucleus-rtos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1345160742,
+    "source": "https://en.wikipedia.org/w/index.php?title=Nucleus_RTOS&oldid=1345160742",
+    "timestamp": "2026-03-24T16:41:49Z",
+    "title": "Nucleus RTOS"
+  },
+  "systems/nuttx": {
+    "associations": [],
+    "language": "en",
+    "revision": 1352061481,
+    "source": "https://en.wikipedia.org/w/index.php?title=NuttX&oldid=1352061481",
+    "timestamp": "2026-05-01T19:57:44Z",
+    "title": "NuttX"
+  },
+  "systems/oberon-operating-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361047566,
+    "source": "https://en.wikipedia.org/w/index.php?title=Oberon_%28operating_system%29&oldid=1361047566",
+    "timestamp": "2026-06-25T08:23:53Z",
+    "title": "Oberon (operating system)"
+  },
+  "systems/ojuba-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "أعجوبة لينكس (Ojuba Linux)"
+  },
+  "systems/olivetti-cosmos": {
+    "associations": [],
+    "language": "it",
+    "revision": 142147203,
+    "source": "https://it.wikipedia.org/w/index.php?title=Cosmos_%28sistema_operativo_Olivetti%29&oldid=142147203",
+    "timestamp": "2024-11-13T09:47:07Z",
+    "title": "Cosmos (sistema operativo Olivetti)"
+  },
+  "systems/open-enterprise-server": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362198748,
+    "source": "https://en.wikipedia.org/w/index.php?title=Open_Enterprise_Server&oldid=1362198748",
+    "timestamp": "2026-07-02T13:22:36Z",
+    "title": "Open Enterprise Server"
+  },
+  "systems/openbsd": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365754692,
+    "source": "https://en.wikipedia.org/w/index.php?title=OpenBSD&oldid=1365754692",
+    "timestamp": "2026-07-24T06:58:49Z",
+    "title": "OpenBSD"
+  },
+  "systems/openharmony": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364521979,
+    "source": "https://en.wikipedia.org/w/index.php?title=OpenHarmony&oldid=1364521979",
+    "timestamp": "2026-07-17T01:43:03Z",
+    "title": "OpenHarmony"
+  },
+  "systems/openindiana": {
+    "associations": [],
+    "language": "en",
+    "revision": 1356944968,
+    "source": "https://en.wikipedia.org/w/index.php?title=OpenIndiana&oldid=1356944968",
+    "timestamp": "2026-05-30T20:38:20Z",
+    "title": "OpenIndiana"
+  },
+  "systems/openmoko-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1276165359,
+    "source": "https://en.wikipedia.org/w/index.php?title=Openmoko_Linux&oldid=1276165359",
+    "timestamp": "2025-02-17T07:20:12Z",
+    "title": "Openmoko Linux"
+  },
+  "systems/opensolaris": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361478489,
+    "source": "https://en.wikipedia.org/w/index.php?title=OpenSolaris&oldid=1361478489",
+    "timestamp": "2026-06-28T04:45:49Z",
+    "title": "OpenSolaris"
+  },
+  "systems/openstep": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365694995,
+    "source": "https://en.wikipedia.org/w/index.php?title=OpenStep&oldid=1365694995",
+    "timestamp": "2026-07-23T22:40:36Z",
+    "title": "OpenStep"
+  },
+  "systems/openwrt": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364067374,
+    "source": "https://en.wikipedia.org/w/index.php?title=OpenWrt&oldid=1364067374",
+    "timestamp": "2026-07-14T07:42:20Z",
+    "title": "OpenWrt"
+  },
+  "systems/openzaurus": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362136800,
+    "source": "https://en.wikipedia.org/w/index.php?title=OpenZaurus&oldid=1362136800",
+    "timestamp": "2026-07-02T04:03:44Z",
+    "title": "OpenZaurus"
+  },
+  "systems/ophone": {
+    "associations": [],
+    "language": "en",
+    "revision": 1328015784,
+    "source": "https://en.wikipedia.org/w/index.php?title=OPhone&oldid=1328015784",
+    "timestamp": "2025-12-17T12:24:06Z",
+    "title": "OPhone"
+  },
+  "systems/opnsense": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365605813,
+    "source": "https://en.wikipedia.org/w/index.php?title=OPNsense&oldid=1365605813",
+    "timestamp": "2026-07-23T11:56:31Z",
+    "title": "OPNsense"
+  },
+  "systems/orsay": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365621366,
+    "source": "https://en.wikipedia.org/w/index.php?title=Samsung_Electronics&oldid=1365621366",
+    "timestamp": "2026-07-23T13:51:13Z",
+    "title": "Samsung Electronics"
+  },
+  "systems/orvyl-and-wylbur": {
+    "associations": [],
+    "language": "en",
+    "revision": 1360449701,
+    "source": "https://en.wikipedia.org/w/index.php?title=ORVYL_and_WYLBUR&oldid=1360449701",
+    "timestamp": "2026-06-21T15:24:05Z",
+    "title": "ORVYL and WYLBUR"
+  },
+  "systems/os-10-ec": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "OS-10 EC"
+  },
+  "systems/os-2": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365043693,
+    "source": "https://en.wikipedia.org/w/index.php?title=OS/2&oldid=1365043693",
+    "timestamp": "2026-07-19T23:10:09Z",
+    "title": "OS/2"
+  },
+  "systems/os-360": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365131301,
+    "source": "https://en.wikipedia.org/w/index.php?title=OS/360_and_successors&oldid=1365131301",
+    "timestamp": "2026-07-20T12:45:56Z",
+    "title": "OS/360 and successors"
+  },
+  "systems/os-390": {
+    "associations": [],
+    "language": "en",
+    "revision": 1328194849,
+    "source": "https://en.wikipedia.org/w/index.php?title=OS/390&oldid=1328194849",
+    "timestamp": "2025-12-18T12:27:32Z",
+    "title": "OS/390"
+  },
+  "systems/os-4": {
+    "associations": [],
+    "language": "en",
+    "revision": 1283512219,
+    "source": "https://en.wikipedia.org/w/index.php?title=OS/4&oldid=1283512219",
+    "timestamp": "2025-04-01T23:44:54Z",
+    "title": "OS/4"
+  },
+  "systems/os-8": {
+    "associations": [],
+    "language": "en",
+    "revision": 1208876553,
+    "source": "https://en.wikipedia.org/w/index.php?title=OS/8&oldid=1208876553",
+    "timestamp": "2024-02-19T09:05:22Z",
+    "title": "OS/8"
+  },
+  "systems/os-9": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364853461,
+    "source": "https://en.wikipedia.org/w/index.php?title=OS-9&oldid=1364853461",
+    "timestamp": "2026-07-18T22:33:11Z",
+    "title": "OS-9"
+  },
+  "systems/os-9000": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364853461,
+    "source": "https://en.wikipedia.org/w/index.php?title=OS-9&oldid=1364853461",
+    "timestamp": "2026-07-18T22:33:11Z",
+    "title": "OS-9"
+  },
+  "systems/os-ec": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "OS EC"
+  },
+  "systems/os-vs1": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364430199,
+    "source": "https://en.wikipedia.org/w/index.php?title=OS/VS1&oldid=1364430199",
+    "timestamp": "2026-07-16T13:33:22Z",
+    "title": "OS/VS1"
+  },
+  "systems/os4000": {
+    "associations": [],
+    "language": "en",
+    "revision": 1218124587,
+    "source": "https://en.wikipedia.org/w/index.php?title=OS4000&oldid=1218124587",
+    "timestamp": "2024-04-09T21:26:18Z",
+    "title": "OS4000"
+  },
+  "systems/ose": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364256631,
+    "source": "https://en.wikipedia.org/w/index.php?title=ENEA_AB&oldid=1364256631",
+    "timestamp": "2026-07-15T13:43:49Z",
+    "title": "ENEA AB"
+  },
+  "systems/osf-1": {
+    "associations": [],
+    "language": "en",
+    "revision": 1334537273,
+    "source": "https://en.wikipedia.org/w/index.php?title=OSF/1&oldid=1334537273",
+    "timestamp": "2026-01-24T04:06:30Z",
+    "title": "OSF/1"
+  },
+  "systems/osfree": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365043693,
+    "source": "https://en.wikipedia.org/w/index.php?title=OS/2&oldid=1365043693",
+    "timestamp": "2026-07-19T23:10:09Z",
+    "title": "OS/2"
+  },
+  "systems/osv": {
+    "associations": [],
+    "language": "en",
+    "revision": 1329799815,
+    "source": "https://en.wikipedia.org/w/index.php?title=OSv&oldid=1329799815",
+    "timestamp": "2025-12-28T01:32:29Z",
+    "title": "OSv"
+  },
+  "systems/palm-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361720578,
+    "source": "https://en.wikipedia.org/w/index.php?title=Palm_OS&oldid=1361720578",
+    "timestamp": "2026-06-29T17:55:55Z",
+    "title": "Palm OS"
+  },
+  "systems/pc-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364653144,
+    "source": "https://en.wikipedia.org/w/index.php?title=IBM_PC_DOS&oldid=1364653144",
+    "timestamp": "2026-07-17T19:22:57Z",
+    "title": "IBM PC DOS"
+  },
+  "systems/pc-mos-386": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359439735,
+    "source": "https://en.wikipedia.org/w/index.php?title=PC-MOS/386&oldid=1359439735",
+    "timestamp": "2026-06-15T08:49:24Z",
+    "title": "PC-MOS/386"
+  },
+  "systems/pcos-olivetti": {
+    "associations": [],
+    "language": "it",
+    "revision": 150935970,
+    "source": "https://it.wikipedia.org/w/index.php?title=Sindrome_dell%27ovaio_policistico&oldid=150935970",
+    "timestamp": "2026-06-01T14:57:04Z",
+    "title": "Sindrome dell'ovaio policistico"
+  },
+  "systems/pen-geos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1334538756,
+    "source": "https://en.wikipedia.org/w/index.php?title=GEOS_%2816-bit_operating_system%29&oldid=1334538756",
+    "timestamp": "2026-01-24T04:20:24Z",
+    "title": "GEOS (16-bit operating system)"
+  },
+  "systems/penpoint-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1354216536,
+    "source": "https://en.wikipedia.org/w/index.php?title=PenPoint_OS&oldid=1354216536",
+    "timestamp": "2026-05-15T01:11:42Z",
+    "title": "PenPoint OS"
+  },
+  "systems/pfsense": {
+    "associations": [],
+    "language": "en",
+    "revision": 1350470509,
+    "source": "https://en.wikipedia.org/w/index.php?title=PfSense&oldid=1350470509",
+    "timestamp": "2026-04-22T03:18:54Z",
+    "title": "PfSense"
+  },
+  "systems/phantom-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1259110980,
+    "source": "https://en.wikipedia.org/w/index.php?title=Phantom_OS&oldid=1259110980",
+    "timestamp": "2024-11-23T12:24:22Z",
+    "title": "Phantom OS"
+  },
+  "systems/pick": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362864664,
+    "source": "https://en.wikipedia.org/w/index.php?title=Pick_operating_system&oldid=1362864664",
+    "timestamp": "2026-07-06T18:06:25Z",
+    "title": "Pick operating system"
+  },
+  "systems/pikeos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361990763,
+    "source": "https://en.wikipedia.org/w/index.php?title=PikeOS&oldid=1361990763",
+    "timestamp": "2026-07-01T07:57:01Z",
+    "title": "PikeOS"
+  },
+  "systems/pilot": {
+    "associations": [],
+    "language": "en",
+    "revision": 1307475965,
+    "source": "https://en.wikipedia.org/w/index.php?title=Pilot_%28operating_system%29&oldid=1307475965",
+    "timestamp": "2025-08-23T21:27:55Z",
+    "title": "Pilot (operating system)"
+  },
+  "systems/plan-9-from-bell-labs": {
+    "associations": [],
+    "language": "en",
+    "revision": 1351978700,
+    "source": "https://en.wikipedia.org/w/index.php?title=Plan_9_from_Bell_Labs&oldid=1351978700",
+    "timestamp": "2026-05-01T07:57:36Z",
+    "title": "Plan 9 from Bell Labs"
+  },
+  "systems/playstation-3-system-software": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365311831,
+    "source": "https://en.wikipedia.org/w/index.php?title=PlayStation_3_system_software&oldid=1365311831",
+    "timestamp": "2026-07-21T16:35:46Z",
+    "title": "PlayStation 3 system software"
+  },
+  "systems/playstation-4-system-software": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359868919,
+    "source": "https://en.wikipedia.org/w/index.php?title=PlayStation_4_system_software&oldid=1359868919",
+    "timestamp": "2026-06-17T19:01:04Z",
+    "title": "PlayStation 4 system software"
+  },
+  "systems/playstation-5-system-software": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365432653,
+    "source": "https://en.wikipedia.org/w/index.php?title=PlayStation_5&oldid=1365432653",
+    "timestamp": "2026-07-22T11:02:28Z",
+    "title": "PlayStation 5"
+  },
+  "systems/playstation-vita-system-software": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363277742,
+    "source": "https://en.wikipedia.org/w/index.php?title=PlayStation_Vita_system_software&oldid=1363277742",
+    "timestamp": "2026-07-09T04:38:47Z",
+    "title": "PlayStation Vita system software"
+  },
+  "systems/plos-rv": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "PLOS-RV"
+  },
+  "systems/plurix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1305950690,
+    "source": "https://en.wikipedia.org/w/index.php?title=Plurix&oldid=1305950690",
+    "timestamp": "2025-08-15T01:51:38Z",
+    "title": "Plurix"
+  },
+  "systems/postmarketos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365572793,
+    "source": "https://en.wikipedia.org/w/index.php?title=PostmarketOS&oldid=1365572793",
+    "timestamp": "2026-07-23T06:00:25Z",
+    "title": "PostmarketOS"
+  },
+  "systems/primos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1333607719,
+    "source": "https://en.wikipedia.org/w/index.php?title=PRIMOS&oldid=1333607719",
+    "timestamp": "2026-01-18T19:51:59Z",
+    "title": "PRIMOS"
+  },
+  "systems/prodos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1339534072,
+    "source": "https://en.wikipedia.org/w/index.php?title=Apple_ProDOS&oldid=1339534072",
+    "timestamp": "2026-02-21T01:20:06Z",
+    "title": "Apple ProDOS"
+  },
+  "systems/psos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1353526583,
+    "source": "https://en.wikipedia.org/w/index.php?title=PSOS_%28real-time_operating_system%29&oldid=1353526583",
+    "timestamp": "2026-05-10T19:57:45Z",
+    "title": "PSOS (real-time operating system)"
+  },
+  "systems/ptos-nec": {
+    "associations": [],
+    "language": "ja",
+    "revision": 110271772,
+    "source": "https://ja.wikipedia.org/w/index.php?title=N5200&oldid=110271772",
+    "timestamp": "2026-07-14T06:38:34Z",
+    "title": "N5200"
+  },
+  "systems/pts-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1334538996,
+    "source": "https://en.wikipedia.org/w/index.php?title=PTS-DOS&oldid=1334538996",
+    "timestamp": "2026-01-24T04:21:57Z",
+    "title": "PTS-DOS"
+  },
+  "systems/pwb-unix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1301359639,
+    "source": "https://en.wikipedia.org/w/index.php?title=PWB/UNIX&oldid=1301359639",
+    "timestamp": "2025-07-19T11:01:11Z",
+    "title": "PWB/UNIX"
+  },
+  "systems/px5-rtos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1346644781,
+    "source": "https://en.wikipedia.org/w/index.php?title=PX5_RTOS&oldid=1346644781",
+    "timestamp": "2026-04-02T01:14:51Z",
+    "title": "PX5 RTOS"
+  },
+  "systems/qnx": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361605172,
+    "source": "https://en.wikipedia.org/w/index.php?title=QNX&oldid=1361605172",
+    "timestamp": "2026-06-29T00:31:57Z",
+    "title": "QNX"
+  },
+  "systems/qt-extended": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362555151,
+    "source": "https://en.wikipedia.org/w/index.php?title=Qt_Extended&oldid=1362555151",
+    "timestamp": "2026-07-04T19:16:08Z",
+    "title": "Qt Extended"
+  },
+  "systems/quirinux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Quirinux"
+  },
+  "systems/reactos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362494063,
+    "source": "https://en.wikipedia.org/w/index.php?title=ReactOS&oldid=1362494063",
+    "timestamp": "2026-07-04T09:10:09Z",
+    "title": "ReactOS"
+  },
+  "systems/real-time-multiprogramming-operating-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1292629512,
+    "source": "https://en.wikipedia.org/w/index.php?title=Real-Time_Multiprogramming_Operating_System&oldid=1292629512",
+    "timestamp": "2025-05-28T00:40:28Z",
+    "title": "Real-Time Multiprogramming Operating System"
+  },
+  "systems/redox": {
+    "associations": [],
+    "language": "en",
+    "revision": 1350296320,
+    "source": "https://en.wikipedia.org/w/index.php?title=RedoxOS&oldid=1350296320",
+    "timestamp": "2026-04-21T04:15:22Z",
+    "title": "RedoxOS"
+  },
+  "systems/remix-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1329878130,
+    "source": "https://en.wikipedia.org/w/index.php?title=Remix_OS&oldid=1329878130",
+    "timestamp": "2025-12-28T10:51:53Z",
+    "title": "Remix OS"
+  },
+  "systems/replicant": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363903059,
+    "source": "https://en.wikipedia.org/w/index.php?title=Replicant_%28operating_system%29&oldid=1363903059",
+    "timestamp": "2026-07-13T05:35:49Z",
+    "title": "Replicant (operating system)"
+  },
+  "systems/research-unix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361673370,
+    "source": "https://en.wikipedia.org/w/index.php?title=Research_Unix&oldid=1361673370",
+    "timestamp": "2026-06-29T12:02:33Z",
+    "title": "Research Unix"
+  },
+  "systems/rex-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1321664785,
+    "source": "https://en.wikipedia.org/w/index.php?title=REX_OS&oldid=1321664785",
+    "timestamp": "2025-11-11T22:36:02Z",
+    "title": "REX OS"
+  },
+  "systems/rhapsody": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365213610,
+    "source": "https://en.wikipedia.org/w/index.php?title=Rhapsody_%28operating_system%29&oldid=1365213610",
+    "timestamp": "2026-07-21T01:01:00Z",
+    "title": "Rhapsody (operating system)"
+  },
+  "systems/riot": {
+    "associations": [],
+    "language": "en",
+    "revision": 1346000388,
+    "source": "https://en.wikipedia.org/w/index.php?title=RIOT_%28operating_system%29&oldid=1346000388",
+    "timestamp": "2026-03-29T10:45:12Z",
+    "title": "RIOT (operating system)"
+  },
+  "systems/risc-ix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1303424883,
+    "source": "https://en.wikipedia.org/w/index.php?title=RISC_iX&oldid=1303424883",
+    "timestamp": "2025-07-30T23:16:29Z",
+    "title": "RISC iX"
+  },
+  "systems/risc-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1356352032,
+    "source": "https://en.wikipedia.org/w/index.php?title=RISC_OS&oldid=1356352032",
+    "timestamp": "2026-05-27T06:16:29Z",
+    "title": "RISC OS"
+  },
+  "systems/risc-os-2": {
+    "associations": [],
+    "language": "en",
+    "revision": 1336012049,
+    "source": "https://en.wikipedia.org/w/index.php?title=MIPS_RISC/os&oldid=1336012049",
+    "timestamp": "2026-02-01T12:50:35Z",
+    "title": "MIPS RISC/os"
+  },
+  "systems/rockbox": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364301607,
+    "source": "https://en.wikipedia.org/w/index.php?title=Rockbox&oldid=1364301607",
+    "timestamp": "2026-07-15T19:54:54Z",
+    "title": "Rockbox"
+  },
+  "systems/rodos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1349120967,
+    "source": "https://en.wikipedia.org/w/index.php?title=Rodos_%28operating_system%29&oldid=1349120967",
+    "timestamp": "2026-04-15T21:41:23Z",
+    "title": "Rodos (operating system)"
+  },
+  "systems/rom-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359418406,
+    "source": "https://en.wikipedia.org/w/index.php?title=Datalight&oldid=1359418406",
+    "timestamp": "2026-06-15T04:53:17Z",
+    "title": "Datalight"
+  },
+  "systems/rsts-e": {
+    "associations": [],
+    "language": "en",
+    "revision": 1339286102,
+    "source": "https://en.wikipedia.org/w/index.php?title=RSTS/E&oldid=1339286102",
+    "timestamp": "2026-02-19T21:18:37Z",
+    "title": "RSTS/E"
+  },
+  "systems/rsx-11": {
+    "associations": [],
+    "language": "en",
+    "revision": 1360732744,
+    "source": "https://en.wikipedia.org/w/index.php?title=RSX-11&oldid=1360732744",
+    "timestamp": "2026-06-23T07:13:55Z",
+    "title": "RSX-11"
+  },
+  "systems/rt-11": {
+    "associations": [],
+    "language": "en",
+    "revision": 1344639325,
+    "source": "https://en.wikipedia.org/w/index.php?title=RT-11&oldid=1344639325",
+    "timestamp": "2026-03-21T17:56:20Z",
+    "title": "RT-11"
+  },
+  "systems/rt-thread": {
+    "associations": [],
+    "language": "en",
+    "revision": 1319012859,
+    "source": "https://en.wikipedia.org/w/index.php?title=RT-Thread&oldid=1319012859",
+    "timestamp": "2025-10-27T07:48:08Z",
+    "title": "RT-Thread"
+  },
+  "systems/rtems": {
+    "associations": [],
+    "language": "en",
+    "revision": 1354932765,
+    "source": "https://en.wikipedia.org/w/index.php?title=RTEMS&oldid=1354932765",
+    "timestamp": "2026-05-19T01:27:23Z",
+    "title": "RTEMS"
+  },
+  "systems/rtxc-quadros": {
+    "associations": [],
+    "language": "en",
+    "revision": 1260810754,
+    "source": "https://en.wikipedia.org/w/index.php?title=RTXC_Quadros&oldid=1260810754",
+    "timestamp": "2024-12-02T19:16:33Z",
+    "title": "RTXC Quadros"
+  },
+  "systems/sabayon-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362921198,
+    "source": "https://en.wikipedia.org/w/index.php?title=Sabayon_Linux&oldid=1362921198",
+    "timestamp": "2026-07-07T00:32:17Z",
+    "title": "Sabayon Linux"
+  },
+  "systems/sailfish-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365330215,
+    "source": "https://en.wikipedia.org/w/index.php?title=Sailfish_OS&oldid=1365330215",
+    "timestamp": "2026-07-21T18:57:16Z",
+    "title": "Sailfish OS"
+  },
+  "systems/sco-open-desktop": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362239741,
+    "source": "https://en.wikipedia.org/w/index.php?title=OpenServer&oldid=1362239741",
+    "timestamp": "2026-07-02T18:24:14Z",
+    "title": "OpenServer"
+  },
+  "systems/sco-unix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362239741,
+    "source": "https://en.wikipedia.org/w/index.php?title=OpenServer&oldid=1362239741",
+    "timestamp": "2026-07-02T18:24:14Z",
+    "title": "OpenServer"
+  },
+  "systems/sco-unix-2": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362239741,
+    "source": "https://en.wikipedia.org/w/index.php?title=OpenServer&oldid=1362239741",
+    "timestamp": "2026-07-02T18:24:14Z",
+    "title": "OpenServer"
+  },
+  "systems/serenityos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362885234,
+    "source": "https://en.wikipedia.org/w/index.php?title=SerenityOS&oldid=1362885234",
+    "timestamp": "2026-07-06T20:36:08Z",
+    "title": "SerenityOS"
+  },
+  "systems/share-operating-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1194754064,
+    "source": "https://en.wikipedia.org/w/index.php?title=SHARE_Operating_System&oldid=1194754064",
+    "timestamp": "2024-01-10T15:44:53Z",
+    "title": "SHARE Operating System"
+  },
+  "systems/sharpos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1318118886,
+    "source": "https://en.wikipedia.org/w/index.php?title=SharpOS&oldid=1318118886",
+    "timestamp": "2025-10-22T01:15:12Z",
+    "title": "SharpOS"
+  },
+  "systems/sinclair-qdos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359224657,
+    "source": "https://en.wikipedia.org/w/index.php?title=Sinclair_QDOS&oldid=1359224657",
+    "timestamp": "2026-06-13T23:17:30Z",
+    "title": "Sinclair QDOS"
+  },
+  "systems/single-user-control-program-scp": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "SCP (Single User Control Program)"
+  },
+  "systems/singularity": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365798369,
+    "source": "https://en.wikipedia.org/w/index.php?title=Singularity_%28operating_system%29&oldid=1365798369",
+    "timestamp": "2026-07-24T13:22:57Z",
+    "title": "Singularity (operating system)"
+  },
+  "systems/sinix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1356532032,
+    "source": "https://en.wikipedia.org/w/index.php?title=SINIX&oldid=1356532032",
+    "timestamp": "2026-05-28T09:52:44Z",
+    "title": "SINIX"
+  },
+  "systems/sintran-iii": {
+    "associations": [],
+    "language": "en",
+    "revision": 1328609413,
+    "source": "https://en.wikipedia.org/w/index.php?title=Sintran_III&oldid=1328609413",
+    "timestamp": "2025-12-20T21:10:05Z",
+    "title": "Sintran III"
+  },
+  "systems/siris-8": {
+    "associations": [],
+    "language": "en",
+    "revision": 1321305756,
+    "source": "https://en.wikipedia.org/w/index.php?title=Siris_8&oldid=1321305756",
+    "timestamp": "2025-11-09T21:08:22Z",
+    "title": "Siris 8"
+  },
+  "systems/sisne-plus": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "SISNE Plus"
+  },
+  "systems/skyos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361477054,
+    "source": "https://en.wikipedia.org/w/index.php?title=SkyOS&oldid=1361477054",
+    "timestamp": "2026-06-28T04:29:26Z",
+    "title": "SkyOS"
+  },
+  "systems/smaky-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1353538568,
+    "source": "https://en.wikipedia.org/w/index.php?title=Smaky&oldid=1353538568",
+    "timestamp": "2026-05-10T21:16:19Z",
+    "title": "Smaky"
+  },
+  "systems/smartos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1348212957,
+    "source": "https://en.wikipedia.org/w/index.php?title=SmartOS&oldid=1348212957",
+    "timestamp": "2026-04-11T11:01:01Z",
+    "title": "SmartOS"
+  },
+  "systems/soda": {
+    "associations": [],
+    "language": "en",
+    "revision": 1352895927,
+    "source": "https://en.wikipedia.org/w/index.php?title=Odra_%28computer%29&oldid=1352895927",
+    "timestamp": "2026-05-06T21:53:37Z",
+    "title": "Odra (computer)"
+  },
+  "systems/sodilinux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "So.Di.Linux Orizzonti"
+  },
+  "systems/solaris": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365633269,
+    "source": "https://en.wikipedia.org/w/index.php?title=Oracle_Solaris&oldid=1365633269",
+    "timestamp": "2026-07-23T15:03:07Z",
+    "title": "Oracle Solaris"
+  },
+  "systems/sonic": {
+    "associations": [],
+    "language": "en",
+    "revision": 1355345103,
+    "source": "https://en.wikipedia.org/w/index.php?title=SONiC_%28operating_system%29&oldid=1355345103",
+    "timestamp": "2026-05-21T09:24:37Z",
+    "title": "SONiC (operating system)"
+  },
+  "systems/sox-sistema-operacional-x": {
+    "associations": [],
+    "language": "en",
+    "revision": 1130515397,
+    "source": "https://en.wikipedia.org/w/index.php?title=SOX_%28operating_system%29&oldid=1130515397",
+    "timestamp": "2022-12-30T15:05:52Z",
+    "title": "SOX (operating system)"
+  },
+  "systems/spring": {
+    "associations": [],
+    "language": "en",
+    "revision": 1350233275,
+    "source": "https://en.wikipedia.org/w/index.php?title=Spring_%28operating_system%29&oldid=1350233275",
+    "timestamp": "2026-04-20T21:23:42Z",
+    "title": "Spring (operating system)"
+  },
+  "systems/sprite": {
+    "associations": [],
+    "language": "en",
+    "revision": 1333190277,
+    "source": "https://en.wikipedia.org/w/index.php?title=Sprite_%28operating_system%29&oldid=1333190277",
+    "timestamp": "2026-01-16T06:52:44Z",
+    "title": "Sprite (operating system)"
+  },
+  "systems/ssp": {
+    "associations": [],
+    "language": "en",
+    "revision": 1346976616,
+    "source": "https://en.wikipedia.org/w/index.php?title=System_Support_Program&oldid=1346976616",
+    "timestamp": "2026-04-03T23:38:55Z",
+    "title": "System Support Program"
+  },
+  "systems/startos": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "起点操作系统"
+  },
+  "systems/stratus-vos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1334695313,
+    "source": "https://en.wikipedia.org/w/index.php?title=Stratus_VOS&oldid=1334695313",
+    "timestamp": "2026-01-25T03:08:27Z",
+    "title": "Stratus VOS"
+  },
+  "systems/sunos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361158678,
+    "source": "https://en.wikipedia.org/w/index.php?title=SunOS&oldid=1361158678",
+    "timestamp": "2026-06-26T01:40:00Z",
+    "title": "SunOS"
+  },
+  "systems/super-ux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1353377357,
+    "source": "https://en.wikipedia.org/w/index.php?title=SUPER-UX&oldid=1353377357",
+    "timestamp": "2026-05-09T22:53:03Z",
+    "title": "SUPER-UX"
+  },
+  "systems/supertinykernel-rtos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364061093,
+    "source": "https://en.wikipedia.org/w/index.php?title=SuperTinyKernel_RTOS&oldid=1364061093",
+    "timestamp": "2026-07-14T06:48:30Z",
+    "title": "SuperTinyKernel RTOS"
+  },
+  "systems/syllable-desktop": {
+    "associations": [],
+    "language": "en",
+    "revision": 1308603979,
+    "source": "https://en.wikipedia.org/w/index.php?title=Syllable_Desktop&oldid=1308603979",
+    "timestamp": "2025-08-30T12:21:20Z",
+    "title": "Syllable Desktop"
+  },
+  "systems/symbian-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1360176048,
+    "source": "https://en.wikipedia.org/w/index.php?title=Symbian&oldid=1360176048",
+    "timestamp": "2026-06-19T18:34:32Z",
+    "title": "Symbian"
+  },
+  "systems/symbian-platform": {
+    "associations": [],
+    "language": "en",
+    "revision": 1360176048,
+    "source": "https://en.wikipedia.org/w/index.php?title=Symbian&oldid=1360176048",
+    "timestamp": "2026-06-19T18:34:32Z",
+    "title": "Symbian"
+  },
+  "systems/symbos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1330088300,
+    "source": "https://en.wikipedia.org/w/index.php?title=SymbOS&oldid=1330088300",
+    "timestamp": "2025-12-29T11:04:30Z",
+    "title": "SymbOS"
+  },
+  "systems/symobi": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365004056,
+    "source": "https://en.wikipedia.org/w/index.php?title=Symobi&oldid=1365004056",
+    "timestamp": "2026-07-19T19:07:14Z",
+    "title": "Symobi"
+  },
+  "systems/sysmic": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "SYSMIC"
+  },
+  "systems/system-v-at-386": {
+    "associations": [],
+    "language": "en",
+    "revision": 1349563062,
+    "source": "https://en.wikipedia.org/w/index.php?title=Microport_Systems&oldid=1349563062",
+    "timestamp": "2026-04-17T22:05:43Z",
+    "title": "Microport Systems"
+  },
+  "systems/t-kernel": {
+    "associations": [],
+    "language": "en",
+    "revision": 1350679873,
+    "source": "https://en.wikipedia.org/w/index.php?title=T-Kernel&oldid=1350679873",
+    "timestamp": "2026-04-23T09:33:26Z",
+    "title": "T-Kernel"
+  },
+  "systems/tcos-telesec-chipcard-operating-system": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "TCOS (TeleSec Chipcard Operating System)"
+  },
+  "systems/templeos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365929863,
+    "source": "https://en.wikipedia.org/w/index.php?title=TempleOS&oldid=1365929863",
+    "timestamp": "2026-07-25T07:12:28Z",
+    "title": "TempleOS"
+  },
+  "systems/tenex": {
+    "associations": [],
+    "language": "en",
+    "revision": 1358951838,
+    "source": "https://en.wikipedia.org/w/index.php?title=TENEX_%28operating_system%29&oldid=1358951838",
+    "timestamp": "2026-06-12T01:47:42Z",
+    "title": "TENEX (operating system)"
+  },
+  "systems/the-multiprogramming-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1334539112,
+    "source": "https://en.wikipedia.org/w/index.php?title=THE_multiprogramming_system&oldid=1334539112",
+    "timestamp": "2026-01-24T04:22:43Z",
+    "title": "THE multiprogramming system"
+  },
+  "systems/theos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1301125246,
+    "source": "https://en.wikipedia.org/w/index.php?title=THEOS&oldid=1301125246",
+    "timestamp": "2025-07-18T06:29:19Z",
+    "title": "THEOS"
+  },
+  "systems/thoth": {
+    "associations": [],
+    "language": "en",
+    "revision": 1342855600,
+    "source": "https://en.wikipedia.org/w/index.php?title=Thoth_%28operating_system%29&oldid=1342855600",
+    "timestamp": "2026-03-11T01:13:34Z",
+    "title": "Thoth (operating system)"
+  },
+  "systems/threadx": {
+    "associations": [],
+    "language": "en",
+    "revision": 1356064301,
+    "source": "https://en.wikipedia.org/w/index.php?title=ThreadX&oldid=1356064301",
+    "timestamp": "2026-05-25T14:41:39Z",
+    "title": "ThreadX"
+  },
+  "systems/ti-rtos-kernel": {
+    "associations": [],
+    "language": "en",
+    "revision": 1315125626,
+    "source": "https://en.wikipedia.org/w/index.php?title=TI-RTOS&oldid=1315125626",
+    "timestamp": "2025-10-05T00:41:09Z",
+    "title": "TI-RTOS"
+  },
+  "systems/time-sharing-operating-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1321254133,
+    "source": "https://en.wikipedia.org/w/index.php?title=Time_Sharing_Operating_System&oldid=1321254133",
+    "timestamp": "2025-11-09T15:40:31Z",
+    "title": "Time Sharing Operating System"
+  },
+  "systems/tinyos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361971999,
+    "source": "https://en.wikipedia.org/w/index.php?title=TinyOS&oldid=1361971999",
+    "timestamp": "2026-07-01T04:38:10Z",
+    "title": "TinyOS"
+  },
+  "systems/tizen": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363530039,
+    "source": "https://en.wikipedia.org/w/index.php?title=Tizen&oldid=1363530039",
+    "timestamp": "2026-07-10T19:51:32Z",
+    "title": "Tizen"
+  },
+  "systems/tmax-window": {
+    "associations": [],
+    "language": "ko",
+    "revision": 39125497,
+    "source": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+    "timestamp": "2025-04-08T23:53:01Z",
+    "title": "티맥스 윈도"
+  },
+  "systems/tmaxos": {
+    "associations": [],
+    "language": "ko",
+    "revision": 40438267,
+    "source": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+    "timestamp": "2025-08-10T12:51:42Z",
+    "title": "티맥스OS"
+  },
+  "systems/tme": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364970255,
+    "source": "https://en.wikipedia.org/w/index.php?title=International_Computers_Limited&oldid=1364970255",
+    "timestamp": "2026-07-19T15:43:41Z",
+    "title": "International Computers Limited"
+  },
+  "systems/tmx": {
+    "associations": [],
+    "language": "en",
+    "revision": 1133190491,
+    "source": "https://en.wikipedia.org/w/index.php?title=Transaction_Management_eXecutive&oldid=1133190491",
+    "timestamp": "2023-01-12T16:45:24Z",
+    "title": "Transaction Management eXecutive"
+  },
+  "systems/toaruos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362267678,
+    "source": "https://en.wikipedia.org/w/index.php?title=ToaruOS&oldid=1362267678",
+    "timestamp": "2026-07-02T21:39:33Z",
+    "title": "ToaruOS"
+  },
+  "systems/tock": {
+    "associations": [],
+    "language": "en",
+    "revision": 1325320244,
+    "source": "https://en.wikipedia.org/w/index.php?title=Tock_%28operating_system%29&oldid=1325320244",
+    "timestamp": "2025-12-02T12:12:16Z",
+    "title": "Tock (operating system)"
+  },
+  "systems/tops-10": {
+    "associations": [],
+    "language": "en",
+    "revision": 1338337724,
+    "source": "https://en.wikipedia.org/w/index.php?title=TOPS-10&oldid=1338337724",
+    "timestamp": "2026-02-14T15:48:59Z",
+    "title": "TOPS-10"
+  },
+  "systems/tops-20": {
+    "associations": [],
+    "language": "en",
+    "revision": 1338749769,
+    "source": "https://en.wikipedia.org/w/index.php?title=TOPS-20&oldid=1338749769",
+    "timestamp": "2026-02-17T00:33:37Z",
+    "title": "TOPS-20"
+  },
+  "systems/tos-360": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363582296,
+    "source": "https://en.wikipedia.org/w/index.php?title=DOS/360_and_successors&oldid=1363582296",
+    "timestamp": "2026-07-11T02:54:50Z",
+    "title": "DOS/360 and successors"
+  },
+  "systems/toshiba-4690-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362283562,
+    "source": "https://en.wikipedia.org/w/index.php?title=4690_Operating_System&oldid=1362283562",
+    "timestamp": "2026-07-02T23:36:09Z",
+    "title": "4690 Operating System"
+  },
+  "systems/towns-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363826476,
+    "source": "https://en.wikipedia.org/w/index.php?title=FM_Towns&oldid=1363826476",
+    "timestamp": "2026-07-12T18:17:34Z",
+    "title": "FM Towns"
+  },
+  "systems/tpf": {
+    "associations": [],
+    "language": "en",
+    "revision": 1355101546,
+    "source": "https://en.wikipedia.org/w/index.php?title=Transaction_Processing_Facility&oldid=1355101546",
+    "timestamp": "2026-05-19T23:26:24Z",
+    "title": "Transaction Processing Facility"
+  },
+  "systems/tripos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364330796,
+    "source": "https://en.wikipedia.org/w/index.php?title=TRIPOS&oldid=1364330796",
+    "timestamp": "2026-07-15T23:37:06Z",
+    "title": "TRIPOS"
+  },
+  "systems/trisquel-gnu-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365031711,
+    "source": "https://en.wikipedia.org/w/index.php?title=Trisquel&oldid=1365031711",
+    "timestamp": "2026-07-19T21:46:59Z",
+    "title": "Trisquel"
+  },
+  "systems/trsdos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361137847,
+    "source": "https://en.wikipedia.org/w/index.php?title=TRSDOS&oldid=1361137847",
+    "timestamp": "2026-06-25T22:14:28Z",
+    "title": "TRSDOS"
+  },
+  "systems/trueos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359594091,
+    "source": "https://en.wikipedia.org/w/index.php?title=TrueOS&oldid=1359594091",
+    "timestamp": "2026-06-16T03:47:36Z",
+    "title": "TrueOS"
+  },
+  "systems/trusted-solaris": {
+    "associations": [],
+    "language": "en",
+    "revision": 1289586668,
+    "source": "https://en.wikipedia.org/w/index.php?title=Trusted_Solaris&oldid=1289586668",
+    "timestamp": "2025-05-09T14:59:48Z",
+    "title": "Trusted Solaris"
+  },
+  "systems/tss-360": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363862050,
+    "source": "https://en.wikipedia.org/w/index.php?title=TSS_%28operating_system%29&oldid=1363862050",
+    "timestamp": "2026-07-12T23:13:24Z",
+    "title": "TSS (operating system)"
+  },
+  "systems/tss-370": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363862050,
+    "source": "https://en.wikipedia.org/w/index.php?title=TSS_%28operating_system%29&oldid=1363862050",
+    "timestamp": "2026-07-12T23:13:24Z",
+    "title": "TSS (operating system)"
+  },
+  "systems/tsurugi-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Tsurugi Linux (Tsurugi LAB)"
+  },
+  "systems/tsx-32": {
+    "associations": [],
+    "language": "en",
+    "revision": 1282533312,
+    "source": "https://en.wikipedia.org/w/index.php?title=TSX-32&oldid=1282533312",
+    "timestamp": "2025-03-27T00:33:00Z",
+    "title": "TSX-32"
+  },
+  "systems/tunes-os": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Tunes OS"
+  },
+  "systems/tunis": {
+    "associations": [],
+    "language": "en",
+    "revision": 1346822606,
+    "source": "https://en.wikipedia.org/w/index.php?title=TUNIS&oldid=1346822606",
+    "timestamp": "2026-04-03T03:58:50Z",
+    "title": "TUNIS"
+  },
+  "systems/tuquito": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Tuquito"
+  },
+  "systems/turbodos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1346954685,
+    "source": "https://en.wikipedia.org/w/index.php?title=TurboDOS&oldid=1346954685",
+    "timestamp": "2026-04-03T21:06:04Z",
+    "title": "TurboDOS"
+  },
+  "systems/tvos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365677663,
+    "source": "https://en.wikipedia.org/w/index.php?title=TvOS&oldid=1365677663",
+    "timestamp": "2026-07-23T20:35:19Z",
+    "title": "TvOS"
+  },
+  "systems/ubuntu-kylin": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364976229,
+    "source": "https://en.wikipedia.org/w/index.php?title=Ubuntu_Kylin&oldid=1364976229",
+    "timestamp": "2026-07-19T16:31:55Z",
+    "title": "Ubuntu Kylin"
+  },
+  "systems/ubuntu-touch": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362034772,
+    "source": "https://en.wikipedia.org/w/index.php?title=Ubuntu_Touch&oldid=1362034772",
+    "timestamp": "2026-07-01T15:29:25Z",
+    "title": "Ubuntu Touch"
+  },
+  "systems/ucsd-p-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1355918687,
+    "source": "https://en.wikipedia.org/w/index.php?title=UCSD_Pascal&oldid=1355918687",
+    "timestamp": "2026-05-24T18:02:14Z",
+    "title": "UCSD Pascal"
+  },
+  "systems/ufficio-zero-linux-os": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Ufficio Zero Linux OS"
+  },
+  "systems/ultrix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1317735812,
+    "source": "https://en.wikipedia.org/w/index.php?title=Ultrix&oldid=1317735812",
+    "timestamp": "2025-10-19T19:03:09Z",
+    "title": "Ultrix"
+  },
+  "systems/unicos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1230297160,
+    "source": "https://en.wikipedia.org/w/index.php?title=UNICOS&oldid=1230297160",
+    "timestamp": "2024-06-21T22:03:25Z",
+    "title": "UNICOS"
+  },
+  "systems/uniflex": {
+    "associations": [],
+    "language": "en",
+    "revision": 1334539164,
+    "source": "https://en.wikipedia.org/w/index.php?title=UniFLEX&oldid=1334539164",
+    "timestamp": "2026-01-24T04:23:03Z",
+    "title": "UniFLEX"
+  },
+  "systems/uniontech-os": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "统信操作系统"
+  },
+  "systems/universal-time-sharing-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359719631,
+    "source": "https://en.wikipedia.org/w/index.php?title=Universal_Time-Sharing_System&oldid=1359719631",
+    "timestamp": "2026-06-16T20:33:15Z",
+    "title": "Universal Time-Sharing System"
+  },
+  "systems/university-of-michigan-executive-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1213202553,
+    "source": "https://en.wikipedia.org/w/index.php?title=University_of_Michigan_Executive_System&oldid=1213202553",
+    "timestamp": "2024-03-11T17:10:18Z",
+    "title": "University of Michigan Executive System"
+  },
+  "systems/unix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1366155301,
+    "source": "https://en.wikipedia.org/w/index.php?title=Unix&oldid=1366155301",
+    "timestamp": "2026-07-26T16:30:47Z",
+    "title": "Unix"
+  },
+  "systems/unix-system-v": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365927215,
+    "source": "https://en.wikipedia.org/w/index.php?title=UNIX_System_V&oldid=1365927215",
+    "timestamp": "2026-07-25T06:52:56Z",
+    "title": "UNIX System V"
+  },
+  "systems/unixware": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362559744,
+    "source": "https://en.wikipedia.org/w/index.php?title=UnixWare&oldid=1362559744",
+    "timestamp": "2026-07-04T19:47:33Z",
+    "title": "UnixWare"
+  },
+  "systems/unnamed-netbsd-variant-for-airport-extreme-and-time-capsule": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "Unnamed NetBSD variant for Airport Extreme and Time Capsule"
+  },
+  "systems/unununium": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364889105,
+    "source": "https://en.wikipedia.org/w/index.php?title=Roentgenium&oldid=1364889105",
+    "timestamp": "2026-07-19T02:42:46Z",
+    "title": "Roentgenium"
+  },
+  "systems/uruk-gnu-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361747256,
+    "source": "https://en.wikipedia.org/w/index.php?title=Uruk_GNU/Linux&oldid=1361747256",
+    "timestamp": "2026-06-29T20:50:11Z",
+    "title": "Uruk GNU/Linux"
+  },
+  "systems/uts": {
+    "associations": [],
+    "language": "en",
+    "revision": 1340137468,
+    "source": "https://en.wikipedia.org/w/index.php?title=Amdahl_UTS&oldid=1340137468",
+    "timestamp": "2026-02-24T03:35:19Z",
+    "title": "Amdahl UTS"
+  },
+  "systems/ututo": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362303300,
+    "source": "https://en.wikipedia.org/w/index.php?title=Ututo&oldid=1362303300",
+    "timestamp": "2026-07-03T02:02:41Z",
+    "title": "Ututo"
+  },
+  "systems/v": {
+    "associations": [],
+    "language": "en",
+    "revision": 1343725389,
+    "source": "https://en.wikipedia.org/w/index.php?title=V_%28operating_system%29&oldid=1343725389",
+    "timestamp": "2026-03-16T00:59:36Z",
+    "title": "V (operating system)"
+  },
+  "systems/versados": {
+    "associations": [],
+    "language": "en",
+    "revision": 1329271667,
+    "source": "https://en.wikipedia.org/w/index.php?title=VERSAdos&oldid=1329271667",
+    "timestamp": "2025-12-24T22:29:30Z",
+    "title": "VERSAdos"
+  },
+  "systems/verve": {
+    "associations": [],
+    "language": "en",
+    "revision": 1252250492,
+    "source": "https://en.wikipedia.org/w/index.php?title=Verve_%28operating_system%29&oldid=1252250492",
+    "timestamp": "2024-10-20T14:27:40Z",
+    "title": "Verve (operating system)"
+  },
+  "systems/virtual-machine-facility-370": {
+    "associations": [],
+    "language": "en",
+    "revision": 1366104778,
+    "source": "https://en.wikipedia.org/w/index.php?title=VM_%28operating_system%29&oldid=1366104778",
+    "timestamp": "2026-07-26T08:16:29Z",
+    "title": "VM (operating system)"
+  },
+  "systems/visionos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365670757,
+    "source": "https://en.wikipedia.org/w/index.php?title=VisionOS&oldid=1365670757",
+    "timestamp": "2026-07-23T19:45:42Z",
+    "title": "VisionOS"
+  },
+  "systems/visopsys": {
+    "associations": [],
+    "language": "en",
+    "revision": 1288170733,
+    "source": "https://en.wikipedia.org/w/index.php?title=Visopsys&oldid=1288170733",
+    "timestamp": "2025-04-30T22:50:32Z",
+    "title": "Visopsys"
+  },
+  "systems/vm2000": {
+    "associations": [],
+    "language": "en",
+    "revision": 1349226148,
+    "source": "https://en.wikipedia.org/w/index.php?title=BS2000&oldid=1349226148",
+    "timestamp": "2026-04-16T09:25:51Z",
+    "title": "BS2000"
+  },
+  "systems/vms": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363459274,
+    "source": "https://en.wikipedia.org/w/index.php?title=OpenVMS&oldid=1363459274",
+    "timestamp": "2026-07-10T08:52:31Z",
+    "title": "OpenVMS"
+  },
+  "systems/vps-vm": {
+    "associations": [],
+    "language": "en",
+    "revision": 1354811245,
+    "source": "https://en.wikipedia.org/w/index.php?title=VPS/VM&oldid=1354811245",
+    "timestamp": "2026-05-18T10:58:16Z",
+    "title": "VPS/VM"
+  },
+  "systems/vrx": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363537293,
+    "source": "https://en.wikipedia.org/w/index.php?title=NCR_VRX&oldid=1363537293",
+    "timestamp": "2026-07-10T20:52:18Z",
+    "title": "NCR VRX"
+  },
+  "systems/vs-9": {
+    "associations": [],
+    "language": "en",
+    "revision": 1321254741,
+    "source": "https://en.wikipedia.org/w/index.php?title=VS/9&oldid=1321254741",
+    "timestamp": "2025-11-09T15:44:49Z",
+    "title": "VS/9"
+  },
+  "systems/vsta": {
+    "associations": [],
+    "language": "en",
+    "revision": 1252238859,
+    "source": "https://en.wikipedia.org/w/index.php?title=VSTa&oldid=1252238859",
+    "timestamp": "2024-10-20T13:19:04Z",
+    "title": "VSTa"
+  },
+  "systems/vxworks": {
+    "associations": [],
+    "language": "en",
+    "revision": 1357718236,
+    "source": "https://en.wikipedia.org/w/index.php?title=VxWorks&oldid=1357718236",
+    "timestamp": "2026-06-04T07:46:06Z",
+    "title": "VxWorks"
+  },
+  "systems/waha-linux": {
+    "associations": [],
+    "language": "en",
+    "revision": null,
+    "source": null,
+    "timestamp": null,
+    "title": "واحــة لينكس"
+  },
+  "systems/waits": {
+    "associations": [],
+    "language": "en",
+    "revision": 1320795550,
+    "source": "https://en.wikipedia.org/w/index.php?title=WAITS&oldid=1320795550",
+    "timestamp": "2025-11-06T20:35:01Z",
+    "title": "WAITS"
+  },
+  "systems/watchos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365705055,
+    "source": "https://en.wikipedia.org/w/index.php?title=WatchOS&oldid=1365705055",
+    "timestamp": "2026-07-23T23:59:12Z",
+    "title": "WatchOS"
+  },
+  "systems/wear-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1359719574,
+    "source": "https://en.wikipedia.org/w/index.php?title=Wear_OS&oldid=1359719574",
+    "timestamp": "2026-06-16T20:32:54Z",
+    "title": "Wear OS"
+  },
+  "systems/webos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364975951,
+    "source": "https://en.wikipedia.org/w/index.php?title=WebOS&oldid=1364975951",
+    "timestamp": "2026-07-19T16:29:40Z",
+    "title": "WebOS"
+  },
+  "systems/whale-os": {
+    "associations": [],
+    "language": "ko",
+    "revision": 40002181,
+    "source": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+    "timestamp": "2025-06-12T01:57:20Z",
+    "title": "웨일 OS"
+  },
+  "systems/wii-system-software": {
+    "associations": [],
+    "language": "en",
+    "revision": 1366120287,
+    "source": "https://en.wikipedia.org/w/index.php?title=Wii_system_software&oldid=1366120287",
+    "timestamp": "2026-07-26T11:15:36Z",
+    "title": "Wii system software"
+  },
+  "systems/wii-u-system-software": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364113187,
+    "source": "https://en.wikipedia.org/w/index.php?title=Wii_U_system_software&oldid=1364113187",
+    "timestamp": "2026-07-14T15:49:08Z",
+    "title": "Wii U system software"
+  },
+  "systems/windows": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365033821,
+    "source": "https://en.wikipedia.org/w/index.php?title=Microsoft_Windows&oldid=1365033821",
+    "timestamp": "2026-07-19T21:58:37Z",
+    "title": "Microsoft Windows"
+  },
+  "systems/windows-ce": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362650679,
+    "source": "https://en.wikipedia.org/w/index.php?title=Windows_CE&oldid=1362650679",
+    "timestamp": "2026-07-05T11:25:26Z",
+    "title": "Windows CE"
+  },
+  "systems/windows-iot": {
+    "associations": [],
+    "language": "en",
+    "revision": 1356308059,
+    "source": "https://en.wikipedia.org/w/index.php?title=Windows_IoT&oldid=1356308059",
+    "timestamp": "2026-05-27T00:29:14Z",
+    "title": "Windows IoT"
+  },
+  "systems/windows-mobile": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363988442,
+    "source": "https://en.wikipedia.org/w/index.php?title=Windows_Mobile&oldid=1363988442",
+    "timestamp": "2026-07-13T19:45:36Z",
+    "title": "Windows Mobile"
+  },
+  "systems/windows-nt": {
+    "associations": [],
+    "language": "en",
+    "revision": 1365202412,
+    "source": "https://en.wikipedia.org/w/index.php?title=Windows_NT&oldid=1365202412",
+    "timestamp": "2026-07-20T23:11:08Z",
+    "title": "Windows NT"
+  },
+  "systems/windows-phone": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364594999,
+    "source": "https://en.wikipedia.org/w/index.php?title=Windows_Phone&oldid=1364594999",
+    "timestamp": "2026-07-17T12:18:07Z",
+    "title": "Windows Phone"
+  },
+  "systems/wombat": {
+    "associations": [],
+    "language": "en",
+    "revision": 1345500080,
+    "source": "https://en.wikipedia.org/w/index.php?title=Wombat_%28operating_system%29&oldid=1345500080",
+    "timestamp": "2026-03-26T11:39:05Z",
+    "title": "Wombat (operating system)"
+  },
+  "systems/workplace-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364662163,
+    "source": "https://en.wikipedia.org/w/index.php?title=Workplace_OS&oldid=1364662163",
+    "timestamp": "2026-07-17T20:24:34Z",
+    "title": "Workplace OS"
+  },
+  "systems/xbox-system-software": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364824394,
+    "source": "https://en.wikipedia.org/w/index.php?title=Xbox_system_software&oldid=1364824394",
+    "timestamp": "2026-07-18T18:48:34Z",
+    "title": "Xbox system software"
+  },
+  "systems/xenix": {
+    "associations": [],
+    "language": "en",
+    "revision": 1361730504,
+    "source": "https://en.wikipedia.org/w/index.php?title=Xenix&oldid=1361730504",
+    "timestamp": "2026-06-29T18:52:48Z",
+    "title": "Xenix"
+  },
+  "systems/xerox-operating-system": {
+    "associations": [],
+    "language": "en",
+    "revision": 1166030804,
+    "source": "https://en.wikipedia.org/w/index.php?title=Xerox_Operating_System&oldid=1166030804",
+    "timestamp": "2023-07-18T23:56:39Z",
+    "title": "Xerox Operating System"
+  },
+  "systems/xinu": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364045407,
+    "source": "https://en.wikipedia.org/w/index.php?title=Xinu&oldid=1364045407",
+    "timestamp": "2026-07-14T04:08:43Z",
+    "title": "Xinu"
+  },
+  "systems/xts-400": {
+    "associations": [],
+    "language": "en",
+    "revision": 1353339470,
+    "source": "https://en.wikipedia.org/w/index.php?title=XTS-400&oldid=1353339470",
+    "timestamp": "2026-05-09T18:02:12Z",
+    "title": "XTS-400"
+  },
+  "systems/xv6": {
+    "associations": [],
+    "language": "en",
+    "revision": 1344663345,
+    "source": "https://en.wikipedia.org/w/index.php?title=Xv6&oldid=1344663345",
+    "timestamp": "2026-03-21T20:52:34Z",
+    "title": "Xv6"
+  },
+  "systems/z-dos": {
+    "associations": [],
+    "language": "en",
+    "revision": 1364653271,
+    "source": "https://en.wikipedia.org/w/index.php?title=Z-DOS&oldid=1364653271",
+    "timestamp": "2026-07-17T19:23:49Z",
+    "title": "Z-DOS"
+  },
+  "systems/z-os": {
+    "associations": [],
+    "language": "en",
+    "revision": 1363215070,
+    "source": "https://en.wikipedia.org/w/index.php?title=Z/OS&oldid=1363215070",
+    "timestamp": "2026-07-08T19:42:50Z",
+    "title": "Z/OS"
+  },
+  "systems/z-tpf": {
+    "associations": [],
+    "language": "en",
+    "revision": 1355101546,
+    "source": "https://en.wikipedia.org/w/index.php?title=Transaction_Processing_Facility&oldid=1355101546",
+    "timestamp": "2026-05-19T23:26:24Z",
+    "title": "Transaction Processing Facility"
+  },
+  "systems/z-vm": {
+    "associations": [],
+    "language": "en",
+    "revision": 1300847215,
+    "source": "https://en.wikipedia.org/w/index.php?title=Z/VM&oldid=1300847215",
+    "timestamp": "2025-07-16T18:21:18Z",
+    "title": "Z/VM"
+  },
+  "systems/z-vse": {
+    "associations": [],
+    "language": "en",
+    "revision": 1318600410,
+    "source": "https://en.wikipedia.org/w/index.php?title=VSE_%28operating_system%29&oldid=1318600410",
+    "timestamp": "2025-10-24T21:22:21Z",
+    "title": "VSE (operating system)"
+  },
+  "systems/z80-rio": {
+    "associations": [],
+    "language": "en",
+    "revision": 1300849936,
+    "source": "https://en.wikipedia.org/w/index.php?title=Z80-RIO&oldid=1300849936",
+    "timestamp": "2025-07-16T18:37:37Z",
+    "title": "Z80-RIO"
+  },
+  "systems/zephyr": {
+    "associations": [],
+    "language": "en",
+    "revision": 1349006302,
+    "source": "https://en.wikipedia.org/w/index.php?title=Zephyr_%28operating_system%29&oldid=1349006302",
+    "timestamp": "2026-04-15T09:02:34Z",
+    "title": "Zephyr (operating system)"
+  },
+  "systems/zeroshell": {
+    "associations": [],
+    "language": "en",
+    "revision": 1362386967,
+    "source": "https://en.wikipedia.org/w/index.php?title=Zeroshell&oldid=1362386967",
+    "timestamp": "2026-07-03T16:47:55Z",
+    "title": "Zeroshell"
+  }
+}

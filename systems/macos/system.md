@@ -8,6 +8,9 @@ schema_version: "0.1"
 as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: Draft coverage record; no verified claim is asserted. }
 field_dispositions:
+  # BEGIN GENERATED TEXT EDITOR DISPOSITION
+  - { field: text_editors, disposition: documented, checked_at: 2026-07-26 }
+  # END GENERATED TEXT EDITOR DISPOSITION
   - { field: countries_of_origin, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: lifecycle_events, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: licenses, disposition: no-evidence-found, checked_at: 2026-07-26 }
@@ -72,6 +75,225 @@ first_pass_attributes:
     method: inferred-from-developer-country
     source: https://www.wikidata.org/wiki/Q312
 # END GENERATED ENWIKI INFOBOX
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: has-associations
+  note: One or more discovery relationships were found; provisional relationships
+    still require primary-source confirmation.
+text_editors:
+- name: Aquamacs
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q2859156
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Barry's Emacs
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q2885703
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: BBEdit
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q795617
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Bluefish
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q651027
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Codelobster
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q4036361
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: CotEditor
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q97186868
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: dte
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q88926112
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Eddie
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q5335795
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Edit
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q134540318
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Epsilon
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q5383949
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: GNU Emacs
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q1252773
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: GNU moe
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q3093311
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: GNU nano
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q306101
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: GNU Zile
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q3093309
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: iA Writer
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q5968467
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Kate
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q261933
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Kibi
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q104451372
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Kod
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q6425029
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Leo
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q6523506
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: MarkEdit
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q135840899
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: micro
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q62514269
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Notepadqq
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q50559933
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: novelWriter
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q104904049
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: StoryMill
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q7620368
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Sublime Text
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q267193
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: TeXShop
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q1417891
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Textadept
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q18388827
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: TextEdit
+  relationship: bundled-default
+  interface_style: graphical
+  source: https://support.apple.com/guide/textedit/welcome/mac
+  source_kind: vendor-documentation
+  assertion_status: documented
+- name: TextMate
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q2297533
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: The Hessling Editor
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q3521247
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Typora
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q48938027
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: UltraEdit
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q1305902
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Ulysses
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q3548159
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Xi
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q24817375
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Zed
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q112301707
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+# END GENERATED TEXT EDITORS
 ---
 
 ## Overview

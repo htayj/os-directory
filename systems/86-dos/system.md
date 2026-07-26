@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5, at: "2026-07-26T00:00:00-04:00" }
 schema_version: "0.1"
 as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: "Linked identity accepted for draft inventory; core facts remain unverified." }
-field_dispositions: [{ field: organizations, disposition: not-researched, checked_at: 2026-07-26 }, { field: countries_of_origin, disposition: not-researched, checked_at: 2026-07-26 }, { field: design_purposes, disposition: not-researched, checked_at: 2026-07-26 }, { field: development_status, disposition: unknown, checked_at: 2026-07-26 }, { field: lifecycle_events, disposition: not-researched, checked_at: 2026-07-26 }, { field: rights_regime, disposition: not-researched, checked_at: 2026-07-26 }, { field: licenses, disposition: not-researched, checked_at: 2026-07-26 }, { field: programming_languages, disposition: not-researched, checked_at: 2026-07-26 }, { field: system_organization, disposition: not-researched, checked_at: 2026-07-26 }, { field: kernels, disposition: not-researched, checked_at: 2026-07-26 }, { field: interfaces, disposition: not-researched, checked_at: 2026-07-26 }, { field: platforms, disposition: not-researched, checked_at: 2026-07-26 }]
+field_dispositions: [{field: text_editors, disposition: provisional, checked_at: '2026-07-26'}, {field: organizations, disposition: not-researched, checked_at: 2026-07-26}, {field: countries_of_origin, disposition: not-researched, checked_at: 2026-07-26}, {field: design_purposes, disposition: not-researched, checked_at: 2026-07-26}, {field: development_status, disposition: unknown, checked_at: 2026-07-26}, {field: lifecycle_events, disposition: not-researched, checked_at: 2026-07-26}, {field: rights_regime, disposition: not-researched, checked_at: 2026-07-26}, {field: licenses, disposition: not-researched, checked_at: 2026-07-26}, {field: programming_languages, disposition: not-researched, checked_at: 2026-07-26}, {field: system_organization, disposition: not-researched, checked_at: 2026-07-26}, {field: kernels, disposition: not-researched, checked_at: 2026-07-26}, {field: interfaces, disposition: not-researched, checked_at: 2026-07-26}, {field: platforms, disposition: not-researched, checked_at: 2026-07-26}]
 source_list: { title: "List of operating systems", revision: 1365063001, occurrences: [] }
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "86-DOS", kind: official, language: en, script: Latn, evidence: [wikipedia-list], assertion_status: provisional }]
@@ -41,6 +41,21 @@ first_pass_attributes:
     method: inferred-from-developer-country
     source: https://www.wikidata.org/wiki/Q1093670
 # END GENERATED ENWIKI INFOBOX
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: has-associations
+  note: One or more discovery relationships were found; provisional relationships
+    still require primary-source confirmation.
+text_editors:
+- name: EDLIN
+  relationship: bundled-default
+  interface_style: line
+  source: https://en.wikipedia.org/wiki/Edlin
+  source_kind: editor-history-secondary-reference
+  assertion_status: provisional
+# END GENERATED TEXT EDITORS
 ---
 
 # 86-DOS

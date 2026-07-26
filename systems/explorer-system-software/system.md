@@ -11,6 +11,9 @@ catalog_completeness:
   level: core
   note: Identity and release/platform boundaries were checked against contemporary TI manuals; unresolved chronology and kernel classification remain explicit.
 field_dispositions:
+  # BEGIN GENERATED TEXT EDITOR DISPOSITION
+  - { field: text_editors, disposition: documented, checked_at: 2026-07-26 }
+  # END GENERATED TEXT EDITOR DISPOSITION
   - field: first_release
     disposition: no-evidence-found
     checked_at: 2026-07-26
@@ -298,6 +301,21 @@ sources:
     language: en
     source_kind: discovery-secondary-reference
     accessed: 2026-07-26
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: has-associations
+  note: One or more discovery relationships were found; provisional relationships
+    still require primary-source confirmation.
+text_editors:
+- name: Zmacs
+  relationship: integral
+  interface_style: graphical
+  source: https://bitsavers.org/pdf/ti/explorer/2243134-0001A_Glossary_6-87.pdf
+  source_kind: contemporary-system-manual
+  assertion_status: documented
+# END GENERATED TEXT EDITORS
 ---
 
 # Overview

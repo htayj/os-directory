@@ -9,6 +9,9 @@ schema_version: "0.1"
 as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: "First-pass lineage record; no claim is marked verified." }
 field_dispositions:
+  # BEGIN GENERATED TEXT EDITOR DISPOSITION
+  - { field: text_editors, disposition: provisional, checked_at: 2026-07-26 }
+  # END GENERATED TEXT EDITOR DISPOSITION
   - { field: rights_regime, disposition: disputed, checked_at: 2026-07-26 }
   - { field: licenses, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: gui_status, disposition: not-applicable, checked_at: 2026-07-26, reason: "The reviewed early system is command-oriented." }
@@ -63,6 +66,33 @@ first_pass_attributes:
     method: inferred-from-developer-country
     source: https://www.wikidata.org/wiki/Q217365
 # END GENERATED ENWIKI INFOBOX
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: has-associations
+  note: One or more discovery relationships were found; provisional relationships
+    still require primary-source confirmation.
+text_editors:
+- name: ed
+  relationship: native
+  interface_style: line
+  source: https://en.wikipedia.org/wiki/Ed_(software)
+  source_kind: editor-history-secondary-reference
+  assertion_status: provisional
+- name: Spacemacs
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q28687323
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: The Hessling Editor
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q3521247
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+# END GENERATED TEXT EDITORS
 ---
 
 # Unix

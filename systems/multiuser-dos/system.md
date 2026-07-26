@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5, at: "2026-07-26T00:00:00-04:00" }
 schema_version: "0.1"
 as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: "First-pass record; no claim is marked verified." }
-field_dispositions: [{ field: countries_of_origin, disposition: not-researched, checked_at: 2026-07-26 }, { field: lifecycle_events, disposition: not-researched, checked_at: 2026-07-26 }, { field: rights_regime, disposition: not-researched, checked_at: 2026-07-26 }, { field: licenses, disposition: not-researched, checked_at: 2026-07-26 }, { field: programming_languages, disposition: not-researched, checked_at: 2026-07-26 }, { field: system_organization, disposition: not-researched, checked_at: 2026-07-26 }, { field: kernels, disposition: not-researched, checked_at: 2026-07-26 }]
+field_dispositions: [{field: text_editors, disposition: no-evidence-found, checked_at: '2026-07-26'}, {field: countries_of_origin, disposition: not-researched, checked_at: 2026-07-26}, {field: lifecycle_events, disposition: not-researched, checked_at: 2026-07-26}, {field: rights_regime, disposition: not-researched, checked_at: 2026-07-26}, {field: licenses, disposition: not-researched, checked_at: 2026-07-26}, {field: programming_languages, disposition: not-researched, checked_at: 2026-07-26}, {field: system_organization, disposition: not-researched, checked_at: 2026-07-26}, {field: kernels, disposition: not-researched, checked_at: 2026-07-26}]
 source_list: { title: "List of operating systems", revision: 1365063001, occurrences: [{ section: [Proprietary, "Digital Research, Inc."], label: "Multiuser DOS", position: 140, target: "https://en.wikipedia.org/wiki/Multiuser_DOS", depth: 2 }, { section: ["Disk operating systems (DOS)"], label: "Multiuser DOS", position: 676, target: "https://en.wikipedia.org/wiki/Multiuser_DOS", depth: 1 }] }
 discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
 names: [{ value: "Multiuser DOS", kind: official, language: en, script: Latn, evidence: [discovery], assertion_status: provisional }]
@@ -45,6 +45,16 @@ first_pass_attributes:
     method: inferred-from-developer-headquarters
     source: https://www.wikidata.org/wiki/Q117514
 # END GENERATED ENWIKI INFOBOX
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: no-evidence-found
+  note: No editor relationship was found in the linked Wikipedia page or direct Wikidata
+    text-editor platform statements; primary manuals and distribution manifests still
+    require research.
+text_editors: []
+# END GENERATED TEXT EDITORS
 ---
 
 # Multiuser DOS

@@ -8,6 +8,9 @@ schema_version: "0.1"
 as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: Draft coverage record; no verified claim is asserted. }
 field_dispositions:
+  # BEGIN GENERATED TEXT EDITOR DISPOSITION
+  - { field: text_editors, disposition: documented, checked_at: 2026-07-26 }
+  # END GENERATED TEXT EDITOR DISPOSITION
   - { field: organizations, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: countries_of_origin, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: design_purposes, disposition: not-researched, checked_at: 2026-07-26 }
@@ -60,6 +63,51 @@ first_pass_attributes:
     kernel_type: Monolithic with dynamically loadable modules
     license: FreeBSD License , FreeBSD Documentation License
 # END GENERATED ENWIKI INFOBOX
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: has-associations
+  note: One or more discovery relationships were found; provisional relationships
+    still require primary-source confirmation.
+text_editors:
+- name: Bluefish
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q651027
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: dte
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q88926112
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: ee
+  relationship: bundled-default
+  interface_style: full-screen-text
+  source: https://man.freebsd.org/cgi/man.cgi?ee(1)
+  source_kind: official-system-manual
+  assertion_status: documented
+- name: Epsilon
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q5383949
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: vi
+  relationship: bundled-default
+  interface_style: full-screen-text
+  source: https://en.wikipedia.org/wiki/Vi_(text_editor)
+  source_kind: editor-history-secondary-reference
+  assertion_status: provisional
+- name: Zed
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q112301707
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+# END GENERATED TEXT EDITORS
 ---
 
 ## Overview

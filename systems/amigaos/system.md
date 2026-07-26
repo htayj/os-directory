@@ -9,6 +9,9 @@ schema_version: "0.1"
 as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: Draft coverage record; no verified claim is asserted. }
 field_dispositions:
+  # BEGIN GENERATED TEXT EDITOR DISPOSITION
+  - { field: text_editors, disposition: documented, checked_at: 2026-07-26 }
+  # END GENERATED TEXT EDITOR DISPOSITION
   - { field: programming_languages, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: kernels, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: licenses, disposition: no-evidence-found, checked_at: 2026-07-26, reason: Current rights arrangements are time-scoped and not fully researched. }
@@ -83,6 +86,33 @@ first_pass_attributes:
     method: inferred-from-developer-headquarters
     source: https://www.wikidata.org/wiki/Q9005
 # END GENERATED ENWIKI INFOBOX
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: has-associations
+  note: One or more discovery relationships were found; provisional relationships
+    still require primary-source confirmation.
+text_editors:
+- name: CygnusEd
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q5199203
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: Ed
+  relationship: bundled-default
+  interface_style: full-screen-text
+  source: https://wiki.amigaos.net/wiki/AmigaOS_Manual:_AmigaDOS_Command_Reference#Ed
+  source_kind: official-system-manual
+  assertion_status: documented
+- name: MEmacs
+  relationship: bundled-default
+  interface_style: full-screen-text
+  source: https://wiki.amigaos.net/wiki/AmigaOS_Manual:_AmigaDOS_Command_Reference#MEmacs
+  source_kind: official-system-manual
+  assertion_status: documented
+# END GENERATED TEXT EDITORS
 ---
 
 ## Overview

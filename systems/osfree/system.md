@@ -8,6 +8,9 @@ schema_version: "0.1"
 as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: Draft coverage record; no verified claim is asserted. }
 field_dispositions:
+  # BEGIN GENERATED TEXT EDITOR DISPOSITION
+  - { field: text_editors, disposition: provisional, checked_at: 2026-07-26 }
+  # END GENERATED TEXT EDITOR DISPOSITION
   - { field: organizations, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: countries_of_origin, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: design_purposes, disposition: not-researched, checked_at: 2026-07-26 }
@@ -60,6 +63,51 @@ first_pass_attributes:
     method: inferred-from-developer-country
     source: https://www.wikidata.org/wiki/Q2283
 # END GENERATED ENWIKI INFOBOX
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-26'
+  disposition: has-associations
+  note: One or more discovery relationships were found; provisional relationships
+    still require primary-source confirmation.
+text_editors:
+- name: BRIEF
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q4967008
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: E
+  relationship: historically-prominent
+  interface_style: full-screen-text
+  source: https://en.wikipedia.org/wiki/E_(PC_DOS)
+  source_kind: editor-history-secondary-reference
+  assertion_status: provisional
+- name: EPM
+  relationship: historically-prominent
+  interface_style: graphical
+  source: https://en.wikipedia.org/wiki/EPM_(software)
+  source_kind: editor-history-secondary-reference
+  assertion_status: provisional
+- name: Epsilon
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q5383949
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: The Hessling Editor
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q3521247
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+- name: The SemWare Editor
+  relationship: supported-platform
+  interface_style: null
+  source: https://www.wikidata.org/wiki/Q7763278
+  source_kind: wikidata-P306-operating-system
+  assertion_status: provisional
+# END GENERATED TEXT EDITORS
 ---
 
 ## Overview
