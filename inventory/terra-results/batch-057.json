@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":57,"results":[
+{"candidate_id":"visopsys","disposition":"included-system","path":"systems/visopsys/","canonical_title":"Visopsys","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"quantix","disposition":"needs-review","path":null,"canonical_title":"Quantix","notes":"Unlinked short label; identity needs source confirmation."},
+{"candidate_id":"9front","disposition":"included-system","path":"systems/9front/","canonical_title":"9front","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"research-unix","disposition":"included-system","path":"systems/research-unix/","canonical_title":"Research Unix","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"sprite","disposition":"included-system","path":"systems/sprite/","canonical_title":"Sprite","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"accent","disposition":"not-an-operating-system","path":null,"canonical_title":"Accent kernel","notes":"Kernel identity, not a full OS concept."},
+{"candidate_id":"amoeba","disposition":"included-system","path":"systems/amoeba/","canonical_title":"Amoeba","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"barrelfish","disposition":"included-system","path":"systems/barrelfish/","canonical_title":"Barrelfish","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"croquet","disposition":"grouping","path":null,"canonical_title":"Croquet Project","notes":"Project umbrella, not a distinct OS identity."},
+{"candidate_id":"eros","disposition":"included-system","path":"systems/eros/","canonical_title":"Extremely Reliable Operating System","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}

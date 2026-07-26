@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":56,"results":[
+{"candidate_id":"incompatible-timesharing-system","disposition":"included-system","path":"systems/incompatible-timesharing-system/","canonical_title":"Incompatible Timesharing System","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"magic","disposition":"included-system","path":"systems/magic/","canonical_title":"MagiC","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"mint","disposition":"included-system","path":"systems/mint/","canonical_title":"MiNT","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"openharmony","disposition":"included-system","path":"systems/openharmony/","canonical_title":"OpenHarmony","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"osfree","disposition":"included-system","path":"systems/osfree/","canonical_title":"osFree","notes":"Distinct OS/2-derived project identity."},
+{"candidate_id":"osv","disposition":"included-system","path":"systems/osv/","canonical_title":"OSv","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"phantom-os","disposition":"included-system","path":"systems/phantom-os/","canonical_title":"Phantom OS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"reactos","disposition":"included-system","path":"systems/reactos/","canonical_title":"ReactOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"redacted-os","disposition":"needs-review","path":null,"canonical_title":"Redacted OS","notes":"Unlinked label requiring identity evidence."},
+{"candidate_id":"sharpos","disposition":"included-system","path":"systems/sharpos/","canonical_title":"SharpOS","notes":"Distinct linked operating-system identity."}
+]}

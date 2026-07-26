@@ -1,0 +1,3 @@
+# MagiC Artifacts
+
+No exact artifacts cataloged yet.
