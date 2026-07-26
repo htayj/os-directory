@@ -142,6 +142,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [EulerOS](euleros/) - Draft operating-system identity pending core research.
 * [EXEC 8](exec-8/) - Draft inventory record for EXEC 8.
 * [Executive](executive/) - Draft inventory record for Executive.
+* [Explorer System Software](explorer-system-software/) - Texas Instruments' native Lisp-machine operating system and integrated software-development environment for the Explorer family.
 * [Extremely Reliable Operating System](eros/) - Draft operating-system identity pending core research.
 * [ExtremeWare](extremeware/) - Draft inventory record for ExtremeWare.
 * [ExtremeXOS](extremexos/) - Draft inventory record for ExtremeXOS.

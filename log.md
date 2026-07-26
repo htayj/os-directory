@@ -2,6 +2,9 @@
 
 ## 2026-07-26
 
+* **TI Explorer identity**: Resolved the English list's company-level Texas Instruments entry into the separately evidenced Explorer System Software operating-system lineage.
+* **TI Explorer boundaries**: Distinguished the native Lisp-machine system software from Symbolics Genera, Lisp Machine Lisp as a language, TI System V on Explorer LX, and the Macintosh host environment used by microExplorer.
+* **TI Explorer interface**: Added Explorer Window System as an integral but separately documented window-system concept, plus a release record for Explorer System Software 4.1.
 * **Multilingual coverage**: Compared ten native-language discovery corpora against the frozen English baseline, in addition to the separate Russian/Elbrus pass.
 * **Multilingual catalog**: Added 91 supplemental system records across 12 non-overlapping Terra first-pass batches while preserving native labels, scripts, languages, and discovery sources.
 * **Multilingual dispositions**: Retained 18 needs-review identities, 11 releases, 8 aliases, 4 groupings, and 4 non-OS discoveries outside the system catalog.

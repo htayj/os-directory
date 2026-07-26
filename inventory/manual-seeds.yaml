@@ -58,3 +58,16 @@ candidates:
     related_candidates: [elbrus-linux]
     sources:
       - https://www.mcst.ru/elbrus_os
+
+  - candidate_id: explorer-system-software
+    native_label: Explorer System Software
+    language: en
+    method: hardware-ecosystem
+    proposed_identity: Texas Instruments Lisp-machine operating-system and development-environment lineage
+    disposition: included-system
+    context: The English-list candidate normalized to Texas Instruments and was correctly rejected as a company. TI's manuals identify a concrete, versioned Explorer System Software product with a kernel, bootable load bands, a window system, filesystems, networking, and programming tools. It is neither the Explorer hardware nor the Lisp Machine Lisp language.
+    related_candidates: [ti-system-v, explorer-window-system]
+    sources:
+      - https://bitsavers.org/pdf/ti/explorer/2549844-0001C_4.1relNotes.pdf
+      - https://bitsavers.org/pdf/ti/explorer/2243134-0001A_Glossary_6-87.pdf
+      - https://bitsavers.org/pdf/ti/microexplorer/microEXPLORER_Brochure.pdf

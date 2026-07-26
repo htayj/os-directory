@@ -10,9 +10,10 @@ their releases, surviving artifacts, creators, and hardware contexts.
 The frozen English Wikipedia baseline is fully dispositioned: 754 normalized
 candidates from 901 list occurrences. A separate native-language discovery
 release covers ten non-English language traditions plus the Russian/Elbrus
-ecosystem pass. The bundle contains 529 system-lineage records: 438 from the
-English baseline and Elbrus seed, plus 91 systems found by the multilingual
-comparison. Releases, aliases, groupings, non-OS items, and unresolved
+ecosystem pass. The bundle contains 530 system-lineage records: 438 from the
+English baseline and Elbrus seed, 91 systems found by the multilingual
+comparison, and the source-resolved TI Explorer System Software lineage.
+Releases, aliases, groupings, non-OS items, and unresolved
 identities remain explicit inventory results rather than being forced into
 system records.
 
