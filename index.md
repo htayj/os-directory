@@ -8,9 +8,13 @@ An Open Knowledge Format bundle for documenting historical operating systems,
 their releases, surviving artifacts, creators, and hardware contexts.
 
 The frozen English Wikipedia baseline is fully dispositioned: 754 normalized
-candidates from 901 list occurrences. The bundle currently contains 438
-system-lineage records, including the supplemental Elbrus Linux record, plus
-explicit release, alias, grouping, non-OS, and unresolved-identity results.
+candidates from 901 list occurrences. A separate native-language discovery
+release covers ten non-English language traditions plus the Russian/Elbrus
+ecosystem pass. The bundle contains 529 system-lineage records: 438 from the
+English baseline and Elbrus seed, plus 91 systems found by the multilingual
+comparison. Releases, aliases, groupings, non-OS items, and unresolved
+identities remain explicit inventory results rather than being forced into
+system records.
 
 # Catalog
 

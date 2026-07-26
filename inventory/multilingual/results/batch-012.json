@@ -1,0 +1,11 @@
+{
+  "schema_version": "0.1",
+  "batch": 12,
+  "manifest": "inventory/multilingual/manifests/batch-012.json",
+  "generated_at": "2026-07-26",
+  "results": [
+    {"candidate_id":"startos","disposition":"included-system","path":"systems/startos/","title":"起点操作系统","notes":"China country field is direct manifest evidence; predecessor naming remains for lifecycle research."},
+    {"candidate_id":"ubuntu-kylin","disposition":"included-system","path":"systems/ubuntu-kylin/","title":"优麒麟","notes":"China country field is direct manifest evidence; Ubuntu-flavor relationship remains for later research."},
+    {"candidate_id":"uniontech-os","disposition":"included-system","path":"systems/uniontech-os/","title":"统信操作系统","notes":"China country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."}
+  ]
+}

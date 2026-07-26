@@ -66,6 +66,17 @@ sources:
   - { id: kfupm-arabian-linux, resource: "https://faculty.kfupm.edu.sa/ICS/muhtaseb/Teaching/ACStLect.pdf", title: "Arabian Linux", source_kind: arabic-university-course-material }
   - { id: hilali-community, resource: "https://www.linuxac.org/node/84", title: "توزيعة هلال Helal لينُكس العربية", source_kind: arabic-community-archive }
   - { id: sabily-ubuntu, resource: "https://wiki.ubuntu.com/DerivativeTeam/Derivatives/Sabily", title: "Sabily derivative record", source_kind: upstream-project-wiki }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: haydar-linux
+  wikidata_entity: null
+  source: null
+  assertion_status: unknown
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields: {}
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
 ---
 
 # حيدر لينكس (Haydar Linux)

@@ -1,0 +1,488 @@
+{
+  "https://en.wikipedia.org/wiki/Asianux": {
+    "fetch_status": "ok",
+    "fields": {
+      "last_updated": null,
+      "license": "Various",
+      "os_family": "Linux ( Unix-like )"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Asianux",
+    "resolved_url": "https://en.wikipedia.org/wiki/Asianux"
+  },
+  "https://en.wikipedia.org/wiki/CAINE_Linux": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "Giovanni \"Nanni\" Bassetti",
+      "development_status": "Current",
+      "first_release": "22 February 2009 ( 2009-02-22 )",
+      "gui": "MATE Desktop Environment",
+      "kernel_type": "Monolithic",
+      "last_updated": "14.0 \"lightstream\" / March 24, 2025 ; 16 months ago ( 2025-03-24 )",
+      "latest_release": "14.0 \"lightstream\" / March 24, 2025 ; 16 months ago ( 2025-03-24 )",
+      "license": "Free software , mainly the GNU GPL",
+      "os_family": "Linux ( Unix-like )",
+      "platforms": "amd64 (x86-64) , ARM",
+      "source_model": "Open source"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/CAINE_Linux",
+    "resolved_url": "https://en.wikipedia.org/wiki/CAINE_Linux"
+  },
+  "https://en.wikipedia.org/wiki/Canaima_(operating_system)": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "CANTV / CNTI / CENTIDEL / Edelca / VIT / FUNDACITE / Free software community",
+      "development_status": "Current",
+      "first_release": "18 October 2007 ; 18 years ago ( 2007-10-18 )",
+      "gui": "GNOME , KDE Plasma and Xfce",
+      "kernel_type": "Monolithic ( Linux kernel )",
+      "last_updated": "8.0 / 18 October 2024 ; 21 months ago ( 18 October 2024 )",
+      "latest_release": "8.0 / 18 October 2024 ; 21 months ago ( 18 October 2024 )",
+      "license": "Free software licenses (mainly GPL )",
+      "os_family": "Unix-like ( Linux kernel )",
+      "platforms": "IA-32 , x86-64",
+      "source_model": "Open source"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Canaima_(operating_system)",
+    "resolved_url": "https://en.wikipedia.org/wiki/Canaima_(operating_system)"
+  },
+  "https://en.wikipedia.org/wiki/Conectiva": {
+    "fetch_status": "ok",
+    "fields": {
+      "last_updated": null
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Conectiva",
+    "resolved_url": "https://en.wikipedia.org/wiki/Conectiva"
+  },
+  "https://en.wikipedia.org/wiki/Deepin": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "Deepin Technology Co., Ltd.",
+      "development_status": "Current",
+      "first_release": "28 February 2004 ; 22 years ago ( 2004-02-28 )",
+      "gui": "Deepin Desktop Environment ( Qt -based)",
+      "kernel_type": "Monolithic ( Linux Kernel )",
+      "last_updated": "25.0.1 / 19 January 2026",
+      "latest_release": "25.0.1 / 19 January 2026",
+      "license": "Free software licenses (mainly GPL )",
+      "os_family": "Linux ( Unix-like )",
+      "platforms": "x86-64 , RISCV64 , ARM64 , LoongArch64",
+      "purpose": "Personal computing",
+      "source_model": "Open-source"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Deepin",
+    "resolved_url": "https://en.wikipedia.org/wiki/Deepin"
+  },
+  "https://en.wikipedia.org/wiki/Dragora_GNU/Linux-Libre": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "Matías A. Fonzo",
+      "development_status": "Dormant as of 2025-12-03 15:28 UTC or Discontinued [ citation needed ]",
+      "first_release": "March 13, 2009 ; 17 years ago ( 2009-03-13 )",
+      "gui": "Xfce",
+      "kernel_type": "Monolithic ( Linux-libre )",
+      "last_updated": "3.0-beta2 / 26 April 2023 ; 3 years ago ( 26 April 2023 )",
+      "latest_release": "3.0-beta2 / 26 April 2023 ; 3 years ago ( 26 April 2023 )",
+      "license": "Exclusively free licenses per GNU Free System Distribution Guidelines (GNU FSDG), GPLv3 or later",
+      "os_family": "Unix-like ( Linux kernel )",
+      "platforms": "i586 , x86-64"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Dragora_GNU/Linux-Libre",
+    "resolved_url": "https://en.wikipedia.org/wiki/Dragora_GNU/Linux-Libre"
+  },
+  "https://en.wikipedia.org/wiki/Dreamlinux": {
+    "fetch_status": "ok",
+    "fields": {
+      "development_status": "Discontinued",
+      "kernel_type": "Monolithic",
+      "last_updated": "5.0 / January 1, 2012 ( 2012-01-01 )",
+      "latest_release": "5.0 / January 1, 2012 ( 2012-01-01 )",
+      "license": "Mainly the GNU GPL / various others",
+      "os_family": "Linux ( Unix-like )",
+      "platforms": "IA-32"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Dreamlinux",
+    "resolved_url": "https://en.wikipedia.org/wiki/Dreamlinux"
+  },
+  "https://en.wikipedia.org/wiki/Dyne:bolic": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "Denis Roio",
+      "development_status": "Current",
+      "first_release": "March 15, 2005 ; 21 years ago ( 2005-03-15 )",
+      "gui": "Version 4 : KDE Plasma 5 Version 3 : GNOME 2 Version 2 : Xfce",
+      "kernel_type": "Monolithic ( Linux-libre )",
+      "last_updated": "4.0.0-beta / March 21, 2024 ; 2 years ago ( 2024-03-21 )",
+      "latest_release": "4.0.0-beta / March 21, 2024 ; 2 years ago ( 2024-03-21 )",
+      "license": "FSDG",
+      "os_family": "Unix-like ( Linux kernel )",
+      "platforms": "x86"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Dyne:bolic",
+    "resolved_url": "https://en.wikipedia.org/wiki/Dyne:bolic"
+  },
+  "https://en.wikipedia.org/wiki/GoboLinux": {
+    "fetch_status": "ok",
+    "fields": {
+      "development_status": "Active",
+      "first_release": "2003 ; 23 years ago ( 2003 )",
+      "gui": "Awesome",
+      "kernel_type": "Monolithic ( Linux )",
+      "last_updated": "017.01 / 31 March 2025 ; 15 months ago ( 31 March 2025 )",
+      "latest_release": "017.01 / 31 March 2025 ; 15 months ago ( 31 March 2025 )",
+      "license": "GNU General Public License",
+      "os_family": "Linux ( Unix-like )",
+      "platforms": "x86-64",
+      "source_model": "Open source"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/GoboLinux",
+    "resolved_url": "https://en.wikipedia.org/wiki/GoboLinux"
+  },
+  "https://en.wikipedia.org/wiki/Human68k": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "Sharp Corporation",
+      "last_updated": null
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Human68k",
+    "resolved_url": "https://en.wikipedia.org/wiki/Human68k"
+  },
+  "https://en.wikipedia.org/wiki/Kurumin": {
+    "error": "404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Kurumin",
+    "fetch_status": "error",
+    "fields": {},
+    "requested_url": "https://en.wikipedia.org/wiki/Kurumin",
+    "resolved_url": null
+  },
+  "https://en.wikipedia.org/wiki/Linux_Caixa_M%C3%A1gica": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "Caixa Mágica Software",
+      "development_status": "Active",
+      "gui": "GNOME , LXQt (Lite version)",
+      "kernel_type": "Monolithic ( Linux )",
+      "last_updated": null,
+      "license": "GNU GPL / Various",
+      "os_family": "Linux ( Debian / Ubuntu -based)",
+      "platforms": "x86-64 , IA-32",
+      "source_model": "Open source"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Linux_Caixa_M%C3%A1gica",
+    "resolved_url": "https://en.wikipedia.org/wiki/Linux_Caixa_M%C3%A1gica"
+  },
+  "https://en.wikipedia.org/wiki/MDOS": {
+    "fetch_status": "ok",
+    "fields": {
+      "last_updated": null
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/MDOS",
+    "resolved_url": "https://en.wikipedia.org/wiki/MDOS"
+  },
+  "https://en.wikipedia.org/wiki/MuLinux": {
+    "fetch_status": "ok",
+    "fields": {
+      "development_status": "Frozen",
+      "gui": "Unix shell and fvwm95",
+      "kernel_type": "Monolithic kernel",
+      "last_updated": "14r0 / February 10, 2004 ( 2004-02-10 )",
+      "latest_release": "14r0 / February 10, 2004 ( 2004-02-10 )",
+      "license": "GPL and other",
+      "os_family": "Linux ( Unix-like )",
+      "platforms": "x86-32 and later"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/MuLinux",
+    "resolved_url": "https://en.wikipedia.org/wiki/MuLinux"
+  },
+  "https://en.wikipedia.org/wiki/Rodos_(operating_system)": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "University of Würzburg - Informatics 8",
+      "last_updated": null,
+      "license": "Apache License Version 2.0",
+      "platforms": "See #Supported Architectures",
+      "programming_languages": "C , C++ and Assembly language",
+      "source_model": "Open source"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Rodos_(operating_system)",
+    "resolved_url": "https://en.wikipedia.org/wiki/Rodos_(operating_system)"
+  },
+  "https://en.wikipedia.org/wiki/SOX_(operating_system)": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "Computadores e Sistemas Brasileiros S/A",
+      "development_status": "Discontinued",
+      "last_updated": null,
+      "license": "Proprietary",
+      "os_family": "Unix-like",
+      "platforms": "COBRA minicomputers"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/SOX_(operating_system)",
+    "resolved_url": "https://en.wikipedia.org/wiki/SOX_(operating_system)"
+  },
+  "https://en.wikipedia.org/wiki/Sabayon_Linux": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "Fabio Erculiani and Team",
+      "development_status": "Discontinued",
+      "first_release": "28 November 2005 ; 20 years ago ( 2005-11-28 )",
+      "gui": "GNOME, KDE, Xfce, MATE, Fluxbox",
+      "kernel_type": "Monolithic kernel ( Linux )",
+      "last_updated": "( Rolling release ) 19.03 / 31 March 2019 ; 7 years ago ( 31 March 2019 )",
+      "latest_release": "( Rolling release ) 19.03 / 31 March 2019 ; 7 years ago ( 31 March 2019 )",
+      "license": "Various; Mainly GPL",
+      "os_family": "Linux ( Unix-like )",
+      "platforms": "x86-64 , previously also IA-32",
+      "source_model": "Mixed"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Sabayon_Linux",
+    "resolved_url": "https://en.wikipedia.org/wiki/Sabayon_Linux"
+  },
+  "https://en.wikipedia.org/wiki/Trisquel": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "The Trisquel Project and Sognus, S.L.U.",
+      "development_status": "Current",
+      "first_release": "January 30, 2007 ; 19 years ago ( 2007-01-30 )",
+      "gui": "LXDE , MATE and KDE (9.0 or above) MATE and LXDE (Flidas, 8.0) GNOME and LXDE (7.0 or below)",
+      "kernel_type": "Monolithic ( Linux-libre )",
+      "last_updated": "12.0 / April 11, 2026 ; 3 months ago ( 2026-04-11 )",
+      "latest_release": "12.0 / April 11, 2026 ; 3 months ago ( 2026-04-11 )",
+      "os_family": "Unix-like ( Linux )",
+      "platforms": "x86-64 , IA-32 , ARM , POWER9",
+      "purpose": "Home users, small enterprises, education",
+      "source_model": "Free software"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Trisquel",
+    "resolved_url": "https://en.wikipedia.org/wiki/Trisquel"
+  },
+  "https://en.wikipedia.org/wiki/Ubuntu_Kylin": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "National University of Defense Technology , Canonical Ltd. , Ubuntu Kylin Community",
+      "development_status": "Current",
+      "first_release": "25 April 2013 ; 13 years ago ( 2013-04-25 )",
+      "gui": "UKUI (based on Qt )",
+      "kernel_type": "Monolithic ( Linux kernel )",
+      "last_updated": "26.04 / 23 April 2026 ; 3 months ago ( 2026-04-23 )",
+      "latest_release": "26.04 / 23 April 2026 ; 3 months ago ( 2026-04-23 )",
+      "license": "Free software + some proprietary device drivers",
+      "os_family": "Linux ( Unix-like )",
+      "platforms": "x86-64 ARM64 ppc64le ( POWER8 and later) s390x ARMhf ( ARMv7 + VFPv3-D16 )",
+      "purpose": "Personal computers",
+      "source_model": "Open-source"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Ubuntu_Kylin",
+    "resolved_url": "https://en.wikipedia.org/wiki/Ubuntu_Kylin"
+  },
+  "https://en.wikipedia.org/wiki/Uruk_GNU/Linux": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "Uruk Project developers",
+      "development_status": "Current",
+      "first_release": "13 April 2016 (10 years ago) ( 2016-04-13 )",
+      "gui": "MATE",
+      "kernel_type": "Monolithic ( Linux-libre )",
+      "last_updated": "Uruk GNU/Linux-libre 3.0 / 25 November 2022 (3 years ago) ( 2022-11-25 )",
+      "latest_release": "Uruk GNU/Linux-libre 3.0 / 25 November 2022 (3 years ago) ( 2022-11-25 )",
+      "license": "FSDG",
+      "os_family": "Unix-like ( Linux kernel )",
+      "platforms": "amd64",
+      "source_model": "Open source"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Uruk_GNU/Linux",
+    "resolved_url": "https://en.wikipedia.org/wiki/Uruk_GNU/Linux"
+  },
+  "https://en.wikipedia.org/wiki/Ututo": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "The Ututo Team",
+      "development_status": "Discontinued",
+      "first_release": "16 October 2000 ; 25 years ago ( 2000-10-16 )",
+      "gui": "GNOME , KDE , Xfce",
+      "kernel_type": "Monolithic ( Linux , FreeBSD )",
+      "last_updated": "XS 2012 / 27 April 2012 ; 14 years ago ( 2012-04-27 )",
+      "latest_release": "XS 2012 / 27 April 2012 ; 14 years ago ( 2012-04-27 )",
+      "license": "Exclusively free licenses per GNU Free System Distribution Guidelines (GNU FSDG)",
+      "os_family": "Unix-like ( Linux kernel )",
+      "platforms": "IA-32 , x86-64 ; different repositories and optimizations for atom, duron-athlon, k8, pentium3, pentium4, nocona"
+    },
+    "requested_url": "https://en.wikipedia.org/wiki/Ututo",
+    "resolved_url": "https://en.wikipedia.org/wiki/Ututo"
+  },
+  "https://it.wikipedia.org/wiki/BCOS": {
+    "error": "404 Client Error: Not Found for url: https://it.wikipedia.org/wiki/BCOS",
+    "fetch_status": "error",
+    "fields": {},
+    "requested_url": "https://it.wikipedia.org/wiki/BCOS",
+    "resolved_url": null
+  },
+  "https://it.wikipedia.org/wiki/Cosmos_(sistema_operativo_Olivetti)": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "Olivetti",
+      "last_updated": null,
+      "license": "Proprietario",
+      "os_family": "Cosmos"
+    },
+    "requested_url": "https://it.wikipedia.org/wiki/Cosmos_(sistema_operativo_Olivetti)",
+    "resolved_url": "https://it.wikipedia.org/wiki/Cosmos_(sistema_operativo_Olivetti)"
+  },
+  "https://it.wikipedia.org/wiki/DEFT_Linux": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "DEFT Team",
+      "kernel_type": "Linux 64 bit 3.5.0-30",
+      "last_updated": null,
+      "license": "GNU GPL",
+      "os_family": "GNU/Linux"
+    },
+    "requested_url": "https://it.wikipedia.org/wiki/DEFT_Linux",
+    "resolved_url": "https://it.wikipedia.org/wiki/DEFT_Linux"
+  },
+  "https://it.wikipedia.org/wiki/FUSS": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "The FUSS Project",
+      "kernel_type": "Linux",
+      "last_updated": null,
+      "license": "GNU GPL",
+      "os_family": "GNU/Linux"
+    },
+    "requested_url": "https://it.wikipedia.org/wiki/FUSS",
+    "resolved_url": "https://it.wikipedia.org/wiki/FUSS"
+  },
+  "https://it.wikipedia.org/wiki/PCOS": {
+    "fetch_status": "ok",
+    "fields": {
+      "last_updated": null
+    },
+    "requested_url": "https://it.wikipedia.org/wiki/PCOS",
+    "resolved_url": "https://it.wikipedia.org/wiki/PCOS"
+  },
+  "https://ja.wikipedia.org/wiki/ACOS-2": {
+    "fetch_status": "ok",
+    "fields": {
+      "last_updated": null
+    },
+    "requested_url": "https://ja.wikipedia.org/wiki/ACOS-2",
+    "resolved_url": "https://ja.wikipedia.org/wiki/ACOS-2"
+  },
+  "https://ja.wikipedia.org/wiki/B-right/V": {
+    "fetch_status": "ok",
+    "fields": {
+      "last_updated": null
+    },
+    "requested_url": "https://ja.wikipedia.org/wiki/B-right/V",
+    "resolved_url": "https://ja.wikipedia.org/wiki/B-right/V"
+  },
+  "https://ja.wikipedia.org/wiki/PTOS": {
+    "fetch_status": "ok",
+    "fields": {
+      "last_updated": null
+    },
+    "requested_url": "https://ja.wikipedia.org/wiki/PTOS",
+    "resolved_url": "https://ja.wikipedia.org/wiki/PTOS"
+  },
+  "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC": {
+    "fetch_status": "ok",
+    "fields": {
+      "development_status": "개발 중",
+      "first_release": "2018년 1월",
+      "last_updated": "4.1 / 2024년 5월 31일 (2년 전) ( 2024-05-31 )",
+      "latest_release": "4.1 / 2024년 5월 31일 (2년 전) ( 2024-05-31 )",
+      "source_model": "자유 소프트웨어"
+    },
+    "requested_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC",
+    "resolved_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC"
+  },
+  "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "리눅스원",
+      "development_status": "개발 및 지원 중단",
+      "first_release": "1996년",
+      "last_updated": "6.1 / 2000년",
+      "latest_release": "6.1 / 2000년",
+      "license": "GPL",
+      "platforms": "x86-32",
+      "source_model": "자유 소프트웨어 오픈 소스 소프트웨어"
+    },
+    "requested_url": "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90",
+    "resolved_url": "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90"
+  },
+  "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98": {
+    "fetch_status": "ok",
+    "fields": {
+      "last_updated": null
+    },
+    "requested_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98",
+    "resolved_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98"
+  },
+  "https://ko.wikipedia.org/wiki/%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "김정균",
+      "development_status": "버전업 진행 중",
+      "first_release": "2003년 6월 14일 ( 2003-06-14 )",
+      "last_updated": "AnNyung 3.7 / 2020년 11월 19일 (5년 전) ( 2020-11-19 )",
+      "latest_release": "AnNyung 3.7 / 2020년 11월 19일 (5년 전) ( 2020-11-19 )",
+      "license": "GPL",
+      "platforms": "x86-64",
+      "source_model": "오픈 소스"
+    },
+    "requested_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4",
+    "resolved_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4"
+  },
+  "https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%9D%BC_OS": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "네이버",
+      "development_status": "지원 중",
+      "last_updated": "웨일 OS 1.0",
+      "latest_release": "웨일 OS 1.0",
+      "license": "다양",
+      "platforms": "x86"
+    },
+    "requested_url": "https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%9D%BC_OS",
+    "resolved_url": "https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%9D%BC_OS"
+  },
+  "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%88%85%EC%8A%A4": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "SK C&C",
+      "last_updated": null
+    },
+    "requested_url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%88%85%EC%8A%A4",
+    "resolved_url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%88%85%EC%8A%A4"
+  },
+  "https://ko.wikipedia.org/wiki/%ED%8B%B0%EB%A7%A5%EC%8A%A4OS": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "티맥스 데이터, TmaxOS , 대한민국",
+      "last_updated": null
+    },
+    "requested_url": "https://ko.wikipedia.org/wiki/%ED%8B%B0%EB%A7%A5%EC%8A%A4OS",
+    "resolved_url": "https://ko.wikipedia.org/wiki/%ED%8B%B0%EB%A7%A5%EC%8A%A4OS"
+  },
+  "https://ko.wikipedia.org/wiki/%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "티맥스 코어 , 대한민국",
+      "last_updated": null
+    },
+    "requested_url": "https://ko.wikipedia.org/wiki/%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84",
+    "resolved_url": "https://ko.wikipedia.org/wiki/%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84"
+  },
+  "https://ko.wikipedia.org/wiki/%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)": {
+    "fetch_status": "ok",
+    "fields": {
+      "developer": "(주)인베슘",
+      "development_status": "개발 중",
+      "last_updated": "HamoniKR 8.0 (paektu) 64bit / 2024-11-18",
+      "latest_release": "HamoniKR 8.0 (paektu) 64bit / 2024-11-18",
+      "license": "CC-BY-SA 3.0 GFDL",
+      "source_model": "오픈 소스"
+    },
+    "requested_url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)",
+    "resolved_url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)"
+  }
+}

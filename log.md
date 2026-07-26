@@ -2,6 +2,10 @@
 
 ## 2026-07-26
 
+* **Multilingual coverage**: Compared ten native-language discovery corpora against the frozen English baseline, in addition to the separate Russian/Elbrus pass.
+* **Multilingual catalog**: Added 91 supplemental system records across 12 non-overlapping Terra first-pass batches while preserving native labels, scripts, languages, and discovery sources.
+* **Multilingual dispositions**: Retained 18 needs-review identities, 11 releases, 8 aliases, 4 groupings, and 4 non-OS discoveries outside the system catalog.
+* **Multilingual evidence**: Added reproducible provisional Wikidata and multilingual Wikipedia-infobox snapshots where identities resolve; unsupported developer, purpose, language, release, GUI, platform, kernel, license, and origin values remain explicit unknowns.
 * **English baseline**: Completed Terra first-pass review of all 754 normalized candidates from 901 list occurrences across 76 non-overlapping manifests.
 * **Catalog**: Added 437 English-list system-lineage drafts plus the source-reviewed Elbrus Linux supplemental record; normalized 165 releases, 18 groupings, 48 non-OS entries, and 9 aliases.
 * **Uncertainty**: Preserved 75 identity-review cases and 2 insufficient-evidence cases instead of inventing unsupported system records.

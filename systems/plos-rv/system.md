@@ -84,6 +84,17 @@ sources:
   - { id: source-4, resource: "https://www.retrobajty.cz/jednotny-program-smep/", title: "Jednotný program SMEP", revision: null, retrieved: "2026-07-26", source_kind: discovery }
   - { id: source-5, resource: "https://sapi.cz/drobnosti/mikros_ppi.php", title: "SAPI.CZ: MIKROS", revision: null, retrieved: "2026-07-26", source_kind: discovery }
   - { id: source-6, resource: "https://www.atpjournal.sk/rubriky/prehladove-clanky/pamatnica-k-50.-vyrociu-vzniku-vuvt-v-ziline-7.html?page_id=27626", title: "Pamätnica k 50. výročiu vzniku VÚVT v Žiline", revision: null, retrieved: "2026-07-26", source_kind: discovery }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: plos-rv
+  wikidata_entity: null
+  source: null
+  assertion_status: unknown
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields: {}
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
 ---
 
 # PLOS-RV

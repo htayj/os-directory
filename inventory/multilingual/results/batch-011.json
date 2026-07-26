@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 11,
+  "manifest": "inventory/multilingual/manifests/batch-011.json",
+  "generated_at": "2026-07-26",
+  "results": [
+    {"candidate_id":"kurumin-linux","disposition":"included-system","path":"systems/kurumin-linux/","title":"Kurumin Linux","notes":"Brazil country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"libertas-gnu-linux","disposition":"included-system","path":"systems/libertas-gnu-linux/","title":"Libertas GNU/Linux","notes":"Brazil country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"linux-caixa-magica","disposition":"included-system","path":"systems/linux-caixa-magica/","title":"Linux Caixa Mágica","notes":"Portugal country field is direct manifest evidence; releases remain deferred."},
+    {"candidate_id":"sisne-plus","disposition":"included-system","path":"systems/sisne-plus/","title":"SISNE Plus","notes":"Brazil country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"sox-sistema-operacional-x","disposition":"included-system","path":"systems/sox-sistema-operacional-x/","title":"SOX (Sistema Operacional X)","notes":"Brazil country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"china-operating-system-cos","disposition":"included-system","path":"systems/china-operating-system-cos/","title":"中国操作系统","notes":"China country field is direct manifest evidence; contested provenance remains for later research."},
+    {"candidate_id":"deepin","disposition":"included-system","path":"systems/deepin/","title":"深度操作系统","notes":"China country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"kylin-os","disposition":"included-system","path":"systems/kylin-os/","title":"麒麟操作系统","notes":"China country field is direct manifest evidence; later commercial/community lines remain for separation research."}
+  ]
+}

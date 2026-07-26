@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 10,
+  "manifest": "inventory/multilingual/manifests/batch-010.json",
+  "generated_at": "2026-07-26",
+  "results": [
+    {"candidate_id":"tmax-window","disposition":"included-system","path":"systems/tmax-window/","title":"티맥스 윈도 (Tmax Window)","notes":"South Korea country field is direct manifest evidence; planned-release lifecycle remains for later research."},
+    {"candidate_id":"tmaxos","disposition":"included-system","path":"systems/tmaxos/","title":"티맥스OS (TmaxOS)","notes":"South Korea country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"whale-os","disposition":"included-system","path":"systems/whale-os/","title":"웨일 OS (Whale OS)","notes":"South Korea country field is direct manifest evidence; hardware association remains for later research."},
+    {"candidate_id":"biglinux","disposition":"included-system","path":"systems/biglinux/","title":"BigLinux","notes":"Brazil country field is direct manifest evidence; lineage remains for later research."},
+    {"candidate_id":"conectiva-linux","disposition":"included-system","path":"systems/conectiva-linux/","title":"Conectiva Linux","notes":"Brazil country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"dizinha-linux","disposition":"included-system","path":"systems/dizinha-linux/","title":"Dizinha Linux","notes":"Brazil country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"dreamlinux","disposition":"included-system","path":"systems/dreamlinux/","title":"Dreamlinux","notes":"Brazil country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"gobolinux","disposition":"included-system","path":"systems/gobolinux/","title":"GoboLinux","notes":"Brazil country field is direct manifest evidence; filesystem hierarchy requires later research."}
+  ]
+}

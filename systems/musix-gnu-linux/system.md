@@ -81,6 +81,17 @@ sources:
   - { id: source-3, resource: "https://huayra.educar.gob.ar/historia/", title: "Huayra: historia", revision: null, retrieved: "2026-07-26", source_kind: discovery }
   - { id: source-4, resource: "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)", title: "Nova (sistema operativo)", revision: "167070520", retrieved: "2026-07-26", source_kind: discovery }
   - { id: source-5, resource: "https://es.wikipedia.org/wiki/Canaima_GNU/Linux", title: "Canaima GNU/Linux", revision: null, retrieved: "2026-07-26", source_kind: discovery }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: musix-gnu-linux
+  wikidata_entity: null
+  source: null
+  assertion_status: unknown
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields: {}
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
 ---
 
 # Musix GNU+Linux

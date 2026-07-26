@@ -1,0 +1,63 @@
+{
+  "schema_version": "0.1",
+  "batch": 6,
+  "candidate_count": 8,
+  "results": [
+    {
+      "candidate_id": "tunes-os",
+      "disposition": "included-system",
+      "path": "systems/tunes-os/",
+      "title": "Tunes OS",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "unununium",
+      "disposition": "included-system",
+      "path": "systems/unununium/",
+      "title": "Unununium",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "bcos-olivetti",
+      "disposition": "included-system",
+      "path": "systems/bcos-olivetti/",
+      "title": "BCOS",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "caine-linux",
+      "disposition": "included-system",
+      "path": "systems/caine-linux/",
+      "title": "CAINE Linux (Computer Aided INvestigative Environment)",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "deft-linux",
+      "disposition": "included-system",
+      "path": "systems/deft-linux/",
+      "title": "DEFT Linux (Digital Evidence & Forensic Toolkit)",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "dynebolic",
+      "disposition": "included-system",
+      "path": "systems/dynebolic/",
+      "title": "dyne:bolic",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "fuss-linux",
+      "disposition": "included-system",
+      "path": "systems/fuss-linux/",
+      "title": "FUSS (Free Upgrade for a digitally Sustainable School)",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "mdos-olivetti",
+      "disposition": "included-system",
+      "path": "systems/mdos-olivetti/",
+      "title": "MDOS (Modular Disk Operating System)",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    }
+  ]
+}

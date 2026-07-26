@@ -61,6 +61,17 @@ sources:
   - { id: smep, resource: "https://www.retrobajty.cz/jednotny-program-smep/", title: "Jednotný program SMEP", source_kind: historical-source }
   - { id: sapi-mikros, resource: "https://sapi.cz/drobnosti/mikros_ppi.php", title: "SAPI.CZ: MIKROS", source_kind: preservation-source }
   - { id: vuvt, resource: "https://www.atpjournal.sk/rubriky/prehladove-clanky/pamatnica-k-50.-vyrociu-vzniku-vuvt-v-ziline-7.html?page_id=27626", title: "Pamätnica k 50. výročiu vzniku VÚVT v Žiline", source_kind: historical-source }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: dos-ec
+  wikidata_entity: null
+  source: null
+  assertion_status: unknown
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields: {}
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
 ---
 
 # DOS EC

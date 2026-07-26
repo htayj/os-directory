@@ -66,6 +66,55 @@ sources:
   - { id: kfupm-arabian-linux, resource: "https://faculty.kfupm.edu.sa/ICS/muhtaseb/Teaching/ACStLect.pdf", title: "Arabian Linux", source_kind: arabic-university-course-material }
   - { id: hilali-community, resource: "https://www.linuxac.org/node/84", title: "توزيعة هلال Helal لينُكس العربية", source_kind: arabic-community-archive }
   - { id: sabily-ubuntu, resource: "https://wiki.ubuntu.com/DerivativeTeam/Derivatives/Sabily", title: "Sabily derivative record", source_kind: upstream-project-wiki }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: uruk-gnu-linux
+  wikidata_entity: Q34614003
+  source: https://www.wikidata.org/wiki/Q34614003
+  assertion_status: provisional
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields:
+    developer: null
+    country_of_origin:
+    - Iraq
+    purpose: null
+    programming_languages: null
+    platforms:
+    - x86-64
+    - Intel 80386
+    license: null
+    first_release:
+    - '2016-04-13'
+    latest_release: null
+    last_updated: null
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
+# BEGIN GENERATED MULTILINGUAL INFOBOX
+multilingual_infobox_snapshot:
+  source: https://en.wikipedia.org/wiki/Uruk_GNU/Linux
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked Wikipedia infobox; verify against stronger
+    native or primary sources.
+  fields:
+    developer: Uruk Project developers
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: 13 April 2016 (10 years ago) ( 2016-04-13 )
+    latest_release: Uruk GNU/Linux-libre 3.0 / 25 November 2022 (3 years ago) ( 2022-11-25
+      )
+    last_updated: Uruk GNU/Linux-libre 3.0 / 25 November 2022 (3 years ago) ( 2022-11-25
+      )
+    development_status: Current
+    source_model: Open source
+    os_family: Unix-like ( Linux kernel )
+    gui: MATE
+    platforms: amd64
+    kernel_type: Monolithic ( Linux-libre )
+    license: FSDG
+# END GENERATED MULTILINGUAL INFOBOX
 ---
 
 # أوروك جنو/لينكس (Uruk GNU/Linux-libre)

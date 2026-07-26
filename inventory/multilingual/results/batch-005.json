@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 5,
+  "manifest": "inventory/multilingual/manifests/batch-005.json",
+  "generated_at": "2026-07-26",
+  "results": [
+    {"candidate_id":"clip-os","disposition":"included-system","path":"systems/clip-os/","title":"CLIP OS","notes":"France country field is direct from the multilingual manifest; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"fuguita-fr-listing","disposition":"included-system","path":"systems/fuguita-fr-listing/","title":"FuguIta","notes":"French-listing skeleton; core attributes are explicitly unresearched."},
+    {"candidate_id":"hyperpanel-os","disposition":"included-system","path":"systems/hyperpanel-os/","title":"Hyperpanel OS","notes":"French-listing RTOS/GPOS identity skeleton; core attributes are explicitly unresearched."},
+    {"candidate_id":"isaac-os","disposition":"included-system","path":"systems/isaac-os/","title":"Isaac","notes":"French-listing system identity skeleton; core attributes are explicitly unresearched."},
+    {"candidate_id":"jemao","disposition":"included-system","path":"systems/jemao/","title":"JemaOS","notes":"France country field is direct from the multilingual manifest; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"lepton-os","disposition":"included-system","path":"systems/lepton-os/","title":"Lepton","notes":"French-listing embedded-system identity skeleton; core attributes are explicitly unresearched."},
+    {"candidate_id":"smaky-os","disposition":"included-system","path":"systems/smaky-os/","title":"Smaky","notes":"French-language system skeleton; origin normalization and technical attributes remain unresearched."},
+    {"candidate_id":"sysmic","disposition":"included-system","path":"systems/sysmic/","title":"SYSMIC","notes":"France country field is direct from the multilingual manifest; relationship to Prologue remains for later lifecycle research."}
+  ]
+}

@@ -60,6 +60,17 @@ sources:
   - { id: huayra-history, resource: "https://huayra.educar.gob.ar/historia/", title: "Huayra: historia", source_kind: government-education-project-site }
   - { id: nova, resource: "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)", title: "Nova (sistema operativo)", source_kind: article }
   - { id: canaima, resource: "https://es.wikipedia.org/wiki/Canaima_GNU/Linux", title: "Canaima GNU/Linux", source_kind: article }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: etertics-gnu-linux
+  wikidata_entity: null
+  source: null
+  assertion_status: unknown
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields: {}
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
 ---
 
 # EterTICs GNU/Linux

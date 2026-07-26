@@ -174,6 +174,22 @@ The supplemental pass is complete for a catalog release when:
 This is a repeatable release criterion, not a claim that no unknown operating
 system exists.
 
+# 2026-07-26 Discovery Release
+
+The first bounded release applies the method to Arabic, Chinese, Czech/Slovak,
+French, German, Italian, Japanese, Korean, Portuguese, and Spanish sources,
+plus the separately sourced Russian/Elbrus ecosystem pass. It dispositioned
+136 normalized multilingual identities: 91 included systems, 11 releases,
+8 aliases, 4 groupings, 4 non-OS items, and 18 identities requiring more
+evidence.
+
+The included systems are divided into 12 non-overlapping Terra first-pass
+manifests. Every system has a four-file OKF skeleton and retains its native
+label, language, script, discovery source, and an explicit disposition for
+each requested first-pass attribute. A null value means the evidence was not
+found or the field has not yet received source-level research; it is not a
+negative assertion.
+
 [^elbrus-en]: The English article establishes the Elbrus hardware family and links several language editions but provides little operating-system identity detail.
 [^elbrus-ru]: The Russian article names the original OS/software environment and a later Linux-based system shipped with Elbrus-3M1.
 [^mcst-elbrus-os]: MCST's current product material distinguishes modern Elbrus operating-system products and versions.

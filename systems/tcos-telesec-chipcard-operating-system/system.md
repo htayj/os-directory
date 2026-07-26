@@ -62,6 +62,17 @@ sources:
   - { id: rodos, resource: "https://de.wikipedia.org/wiki/Rodos_(Betriebssystem)", title: "Rodos (Betriebssystem)", source_kind: article }
   - { id: tr-440, resource: "https://de.wikipedia.org/wiki/TR_440", title: "TR 440", source_kind: article }
   - { id: coqos, resource: "https://www.presseportal.de/en/pm/122143/4888462", title: "COQOS Hypervisor SDK", source_kind: press-release }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: tcos-telesec-chipcard-operating-system
+  wikidata_entity: null
+  source: null
+  assertion_status: unknown
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields: {}
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
 ---
 
 # TCOS (TeleSec Chipcard Operating System)

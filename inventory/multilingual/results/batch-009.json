@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 9,
+  "manifest": "inventory/multilingual/manifests/batch-009.json",
+  "generated_at": "2026-07-26",
+  "results": [
+    {"candidate_id":"annyung-linux","disposition":"included-system","path":"systems/annyung-linux/","title":"안녕 리눅스 (AnNyung Linux)","notes":"South Korea country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"asianux","disposition":"included-system","path":"systems/asianux/","title":"아시아눅스 (Asianux)","notes":"Multinational distribution skeleton; country normalization and core attributes remain unresearched."},
+    {"candidate_id":"ginux","disposition":"included-system","path":"systems/ginux/","title":"지눅스 (Ginux)","notes":"South Korea country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"gooroom-platform","disposition":"included-system","path":"systems/gooroom-platform/","title":"구름 플랫폼 (Gooroom Platform)","notes":"South Korea country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"hamonikr","disposition":"included-system","path":"systems/hamonikr/","title":"하모니카 (HamoniKR)","notes":"South Korea country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"maru-linux","disposition":"included-system","path":"systems/maru-linux/","title":"마루","notes":"South Korea country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"mizi-linux","disposition":"included-system","path":"systems/mizi-linux/","title":"미지 리눅스 (Mizi Linux)","notes":"South Korea country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."},
+    {"candidate_id":"navix","disposition":"included-system","path":"systems/navix/","title":"네빅스 (NAVIX; Naver Linux)","notes":"South Korea country field is direct manifest evidence; remaining first-pass attributes are explicitly unresearched."}
+  ]
+}

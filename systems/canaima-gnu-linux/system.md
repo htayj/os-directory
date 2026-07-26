@@ -60,6 +60,58 @@ sources:
   - { id: huayra-history, resource: "https://huayra.educar.gob.ar/historia/", title: "Huayra: historia", source_kind: government-education-project-site }
   - { id: nova, resource: "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)", title: "Nova (sistema operativo)", source_kind: article }
   - { id: canaima, resource: "https://es.wikipedia.org/wiki/Canaima_GNU/Linux", title: "Canaima GNU/Linux", source_kind: article }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: canaima-gnu-linux
+  wikidata_entity: Q1032439
+  source: https://www.wikidata.org/wiki/Q1032439
+  assertion_status: provisional
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields:
+    developer:
+    - CANTV
+    - CNTI
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    platforms: null
+    license:
+    - GNU General Public License
+    first_release: null
+    latest_release:
+    - '6.0'
+    - '7.1'
+    - '7.2'
+    - '7.3'
+    - '8.0'
+    last_updated: '2024-10-18'
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
+# BEGIN GENERATED MULTILINGUAL INFOBOX
+multilingual_infobox_snapshot:
+  source: https://en.wikipedia.org/wiki/Canaima_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked Wikipedia infobox; verify against stronger
+    native or primary sources.
+  fields:
+    developer: CANTV / CNTI / CENTIDEL / Edelca / VIT / FUNDACITE / Free software
+      community
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: 18 October 2007 ; 18 years ago ( 2007-10-18 )
+    latest_release: 8.0 / 18 October 2024 ; 21 months ago ( 18 October 2024 )
+    last_updated: 8.0 / 18 October 2024 ; 21 months ago ( 18 October 2024 )
+    development_status: Current
+    source_model: Open source
+    os_family: Unix-like ( Linux kernel )
+    gui: GNOME , KDE Plasma and Xfce
+    platforms: IA-32 , x86-64
+    kernel_type: Monolithic ( Linux kernel )
+    license: Free software licenses (mainly GPL )
+# END GENERATED MULTILINGUAL INFOBOX
 ---
 
 # Canaima GNU/Linux

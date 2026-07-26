@@ -8,11 +8,29 @@ import json
 from collections import Counter
 from pathlib import Path
 
+import yaml
+
 
 ROOT = Path(__file__).resolve().parents[1]
 MULTILINGUAL = ROOT / "inventory" / "multilingual"
 MANIFESTS = MULTILINGUAL / "manifests"
 RESULTS = MULTILINGUAL / "results"
+REQUIRED_ATTRIBUTES = (
+    "developer",
+    "country_of_origin",
+    "purpose",
+    "programming_languages",
+    "first_release",
+    "latest_release",
+    "last_updated",
+    "development_status",
+    "source_model",
+    "os_family",
+    "gui",
+    "platforms",
+    "kernel_type",
+    "license",
+)
 
 
 def load(path: Path):
@@ -73,6 +91,47 @@ def main() -> int:
                         f"{result_path.relative_to(ROOT)}:{candidate_id}: missing "
                         f"{required_path.relative_to(ROOT)}"
                     )
+            system_path = path / "system.md"
+            if not system_path.exists():
+                continue
+            try:
+                frontmatter = yaml.safe_load(
+                    system_path.read_text(encoding="utf-8").split("---", 2)[1]
+                )
+            except (IndexError, yaml.YAMLError) as exc:
+                errors.append(
+                    f"{system_path.relative_to(ROOT)}: invalid frontmatter: {exc}"
+                )
+                continue
+            attribute_envelope = frontmatter.get("first_pass_attributes", {})
+            attributes = attribute_envelope.get("fields", attribute_envelope)
+            dispositions = frontmatter.get(
+                "first_pass_attribute_dispositions",
+                attribute_envelope.get("dispositions", {}),
+            )
+            for field in REQUIRED_ATTRIBUTES:
+                if field not in attributes:
+                    errors.append(
+                        f"{system_path.relative_to(ROOT)}: missing "
+                        f"first_pass_attributes.{field}"
+                    )
+                if field not in dispositions:
+                    errors.append(
+                        f"{system_path.relative_to(ROOT)}: missing "
+                        f"first_pass_attribute_dispositions.{field}"
+                    )
+            provenance = frontmatter.get("discovery_provenance", [])
+            if not any(
+                entry.get("native_label")
+                and entry.get("language")
+                and entry.get("source")
+                for entry in provenance
+                if isinstance(entry, dict)
+            ):
+                errors.append(
+                    f"{system_path.relative_to(ROOT)}: missing native discovery "
+                    "label, language, or source"
+                )
         cataloged += len(items)
 
     if args.require_complete and completed != len(manifests):

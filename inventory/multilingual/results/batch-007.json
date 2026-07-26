@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 7,
+  "manifest": "inventory/multilingual/manifests/batch-007.json",
+  "generated_at": "2026-07-26",
+  "results": [
+    {"candidate_id":"mos-olivetti","disposition":"included-system","path":"systems/mos-olivetti/","title":"MOS (Multifunctional Operating System)","notes":"Italian Olivetti MOS skeleton, distinct from Acorn MOS; Italy is direct manifest evidence."},
+    {"candidate_id":"mulinux","disposition":"included-system","path":"systems/mulinux/","title":"muLinux","notes":"Italian minimal distribution skeleton; Italy is direct manifest evidence."},
+    {"candidate_id":"olivetti-cosmos","disposition":"included-system","path":"systems/olivetti-cosmos/","title":"Cosmos (sistema operativo Olivetti)","notes":"Italian Olivetti Cosmos skeleton, distinct from the C# Cosmos record; Italy is direct manifest evidence."},
+    {"candidate_id":"pcos-olivetti","disposition":"included-system","path":"systems/pcos-olivetti/","title":"PCOS (Professional Computer Operating System)","notes":"Italian Olivetti PCOS skeleton; Italy is direct manifest evidence."},
+    {"candidate_id":"sabayon-linux","disposition":"included-system","path":"systems/sabayon-linux/","title":"Sabayon Linux","notes":"Italian Gentoo-based distribution skeleton; Italy is direct manifest evidence."},
+    {"candidate_id":"sodilinux","disposition":"included-system","path":"systems/sodilinux/","title":"So.Di.Linux Orizzonti","notes":"Italian CNR education distribution skeleton; Italy is direct manifest evidence."},
+    {"candidate_id":"tsurugi-linux","disposition":"included-system","path":"systems/tsurugi-linux/","title":"Tsurugi Linux (Tsurugi LAB)","notes":"Italian DFIR/OSINT distribution skeleton; Italy is direct manifest evidence."},
+    {"candidate_id":"ufficio-zero-linux-os","disposition":"included-system","path":"systems/ufficio-zero-linux-os/","title":"Ufficio Zero Linux OS","notes":"Italian office/school distribution skeleton; product lines remain for later release research."}
+  ]
+}

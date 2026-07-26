@@ -1,0 +1,1266 @@
+{
+  "systems/1b": {
+    "assertion_status": "unknown",
+    "candidate_id": "1b",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/acidos": {
+    "assertion_status": "unknown",
+    "candidate_id": "acidos",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/acos-2": {
+    "assertion_status": "provisional",
+    "candidate_id": "acos-2",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q11188877",
+    "wikidata_entity": "Q11188877"
+  },
+  "systems/adaos": {
+    "assertion_status": "unknown",
+    "candidate_id": "adaos",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/alzza-linux": {
+    "assertion_status": "provisional",
+    "candidate_id": "alzza-linux",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q12605931",
+    "wikidata_entity": "Q12605931"
+  },
+  "systems/annyung-linux": {
+    "assertion_status": "provisional",
+    "candidate_id": "annyung-linux",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q12605576",
+    "wikidata_entity": "Q12605576"
+  },
+  "systems/arabbix": {
+    "assertion_status": "unknown",
+    "candidate_id": "arabbix",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/asianux": {
+    "assertion_status": "provisional",
+    "candidate_id": "asianux",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q1376040",
+    "wikidata_entity": "Q1376040"
+  },
+  "systems/b-right": {
+    "assertion_status": "unknown",
+    "candidate_id": "b-right",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/b-right-v": {
+    "assertion_status": "unknown",
+    "candidate_id": "b-right-v",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/bcos-olivetti": {
+    "assertion_status": "unknown",
+    "candidate_id": "bcos-olivetti",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/biglinux": {
+    "assertion_status": "unknown",
+    "candidate_id": "biglinux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/bs1000-siemens": {
+    "assertion_status": "unknown",
+    "candidate_id": "bs1000-siemens",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/caine-linux": {
+    "assertion_status": "provisional",
+    "candidate_id": "caine-linux",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": "2023-03-16",
+      "latest_release": [
+        "0.5",
+        "1.0",
+        "1.5",
+        "2.0",
+        "2.5",
+        "3.0",
+        "4.0",
+        "5.0",
+        "6.0",
+        "7.0",
+        "8.0",
+        "9.0",
+        "10.0",
+        "11.0",
+        "12.4",
+        "13.0"
+      ],
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q20013688",
+    "wikidata_entity": "Q20013688"
+  },
+  "systems/canaima-gnu-linux": {
+    "assertion_status": "provisional",
+    "candidate_id": "canaima-gnu-linux",
+    "fields": {
+      "country_of_origin": null,
+      "developer": [
+        "CANTV",
+        "CNTI"
+      ],
+      "first_release": null,
+      "last_updated": "2024-10-18",
+      "latest_release": [
+        "6.0",
+        "7.1",
+        "7.2",
+        "7.3",
+        "8.0"
+      ],
+      "license": [
+        "GNU General Public License"
+      ],
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q1032439",
+    "wikidata_entity": "Q1032439"
+  },
+  "systems/china-operating-system-cos": {
+    "assertion_status": "unknown",
+    "candidate_id": "china-operating-system-cos",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/clip-os": {
+    "assertion_status": "unknown",
+    "candidate_id": "clip-os",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/conectiva-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "conectiva-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/deepin": {
+    "assertion_status": "provisional",
+    "candidate_id": "deepin",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": [
+        "2004-02-28"
+      ],
+      "last_updated": "2025-04-16",
+      "latest_release": [
+        "2014.2",
+        "15.3",
+        "15.6",
+        "15.7",
+        "15.8",
+        "15.9",
+        "15.10",
+        "15.10.1",
+        "15.10.2",
+        "15.11",
+        "20",
+        "20.2.1",
+        "15.5 Beta",
+        "15.9.2 Beta",
+        "20 Beta",
+        "20.2.2",
+        "20.2.3",
+        "20.2.4",
+        "20.3",
+        "20.4",
+        "20.5",
+        "20.6",
+        "23",
+        "20.9",
+        "23 beta",
+        "23 beta 2",
+        "V23 Beta 3",
+        "V23 RC",
+        "V23 RC2",
+        "23.0",
+        "25.0",
+        "23.1"
+      ],
+      "license": [
+        "GNU General Public License"
+      ],
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q129145",
+    "wikidata_entity": "Q129145"
+  },
+  "systems/deft-linux": {
+    "assertion_status": "provisional",
+    "candidate_id": "deft-linux",
+    "fields": {
+      "country_of_origin": null,
+      "developer": [
+        "Stefano Fratepietro"
+      ],
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": [
+        "GNU General Public License"
+      ],
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q3700327",
+    "wikidata_entity": "Q3700327"
+  },
+  "systems/diams": {
+    "assertion_status": "unknown",
+    "candidate_id": "diams",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/dizinha-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "dizinha-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/dos-ec": {
+    "assertion_status": "unknown",
+    "candidate_id": "dos-ec",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/dos-rv": {
+    "assertion_status": "unknown",
+    "candidate_id": "dos-rv",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/dragora": {
+    "assertion_status": "provisional",
+    "candidate_id": "dragora",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": [
+        "2009-03-13"
+      ],
+      "last_updated": "2023-04-26",
+      "latest_release": [
+        "2.2",
+        "v3.0-alpha1",
+        "v3.0-alpha2",
+        "3.0-beta2"
+      ],
+      "license": [
+        "GNU General Public License"
+      ],
+      "platforms": [
+        "Pentium compatible processor",
+        "x86-64"
+      ],
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q322659",
+    "wikidata_entity": "Q322659"
+  },
+  "systems/dreamlinux": {
+    "assertion_status": "provisional",
+    "candidate_id": "dreamlinux",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": "2012-01-01",
+      "latest_release": [
+        "3.5",
+        "5.0"
+      ],
+      "license": [
+        "GNU General Public License"
+      ],
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q1256268",
+    "wikidata_entity": "Q1256268"
+  },
+  "systems/dynebolic": {
+    "assertion_status": "provisional",
+    "candidate_id": "dynebolic",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": "2011-09-08",
+      "latest_release": [
+        "3.0.0"
+      ],
+      "license": [
+        "GNU General Public License"
+      ],
+      "platforms": [
+        "Intel 80386"
+      ],
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q309494",
+    "wikidata_entity": "Q309494"
+  },
+  "systems/etertics-gnu-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "etertics-gnu-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/fuguita-fr-listing": {
+    "assertion_status": "unknown",
+    "candidate_id": "fuguita-fr-listing",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/fuss-linux": {
+    "assertion_status": "provisional",
+    "candidate_id": "fuss-linux",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": "2026-04-20",
+      "latest_release": [
+        "1",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "license": [
+        "GNU General Public License"
+      ],
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q3737390",
+    "wikidata_entity": "Q3737390"
+  },
+  "systems/ginux": {
+    "assertion_status": "provisional",
+    "candidate_id": "ginux",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q16189908",
+    "wikidata_entity": "Q16189908"
+  },
+  "systems/gobolinux": {
+    "assertion_status": "provisional",
+    "candidate_id": "gobolinux",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": [
+        "2002-03-20"
+      ],
+      "last_updated": "2025-03-31",
+      "latest_release": [
+        "006",
+        "007",
+        "010",
+        "011",
+        "012",
+        "013",
+        "014",
+        "015",
+        "016",
+        "017",
+        "017.01"
+      ],
+      "license": [
+        "GNU General Public License"
+      ],
+      "platforms": [
+        "i686"
+      ],
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q779967",
+    "wikidata_entity": "Q779967"
+  },
+  "systems/gooroom-platform": {
+    "assertion_status": "provisional",
+    "candidate_id": "gooroom-platform",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q61359498",
+    "wikidata_entity": "Q61359498"
+  },
+  "systems/hamonikr": {
+    "assertion_status": "provisional",
+    "candidate_id": "hamonikr",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q21825364",
+    "wikidata_entity": "Q21825364"
+  },
+  "systems/haydar-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "haydar-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/helwan-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "helwan-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/huayra-gnu-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "huayra-gnu-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/human68k": {
+    "assertion_status": "provisional",
+    "candidate_id": "human68k",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q11223583",
+    "wikidata_entity": "Q11223583"
+  },
+  "systems/hyperpanel-os": {
+    "assertion_status": "unknown",
+    "candidate_id": "hyperpanel-os",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/isaac-os": {
+    "assertion_status": "unknown",
+    "candidate_id": "isaac-os",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/j-right-v": {
+    "assertion_status": "unknown",
+    "candidate_id": "j-right-v",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/jemao": {
+    "assertion_status": "unknown",
+    "candidate_id": "jemao",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/kurumin-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "kurumin-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/kylin-os": {
+    "assertion_status": "unknown",
+    "candidate_id": "kylin-os",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/lepton-os": {
+    "assertion_status": "unknown",
+    "candidate_id": "lepton-os",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/libertas-gnu-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "libertas-gnu-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/lihuen-gnu-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "lihuen-gnu-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/linux-caixa-magica": {
+    "assertion_status": "provisional",
+    "candidate_id": "linux-caixa-magica",
+    "fields": {
+      "country_of_origin": [
+        "Portugal"
+      ],
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q10318826",
+    "wikidata_entity": "Q10318826"
+  },
+  "systems/maru-linux": {
+    "assertion_status": "provisional",
+    "candidate_id": "maru-linux",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q12605931",
+    "wikidata_entity": "Q12605931"
+  },
+  "systems/mdos-olivetti": {
+    "assertion_status": "provisional",
+    "candidate_id": "mdos-olivetti",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q6715179",
+    "wikidata_entity": "Q6715179"
+  },
+  "systems/microos-mos-freedos": {
+    "assertion_status": "unknown",
+    "candidate_id": "microos-mos-freedos",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/mikros-czechoslovak-cpm": {
+    "assertion_status": "unknown",
+    "candidate_id": "mikros-czechoslovak-cpm",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/mizi-linux": {
+    "assertion_status": "provisional",
+    "candidate_id": "mizi-linux",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q6716346",
+    "wikidata_entity": "Q6716346"
+  },
+  "systems/mos-ec": {
+    "assertion_status": "unknown",
+    "candidate_id": "mos-ec",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/mos-olivetti": {
+    "assertion_status": "unknown",
+    "candidate_id": "mos-olivetti",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/mulinux": {
+    "assertion_status": "provisional",
+    "candidate_id": "mulinux",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": [
+        "GNU General Public License"
+      ],
+      "platforms": [
+        "x86"
+      ],
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q769134",
+    "wikidata_entity": "Q769134"
+  },
+  "systems/musix-gnu-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "musix-gnu-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/navix": {
+    "assertion_status": "unknown",
+    "candidate_id": "navix",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/nova-cuban-gnu-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "nova-cuban-gnu-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/ojuba-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "ojuba-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/olivetti-cosmos": {
+    "assertion_status": "provisional",
+    "candidate_id": "olivetti-cosmos",
+    "fields": {
+      "country_of_origin": null,
+      "developer": [
+        "Olivetti"
+      ],
+      "first_release": [
+        "1974"
+      ],
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": [
+        "assembly language",
+        "PL/I"
+      ],
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q3695205",
+    "wikidata_entity": "Q3695205"
+  },
+  "systems/os-10-ec": {
+    "assertion_status": "unknown",
+    "candidate_id": "os-10-ec",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/os-ec": {
+    "assertion_status": "unknown",
+    "candidate_id": "os-ec",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/pcos-olivetti": {
+    "assertion_status": "unknown",
+    "candidate_id": "pcos-olivetti",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/plos-rv": {
+    "assertion_status": "unknown",
+    "candidate_id": "plos-rv",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/ptos-nec": {
+    "assertion_status": "unknown",
+    "candidate_id": "ptos-nec",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/quirinux": {
+    "assertion_status": "unknown",
+    "candidate_id": "quirinux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/rodos": {
+    "assertion_status": "provisional",
+    "candidate_id": "rodos",
+    "fields": {
+      "country_of_origin": null,
+      "developer": [
+        "German Aerospace Center"
+      ],
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": [
+        "BSD licenses"
+      ],
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q9008707",
+    "wikidata_entity": "Q9008707"
+  },
+  "systems/sabayon-linux": {
+    "assertion_status": "provisional",
+    "candidate_id": "sabayon-linux",
+    "fields": {
+      "country_of_origin": [
+        "Italy"
+      ],
+      "developer": null,
+      "first_release": [
+        "2005-11-28"
+      ],
+      "last_updated": "2019-03-31",
+      "latest_release": [
+        "14.10",
+        "15.02.1",
+        "15.10",
+        "17.11",
+        "18.05",
+        "19.03"
+      ],
+      "license": [
+        "GNU General Public License"
+      ],
+      "platforms": [
+        "x86-64"
+      ],
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q640467",
+    "wikidata_entity": "Q640467"
+  },
+  "systems/single-user-control-program-scp": {
+    "assertion_status": "unknown",
+    "candidate_id": "single-user-control-program-scp",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/sisne-plus": {
+    "assertion_status": "unknown",
+    "candidate_id": "sisne-plus",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/smaky-os": {
+    "assertion_status": "unknown",
+    "candidate_id": "smaky-os",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/sodilinux": {
+    "assertion_status": "unknown",
+    "candidate_id": "sodilinux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/sox-sistema-operacional-x": {
+    "assertion_status": "provisional",
+    "candidate_id": "sox-sistema-operacional-x",
+    "fields": {
+      "country_of_origin": null,
+      "developer": [
+        "BB Tecnologia e Serviços"
+      ],
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": [
+        "proprietary license"
+      ],
+      "platforms": [
+        "Motorola 68000"
+      ],
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q7392165",
+    "wikidata_entity": "Q7392165"
+  },
+  "systems/startos": {
+    "assertion_status": "unknown",
+    "candidate_id": "startos",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/sysmic": {
+    "assertion_status": "unknown",
+    "candidate_id": "sysmic",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/tcos-telesec-chipcard-operating-system": {
+    "assertion_status": "unknown",
+    "candidate_id": "tcos-telesec-chipcard-operating-system",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/tmax-window": {
+    "assertion_status": "provisional",
+    "candidate_id": "tmax-window",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q3595680",
+    "wikidata_entity": "Q3595680"
+  },
+  "systems/tmaxos": {
+    "assertion_status": "provisional",
+    "candidate_id": "tmaxos",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q55735442",
+    "wikidata_entity": "Q55735442"
+  },
+  "systems/trisquel-gnu-linux": {
+    "assertion_status": "provisional",
+    "candidate_id": "trisquel-gnu-linux",
+    "fields": {
+      "country_of_origin": [
+        "Spain"
+      ],
+      "developer": null,
+      "first_release": [
+        "2004"
+      ],
+      "last_updated": "2026-04-11",
+      "latest_release": [
+        "1.0",
+        "2.0",
+        "3.0",
+        "3.5",
+        "4.0",
+        "4.5",
+        "5.0",
+        "5.5",
+        "6.0",
+        "7.0",
+        "8.0",
+        "9.0",
+        "10.0",
+        "10.0.1",
+        "9.0.1",
+        "9.0.2",
+        "11.0",
+        "12.0"
+      ],
+      "license": [
+        "GNU General Public License, version 3.0"
+      ],
+      "platforms": [
+        "x86-64",
+        "AArch64"
+      ],
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q1588573",
+    "wikidata_entity": "Q1588573"
+  },
+  "systems/tsurugi-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "tsurugi-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/tunes-os": {
+    "assertion_status": "unknown",
+    "candidate_id": "tunes-os",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/tuquito": {
+    "assertion_status": "unknown",
+    "candidate_id": "tuquito",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/ubuntu-kylin": {
+    "assertion_status": "provisional",
+    "candidate_id": "ubuntu-kylin",
+    "fields": {
+      "country_of_origin": null,
+      "developer": [
+        "National University of Defense Technology"
+      ],
+      "first_release": [
+        "2013-04-25"
+      ],
+      "last_updated": "2023-04-21",
+      "latest_release": [
+        "20.10",
+        "21.10",
+        "22.04 LTS",
+        "23.04"
+      ],
+      "license": [
+        "GNU General Public License"
+      ],
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q12226408",
+    "wikidata_entity": "Q12226408"
+  },
+  "systems/ufficio-zero-linux-os": {
+    "assertion_status": "unknown",
+    "candidate_id": "ufficio-zero-linux-os",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/uniontech-os": {
+    "assertion_status": "unknown",
+    "candidate_id": "uniontech-os",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/unununium": {
+    "assertion_status": "unknown",
+    "candidate_id": "unununium",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/uruk-gnu-linux": {
+    "assertion_status": "provisional",
+    "candidate_id": "uruk-gnu-linux",
+    "fields": {
+      "country_of_origin": [
+        "Iraq"
+      ],
+      "developer": null,
+      "first_release": [
+        "2016-04-13"
+      ],
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": [
+        "x86-64",
+        "Intel 80386"
+      ],
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q34614003",
+    "wikidata_entity": "Q34614003"
+  },
+  "systems/ututo": {
+    "assertion_status": "provisional",
+    "candidate_id": "ututo",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": [
+        "2000-10-16"
+      ],
+      "last_updated": null,
+      "latest_release": null,
+      "license": [
+        "GNU General Public License"
+      ],
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q864899",
+    "wikidata_entity": "Q864899"
+  },
+  "systems/waha-linux": {
+    "assertion_status": "unknown",
+    "candidate_id": "waha-linux",
+    "fields": {},
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": null,
+    "wikidata_entity": null
+  },
+  "systems/whale-os": {
+    "assertion_status": "provisional",
+    "candidate_id": "whale-os",
+    "fields": {
+      "country_of_origin": null,
+      "developer": null,
+      "first_release": null,
+      "last_updated": null,
+      "latest_release": null,
+      "license": null,
+      "platforms": null,
+      "programming_languages": null,
+      "purpose": null
+    },
+    "note": "Discovery metadata from Wikidata statements. It is not independently verified and does not replace native or primary-source research.",
+    "source": "https://www.wikidata.org/wiki/Q109458665",
+    "wikidata_entity": "Q109458665"
+  }
+}

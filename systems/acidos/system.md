@@ -78,6 +78,17 @@ sources:
   - { id: source-1, resource: "https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation", title: "Liste des systèmes d'exploitation", revision: null, retrieved: "2026-07-26", source_kind: discovery }
   - { id: source-2, resource: "https://fr.wikipedia.org/wiki/Liste_des_noyaux_de_syst%C3%A8mes_d%27exploitation", title: "Liste des noyaux de systèmes d'exploitation", revision: null, retrieved: "2026-07-26", source_kind: discovery }
   - { id: source-3, resource: "https://fr.wikipedia.org/wiki/Chronologie_des_syst%C3%A8mes_d%27exploitation", title: "Chronologie des systèmes d'exploitation", revision: null, retrieved: "2026-07-26", source_kind: discovery }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: acidos
+  wikidata_entity: null
+  source: null
+  assertion_status: unknown
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields: {}
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
 ---
 
 # AcidOS

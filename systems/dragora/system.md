@@ -60,6 +60,59 @@ sources:
   - { id: huayra-history, resource: "https://huayra.educar.gob.ar/historia/", title: "Huayra: historia", source_kind: government-education-project-site }
   - { id: nova, resource: "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)", title: "Nova (sistema operativo)", source_kind: article }
   - { id: canaima, resource: "https://es.wikipedia.org/wiki/Canaima_GNU/Linux", title: "Canaima GNU/Linux", source_kind: article }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: dragora
+  wikidata_entity: Q322659
+  source: https://www.wikidata.org/wiki/Q322659
+  assertion_status: provisional
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields:
+    developer: null
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    platforms:
+    - Pentium compatible processor
+    - x86-64
+    license:
+    - GNU General Public License
+    first_release:
+    - '2009-03-13'
+    latest_release:
+    - '2.2'
+    - v3.0-alpha1
+    - v3.0-alpha2
+    - 3.0-beta2
+    last_updated: '2023-04-26'
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
+# BEGIN GENERATED MULTILINGUAL INFOBOX
+multilingual_infobox_snapshot:
+  source: https://en.wikipedia.org/wiki/Dragora_GNU/Linux-Libre
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked Wikipedia infobox; verify against stronger
+    native or primary sources.
+  fields:
+    developer: Matías A. Fonzo
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: March 13, 2009 ; 17 years ago ( 2009-03-13 )
+    latest_release: 3.0-beta2 / 26 April 2023 ; 3 years ago ( 26 April 2023 )
+    last_updated: 3.0-beta2 / 26 April 2023 ; 3 years ago ( 26 April 2023 )
+    development_status: Dormant as of 2025-12-03 15:28 UTC or Discontinued [ citation
+      needed ]
+    source_model: null
+    os_family: Unix-like ( Linux kernel )
+    gui: Xfce
+    platforms: i586 , x86-64
+    kernel_type: Monolithic ( Linux-libre )
+    license: Exclusively free licenses per GNU Free System Distribution Guidelines
+      (GNU FSDG), GPLv3 or later
+# END GENERATED MULTILINGUAL INFOBOX
 ---
 
 # Dragora GNU/Linux-Libre

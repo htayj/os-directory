@@ -1,0 +1,63 @@
+{
+  "schema_version": "0.1",
+  "batch": 8,
+  "candidate_count": 8,
+  "results": [
+    {
+      "candidate_id": "1b",
+      "disposition": "included-system",
+      "path": "systems/1b/",
+      "title": "1B（電房具1B）",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "acos-2",
+      "disposition": "included-system",
+      "path": "systems/acos-2/",
+      "title": "ACOS-2",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "b-right",
+      "disposition": "included-system",
+      "path": "systems/b-right/",
+      "title": "B-right",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "b-right-v",
+      "disposition": "included-system",
+      "path": "systems/b-right-v/",
+      "title": "B-right/V",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "human68k",
+      "disposition": "included-system",
+      "path": "systems/human68k/",
+      "title": "Human68k",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "j-right-v",
+      "disposition": "included-system",
+      "path": "systems/j-right-v/",
+      "title": "J-right/V",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "ptos-nec",
+      "disposition": "included-system",
+      "path": "systems/ptos-nec/",
+      "title": "PTOS",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    },
+    {
+      "candidate_id": "alzza-linux",
+      "disposition": "included-system",
+      "path": "systems/alzza-linux/",
+      "title": "알짜 리눅스",
+      "notes": "Created complete four-file multilingual draft skeleton; all first-pass attributes are explicitly unverified."
+    }
+  ]
+}

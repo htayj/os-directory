@@ -80,6 +80,53 @@ sources:
   - { id: source-3, resource: "https://huayra.educar.gob.ar/historia/", title: "Huayra: historia", revision: null, retrieved: "2026-07-26", source_kind: discovery }
   - { id: source-4, resource: "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)", title: "Nova (sistema operativo)", revision: "167070520", retrieved: "2026-07-26", source_kind: discovery }
   - { id: source-5, resource: "https://es.wikipedia.org/wiki/Canaima_GNU/Linux", title: "Canaima GNU/Linux", revision: null, retrieved: "2026-07-26", source_kind: discovery }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: ututo
+  wikidata_entity: Q864899
+  source: https://www.wikidata.org/wiki/Q864899
+  assertion_status: provisional
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields:
+    developer: null
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    platforms: null
+    license:
+    - GNU General Public License
+    first_release:
+    - '2000-10-16'
+    latest_release: null
+    last_updated: null
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
+# BEGIN GENERATED MULTILINGUAL INFOBOX
+multilingual_infobox_snapshot:
+  source: https://en.wikipedia.org/wiki/Ututo
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked Wikipedia infobox; verify against stronger
+    native or primary sources.
+  fields:
+    developer: The Ututo Team
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    first_release: 16 October 2000 ; 25 years ago ( 2000-10-16 )
+    latest_release: XS 2012 / 27 April 2012 ; 14 years ago ( 2012-04-27 )
+    last_updated: XS 2012 / 27 April 2012 ; 14 years ago ( 2012-04-27 )
+    development_status: Discontinued
+    source_model: null
+    os_family: Unix-like ( Linux kernel )
+    gui: GNOME , KDE , Xfce
+    platforms: IA-32 , x86-64 ; different repositories and optimizations for atom,
+      duron-athlon, k8, pentium3, pentium4, nocona
+    kernel_type: Monolithic ( Linux , FreeBSD )
+    license: Exclusively free licenses per GNU Free System Distribution Guidelines
+      (GNU FSDG)
+# END GENERATED MULTILINGUAL INFOBOX
 ---
 
 # Ututo

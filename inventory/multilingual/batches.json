@@ -3,72 +3,84 @@
     "batch": 1,
     "manifest": "inventory/multilingual/manifests/batch-001.json",
     "candidate_count": 8,
-    "status": "pending"
+    "status": "complete",
+    "result": "inventory/multilingual/results/batch-001.json"
   },
   {
     "batch": 2,
     "manifest": "inventory/multilingual/manifests/batch-002.json",
     "candidate_count": 8,
-    "status": "pending"
+    "status": "complete",
+    "result": "inventory/multilingual/results/batch-002.json"
   },
   {
     "batch": 3,
     "manifest": "inventory/multilingual/manifests/batch-003.json",
     "candidate_count": 8,
-    "status": "pending"
+    "status": "complete",
+    "result": "inventory/multilingual/results/batch-003.json"
   },
   {
     "batch": 4,
     "manifest": "inventory/multilingual/manifests/batch-004.json",
     "candidate_count": 8,
-    "status": "pending"
+    "status": "complete",
+    "result": "inventory/multilingual/results/batch-004.json"
   },
   {
     "batch": 5,
     "manifest": "inventory/multilingual/manifests/batch-005.json",
     "candidate_count": 8,
-    "status": "pending"
+    "status": "complete",
+    "result": "inventory/multilingual/results/batch-005.json"
   },
   {
     "batch": 6,
     "manifest": "inventory/multilingual/manifests/batch-006.json",
     "candidate_count": 8,
-    "status": "pending"
+    "status": "complete",
+    "result": "inventory/multilingual/results/batch-006.json"
   },
   {
     "batch": 7,
     "manifest": "inventory/multilingual/manifests/batch-007.json",
     "candidate_count": 8,
-    "status": "pending"
+    "status": "complete",
+    "result": "inventory/multilingual/results/batch-007.json"
   },
   {
     "batch": 8,
     "manifest": "inventory/multilingual/manifests/batch-008.json",
     "candidate_count": 8,
-    "status": "pending"
+    "status": "complete",
+    "result": "inventory/multilingual/results/batch-008.json"
   },
   {
     "batch": 9,
     "manifest": "inventory/multilingual/manifests/batch-009.json",
     "candidate_count": 8,
-    "status": "pending"
+    "status": "complete",
+    "result": "inventory/multilingual/results/batch-009.json"
   },
   {
     "batch": 10,
     "manifest": "inventory/multilingual/manifests/batch-010.json",
     "candidate_count": 8,
-    "status": "pending"
+    "status": "complete",
+    "result": "inventory/multilingual/results/batch-010.json"
   },
   {
     "batch": 11,
     "manifest": "inventory/multilingual/manifests/batch-011.json",
     "candidate_count": 8,
-    "status": "pending"
+    "status": "complete",
+    "result": "inventory/multilingual/results/batch-011.json"
   },
   {
     "batch": 12,
     "manifest": "inventory/multilingual/manifests/batch-012.json",
     "candidate_count": 3,
-    "status": "pending"
+    "status": "complete",
+    "result": "inventory/multilingual/results/batch-012.json"
   }
 ]

@@ -62,6 +62,51 @@ sources:
   - { id: rodos, resource: "https://de.wikipedia.org/wiki/Rodos_(Betriebssystem)", title: "Rodos (Betriebssystem)", source_kind: article }
   - { id: tr-440, resource: "https://de.wikipedia.org/wiki/TR_440", title: "TR 440", source_kind: article }
   - { id: coqos, resource: "https://www.presseportal.de/en/pm/122143/4888462", title: "COQOS Hypervisor SDK", source_kind: press-release }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: rodos
+  wikidata_entity: Q9008707
+  source: https://www.wikidata.org/wiki/Q9008707
+  assertion_status: provisional
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields:
+    developer:
+    - German Aerospace Center
+    country_of_origin: null
+    purpose: null
+    programming_languages: null
+    platforms: null
+    license:
+    - BSD licenses
+    first_release: null
+    latest_release: null
+    last_updated: null
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
+# BEGIN GENERATED MULTILINGUAL INFOBOX
+multilingual_infobox_snapshot:
+  source: https://en.wikipedia.org/wiki/Rodos_(operating_system)
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked Wikipedia infobox; verify against stronger
+    native or primary sources.
+  fields:
+    developer: University of Würzburg - Informatics 8
+    country_of_origin: null
+    purpose: null
+    programming_languages: C , C++ and Assembly language
+    first_release: null
+    latest_release: null
+    last_updated: null
+    development_status: null
+    source_model: Open source
+    os_family: null
+    gui: null
+    platforms: 'See #Supported Architectures'
+    kernel_type: null
+    license: Apache License Version 2.0
+# END GENERATED MULTILINGUAL INFOBOX
 ---
 
 # Rodos

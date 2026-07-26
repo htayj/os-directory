@@ -85,6 +85,17 @@ sources:
   - { id: source-5, resource: "https://de.wikipedia.org/wiki/Rodos_(Betriebssystem)", title: "Rodos (Betriebssystem)", revision: null, retrieved: "2026-07-26", source_kind: discovery }
   - { id: source-6, resource: "https://de.wikipedia.org/wiki/TR_440", title: "TR 440", revision: null, retrieved: "2026-07-26", source_kind: discovery }
   - { id: source-7, resource: "https://www.presseportal.de/en/pm/122143/4888462", title: "COQOS Hypervisor SDK", revision: null, retrieved: "2026-07-26", source_kind: discovery }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: microos-mos-freedos
+  wikidata_entity: null
+  source: null
+  assertion_status: unknown
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields: {}
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
 ---
 
 # MicroOS (MOS)

@@ -80,6 +80,73 @@ sources:
   - { id: source-3, resource: "https://huayra.educar.gob.ar/historia/", title: "Huayra: historia", revision: null, retrieved: "2026-07-26", source_kind: discovery }
   - { id: source-4, resource: "https://es.wikipedia.org/wiki/Nova_(sistema_operativo)", title: "Nova (sistema operativo)", revision: "167070520", retrieved: "2026-07-26", source_kind: discovery }
   - { id: source-5, resource: "https://es.wikipedia.org/wiki/Canaima_GNU/Linux", title: "Canaima GNU/Linux", revision: null, retrieved: "2026-07-26", source_kind: discovery }
+# BEGIN GENERATED MULTILINGUAL WIKIDATA
+multilingual_wikidata_snapshot:
+  candidate_id: trisquel-gnu-linux
+  wikidata_entity: Q1588573
+  source: https://www.wikidata.org/wiki/Q1588573
+  assertion_status: provisional
+  note: Discovery metadata from Wikidata statements. It is not independently verified
+    and does not replace native or primary-source research.
+  fields:
+    developer: null
+    country_of_origin:
+    - Spain
+    purpose: null
+    programming_languages: null
+    platforms:
+    - x86-64
+    - AArch64
+    license:
+    - GNU General Public License, version 3.0
+    first_release:
+    - '2004'
+    latest_release:
+    - '1.0'
+    - '2.0'
+    - '3.0'
+    - '3.5'
+    - '4.0'
+    - '4.5'
+    - '5.0'
+    - '5.5'
+    - '6.0'
+    - '7.0'
+    - '8.0'
+    - '9.0'
+    - '10.0'
+    - 10.0.1
+    - 9.0.1
+    - 9.0.2
+    - '11.0'
+    - '12.0'
+    last_updated: '2026-04-11'
+  retrieved_at: '2026-07-26'
+# END GENERATED MULTILINGUAL WIKIDATA
+# BEGIN GENERATED MULTILINGUAL INFOBOX
+multilingual_infobox_snapshot:
+  source: https://en.wikipedia.org/wiki/Trisquel
+  retrieved_at: '2026-07-26'
+  assertion_status: provisional
+  note: Raw discovery metadata from the linked Wikipedia infobox; verify against stronger
+    native or primary sources.
+  fields:
+    developer: The Trisquel Project and Sognus, S.L.U.
+    country_of_origin: null
+    purpose: Home users, small enterprises, education
+    programming_languages: null
+    first_release: January 30, 2007 ; 19 years ago ( 2007-01-30 )
+    latest_release: 12.0 / April 11, 2026 ; 3 months ago ( 2026-04-11 )
+    last_updated: 12.0 / April 11, 2026 ; 3 months ago ( 2026-04-11 )
+    development_status: Current
+    source_model: Free software
+    os_family: Unix-like ( Linux )
+    gui: LXDE , MATE and KDE (9.0 or above) MATE and LXDE (Flidas, 8.0) GNOME and
+      LXDE (7.0 or below)
+    platforms: x86-64 , IA-32 , ARM , POWER9
+    kernel_type: Monolithic ( Linux-libre )
+    license: null
+# END GENERATED MULTILINGUAL INFOBOX
 ---
 
 # Trisquel GNU/Linux

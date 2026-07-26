@@ -20,6 +20,12 @@ Generated and curated inventories used to establish catalog coverage.
 # Supplemental
 
 * `manual-seeds.yaml` - manually identified multilingual or ecosystem candidates awaiting identity resolution.
+* `multilingual/` - frozen native-language candidate corpora, normalized
+  dispositions, 12 Terra first-pass manifests and results, and provisional
+  Wikidata and multilingual Wikipedia-infobox attribute snapshots. The current
+  release covers Arabic, Chinese, Czech/Slovak, French, German, Italian,
+  Japanese, Korean, Portuguese, and Spanish sources, in addition to the
+  Russian/Elbrus ecosystem seed.
 
 # Rebuilding
 
