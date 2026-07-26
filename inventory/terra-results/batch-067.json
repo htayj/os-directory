@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":67,"results":[
+{"candidate_id":"dip-dos","disposition":"included-system","path":"systems/dip-dos/","canonical_title":"DIP DOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"embedded-linux","disposition":"grouping","path":null,"canonical_title":"Embedded Linux","notes":"Category of Linux deployments/distributions, not a single OS identity."},
+{"candidate_id":"calyxos","disposition":"included-system","path":"systems/calyxos/","canonical_title":"CalyxOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"coloros","disposition":"included-system","path":"systems/coloros/","canonical_title":"ColorOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"divestos","disposition":"included-system","path":"systems/divestos/","canonical_title":"DivestOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"emui","disposition":"included-system","path":"systems/emui/","canonical_title":"EMUI","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"grapheneos","disposition":"included-system","path":"systems/grapheneos/","canonical_title":"GrapheneOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"kali-nethunter","disposition":"included-system","path":"systems/kali-nethunter/","canonical_title":"Kali NetHunter","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"lineageos","disposition":"included-system","path":"systems/lineageos/","canonical_title":"LineageOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"miui","disposition":"included-system","path":"systems/miui/","canonical_title":"MIUI","notes":"Clear linked OS identity; draft fields remain unverified."}
+]}

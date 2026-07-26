@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":66,"results":[
+{"candidate_id":"menuetos","disposition":"included-system","path":"systems/menuetos/","canonical_title":"MenuetOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"kolibrios","disposition":"included-system","path":"systems/kolibrios/","canonical_title":"KolibriOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"mmurtl-45-message-based-multitasking-real-time-kernel-pronounced-myrtle-46","disposition":"needs-review","path":null,"canonical_title":"MMURTL","notes":"Unlinked kernel/system label requiring identity evidence."},
+{"candidate_id":"osakaos-47","disposition":"needs-review","path":null,"canonical_title":"OsakaOS","notes":"Unlinked label requiring identity evidence."},
+{"candidate_id":"serpaeos","disposition":"needs-review","path":null,"canonical_title":"SerpaeOS","notes":"Unlinked label requiring identity evidence."},
+{"candidate_id":"templeos","disposition":"included-system","path":"systems/templeos/","canonical_title":"TempleOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"toaruos","disposition":"included-system","path":"systems/toaruos/","canonical_title":"ToaruOS","notes":"Distinct linked operating-system identity."},
+{"candidate_id":"ponyos","disposition":"included-release","path":null,"canonical_title":"PonyOS","notes":"Named ToaruOS release/variant."},
+{"candidate_id":"vapouros","disposition":"needs-review","path":null,"canonical_title":"VapourOS","notes":"Unlinked label requiring identity evidence."},
+{"candidate_id":"animos","disposition":"needs-review","path":null,"canonical_title":"Animos","notes":"Unlinked label requiring identity evidence."}
+]}
