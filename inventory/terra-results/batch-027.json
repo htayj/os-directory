@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":27,"results":[
+{"candidate_id":"acp","disposition":"included-system","path":"systems/acp/","canonical_title":"IBM Airline Control Program","notes":"Distinct linked IBM operating-system identity."},
+{"candidate_id":"tpf","disposition":"included-system","path":"systems/tpf/","canonical_title":"Transaction Processing Facility","notes":"Distinct linked IBM operating-system identity."},
+{"candidate_id":"z-tpf","disposition":"included-system","path":"systems/z-tpf/","canonical_title":"Z/TPF","notes":"Distinct linked TPF system identity."},
+{"candidate_id":"unix-like","disposition":"grouping","path":null,"canonical_title":"Unix-like","notes":"Classification, not a single operating-system identity."},
+{"candidate_id":"vm-ix","disposition":"included-release","path":null,"canonical_title":"VM/IX","notes":"AIX port/release for IBM mainframes; parent AIX is already cataloged."},
+{"candidate_id":"aix-370","disposition":"included-release","path":null,"canonical_title":"AIX/370","notes":"AIX port/release for IBM mainframes; parent AIX is already cataloged."},
+{"candidate_id":"opensolaris-for-system-z","disposition":"included-release","path":null,"canonical_title":"OpenSolaris for System z","notes":"Platform port/distribution, not a distinct OpenSolaris lineage."},
+{"candidate_id":"uts","disposition":"included-system","path":"systems/uts/","canonical_title":"Amdahl UTS","notes":"Distinct linked Amdahl operating-system identity."},
+{"candidate_id":"linux-on-ibm-z","disposition":"grouping","path":null,"canonical_title":"Linux on IBM Z","notes":"Platform deployment category, not one operating-system identity."},
+{"candidate_id":"others-on-ibm-s-360-s-370-and-successor-mainframes","disposition":"grouping","path":null,"canonical_title":"Others on IBM S/360, S/370, and successor mainframes","notes":"Source-list grouping heading."}
+]}

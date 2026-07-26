@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":28,"results":[
+{"candidate_id":"distributed-processing-programming-executive-370","disposition":"included-system","path":"systems/distributed-processing-programming-executive-370/","canonical_title":"IBM DPPX","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"mts","disposition":"included-system","path":"systems/mts/","canonical_title":"Michigan Terminal System","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"rtos-360-ibm-s-real-time-operating-system-ran-on-5-nasa-custom-system-360-75s-16","disposition":"needs-review","path":null,"canonical_title":"RTOS/360","notes":"Unlinked descriptive title; identity needs source confirmation."},
+{"candidate_id":"tos-360-2","disposition":"included-system","path":"systems/tos-360-2/","canonical_title":"TOS/360","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"tss-360","disposition":"included-system","path":"systems/tss-360/","canonical_title":"TSS/360","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"tss-370","disposition":"included-system","path":"systems/tss-370/","canonical_title":"TSS/370","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"music-sp","disposition":"included-system","path":"systems/music-sp/","canonical_title":"MUSIC/SP","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"orvyl-and-wylbur","disposition":"included-system","path":"systems/orvyl-and-wylbur/","canonical_title":"ORVYL and WYLBUR","notes":"Linked combined product identity retained as a draft system record."},
+{"candidate_id":"pc-dos","disposition":"included-system","path":"systems/pc-dos/","canonical_title":"PC DOS","notes":"Clear linked OS identity; draft fields remain unverified."},
+{"candidate_id":"pc-dos-1-x-2-x-3-x-developed-jointly-with-microsoft","disposition":"included-release","path":null,"canonical_title":"PC DOS 1.x-3.x","notes":"Versioned PC DOS release range."}
+]}
