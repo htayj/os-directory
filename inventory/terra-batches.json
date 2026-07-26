@@ -87,22 +87,22 @@
     "batch": 13,
     "manifest": "inventory/terra-manifests/batch-013.json",
     "candidate_count": 10,
-    "status": "pending",
-    "result": null
+    "status": "first-pass-complete",
+    "result": "inventory/terra-results/batch-013.json"
   },
   {
     "batch": 14,
     "manifest": "inventory/terra-manifests/batch-014.json",
     "candidate_count": 10,
-    "status": "pending",
-    "result": null
+    "status": "first-pass-complete",
+    "result": "inventory/terra-results/batch-014.json"
   },
   {
     "batch": 15,
     "manifest": "inventory/terra-manifests/batch-015.json",
     "candidate_count": 10,
-    "status": "pending",
-    "result": null
+    "status": "first-pass-complete",
+    "result": "inventory/terra-results/batch-015.json"
   },
   {
     "batch": 16,

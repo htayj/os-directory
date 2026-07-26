@@ -1,0 +1,25 @@
+---
+type: Operating System
+title: DR-DOS
+description: Digital Research DOS operating-system lineage derived from Concurrent DOS.
+tags: [operating-system, dos, digital-research]
+status: draft
+generated: { by: codex/gpt-5, at: "2026-07-26T00:00:00-04:00" }
+schema_version: "0.1"
+as_of: 2026-07-26
+catalog_completeness: { level: inventory, note: "First-pass record; no claim is marked verified." }
+field_dispositions: [{ field: countries_of_origin, disposition: not-researched, checked_at: 2026-07-26 }, { field: lifecycle_events, disposition: not-researched, checked_at: 2026-07-26 }, { field: rights_regime, disposition: not-researched, checked_at: 2026-07-26 }, { field: licenses, disposition: not-researched, checked_at: 2026-07-26 }, { field: programming_languages, disposition: not-researched, checked_at: 2026-07-26 }, { field: system_organization, disposition: not-researched, checked_at: 2026-07-26 }, { field: kernels, disposition: not-researched, checked_at: 2026-07-26 }]
+source_list: { title: "List of operating systems", revision: 1365063001, occurrences: [{ section: [Proprietary, "Digital Research, Inc."], label: "DR-DOS", position: 159, target: "https://en.wikipedia.org/wiki/DR-DOS", depth: 2 }, { section: ["Disk operating systems (DOS)"], label: "DR-DOS", position: 669, target: "https://en.wikipedia.org/wiki/DR-DOS", depth: 4 }] }
+discovery_provenance: [{ method: english-list, language: en, source: wikipedia-list, observed_at: 2026-07-26, disposition: included-system }]
+names: [{ value: "DR-DOS", kind: official, language: en, script: Latn, evidence: [discovery], assertion_status: provisional }]
+organizations: [{ organization: "Digital Research", roles: [developer], evidence: [discovery], assertion_status: provisional }]
+design_purposes: [{ value: personal-computing, primary: true, evidence: [discovery], assertion_status: provisional }]
+development_status: { value: discontinued, evidence: [discovery], assertion_status: provisional }
+interfaces: []
+platforms: []
+sources: [{ id: wikipedia-list, resource: "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001", title: "List of operating systems", source_kind: list }, { id: discovery, resource: "https://en.wikipedia.org/wiki/DR-DOS", title: "DR-DOS", source_kind: article }]
+---
+
+# DR-DOS
+
+Named Digital Research DOS lineage; detailed primary-source review is pending.

@@ -1,0 +1,12 @@
+{"schema_version":"0.1","batch":15,"results":[
+{"candidate_id":"multiuser-dos","disposition":"included-system","path":"systems/multiuser-dos/","canonical_title":"Multiuser DOS","notes":"Distinct Digital Research multiuser DOS lineage."},
+{"candidate_id":"cci-multiuser-dos","disposition":"included-release","path":null,"canonical_title":"CCI Multiuser DOS","notes":"Commercial distribution/variant of Multiuser DOS."},
+{"candidate_id":"datapac-multiuser-dos","disposition":"included-release","path":null,"canonical_title":"Datapac Multiuser DOS","notes":"Commercial distribution/variant of Multiuser DOS."},
+{"candidate_id":"datapac-system-manager","disposition":"included-release","path":null,"canonical_title":"Datapac System Manager","notes":"Named Multiuser DOS derivative/distribution; parent boundary needs deeper review."},
+{"candidate_id":"ims-multiuser-dos","disposition":"included-release","path":null,"canonical_title":"IMS Multiuser DOS","notes":"Commercial distribution/variant of Multiuser DOS."},
+{"candidate_id":"ims-real-32-a-derivative-of-multiuser-dos","disposition":"included-release","path":null,"canonical_title":"IMS REAL/32","notes":"Explicit Multiuser DOS derivative."},
+{"candidate_id":"ims-real-ng-the-successor-of-real-32","disposition":"included-release","path":null,"canonical_title":"IMS REAL/NG","notes":"Successor of REAL/32; retained at release/derivative level."},
+{"candidate_id":"dos-plus","disposition":"included-system","path":"systems/dos-plus/","canonical_title":"DOS Plus","notes":"Distinct named Digital Research DOS lineage."},
+{"candidate_id":"dr-dos","disposition":"included-system","path":"systems/dr-dos/","canonical_title":"DR-DOS","notes":"Distinct named Digital Research DOS lineage."},
+{"candidate_id":"novell-palmdos-1-0","disposition":"included-release","path":null,"canonical_title":"Novell PalmDOS 1.0","notes":"Release-level product title in the DR-DOS lineage."}
+]}

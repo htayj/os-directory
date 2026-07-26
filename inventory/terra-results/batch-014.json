@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "batch": 14,
+  "results": [
+    {"candidate_id":"concurrent-dos-68k","disposition":"included-release","path":null,"canonical_title":"Concurrent DOS 68K","notes":"Explicit Motorola 68000 port of Concurrent DOS."},
+    {"candidate_id":"flexos","disposition":"included-system","path":"systems/flexos/","canonical_title":"FlexOS","notes":"Named Digital Research operating-system lineage; both occurrences retained."},
+    {"candidate_id":"flexos-186","disposition":"included-release","path":null,"canonical_title":"FlexOS 186","notes":"Terminal-targeted FlexOS variant."},
+    {"candidate_id":"flexos-286","disposition":"included-release","path":null,"canonical_title":"FlexOS 286","notes":"Host-targeted FlexOS variant."},
+    {"candidate_id":"siemens-s5-dos-mt","disposition":"needs-review","path":null,"canonical_title":"Siemens S5-DOS/MT","notes":"Named industrial FlexOS-based system, but scope needs review before a skeleton is created."},
+    {"candidate_id":"ibm-4680-os","disposition":"included-system","path":"systems/ibm-4680-os/","canonical_title":"IBM 4680 OS","notes":"Named IBM point-of-sale system."},
+    {"candidate_id":"ibm-4690-os","disposition":"included-system","path":"systems/ibm-4690-os/","canonical_title":"IBM 4690 OS","notes":"Named IBM POS successor system."},
+    {"candidate_id":"toshiba-4690-os","disposition":"included-system","path":"systems/toshiba-4690-os/","canonical_title":"Toshiba 4690 OS","notes":"Named Toshiba POS system derived from IBM 4690 OS and FlexOS."},
+    {"candidate_id":"flexos-386","disposition":"included-release","path":null,"canonical_title":"FlexOS 386","notes":"Later host-targeted FlexOS variant."},
+    {"candidate_id":"flexos-68k","disposition":"included-release","path":null,"canonical_title":"FlexOS 68K","notes":"Explicit 68K FlexOS derivative."}
+  ]
+}

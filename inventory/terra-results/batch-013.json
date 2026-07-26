@@ -1,0 +1,15 @@
+{
+  "schema_version": "0.1", "batch": 13,
+  "results": [
+    {"candidate_id":"concurrent-cp-m-8-16","disposition":"included-release","path":null,"canonical_title":"Concurrent CP/M 8-16","notes":"Dual-processor Concurrent CP/M variant; parent identity is outside this batch."},
+    {"candidate_id":"concurrent-cp-m-68k","disposition":"included-release","path":null,"canonical_title":"Concurrent CP/M-68K","notes":"68000 Concurrent CP/M variant; parent identity is outside this batch."},
+    {"candidate_id":"dos","disposition":"grouping","path":null,"canonical_title":"DOS","notes":"Generic family label, not a unique operating-system identity."},
+    {"candidate_id":"concurrent-dos","disposition":"included-system","path":"systems/concurrent-dos/","canonical_title":"Concurrent DOS","notes":"Distinct Digital Research OS lineage; its repeated occurrences are preserved."},
+    {"candidate_id":"concurrent-pc-dos","disposition":"included-release","path":null,"canonical_title":"Concurrent PC DOS","notes":"Concurrent DOS variant for IBM-compatible PCs."},
+    {"candidate_id":"concurrent-dos-8-16","disposition":"included-release","path":null,"canonical_title":"Concurrent DOS 8-16","notes":"Dual-processor Concurrent DOS variant."},
+    {"candidate_id":"concurrent-dos-286","disposition":"included-release","path":null,"canonical_title":"Concurrent DOS 286","notes":"Concurrent DOS platform/version variant."},
+    {"candidate_id":"concurrent-dos-xm","disposition":"included-release","path":null,"canonical_title":"Concurrent DOS XM","notes":"Real-mode Concurrent DOS variant with EEMS support."},
+    {"candidate_id":"concurrent-dos-386","disposition":"included-release","path":null,"canonical_title":"Concurrent DOS 386","notes":"Concurrent DOS 386 variant/release line."},
+    {"candidate_id":"concurrent-dos-386-mge","disposition":"included-release","path":null,"canonical_title":"Concurrent DOS 386/MGE","notes":"Graphics-terminal variant of Concurrent DOS 386."}
+  ]
+}
