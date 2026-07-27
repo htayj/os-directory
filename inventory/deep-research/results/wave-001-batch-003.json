@@ -1,0 +1,788 @@
+{
+  "batch_id": "wave-001-batch-003",
+  "researcher": "deep_commercial_001",
+  "researched_at": "2026-07-27",
+  "results": [
+    {
+      "path": "systems/z80-rio",
+      "title": "Z80-RIO",
+      "identity_status": "confirmed",
+      "research_summary": "Z80-RIO (the Z80 Operating System with Relocatable Modules and I/O Management) is Zilog's general-purpose development and production system for the MCZ and ZDS families. Its 1978 manual distinguishes a small PROM-resident environment from an enhanced environment centred on the RIO Executive, disk file systems, command processing, and disk-resident development tools. The manual copyright establishes a copyrighted documentation/product context, but the consulted material does not establish a product license, development location, implementation language, or an end-of-life announcement.",
+      "sources": [
+        {
+          "id": "zilog-rio-os-manual-1978",
+          "title": "Z80-RIO Operating System User's Manual, Revision A",
+          "url": "https://www.bitsavers.org/pdf/zilog/mcz-1/03-0072-01A_Z80_RIO_Operating_System_Users_Manual_Sep78.pdf",
+          "archived_url": null,
+          "source_kind": "contemporary-system-manual",
+          "language": "en",
+          "date": "1978-09",
+          "primary": true,
+          "notes": "Zilog's original RIO operating-system manual; it defines the name expansion, target systems, Executive, console, command, and file-system components."
+        },
+        {
+          "id": "zilog-rio-editor-manual-1980",
+          "title": "Z80-RIO Text Editor User's Manual",
+          "url": "https://www.bitsavers.org/pdf/zilog/mcz-1/03-0074-00B_Z80-RIO_Text_Editor_Users_Manual_Sep80.pdf",
+          "archived_url": null,
+          "source_kind": "contemporary-system-manual",
+          "language": "en",
+          "date": "1980-09",
+          "primary": true,
+          "notes": "Zilog editor manual for the RIO text editor."
+        },
+        {
+          "id": "zilog-mcs-brochure-de-1978",
+          "title": "Mikrocomputer Applikationssammlung 77/78",
+          "url": "https://bitsavers.org/components/zilog/1977_1978_Zilog_Mikrocomputer_Applikationssammlung--GERMAN.pdf",
+          "archived_url": null,
+          "source_kind": "contemporary-vendor-brochure",
+          "language": "de",
+          "date": "1977-1978",
+          "primary": true,
+          "notes": "German-language Zilog brochure describing Z80-RIO for the MCS as modular, transparent operating software and listing development-language products that run under RIO."
+        },
+        {
+          "id": "computerwoche-rio-1978",
+          "title": "Zilog GmbH: IBM-like mit RIO-Unterstützung",
+          "url": "https://www.computerwoche.de/article/2872702/zilog-gmbh-ibm-like-mit-rio-unterstuetzung.html",
+          "archived_url": null,
+          "source_kind": "contemporary-trade-press",
+          "language": "de",
+          "date": "1978",
+          "primary": false,
+          "notes": "German contemporary report referring to RIO as Relocatable Input Output support for the MCZ-1 expansion family."
+        }
+      ],
+      "claims": [
+        {
+          "field": "organizations",
+          "value": {"organization": "Zilog, Inc.", "role": "developer and publisher"},
+          "source_ids": ["zilog-rio-os-manual-1978", "zilog-rio-editor-manual-1980"],
+          "assertion_status": "documented",
+          "source_term": "Zilog",
+          "scope": {"releases": ["RIO Revision A"]},
+          "locator": "Operating System User's Manual, title page and copyright page",
+          "evidence_note": "Both contemporary manuals identify Zilog as publisher; the operating-system manual describes the Zilog product and its supplied software."
+        },
+        {
+          "field": "design_purposes",
+          "value": {"purpose": "software-development and production integration", "primary": true, "source_term": "development and integration of user's programs into a production environment"},
+          "source_ids": ["zilog-rio-os-manual-1978"],
+          "assertion_status": "documented",
+          "source_term": "general-purpose computing system",
+          "scope": {"releases": ["RIO Revision A"]},
+          "locator": "Chapter 1.1, Introduction, page 1",
+          "evidence_note": "Zilog describes RIO as a general-purpose system designed to facilitate development and integration of user programs into production."
+        },
+        {
+          "field": "lifecycle_events",
+          "value": {"event": "release", "date": "1978-09", "release": "Z80-RIO Revision A"},
+          "source_ids": ["zilog-rio-os-manual-1978"],
+          "assertion_status": "documented",
+          "source_term": "Revision A, September 1978",
+          "scope": {"releases": ["RIO Revision A"]},
+          "locator": "Manual cover and publication page",
+          "evidence_note": "The original manual is dated September 1978 and labelled Revision A; this establishes a documented release-era artifact, not necessarily the first public release."
+        },
+        {
+          "field": "rights_regime",
+          "value": {"regime": "copyrighted", "scope": "documentation"},
+          "source_ids": ["zilog-rio-os-manual-1978"],
+          "assertion_status": "documented",
+          "source_term": "Copyright 1978 by Zilog, Inc. All rights reserved.",
+          "scope": {"releases": ["RIO Revision A"]},
+          "locator": "Copyright page",
+          "evidence_note": "The RIO manual explicitly reserves rights in the manual. This does not establish a binary or source-code license."
+        },
+        {
+          "field": "system_organization",
+          "value": {"organization": "executive", "source_term": "RIO Executive"},
+          "source_ids": ["zilog-rio-os-manual-1978"],
+          "assertion_status": "documented",
+          "source_term": "RIO Executive (OS)",
+          "scope": {"releases": ["RIO Revision A"], "components": ["enhanced environment"]},
+          "locator": "Chapter 1.1, pages 1-2; Chapter 2, page 9",
+          "evidence_note": "The enhanced environment includes the RIO Executive, which initializes the console and primary file system and manages memory and standardized I/O."
+        },
+        {
+          "field": "kernels",
+          "value": {"name": "RIO Executive", "architecture": "executive", "source_term": "RIO Executive (OS)"},
+          "source_ids": ["zilog-rio-os-manual-1978"],
+          "assertion_status": "documented",
+          "source_term": "Executive (OS)",
+          "scope": {"releases": ["RIO Revision A"], "components": ["enhanced environment"]},
+          "locator": "Chapter 2.1, System Initialization, page 9",
+          "evidence_note": "Zilog calls the OS core the RIO Executive and documents its initialization, memory-manager, command-interpreter, and I/O-management responsibilities."
+        },
+        {
+          "field": "interfaces",
+          "value": {"name": "RIO command input", "style": "command-line", "provisioning": "built-in", "access": "local-console"},
+          "source_ids": ["zilog-rio-os-manual-1978"],
+          "assertion_status": "documented",
+          "source_term": "command prompt character %; command string interpreter",
+          "scope": {"releases": ["RIO Revision A"]},
+          "locator": "Chapter 2.1 and 2.4, pages 9 and 13",
+          "evidence_note": "After initialization RIO prints a prompt and waits for command input; the following section specifies command-string interpretation."
+        },
+        {
+          "field": "platforms",
+          "value": {"platform": "Zilog MCZ Micro Computer System and ZDS Development System", "support_origin": "original-target", "execution_mode": "native"},
+          "source_ids": ["zilog-rio-os-manual-1978", "zilog-mcs-brochure-de-1978"],
+          "assertion_status": "documented",
+          "source_term": "MCZ-1 series; ZDS; MCS",
+          "scope": {"releases": ["RIO Revision A"]},
+          "locator": "Operating System User's Manual, Chapter 1.1-1.2, pages 1-3; German brochure, Z80-RIO section",
+          "evidence_note": "The English manual names MCZ and ZDS hardware configurations; the German brochure independently identifies RIO for the MCS."
+        }
+      ],
+      "editor_associations": [
+        {
+          "name": "RIO Text Editor",
+          "relationship": "bundled-default",
+          "interface_style": "command-line",
+          "source_ids": ["zilog-rio-os-manual-1978", "zilog-rio-editor-manual-1980"],
+          "assertion_status": "documented",
+          "scope": {"releases": ["RIO Revision A"], "components": ["enhanced environment"]},
+          "locator": "Operating System User's Manual, Chapter 1.1, page 1; Text Editor User's Manual, Introduction, page 1",
+          "evidence_note": "The enhanced environment's disk-resident software includes a text editor. Its dedicated manual calls it a line-oriented editor with string handling and automatic disk interface."
+        }
+      ],
+      "unresolved": [
+        {
+          "field": "countries_of_origin",
+          "disposition": "no-evidence-found",
+          "reason": "The manuals identify Zilog and target hardware, while the German material identifies a German sales context, but none establishes the geographical location where RIO was originally developed.",
+          "source_ids": ["zilog-rio-os-manual-1978", "computerwoche-rio-1978"]
+        },
+        {
+          "field": "development_status",
+          "disposition": "no-evidence-found",
+          "reason": "The consulted contemporary manuals establish dated releases but contain no maintenance, termination, or support-status statement that can safely establish the current historical lifecycle state.",
+          "source_ids": ["zilog-rio-os-manual-1978", "zilog-rio-editor-manual-1980"]
+        },
+        {
+          "field": "licenses",
+          "disposition": "no-evidence-found",
+          "reason": "The manual copyright notice is not a software license or redistribution grant for RIO binaries or source code.",
+          "source_ids": ["zilog-rio-os-manual-1978"]
+        },
+        {
+          "field": "programming_languages",
+          "disposition": "no-evidence-found",
+          "reason": "The German brochure lists BASIC, COBOL, FORTRAN, and PL/Z products that run under RIO; those are user toolchains and do not establish RIO's implementation language.",
+          "source_ids": ["zilog-mcs-brochure-de-1978", "zilog-rio-os-manual-1978"]
+        }
+      ]
+    },
+    {
+      "path": "systems/waha-linux",
+      "title": "واحــة لينكس",
+      "identity_status": "confirmed",
+      "research_summary": "Waha Linux is an Arabic-localized, independently operated Debian-based GNU/Linux distribution. Its Arabic project documentation states goals of bringing GNU/Linux and free/open-source programs to Arabic users, including users without network access, while retaining freedom to use, modify, and distribute. The official download/news pages document Waha 11.0 (Iṣrār) as the presented stable release, but do not publish an exact distribution license, a development-location statement, an implementation-language account, or a current maintenance commitment.",
+      "sources": [
+        {
+          "id": "waha-home-ar",
+          "title": "واحــة لينكس – توزيعة جنو / لينكس عربيّة سهلة الاستخدام",
+          "url": "https://linux.wahaproject.org/",
+          "archived_url": null,
+          "source_kind": "official-project-page",
+          "language": "ar",
+          "date": "2026",
+          "primary": true,
+          "notes": "Arabic project home page describing Waha as an easy-to-use Debian-based GNU/Linux distribution, available in 32-bit and 64-bit editions."
+        },
+        {
+          "id": "waha-faq-ar",
+          "title": "الأسئلة الشائعة – واحــة لينكس",
+          "url": "https://linux.wahaproject.org/faq/",
+          "archived_url": null,
+          "source_kind": "official-faq",
+          "language": "ar",
+          "date": "2026",
+          "primary": true,
+          "notes": "Arabic FAQ states that Waha is a localized Debian derivative and an independent project operationally separate from Debian."
+        },
+        {
+          "id": "waha-download-ar",
+          "title": "التنزيل – واحــة لينكس",
+          "url": "https://linux.wahaproject.org/download/",
+          "archived_url": null,
+          "source_kind": "official-download-page",
+          "language": "ar",
+          "date": "2023",
+          "primary": true,
+          "notes": "Official Arabic download page describes Waha 11.0, code-named إصرار, as the stable release and names Linux 5.10 and GNOME 3.38."
+        },
+        {
+          "id": "waha-11-news-ar",
+          "title": "إصدار واحــة لينكس 11.0 إصرار",
+          "url": "https://linux.wahaproject.org/category/news/",
+          "archived_url": null,
+          "source_kind": "official-release-news",
+          "language": "ar",
+          "date": "2023-04-13",
+          "primary": true,
+          "notes": "Arabic project news index records the Waha 11.0 announcement, based on Debian 11.6."
+        }
+      ],
+      "claims": [
+        {
+          "field": "organizations",
+          "value": {"organization": "مشروع واحــة (Waha Project)", "role": "project operator and distributor"},
+          "source_ids": ["waha-home-ar", "waha-faq-ar"],
+          "assertion_status": "documented",
+          "source_term": "مشروع واحــة",
+          "scope": {"releases": ["Waha Linux 11.0"]},
+          "locator": "Project home page, project-goal text; FAQ, project relationship to Debian",
+          "evidence_note": "The Arabic project pages describe Waha's stated goals and say the distribution is an independent project operationally separate from Debian."
+        },
+        {
+          "field": "design_purposes",
+          "value": {"purpose": "Arabic-localized general-purpose desktop distribution", "primary": true, "source_term": "تقريب نظام جنو/لينكس والبرامج الحرّة/مفتوحة المصدر للمستخدم العربي"},
+          "source_ids": ["waha-home-ar"],
+          "assertion_status": "documented",
+          "source_term": "easy-to-use Arabic GNU/Linux distribution",
+          "scope": {"releases": ["Waha Linux"]},
+          "locator": "Project home page, هدف المشروع",
+          "evidence_note": "The Arabic project statement says the project brings GNU/Linux and free/open-source programs closer to Arabic users through a modern, integrated, easy-to-use system, including for users without a network connection."
+        },
+        {
+          "field": "lifecycle_events",
+          "value": {"event": "release", "date": "2023-04-13", "release": "Waha Linux 11.0 (إصرار)"},
+          "source_ids": ["waha-11-news-ar", "waha-download-ar"],
+          "assertion_status": "documented",
+          "source_term": "إصدار واحــة لينكس 11.0 إصرار",
+          "scope": {"releases": ["Waha Linux 11.0"]},
+          "locator": "Official news index entry dated 2023-04-13; official download page",
+          "evidence_note": "The project news page announces Waha 11.0 and the download page presents it as the stable release."
+        },
+        {
+          "field": "system_organization",
+          "value": {"organization": "distinct-kernel", "source_term": "توزيعة مبنية على دبيان"},
+          "source_ids": ["waha-home-ar", "waha-download-ar"],
+          "assertion_status": "inferred",
+          "source_term": "Debian-based GNU/Linux distribution; Linux 5.10",
+          "scope": {"releases": ["Waha Linux 11.0"]},
+          "locator": "Project home page; download page, release component list",
+          "evidence_note": "The source calls Waha a Debian-based GNU/Linux distribution and names its Linux kernel version. The vocabulary classification is an explicit inference from that documented distribution/kernel relationship."
+        },
+        {
+          "field": "kernels",
+          "value": {"name": "Linux", "version": "5.10", "architecture": "unknown"},
+          "source_ids": ["waha-download-ar"],
+          "assertion_status": "documented",
+          "source_term": "نواة لينكس 5.10",
+          "scope": {"releases": ["Waha Linux 11.0"]},
+          "locator": "Download page, Waha 11.0 component list",
+          "evidence_note": "The Arabic release page explicitly lists the Linux 5.10 kernel for Waha 11.0 but does not classify its kernel architecture."
+        },
+        {
+          "field": "interfaces",
+          "value": {"name": "GNOME", "version": "3.38", "style": "graphical", "provisioning": "bundled-default", "access": "local-session"},
+          "source_ids": ["waha-download-ar"],
+          "assertion_status": "documented",
+          "source_term": "واجهة جنوم 3.38",
+          "scope": {"releases": ["Waha Linux 11.0"]},
+          "locator": "Download page, Waha 11.0 component list",
+          "evidence_note": "The project lists GNOME 3.38 as the Waha 11.0 desktop interface."
+        },
+        {
+          "field": "platforms",
+          "value": {"platform": "32-bit and 64-bit editions", "support_origin": "original-target", "execution_mode": "native"},
+          "source_ids": ["waha-home-ar", "waha-download-ar"],
+          "assertion_status": "documented",
+          "source_term": "32 بت و64 بت",
+          "scope": {"releases": ["Waha Linux 11.0"]},
+          "locator": "Project home page; download page",
+          "evidence_note": "The Arabic project documentation explicitly advertises both 32-bit and 64-bit editions; it does not identify an ISA beyond those edition labels."
+        }
+      ],
+      "editor_associations": [],
+      "unresolved": [
+        {
+          "field": "countries_of_origin",
+          "disposition": "no-evidence-found",
+          "reason": "Arabic-language audience and localization goals do not establish the geographical location of original development or project operation.",
+          "source_ids": ["waha-home-ar", "waha-faq-ar"]
+        },
+        {
+          "field": "development_status",
+          "disposition": "unknown",
+          "reason": "The live project site still presents Waha 11.0 as stable, but the consulted pages do not state whether the project is actively developing, in maintenance, or discontinued after its 2023 announcement.",
+          "source_ids": ["waha-download-ar", "waha-11-news-ar"]
+        },
+        {
+          "field": "rights_regime",
+          "disposition": "no-evidence-found",
+          "reason": "The project commits to user freedom to use, modify, and distribute and calls its software free/open source, but it does not provide a license inventory or enough material to characterize the entire distribution's legal regime.",
+          "source_ids": ["waha-home-ar", "waha-faq-ar"]
+        },
+        {
+          "field": "licenses",
+          "disposition": "no-evidence-found",
+          "reason": "No consulted official Arabic page identifies a Waha distribution license or component-license manifest.",
+          "source_ids": ["waha-home-ar", "waha-download-ar"]
+        },
+        {
+          "field": "programming_languages",
+          "disposition": "no-evidence-found",
+          "reason": "The distribution and release pages document included components, not the implementation language(s) of Waha-specific software or the distribution as a whole.",
+          "source_ids": ["waha-download-ar", "waha-faq-ar"]
+        },
+        {
+          "field": "text_editors",
+          "disposition": "no-evidence-found",
+          "reason": "The release page lists desktop applications such as LibreOffice but no plain-text editor with a documented Waha relationship; a word processor is not treated as a text-editor association here.",
+          "source_ids": ["waha-download-ar"]
+        }
+      ]
+    },
+    {
+      "path": "systems/human68k",
+      "title": "Human68k",
+      "identity_status": "confirmed",
+      "research_summary": "Human68k is Sharp's operating system for the X68000/X68030 personal-workstation family. The Japanese Sharp Human68k 3.0 manual describes it as an OS developed for the machine's hardware, positioned between hardware and applications, with a COMMAND.X command mode and an integral screen editor named ED. The original manual documents a 1993 version-3.0 artifact and MC68000/MC68030 boot support, but does not establish a geographical development location, implementation language, an exact product license, or a present historical support status.",
+      "sources": [
+        {
+          "id": "sharp-human68k-30-manual-ja",
+          "title": "Human68k ver.3.0 ユーザーズマニュアル",
+          "url": "https://archive.org/details/X68000Human68k3.0",
+          "archived_url": null,
+          "source_kind": "contemporary-system-manual",
+          "language": "ja",
+          "date": "1993",
+          "primary": true,
+          "notes": "Scanned Sharp X68030 Human68k 3.0 user manual, including Human68k architecture, startup/command mode, ED, and configuration chapters."
+        },
+        {
+          "id": "retropc-human302-ja",
+          "title": "Human68k version 3.02",
+          "url": "https://retropc.net/x68000/software/sharp/human302/",
+          "archived_url": null,
+          "source_kind": "preservation-documentation",
+          "language": "ja",
+          "date": "2011",
+          "primary": false,
+          "notes": "Japanese preservation documentation for the Sharp Human68k 3.02 system disk and X68000 software."
+        },
+        {
+          "id": "odasan-human-ed-ja",
+          "title": "ED.X マニュアル",
+          "url": "https://odasan.s48.xrea.com/x68000/man/ed.html",
+          "archived_url": null,
+          "source_kind": "preservation-manual-transcription",
+          "language": "ja",
+          "date": null,
+          "primary": false,
+          "notes": "Japanese preservation transcription describing ED.X as a full-screen editor that runs on Human68k."
+        }
+      ],
+      "claims": [
+        {
+          "field": "organizations",
+          "value": {"organization": "Sharp", "role": "publisher and platform vendor"},
+          "source_ids": ["sharp-human68k-30-manual-ja", "retropc-human302-ja"],
+          "assertion_status": "documented",
+          "source_term": "SHARP SOFTWARE MANUAL; X68000",
+          "scope": {"releases": ["Human68k ver.3.0"]},
+          "locator": "Human68k ver.3.0 manual cover and preface; preservation record title",
+          "evidence_note": "The primary manual is a Sharp Software Manual for the X68030 and Human68k; the preservation record identifies the associated Sharp system disk."
+        },
+        {
+          "field": "design_purposes",
+          "value": {"purpose": "hardware-enablement", "primary": true, "source_term": "本機のハードウェアの持つ高度な性能を最大限に発揮するために、独自に開発されたオペレーティングシステム"},
+          "source_ids": ["sharp-human68k-30-manual-ja"],
+          "assertion_status": "documented",
+          "source_term": "operating system developed to make the machine hardware's capabilities available",
+          "scope": {"releases": ["Human68k ver.3.0"], "platforms": ["Sharp X68030"]},
+          "locator": "Chapter 1.1, Human68k とは, page 1",
+          "evidence_note": "The Japanese manual says Human68k was developed to make the X68030's hardware capabilities fully available and provides the execution environment for applications."
+        },
+        {
+          "field": "lifecycle_events",
+          "value": {"event": "release", "date": "1993", "release": "Human68k ver.3.0"},
+          "source_ids": ["sharp-human68k-30-manual-ja"],
+          "assertion_status": "documented",
+          "source_term": "Human68k ver.3.0",
+          "scope": {"releases": ["Human68k ver.3.0"]},
+          "locator": "Manual cover and publication metadata",
+          "evidence_note": "The preserved original Sharp manual is titled Human68k ver.3.0 for the X68030 and dated 1993; this records a release-era version, not a first-release date."
+        },
+        {
+          "field": "system_organization",
+          "value": {"organization": "other", "source_term": "hardware – Human68k – SX system/shell – application programs"},
+          "source_ids": ["sharp-human68k-30-manual-ja"],
+          "assertion_status": "documented",
+          "source_term": "OS between hardware and application programs",
+          "scope": {"releases": ["Human68k ver.3.0"]},
+          "locator": "Chapter 1.1, Human68k とは, page 1",
+          "evidence_note": "Sharp's own layered diagram places Human68k between hardware and the SX system/shell and application programs. The source does not label this using a modern kernel taxonomy."
+        },
+        {
+          "field": "interfaces",
+          "value": {"name": "COMMAND.X command mode", "style": "command-line", "provisioning": "built-in", "access": "local-console"},
+          "source_ids": ["sharp-human68k-30-manual-ja"],
+          "assertion_status": "documented",
+          "source_term": "COMMAND.X; コマンドモード; A> prompt",
+          "scope": {"releases": ["Human68k ver.3.0"]},
+          "locator": "Chapter 2.2, Human68k の起動, pages 11-12; Chapter 4, page 35",
+          "evidence_note": "The manual says COMMAND.X enters command mode and shows the A> prompt; it separately describes command input from the keyboard."
+        },
+        {
+          "field": "platforms",
+          "value": {"platform": "Sharp X68000 and X68030 series", "support_origin": "original-target", "execution_mode": "native", "architectures": ["MC68000", "MC68030"]},
+          "source_ids": ["sharp-human68k-30-manual-ja", "retropc-human302-ja"],
+          "assertion_status": "documented",
+          "source_term": "X68000 series; X68030; MC68000; MC68030",
+          "scope": {"releases": ["Human68k ver.3.0"]},
+          "locator": "Manual preface and Chapter 1.3.1, CPU種類の判別, page 8; preservation record title",
+          "evidence_note": "The manual is for the X68030 and explicitly says version 3.0 can boot on the X68000 series after distinguishing MC68000 from MC68030 CPUs."
+        }
+      ],
+      "editor_associations": [
+        {
+          "name": "ED",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "source_ids": ["sharp-human68k-30-manual-ja", "odasan-human-ed-ja"],
+          "assertion_status": "documented",
+          "scope": {"releases": ["Human68k ver.3.0"]},
+          "locator": "Human68k manual, Part 2, スクリーンエディタED, pages 275-296; ED.X transcription, introduction",
+          "evidence_note": "Sharp devotes a full manual part to the screen editor ED; the Japanese preservation transcription identifies ED.X as a full-screen editor running on Human68k."
+        }
+      ],
+      "unresolved": [
+        {
+          "field": "countries_of_origin",
+          "disposition": "no-evidence-found",
+          "reason": "The original source is Japanese and identifies Sharp and its X68030 platform, but it does not state the geographical location of Human68k's original development.",
+          "source_ids": ["sharp-human68k-30-manual-ja"]
+        },
+        {
+          "field": "development_status",
+          "disposition": "no-evidence-found",
+          "reason": "The consulted original and preservation materials document historical versions but do not give a maintainership, retirement, or current-support statement.",
+          "source_ids": ["sharp-human68k-30-manual-ja", "retropc-human302-ja"]
+        },
+        {
+          "field": "rights_regime",
+          "disposition": "no-evidence-found",
+          "reason": "The manual scan identifies its publisher but the consulted text does not provide a reliable product-level rights characterization for Human68k binaries or source.",
+          "source_ids": ["sharp-human68k-30-manual-ja"]
+        },
+        {
+          "field": "licenses",
+          "disposition": "no-evidence-found",
+          "reason": "No consulted Sharp or preservation source supplies a Human68k software license or redistribution grant.",
+          "source_ids": ["sharp-human68k-30-manual-ja", "retropc-human302-ja"]
+        },
+        {
+          "field": "programming_languages",
+          "disposition": "no-evidence-found",
+          "reason": "The manual names X BASIC and application utilities as things run under Human68k; it does not identify the operating system's implementation language(s).",
+          "source_ids": ["sharp-human68k-30-manual-ja"]
+        },
+        {
+          "field": "kernels",
+          "disposition": "no-evidence-found",
+          "reason": "HUMAN.SYS and operating-system services are documented, but the consulted manual does not identify a kernel component or classify its architecture.",
+          "source_ids": ["sharp-human68k-30-manual-ja"]
+        }
+      ]
+    },
+    {
+      "path": "systems/ptos-nec",
+      "title": "PTOS",
+      "identity_status": "confirmed",
+      "research_summary": "This record is scoped to PTOS (ピートス), the standalone OS used by NEC's N5200 office-computer series, rather than the later PC-PTOS compatibility lineage. Japanese historical material places operational use on the N5200/05 in 1981 and identifies the machine as an 8086 office system. The available sources establish platform and business-use context but not a source-level implementation language, kernel/interaction model, text-editor association, product license, development location, or present lifecycle state.",
+      "sources": [
+        {
+          "id": "ptos-lab-history-ja",
+          "title": "PTOS 開発室 - PTOS 実践歴",
+          "url": "https://sites.google.com/site/pcptoslab/project-definition",
+          "archived_url": null,
+          "source_kind": "firsthand-historical-account",
+          "language": "ja",
+          "date": null,
+          "primary": false,
+          "notes": "Japanese practitioner account defining PTOS as the standalone OS for NEC N5200 and describing first use on an N5200/05 in 1981."
+        },
+        {
+          "id": "kahaku-pc-history-ja",
+          "title": "パーソナルコンピュータ技術の系統化調査",
+          "url": "https://sts.kahaku.go.jp/albums/abm.php?d=3254&f=abm00010796.pdf&n=086.pdf",
+          "archived_url": null,
+          "source_kind": "national-museum-historical-report",
+          "language": "ja",
+          "date": "2009",
+          "primary": false,
+          "notes": "National Museum of Nature and Science historical survey documenting the N5200/05's 1981 introduction and 8086 CPU in the office-computer context."
+        },
+        {
+          "id": "nec-pcptos-printer-ja",
+          "title": "PC-PTOS対応プリンタ",
+          "url": "https://jpn.nec.com/etosjx/printer.html",
+          "archived_url": null,
+          "source_kind": "official-product-documentation",
+          "language": "ja",
+          "date": "2026",
+          "primary": true,
+          "notes": "Current NEC material documenting the distinct later PC-PTOS compatibility product; used only to preserve the source's nomenclature boundary, not to transfer its properties to original N5200 PTOS."
+        },
+        {
+          "id": "pcptos-history-ja",
+          "title": "PC－PTOSってなんだァ!?<1>",
+          "url": "https://www.nsknet.or.jp/~k24da/pcptos1.html",
+          "archived_url": null,
+          "source_kind": "historical-technical-essay",
+          "language": "ja",
+          "date": null,
+          "primary": false,
+          "notes": "Japanese historical essay discussing the N5200/ PTOS lineage and distinguishing PC-PTOS terminology."
+        }
+      ],
+      "claims": [
+        {
+          "field": "organizations",
+          "value": {"organization": "NEC", "role": "original platform vendor"},
+          "source_ids": ["ptos-lab-history-ja", "kahaku-pc-history-ja"],
+          "assertion_status": "documented",
+          "source_term": "NECのN5200",
+          "scope": {"platforms": ["N5200/05"], "components": ["original standalone PTOS"]},
+          "locator": "PTOS 実践歴, opening definition; museum report, N5200/05 entry",
+          "evidence_note": "The Japanese account defines PTOS as the standalone OS of NEC's N5200, and the museum report documents the N5200/05 in its office-computer chronology."
+        },
+        {
+          "field": "design_purposes",
+          "value": {"purpose": "business data processing on a standalone office computer", "primary": true, "source_term": "N5200のスタンドアロン用OS"},
+          "source_ids": ["ptos-lab-history-ja", "kahaku-pc-history-ja"],
+          "assertion_status": "documented",
+          "source_term": "standalone OS; office computer",
+          "scope": {"platforms": ["N5200/05"]},
+          "locator": "PTOS 実践歴, opening definition and application-history text; museum report, N5200 section",
+          "evidence_note": "The firsthand Japanese account calls PTOS the standalone OS for N5200 and describes COBOL/ISAM business work; the museum source supplies the office-computer context."
+        },
+        {
+          "field": "lifecycle_events",
+          "value": {"event": "first-operational-use", "date": "1981", "subject": "PTOS on NEC N5200/05"},
+          "source_ids": ["ptos-lab-history-ja", "kahaku-pc-history-ja"],
+          "assertion_status": "documented",
+          "source_term": "1981年のN5200/05から",
+          "scope": {"platforms": ["N5200/05"], "components": ["original standalone PTOS"]},
+          "locator": "PTOS 実践歴, first paragraph; museum report, N5200/05 chronology",
+          "evidence_note": "The practitioner account dates its actual PTOS use to the 1981 N5200/05; the museum report independently dates the machine's introduction to 1981."
+        },
+        {
+          "field": "platforms",
+          "value": {"platform": "NEC N5200/05 office computer", "support_origin": "original-target", "execution_mode": "native", "architectures": ["Intel 8086"]},
+          "source_ids": ["ptos-lab-history-ja", "kahaku-pc-history-ja"],
+          "assertion_status": "documented",
+          "source_term": "N5200/05; 8086",
+          "scope": {"components": ["original standalone PTOS"]},
+          "locator": "PTOS 実践歴, opening definition; museum report, N5200/05 entry",
+          "evidence_note": "PTOS is identified with the N5200 standalone system, while the national museum report records the N5200/05 and its Intel 8086 processor."
+        }
+      ],
+      "editor_associations": [],
+      "unresolved": [
+        {
+          "field": "countries_of_origin",
+          "disposition": "no-evidence-found",
+          "reason": "Japanese-language material and NEC product identity do not themselves establish the geographical location where PTOS was developed.",
+          "source_ids": ["ptos-lab-history-ja", "kahaku-pc-history-ja"]
+        },
+        {
+          "field": "development_status",
+          "disposition": "unknown",
+          "reason": "The historical sources establish 1981 operational use, while NEC's current PC-PTOS material concerns a later, distinct compatibility lineage; neither states the lifecycle status of original N5200 standalone PTOS.",
+          "source_ids": ["ptos-lab-history-ja", "nec-pcptos-printer-ja", "pcptos-history-ja"]
+        },
+        {
+          "field": "rights_regime",
+          "disposition": "no-evidence-found",
+          "reason": "No consulted original-PTOS source provides a product-level rights statement. Current PC-PTOS documentation cannot be treated as a rights statement for N5200 PTOS.",
+          "source_ids": ["ptos-lab-history-ja", "nec-pcptos-printer-ja"]
+        },
+        {
+          "field": "licenses",
+          "disposition": "no-evidence-found",
+          "reason": "The consulted Japanese historical material does not supply a PTOS software license or redistribution permission.",
+          "source_ids": ["ptos-lab-history-ja", "pcptos-history-ja"]
+        },
+        {
+          "field": "programming_languages",
+          "disposition": "no-evidence-found",
+          "reason": "The practitioner source mentions COBOL5/Cobol74 and ISAM for applications developed on PTOS, not the operating system's own implementation language.",
+          "source_ids": ["ptos-lab-history-ja"]
+        },
+        {
+          "field": "system_organization",
+          "disposition": "no-evidence-found",
+          "reason": "The sources identify PTOS as a standalone OS but do not describe its internal organization using enough detail to classify it.",
+          "source_ids": ["ptos-lab-history-ja", "pcptos-history-ja"]
+        },
+        {
+          "field": "kernels",
+          "disposition": "no-evidence-found",
+          "reason": "No consulted source identifies a PTOS kernel component or kernel architecture.",
+          "source_ids": ["ptos-lab-history-ja", "kahaku-pc-history-ja"]
+        },
+        {
+          "field": "interfaces",
+          "disposition": "no-evidence-found",
+          "reason": "The sources establish platform and business use but do not document a PTOS command, menu, graphical, or other user-interface style.",
+          "source_ids": ["ptos-lab-history-ja", "pcptos-history-ja"]
+        },
+        {
+          "field": "text_editors",
+          "disposition": "no-evidence-found",
+          "reason": "No sufficiently sourced PTOS editor relationship was found; application-development references are not evidence of an OS-associated text editor.",
+          "source_ids": ["ptos-lab-history-ja", "pcptos-history-ja"]
+        }
+      ]
+    },
+    {
+      "path": "systems/tmaxos",
+      "title": "티맥스OS (TmaxOS)",
+      "identity_status": "ambiguous",
+      "research_summary": "TmaxOS is an overloaded product name. TmaxOS's 2016 Korean announcement described a Unix-standard-based, commercial independent OS with a new graphics kernel and planned beta/formal releases; a later Korean public-sector guide describes the separately scoped TmaxOS OE as a Debian-Linux-based open OS. The records therefore retain both sources but do not collapse the 2016 product and OE/edition lineage into one implementation, rights, or lifecycle claim. No consulted source establishes an exact license, implementation languages, text-editor association, or a current product-wide development state.",
+      "sources": [
+        {
+          "id": "tmaxos-announcement-ko-2016",
+          "title": "㈜티맥스오에스, 미래의 IT 환경을 바꿀 'TmaxOS' 발표",
+          "url": "https://www.tmaxsoft.com/kr/press/view?seq=50",
+          "archived_url": null,
+          "source_kind": "vendor-press-release",
+          "language": "ko",
+          "date": "2016-04-20",
+          "primary": true,
+          "notes": "Korean TmaxOS announcement describing the 2016 Unix-standard-based product, intended PC/mobile/cloud scope, graphics-kernel claim, beta plan, and formal-release plan."
+        },
+        {
+          "id": "osskr-tmaxos-oe-guide-ko",
+          "title": "TmaxOS OE Solution Guide",
+          "url": "https://www.oss.kr/storage/app/public/oss/04/ca/%5BTmaxOS%20OE%5D%20Solution%20Guide.pdf",
+          "archived_url": null,
+          "source_kind": "government-open-source-guide",
+          "language": "ko",
+          "date": null,
+          "primary": false,
+          "notes": "Korean public open-source guide describing TmaxOS OE as a Debian-Linux-based open OS distributed by Tmax; its edition scope is kept distinct from the 2016 announcement."
+        },
+        {
+          "id": "newsis-tmaxos-he-ko-2019",
+          "title": "티맥스오에스, 개인용 무료 운영체제 '티맥스OS HE' 출시",
+          "url": "https://www.newsis.com/view/NISX20190813_0000739778",
+          "archived_url": null,
+          "source_kind": "contemporary-news-report",
+          "language": "ko",
+          "date": "2019-08-13",
+          "primary": false,
+          "notes": "Korean news coverage of a later Home Edition release, useful only for confirming that edition-qualified TmaxOS products existed."
+        }
+      ],
+      "claims": [
+        {
+          "field": "organizations",
+          "value": {"organization": "티맥스오에스 (TmaxOS Co., Ltd.)", "role": "developer and announcer"},
+          "source_ids": ["tmaxos-announcement-ko-2016"],
+          "assertion_status": "documented",
+          "source_term": "㈜티맥스오에스",
+          "scope": {"releases": ["2016 announced TmaxOS"]},
+          "locator": "Vendor press release, title and opening paragraphs",
+          "evidence_note": "The Korean vendor announcement identifies TmaxOS Co., Ltd. as the company presenting its independent OS named TmaxOS."
+        },
+        {
+          "field": "design_purposes",
+          "value": {"purpose": "integrated PC, mobile, and cloud operating-system platform", "primary": true, "source_term": "PC와 모바일, 클라우드 환경을 하나로 통합"},
+          "source_ids": ["tmaxos-announcement-ko-2016"],
+          "assertion_status": "documented",
+          "source_term": "independent OS; integrated PC/mobile/cloud environment",
+          "scope": {"releases": ["2016 announced TmaxOS"]},
+          "locator": "Vendor press release, headline deck and opening paragraphs",
+          "evidence_note": "The vendor describes the announced TmaxOS as an independent OS platform intended to integrate PC, mobile, and cloud environments."
+        },
+        {
+          "field": "lifecycle_events",
+          "value": {"event": "announced", "date": "2016-04-20", "release": "TmaxOS (2016 announced product)"},
+          "source_ids": ["tmaxos-announcement-ko-2016"],
+          "assertion_status": "documented",
+          "source_term": "TmaxOS 발표",
+          "scope": {"releases": ["2016 announced TmaxOS"]},
+          "locator": "Vendor press release date and title",
+          "evidence_note": "TmaxOS Co., Ltd. announced the product on April 20, 2016. The page's subsequent July beta and October formal-release language is a plan, not evidence that those releases occurred."
+        },
+        {
+          "field": "system_organization",
+          "value": {"organization": "other", "source_term": "유닉스 표준 기반의 운영체제"},
+          "source_ids": ["tmaxos-announcement-ko-2016"],
+          "assertion_status": "documented",
+          "source_term": "Unix-standard-based operating system",
+          "scope": {"releases": ["2016 announced TmaxOS"]},
+          "locator": "Vendor press release, headline deck and product description",
+          "evidence_note": "The vendor calls the 2016 announced product Unix-standard-based but does not provide sufficient source-level architecture detail for a conventional kernel taxonomy."
+        },
+        {
+          "field": "kernels",
+          "value": {"name": "Tmax graphics kernel", "architecture": "other", "source_term": "티맥스 자체 기술로 그래픽 커널을 개발"},
+          "source_ids": ["tmaxos-announcement-ko-2016"],
+          "assertion_status": "documented",
+          "source_term": "graphics kernel",
+          "scope": {"releases": ["2016 announced TmaxOS"]},
+          "locator": "Vendor press release, graphics-technology paragraph",
+          "evidence_note": "The vendor claims it developed its own graphics kernel after excluding X Window. This is a graphics-component claim, not evidence that the whole OS uses a named monolithic or microkernel architecture."
+        },
+        {
+          "field": "platforms",
+          "value": {"platform": "64-bit TmaxOS OE edition", "support_origin": "original-target", "execution_mode": "native"},
+          "source_ids": ["osskr-tmaxos-oe-guide-ko"],
+          "assertion_status": "documented",
+          "source_term": "TmaxOS_OE_64",
+          "scope": {"releases": ["TmaxOS OE"]},
+          "locator": "TmaxOS OE Solution Guide, product/version identification",
+          "evidence_note": "The public-sector guide labels the documented OE edition TmaxOS_OE_64; the claim is limited to that edition and does not extrapolate to every TmaxOS-branded product."
+        }
+      ],
+      "editor_associations": [],
+      "unresolved": [
+        {
+          "field": "development_status",
+          "disposition": "unknown",
+          "reason": "The vendor page gives 2016 plans, the public guide describes a later OE edition, and the 2019 report concerns HE. They do not establish a single current development state for all products called TmaxOS.",
+          "source_ids": ["tmaxos-announcement-ko-2016", "osskr-tmaxos-oe-guide-ko", "newsis-tmaxos-he-ko-2019"]
+        },
+        {
+          "field": "rights_regime",
+          "disposition": "no-evidence-found",
+          "reason": "The 2016 vendor announcement says a basic version was planned to be free to individual users, while the OE guide uses an open-OS description. Neither source supplies enough licensing detail to characterize the whole, multi-edition TmaxOS name.",
+          "source_ids": ["tmaxos-announcement-ko-2016", "osskr-tmaxos-oe-guide-ko"]
+        },
+        {
+          "field": "licenses",
+          "disposition": "no-evidence-found",
+          "reason": "No consulted Korean source identifies a license text, SPDX expression, or complete component-license inventory for the announced TmaxOS, OE, or HE editions.",
+          "source_ids": ["tmaxos-announcement-ko-2016", "osskr-tmaxos-oe-guide-ko", "newsis-tmaxos-he-ko-2019"]
+        },
+        {
+          "field": "programming_languages",
+          "disposition": "no-evidence-found",
+          "reason": "The sources describe platform, compatibility, and graphic-kernel claims but do not identify implementation languages for the system or any kernel component.",
+          "source_ids": ["tmaxos-announcement-ko-2016", "osskr-tmaxos-oe-guide-ko"]
+        },
+        {
+          "field": "interfaces",
+          "disposition": "no-evidence-found",
+          "reason": "The 2016 announcement discusses graphics technology and PC demonstration, but does not document an end-user interface style or name a desktop/shell that can be safely catalogued across the distinct editions.",
+          "source_ids": ["tmaxos-announcement-ko-2016", "osskr-tmaxos-oe-guide-ko"]
+        },
+        {
+          "field": "text_editors",
+          "disposition": "no-evidence-found",
+          "reason": "No consulted source establishes a plain-text editor and relationship to a specified TmaxOS edition.",
+          "source_ids": ["tmaxos-announcement-ko-2016", "osskr-tmaxos-oe-guide-ko", "newsis-tmaxos-he-ko-2019"]
+        }
+      ]
+    }
+  ]
+}

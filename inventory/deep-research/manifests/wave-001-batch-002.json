@@ -1,0 +1,454 @@
+{
+  "schema_version": "0.1",
+  "batch_id": "wave-001-batch-002",
+  "theme": "commercial and proprietary platform systems",
+  "as_of": "2026-07-27",
+  "agent_guide": "schema/deep-research-agent-guide.md",
+  "result_path": "inventory/deep-research/results/wave-001-batch-002.json",
+  "systems": [
+    {
+      "path": "systems/z-vm",
+      "title": "z/VM",
+      "aliases": [
+        "z/VM"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [
+        "country_of_origin",
+        "developer",
+        "development_status",
+        "last_updated",
+        "latest_release",
+        "license",
+        "os_family",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/Z/VM",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "IBM",
+          "country_of_origin": "United States",
+          "purpose": null,
+          "programming_languages": null,
+          "first_release": null,
+          "latest_release": "7.4 / September 20, 2024 ; 22 months ago ( 2024-09-20 )",
+          "last_updated": "7.4 / September 20, 2024 ; 22 months ago ( 2024-09-20 )",
+          "development_status": "Current",
+          "source_model": "Closed source",
+          "os_family": "VM family",
+          "gui": null,
+          "platforms": null,
+          "kernel_type": null,
+          "license": "Proprietary"
+        },
+        "country_evidence": {
+          "assertion_status": "inferred",
+          "method": "inferred-from-developer-country",
+          "source": "https://www.wikidata.org/wiki/Q37156"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "XEDIT",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "source": "https://www.ibm.com/support/pages/zvm/library/740pdfs.html",
+          "source_kind": "official-documentation-index",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "z/VM 7.4"
+            ],
+            "components": [
+              "CMS"
+            ]
+          },
+          "note": "IBM's 7.4 library lists the XEDIT User's Guide, and its manual describes XEDIT as the IBM z/VM editor and both full-screen and line-mode text processing."
+        }
+      ],
+      "priority_score": 125
+    },
+    {
+      "path": "systems/vxworks",
+      "title": "VxWorks",
+      "aliases": [
+        "VxWorks"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [
+        "country_of_origin",
+        "developer",
+        "development_status",
+        "first_release",
+        "kernel_type",
+        "last_updated",
+        "latest_release",
+        "os_family",
+        "platforms",
+        "purpose"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/VxWorks",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "Wind River (a wholly owned subsidiary of Aptiv )",
+          "country_of_origin": "United States",
+          "purpose": "Embedded systems",
+          "programming_languages": null,
+          "first_release": "1987 ; 39 years ago ( 1987 )",
+          "latest_release": "VxWorks 7 25.09 / August 22, 2025 ; 11 months ago ( 2025-08-22 )",
+          "last_updated": "VxWorks 7 25.09 / August 22, 2025 ; 11 months ago ( 2025-08-22 )",
+          "development_status": "Current",
+          "source_model": null,
+          "os_family": "Real-time operating systems",
+          "gui": null,
+          "platforms": "x86 , x86-64 , MIPS , PowerPC , SH-4 , ARM , RISC-V",
+          "kernel_type": "Monolithic",
+          "license": null
+        },
+        "country_evidence": {
+          "assertion_status": "inferred",
+          "method": "inferred-from-developer-country",
+          "source": "https://www.wikidata.org/wiki/Q1746945"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "Visual Studio Code",
+          "relationship": "development-host-tool",
+          "interface_style": "graphical",
+          "source": "https://labs.windriver.com/downloads/wrsdk-vxworks7-docs/VxWorksSDK-ApplicationDeveloperGuide.html",
+          "source_kind": "official-sdk-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "VxWorks 7 SDK"
+            ]
+          },
+          "note": "The official VxWorks 7 SDK guide has a VS Code project-creation path; this is a host-side development relationship, not a claim that the editor runs or is bundled on every VxWorks target."
+        }
+      ],
+      "priority_score": 125
+    },
+    {
+      "path": "systems/workplace-os",
+      "title": "Workplace OS",
+      "aliases": [
+        "Workplace OS"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [
+        "country_of_origin",
+        "developer",
+        "development_status",
+        "gui",
+        "kernel_type",
+        "os_family",
+        "platforms",
+        "programming_languages",
+        "purpose",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/Workplace_OS",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "IBM",
+          "country_of_origin": "United States",
+          "purpose": "Global",
+          "programming_languages": "C , C++",
+          "first_release": null,
+          "latest_release": null,
+          "last_updated": null,
+          "development_status": "Discontinued",
+          "source_model": "Closed source , Mach open source",
+          "os_family": "Universal",
+          "gui": "Workplace Shell",
+          "platforms": "PowerPC",
+          "kernel_type": "Microkernel",
+          "license": null
+        },
+        "country_evidence": {
+          "assertion_status": "inferred",
+          "method": "inferred-from-developer-country",
+          "source": "https://www.wikidata.org/wiki/Q37156"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "E",
+          "relationship": "bundled-optional",
+          "interface_style": "full-screen-text",
+          "source": "https://www.ibmfiles.com/ibmfiles/powerpc/os2ppc_first_look.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "editions": [
+              "OS/2 Warp Connect (PowerPC Edition) 1.0"
+            ],
+            "components": [
+              "MVM DOS environment"
+            ]
+          },
+          "note": "IBM's table marks DOS E as added in the PowerPC Edition's DOS utility set and calls it a full-screen text editor; it is not generalized to the unshipped Workplace OS personalities."
+        }
+      ],
+      "priority_score": 125
+    },
+    {
+      "path": "systems/windows-iot",
+      "title": "Windows IoT",
+      "aliases": [
+        "Windows IoT"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [
+        "country_of_origin",
+        "developer",
+        "kernel_type",
+        "license",
+        "os_family",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/Windows_IoT",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "Microsoft",
+          "country_of_origin": "United States",
+          "purpose": null,
+          "programming_languages": null,
+          "first_release": null,
+          "latest_release": null,
+          "last_updated": null,
+          "development_status": null,
+          "source_model": "Closed-source Source-available (through Shared Source Initiative )",
+          "os_family": "Microsoft Windows",
+          "gui": null,
+          "platforms": null,
+          "kernel_type": "Hybrid kernel",
+          "license": "Commercial proprietary software"
+        },
+        "country_evidence": {
+          "assertion_status": "inferred",
+          "method": "inferred-from-developer-country",
+          "source": "https://www.wikidata.org/wiki/Q2283"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "Visual Studio",
+          "relationship": "development-host-tool",
+          "interface_style": "graphical",
+          "source": "https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/may/internet-of-things-working-with-raspberry-pi-and-windows-10",
+          "source_kind": "official-developer-article",
+          "assertion_status": "documented",
+          "scope": {
+            "editions": [
+              "Windows 10 IoT Core"
+            ],
+            "platforms": [
+              "Raspberry Pi"
+            ]
+          },
+          "note": "Microsoft's IoT Core guide directs developers to install Visual Studio's Universal Windows App tools and create a UWP project; it is a development-host association, not a claim that Visual Studio is installed on the device."
+        }
+      ],
+      "priority_score": 125
+    },
+    {
+      "path": "systems/xbox-system-software",
+      "title": "Xbox system software",
+      "aliases": [
+        "Xbox system software"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [
+        "country_of_origin",
+        "developer",
+        "development_status",
+        "platforms",
+        "programming_languages",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/Xbox_system_software",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "Microsoft",
+          "country_of_origin": "United States",
+          "purpose": null,
+          "programming_languages": "C , C++",
+          "first_release": null,
+          "latest_release": null,
+          "last_updated": null,
+          "development_status": "Discontinued",
+          "source_model": "Closed source",
+          "os_family": null,
+          "gui": null,
+          "platforms": "Xbox",
+          "kernel_type": null,
+          "license": null
+        },
+        "country_evidence": {
+          "assertion_status": "inferred",
+          "method": "inferred-from-developer-country",
+          "source": "https://www.wikidata.org/wiki/Q2283"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "Visual Studio",
+          "relationship": "development-host-tool",
+          "interface_style": "graphical",
+          "source": "https://learn.microsoft.com/en-us/gaming/gdk/docs/gdk-dev/get-started/overviews/sdk-and-tools?view=gdk-2510",
+          "source_kind": "official-sdk-documentation",
+          "assertion_status": "documented",
+          "scope": {
+            "editions": [
+              "GDK-era Xbox development"
+            ]
+          },
+          "note": "Microsoft requires/recommends Visual Studio with the GDK for games targeting Xbox consoles; this is an editor/IDE relationship on the development host, not a retail-console bundle claim."
+        }
+      ],
+      "priority_score": 125
+    }
+  ]
+}

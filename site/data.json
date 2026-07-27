@@ -4,10 +4,10 @@
   "repository": "https://github.com/htayj/os-directory",
   "stats": {
     "systems": 530,
-    "systems_with_editors": 64,
-    "associations": 221,
-    "unique_editors": 107,
-    "documented_associations": 19,
+    "systems_with_editors": 74,
+    "associations": 234,
+    "unique_editors": 115,
+    "documented_associations": 32,
     "provisional_associations": 202
   },
   "systems": [
@@ -2580,15 +2580,16 @@
       "record_url": "https://github.com/htayj/os-directory/blob/main/systems/compatible-time-sharing-system/system.md",
       "catalog_level": "inventory",
       "catalog_status": "draft",
-      "development_status": "Discontinued, simulator available",
+      "development_status": "discontinued",
       "country": [
-        "United States"
+        "US"
       ],
       "purpose": [
-        "Colleges and universities"
+        "time-sharing"
       ],
       "programming_language": [
-        "FAP assembly , MAD"
+        "FAP",
+        "MAD"
       ],
       "license": [
         "[ data missing ]"
@@ -2597,17 +2598,45 @@
       "latest_release": "",
       "last_updated": "",
       "gui": [
-        "Command-line interface"
+        "command-line"
       ],
       "platform": [
-        "IBM 7090 , IBM 7094"
+        "IBM 7094"
       ],
       "kernel": [
-        "Monolithic , protected"
+        "monitor"
       ],
-      "editor_disposition": "no-evidence-found",
+      "editor_disposition": "has-associations",
       "editor_checked_at": "2026-07-26",
-      "editors": []
+      "editors": [
+        {
+          "name": "ED",
+          "relationship": "bundled-default",
+          "interface_style": "line",
+          "assertion_status": "documented",
+          "source": "https://people.csail.mit.edu/saltzer/CTSS/CTSS-Documents/CTSS_ProgrammersGuide_1966.pdf",
+          "source_kind": "contemporary-system-manual",
+          "note": "Listed as a context editor for card-image files."
+        },
+        {
+          "name": "EDL",
+          "relationship": "bundled-default",
+          "interface_style": "line",
+          "assertion_status": "documented",
+          "source": "https://people.csail.mit.edu/saltzer/CTSS/CTSS-Documents/CTSS_ProgrammersGuide_1966.pdf",
+          "source_kind": "contemporary-system-manual",
+          "note": "Listed as a context editor for line-marked files."
+        },
+        {
+          "name": "QED",
+          "relationship": "bundled-default",
+          "interface_style": "line",
+          "assertion_status": "documented",
+          "source": "https://people.csail.mit.edu/saltzer/CTSS/CTSS-Documents/CTSS_ProgrammersGuide_1966.pdf",
+          "source_kind": "contemporary-system-manual",
+          "note": "Listed as a programmable editor."
+        }
+      ]
     },
     {
       "id": "concurrent-cp-m",
@@ -6185,18 +6214,34 @@
       "catalog_status": "draft",
       "development_status": "unknown",
       "country": [],
-      "purpose": [],
+      "purpose": [
+        "hardware-enablement"
+      ],
       "programming_language": [],
       "license": [],
       "first_release": "",
       "latest_release": "",
       "last_updated": "",
-      "gui": [],
-      "platform": [],
+      "gui": [
+        "command-line"
+      ],
+      "platform": [
+        "Sharp X68000 and X68030 series"
+      ],
       "kernel": [],
-      "editor_disposition": "no-evidence-found",
+      "editor_disposition": "has-associations",
       "editor_checked_at": "2026-07-26",
-      "editors": []
+      "editors": [
+        {
+          "name": "ED",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "assertion_status": "documented",
+          "source": "https://archive.org/details/X68000Human68k3.0",
+          "source_kind": "contemporary-system-manual",
+          "note": "Sharp devotes a full manual part to the screen editor ED; the Japanese preservation transcription identifies ED.X as a full-screen editor running on Human68k."
+        }
+      ]
     },
     {
       "id": "hydra",
@@ -12263,14 +12308,18 @@
       "catalog_status": "draft",
       "development_status": "unknown",
       "country": [],
-      "purpose": [],
+      "purpose": [
+        "business data processing on a standalone office computer"
+      ],
       "programming_language": [],
       "license": [],
       "first_release": "",
       "latest_release": "",
       "last_updated": "",
       "gui": [],
-      "platform": [],
+      "platform": [
+        "NEC N5200/05 office computer"
+      ],
       "kernel": [],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
@@ -14815,15 +14864,21 @@
       "country": [
         "KR"
       ],
-      "purpose": [],
+      "purpose": [
+        "integrated PC, mobile, and cloud operating-system platform"
+      ],
       "programming_language": [],
       "license": [],
       "first_release": "",
       "latest_release": "",
       "last_updated": "",
       "gui": [],
-      "platform": [],
-      "kernel": [],
+      "platform": [
+        "64-bit TmaxOS OE edition"
+      ],
+      "kernel": [
+        "other"
+      ],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
       "editors": []
@@ -16209,9 +16264,11 @@
       "catalog_level": "inventory",
       "catalog_status": "draft",
       "development_status": "Discontinued",
-      "country": [],
+      "country": [
+        "US"
+      ],
       "purpose": [
-        "Research"
+        "distributed-computing"
       ],
       "programming_language": [
         "C"
@@ -16223,17 +16280,38 @@
       "latest_release": "Final / 1988 ; 38 years ago ( 1988 )",
       "last_updated": "Final / 1988 ; 38 years ago ( 1988 )",
       "gui": [
-        "VGTS"
+        "command-line",
+        "graphical"
       ],
       "platform": [
-        "Workstations : SUN , MicroVAX , DEC Firefly"
+        "Sun workstations",
+        "DEC VAXstation"
       ],
       "kernel": [
-        "Microkernel"
+        "microkernel"
       ],
-      "editor_disposition": "no-evidence-found",
+      "editor_disposition": "has-associations",
       "editor_checked_at": "2026-07-26",
-      "editors": []
+      "editors": [
+        {
+          "name": "ved",
+          "relationship": "bundled-default",
+          "interface_style": "full-screen-text",
+          "assertion_status": "documented",
+          "source": "https://www.bitsavers.org/pdf/stanford/v-system/V_6.0refMan_Jun86.pdf",
+          "source_kind": "contemporary-system-manual",
+          "note": "The command summary calls ved a text editor that runs under VGTS."
+        },
+        {
+          "name": "vemacs",
+          "relationship": "bundled-default",
+          "interface_style": "full-screen-text",
+          "assertion_status": "documented",
+          "source": "https://www.bitsavers.org/pdf/stanford/v-system/V_6.0refMan_Jun86.pdf",
+          "source_kind": "contemporary-system-manual",
+          "note": "The command summary identifies vemacs as Emacs using VGTS window features."
+        }
+      ]
     },
     {
       "id": "versados",
@@ -16615,28 +16693,40 @@
       "record_url": "https://github.com/htayj/os-directory/blob/main/systems/vxworks/system.md",
       "catalog_level": "inventory",
       "catalog_status": "draft",
-      "development_status": "Current",
+      "development_status": "active",
       "country": [
-        "United States"
+        "US"
       ],
       "purpose": [
-        "Embedded systems"
+        "real-time-control"
       ],
       "programming_language": [],
       "license": [],
       "first_release": "1987 ; 39 years ago ( 1987 )",
       "latest_release": "VxWorks 7 25.09 / August 22, 2025 ; 11 months ago ( 2025-08-22 )",
       "last_updated": "VxWorks 7 25.09 / August 22, 2025 ; 11 months ago ( 2025-08-22 )",
-      "gui": [],
+      "gui": [
+        "command-line"
+      ],
       "platform": [
-        "x86 , x86-64 , MIPS , PowerPC , SH-4 , ARM , RISC-V"
+        "Arm; Power Architecture; Intel; RISC-V"
       ],
       "kernel": [
         "Monolithic"
       ],
-      "editor_disposition": "no-evidence-found",
+      "editor_disposition": "has-associations",
       "editor_checked_at": "2026-07-26",
-      "editors": []
+      "editors": [
+        {
+          "name": "Visual Studio Code",
+          "relationship": "development-host-tool",
+          "interface_style": "graphical",
+          "assertion_status": "documented",
+          "source": "https://labs.windriver.com/downloads/wrsdk-vxworks7-docs/VxWorksSDK-ApplicationDeveloperGuide.html",
+          "source_kind": "official-sdk-manual",
+          "note": "The official VxWorks 7 SDK guide has a VS Code project-creation path; this is a host-side development relationship, not a claim that the editor runs or is bundled on every VxWorks target."
+        }
+      ]
     },
     {
       "id": "waha-linux",
@@ -16648,15 +16738,23 @@
       "catalog_status": "draft",
       "development_status": "",
       "country": [],
-      "purpose": [],
+      "purpose": [
+        "Arabic-localized general-purpose desktop distribution"
+      ],
       "programming_language": [],
       "license": [],
       "first_release": "",
       "latest_release": "",
       "last_updated": "",
-      "gui": [],
-      "platform": [],
-      "kernel": [],
+      "gui": [
+        "graphical"
+      ],
+      "platform": [
+        "32-bit and 64-bit editions"
+      ],
+      "kernel": [
+        "unknown"
+      ],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
       "editors": []
@@ -16669,26 +16767,40 @@
       "record_url": "https://github.com/htayj/os-directory/blob/main/systems/waits/system.md",
       "catalog_level": "inventory",
       "catalog_status": "draft",
-      "development_status": "Historic",
+      "development_status": "discontinued",
       "country": [
-        "United States"
+        "US"
       ],
       "purpose": [
-        "Mainframe computer"
+        "time-sharing"
       ],
       "programming_language": [],
       "license": [],
       "first_release": "1967 ; 59 years ago ( 1967 )",
       "latest_release": "",
       "last_updated": "",
-      "gui": [],
-      "platform": [
-        "PDP-6 , PDP-10"
+      "gui": [
+        "command-line"
       ],
-      "kernel": [],
-      "editor_disposition": "no-evidence-found",
+      "platform": [
+        "DEC PDP-10 KL-10"
+      ],
+      "kernel": [
+        "monitor"
+      ],
+      "editor_disposition": "has-associations",
       "editor_checked_at": "2026-07-26",
-      "editors": []
+      "editors": [
+        {
+          "name": "E",
+          "relationship": "bundled-default",
+          "interface_style": "full-screen-text",
+          "assertion_status": "documented",
+          "source": "https://www.saildart.org/MONCOM.BH%5BS%2CDOC%5D26",
+          "source_kind": "contemporary-system-manual",
+          "note": "The manual says several editors are available and identifies E as the current favorite."
+        }
+      ]
     },
     {
       "id": "watchos",
@@ -17380,26 +17492,42 @@
       "record_url": "https://github.com/htayj/os-directory/blob/main/systems/windows-iot/system.md",
       "catalog_level": "inventory",
       "catalog_status": "draft",
-      "development_status": "",
+      "development_status": "active",
       "country": [
         "United States"
       ],
-      "purpose": [],
+      "purpose": [
+        "embedded-control"
+      ],
       "programming_language": [],
       "license": [
-        "Commercial proprietary software"
+        "Microsoft Software License Terms: Windows IoT Enterprise (All Editions)"
       ],
       "first_release": "",
       "latest_release": "",
       "last_updated": "",
-      "gui": [],
-      "platform": [],
+      "gui": [
+        "command-line"
+      ],
+      "platform": [
+        "Raspberry Pi 2; Intel MinnowBoard Max"
+      ],
       "kernel": [
         "Hybrid kernel"
       ],
-      "editor_disposition": "no-evidence-found",
+      "editor_disposition": "has-associations",
       "editor_checked_at": "2026-07-26",
-      "editors": []
+      "editors": [
+        {
+          "name": "Visual Studio",
+          "relationship": "development-host-tool",
+          "interface_style": "graphical",
+          "assertion_status": "documented",
+          "source": "https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/may/internet-of-things-working-with-raspberry-pi-and-windows-10",
+          "source_kind": "official-developer-article",
+          "note": "Microsoft's IoT Core guide directs developers to install Visual Studio's Universal Windows App tools and create a UWP project; it is a development-host association, not a claim that Visual Studio is installed on the device."
+        }
+      ]
     },
     {
       "id": "windows-mobile",
@@ -17569,12 +17697,12 @@
       "record_url": "https://github.com/htayj/os-directory/blob/main/systems/workplace-os/system.md",
       "catalog_level": "inventory",
       "catalog_status": "draft",
-      "development_status": "Discontinued",
+      "development_status": "discontinued",
       "country": [
-        "United States"
+        "US"
       ],
       "purpose": [
-        "Global"
+        "portability-research"
       ],
       "programming_language": [
         "C , C++"
@@ -17584,17 +17712,27 @@
       "latest_release": "",
       "last_updated": "",
       "gui": [
-        "Workplace Shell"
+        "graphical; command-line"
       ],
       "platform": [
-        "PowerPC"
+        "PowerPC-based machines"
       ],
       "kernel": [
-        "Microkernel"
+        "microkernel"
       ],
-      "editor_disposition": "no-evidence-found",
+      "editor_disposition": "has-associations",
       "editor_checked_at": "2026-07-26",
-      "editors": []
+      "editors": [
+        {
+          "name": "E",
+          "relationship": "bundled-optional",
+          "interface_style": "full-screen-text",
+          "assertion_status": "documented",
+          "source": "https://www.ibmfiles.com/ibmfiles/powerpc/os2ppc_first_look.pdf",
+          "source_kind": "contemporary-system-manual",
+          "note": "IBM's table marks DOS E as added in the PowerPC Edition's DOS utility set and calls it a full-screen text editor; it is not generalized to the unshipped Workplace OS personalities."
+        }
+      ]
     },
     {
       "id": "xbox-system-software",
@@ -17604,26 +17742,42 @@
       "record_url": "https://github.com/htayj/os-directory/blob/main/systems/xbox-system-software/system.md",
       "catalog_level": "inventory",
       "catalog_status": "draft",
-      "development_status": "Discontinued",
+      "development_status": "active",
       "country": [
         "United States"
       ],
-      "purpose": [],
+      "purpose": [
+        "gaming"
+      ],
       "programming_language": [
         "C , C++"
       ],
-      "license": [],
+      "license": [
+        "Xbox Software License Agreement"
+      ],
       "first_release": "",
       "latest_release": "",
       "last_updated": "",
-      "gui": [],
+      "gui": [
+        "graphical"
+      ],
       "platform": [
-        "Xbox"
+        "Xbox One; Xbox Series X; Xbox Series S"
       ],
       "kernel": [],
-      "editor_disposition": "no-evidence-found",
+      "editor_disposition": "has-associations",
       "editor_checked_at": "2026-07-26",
-      "editors": []
+      "editors": [
+        {
+          "name": "Visual Studio",
+          "relationship": "development-host-tool",
+          "interface_style": "graphical",
+          "assertion_status": "documented",
+          "source": "https://learn.microsoft.com/en-us/gaming/gdk/docs/gdk-dev/get-started/overviews/sdk-and-tools?view=gdk-2510",
+          "source_kind": "official-sdk-documentation",
+          "note": "Microsoft requires/recommends Visual Studio with the GDK for games targeting Xbox consoles; this is an editor/IDE relationship on the development host, not a retail-console bundle claim."
+        }
+      ]
     },
     {
       "id": "xenix",
@@ -17712,22 +17866,31 @@
       "record_url": "https://github.com/htayj/os-directory/blob/main/systems/xinu/system.md",
       "catalog_level": "inventory",
       "catalog_status": "draft",
-      "development_status": "Current",
-      "country": [],
+      "development_status": "active",
+      "country": [
+        "US"
+      ],
       "purpose": [
-        "Higher education , embedded systems"
+        "operating-systems-education",
+        "embedded-control"
       ],
       "programming_language": [
         "C"
       ],
-      "license": [],
+      "license": [
+        "Xinu software permission notice"
+      ],
       "first_release": "1981 ; 45 years ago ( 1981 )",
       "latest_release": "3rd ed. / 2025 ; 1 year ago ( 2025 )",
       "last_updated": "3rd ed. / 2025 ; 1 year ago ( 2025 )",
       "gui": [
-        "Command-line interface"
+        "command-line"
       ],
-      "platform": [],
+      "platform": [
+        "Intel x86 / Galileo board",
+        "ARM / BeagleBone Black",
+        "Oracle VirtualBox"
+      ],
       "kernel": [],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
@@ -17770,28 +17933,30 @@
       "record_url": "https://github.com/htayj/os-directory/blob/main/systems/xv6/system.md",
       "catalog_level": "inventory",
       "catalog_status": "draft",
-      "development_status": "",
+      "development_status": "active",
       "country": [
-        "United States"
+        "US"
       ],
-      "purpose": [],
+      "purpose": [
+        "operating-systems-education"
+      ],
       "programming_language": [
-        "C and assembly"
+        "ANSI C"
       ],
       "license": [
-        "MIT license"
+        "MIT License"
       ],
       "first_release": "",
       "latest_release": "RISC-V: rev5 / September 2, 2025 ; 10 months ago ( 2025-09-02 ) x86-32 ( EOL ): rev11 / September 2, 2018 ; 7 years ago ( 2018-09-02 ) x86-64: rev1 / September 1, 2025 ; 10 months ago ( 2025-09-01 )",
       "last_updated": "RISC-V: rev5 / September 2, 2025 ; 10 months ago ( 2025-09-02 ) x86-32 ( EOL ): rev11 / September 2, 2018 ; 7 years ago ( 2018-09-02 ) x86-64: rev1 / September 1, 2025 ; 10 months ago ( 2025-09-01 )",
       "gui": [
-        "Command-line interface"
+        "command-line"
       ],
       "platform": [
-        "multiprocessor Intel x86 and RISC-V"
+        "multi-core RISC-V"
       ],
       "kernel": [
-        "Monolithic"
+        "monolithic"
       ],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
@@ -17925,24 +18090,42 @@
       "record_url": "https://github.com/htayj/os-directory/blob/main/systems/z-vm/system.md",
       "catalog_level": "inventory",
       "catalog_status": "draft",
-      "development_status": "Current",
+      "development_status": "maintenance",
       "country": [
         "United States"
       ],
-      "purpose": [],
+      "purpose": [
+        "hardware-enablement"
+      ],
       "programming_language": [],
       "license": [
-        "Proprietary"
+        "IBM International Program License Agreement"
       ],
       "first_release": "",
       "latest_release": "7.4 / September 20, 2024 ; 22 months ago ( 2024-09-20 )",
       "last_updated": "7.4 / September 20, 2024 ; 22 months ago ( 2024-09-20 )",
-      "gui": [],
-      "platform": [],
-      "kernel": [],
-      "editor_disposition": "no-evidence-found",
+      "gui": [
+        "command-line"
+      ],
+      "platform": [
+        "IBM Z and IBM LinuxONE servers"
+      ],
+      "kernel": [
+        "other"
+      ],
+      "editor_disposition": "has-associations",
       "editor_checked_at": "2026-07-26",
-      "editors": []
+      "editors": [
+        {
+          "name": "XEDIT",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "assertion_status": "documented",
+          "source": "https://www.ibm.com/support/pages/zvm/library/740pdfs.html",
+          "source_kind": "official-documentation-index",
+          "note": "IBM's 7.4 library lists the XEDIT User's Guide, and its manual describes XEDIT as the IBM z/VM editor and both full-screen and line-mode text processing."
+        }
+      ]
     },
     {
       "id": "z-vse",
@@ -17981,7 +18164,9 @@
       "catalog_status": "draft",
       "development_status": "Discontinued",
       "country": [],
-      "purpose": [],
+      "purpose": [
+        "software-development and production integration"
+      ],
       "programming_language": [],
       "license": [
         "Proprietary"
@@ -17990,15 +18175,27 @@
       "latest_release": "",
       "last_updated": "",
       "gui": [
-        "Command-line interface"
+        "command-line"
       ],
       "platform": [
-        "Zilog Z80"
+        "Zilog MCZ Micro Computer System and ZDS Development System"
       ],
-      "kernel": [],
-      "editor_disposition": "no-evidence-found",
+      "kernel": [
+        "executive"
+      ],
+      "editor_disposition": "has-associations",
       "editor_checked_at": "2026-07-26",
-      "editors": []
+      "editors": [
+        {
+          "name": "RIO Text Editor",
+          "relationship": "bundled-default",
+          "interface_style": "command-line",
+          "assertion_status": "documented",
+          "source": "https://www.bitsavers.org/pdf/zilog/mcz-1/03-0072-01A_Z80_RIO_Operating_System_Users_Manual_Sep78.pdf",
+          "source_kind": "contemporary-system-manual",
+          "note": "The enhanced environment's disk-resident software includes a text editor. Its dedicated manual calls it a line-oriented editor with string handling and automatic disk interface."
+        }
+      ]
     },
     {
       "id": "zephyr",

@@ -1,5 +1,14 @@
 # Bundle Update Log
 
+## 2026-07-27
+
+* **Deep-research tooling**: Added a ranked 530-system gap audit, non-overlapping Terra manifests, a source-first multilingual research guide, structured result validation, review summaries, and idempotent record attachment.
+* **Terra deep dives**: Completed three xhigh batches covering 15 high-gap academic, commercial, and non-English systems with 56 sources, 140 claims, and 56 explicit unresolved dispositions.
+* **Primary evidence**: Used 43 primary sources from project and vendor documentation, contemporary manuals, source trees, institutional archives, and native-language materials.
+* **Editor evidence**: Added 13 documented associations, including CTSS ED/EDL/QED, WAITS E, Stanford V ved/vemacs, z/VM XEDIT, RIO Text Editor, and Human68k ED.
+* **Identity boundaries**: Preserved Stanford V versus UNIX System V, original N5200 PTOS versus later products, Workplace OS versus its limited PowerPC expression, and distinct TmaxOS product generations.
+* **Site integration**: Extended the Pages generator to overlay reviewed deep-research claims and editor evidence without treating unresolved implementation or licensing questions as facts.
+
 ## 2026-07-26
 
 * **TI Explorer identity**: Resolved the English list's company-level Texas Instruments entry into the separately evidenced Explorer System Software operating-system lineage.

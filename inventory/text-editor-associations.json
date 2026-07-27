@@ -1007,13 +1007,41 @@
     {
       "path": "systems/compatible-time-sharing-system",
       "title": "Compatible Time-Sharing System",
-      "disposition": "no-evidence-found",
+      "disposition": "has-associations",
       "searched": [
         "linked-wikipedia-system-page",
         "wikidata-text-editor-platform-statements"
       ],
-      "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
-      "associations": []
+      "note": "One or more discovery relationships were found; provisional relationships still require primary-source confirmation.",
+      "associations": [
+        {
+          "name": "ED",
+          "relationship": "bundled-default",
+          "interface_style": "line",
+          "source": "https://people.csail.mit.edu/saltzer/CTSS/CTSS-Documents/CTSS_ProgrammersGuide_1966.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "note": "Listed as a context editor for card-image files."
+        },
+        {
+          "name": "EDL",
+          "relationship": "bundled-default",
+          "interface_style": "line",
+          "source": "https://people.csail.mit.edu/saltzer/CTSS/CTSS-Documents/CTSS_ProgrammersGuide_1966.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "note": "Listed as a context editor for line-marked files."
+        },
+        {
+          "name": "QED",
+          "relationship": "bundled-default",
+          "interface_style": "line",
+          "source": "https://people.csail.mit.edu/saltzer/CTSS/CTSS-Documents/CTSS_ProgrammersGuide_1966.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "note": "Listed as a programmable editor."
+        }
+      ]
     },
     {
       "path": "systems/concurrent-cp-m",
@@ -2400,13 +2428,28 @@
     {
       "path": "systems/human68k",
       "title": "Human68k",
-      "disposition": "no-evidence-found",
+      "disposition": "has-associations",
       "searched": [
         "linked-wikipedia-system-page",
         "wikidata-text-editor-platform-statements"
       ],
-      "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
-      "associations": []
+      "note": "One or more discovery relationships were found; provisional relationships still require primary-source confirmation.",
+      "associations": [
+        {
+          "name": "ED",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "source": "https://archive.org/details/X68000Human68k3.0",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "Human68k ver.3.0"
+            ]
+          },
+          "note": "Sharp devotes a full manual part to the screen editor ED; the Japanese preservation transcription identifies ED.X as a full-screen editor running on Human68k."
+        }
+      ]
     },
     {
       "path": "systems/hydra",
@@ -6611,13 +6654,48 @@
     {
       "path": "systems/v",
       "title": "V",
-      "disposition": "no-evidence-found",
+      "disposition": "has-associations",
       "searched": [
         "linked-wikipedia-system-page",
         "wikidata-text-editor-platform-statements"
       ],
-      "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
-      "associations": []
+      "note": "One or more discovery relationships were found; provisional relationships still require primary-source confirmation.",
+      "associations": [
+        {
+          "name": "ved",
+          "relationship": "bundled-default",
+          "interface_style": "full-screen-text",
+          "source": "https://www.bitsavers.org/pdf/stanford/v-system/V_6.0refMan_Jun86.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "6.0"
+            ],
+            "interfaces": [
+              "VGTS"
+            ]
+          },
+          "note": "The command summary calls ved a text editor that runs under VGTS."
+        },
+        {
+          "name": "vemacs",
+          "relationship": "bundled-default",
+          "interface_style": "full-screen-text",
+          "source": "https://www.bitsavers.org/pdf/stanford/v-system/V_6.0refMan_Jun86.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "6.0"
+            ],
+            "interfaces": [
+              "VGTS"
+            ]
+          },
+          "note": "The command summary identifies vemacs as Emacs using VGTS window features."
+        }
+      ]
     },
     {
       "path": "systems/versados",
@@ -6768,13 +6846,28 @@
     {
       "path": "systems/vxworks",
       "title": "VxWorks",
-      "disposition": "no-evidence-found",
+      "disposition": "has-associations",
       "searched": [
         "linked-wikipedia-system-page",
         "wikidata-text-editor-platform-statements"
       ],
-      "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
-      "associations": []
+      "note": "One or more discovery relationships were found; provisional relationships still require primary-source confirmation.",
+      "associations": [
+        {
+          "name": "Visual Studio Code",
+          "relationship": "development-host-tool",
+          "interface_style": "graphical",
+          "source": "https://labs.windriver.com/downloads/wrsdk-vxworks7-docs/VxWorksSDK-ApplicationDeveloperGuide.html",
+          "source_kind": "official-sdk-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "VxWorks 7 SDK"
+            ]
+          },
+          "note": "The official VxWorks 7 SDK guide has a VS Code project-creation path; this is a host-side development relationship, not a claim that the editor runs or is bundled on every VxWorks target."
+        }
+      ]
     },
     {
       "path": "systems/waha-linux",
@@ -6789,13 +6882,28 @@
     {
       "path": "systems/waits",
       "title": "WAITS",
-      "disposition": "no-evidence-found",
+      "disposition": "has-associations",
       "searched": [
         "linked-wikipedia-system-page",
         "wikidata-text-editor-platform-statements"
       ],
-      "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
-      "associations": []
+      "note": "One or more discovery relationships were found; provisional relationships still require primary-source confirmation.",
+      "associations": [
+        {
+          "name": "E",
+          "relationship": "bundled-default",
+          "interface_style": "full-screen-text",
+          "source": "https://www.saildart.org/MONCOM.BH%5BS%2CDOC%5D26",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "WAITS 9.13/M"
+            ]
+          },
+          "note": "The manual says several editors are available and identifies E as the current favorite."
+        }
+      ]
     },
     {
       "path": "systems/watchos",
@@ -7257,13 +7365,31 @@
     {
       "path": "systems/windows-iot",
       "title": "Windows IoT",
-      "disposition": "no-evidence-found",
+      "disposition": "has-associations",
       "searched": [
         "linked-wikipedia-system-page",
         "wikidata-text-editor-platform-statements"
       ],
-      "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
-      "associations": []
+      "note": "One or more discovery relationships were found; provisional relationships still require primary-source confirmation.",
+      "associations": [
+        {
+          "name": "Visual Studio",
+          "relationship": "development-host-tool",
+          "interface_style": "graphical",
+          "source": "https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/may/internet-of-things-working-with-raspberry-pi-and-windows-10",
+          "source_kind": "official-developer-article",
+          "assertion_status": "documented",
+          "scope": {
+            "editions": [
+              "Windows 10 IoT Core"
+            ],
+            "platforms": [
+              "Raspberry Pi"
+            ]
+          },
+          "note": "Microsoft's IoT Core guide directs developers to install Visual Studio's Universal Windows App tools and create a UWP project; it is a development-host association, not a claim that Visual Studio is installed on the device."
+        }
+      ]
     },
     {
       "path": "systems/windows-mobile",
@@ -7337,24 +7463,57 @@
     {
       "path": "systems/workplace-os",
       "title": "Workplace OS",
-      "disposition": "no-evidence-found",
+      "disposition": "has-associations",
       "searched": [
         "linked-wikipedia-system-page",
         "wikidata-text-editor-platform-statements"
       ],
-      "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
-      "associations": []
+      "note": "One or more discovery relationships were found; provisional relationships still require primary-source confirmation.",
+      "associations": [
+        {
+          "name": "E",
+          "relationship": "bundled-optional",
+          "interface_style": "full-screen-text",
+          "source": "https://www.ibmfiles.com/ibmfiles/powerpc/os2ppc_first_look.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "editions": [
+              "OS/2 Warp Connect (PowerPC Edition) 1.0"
+            ],
+            "components": [
+              "MVM DOS environment"
+            ]
+          },
+          "note": "IBM's table marks DOS E as added in the PowerPC Edition's DOS utility set and calls it a full-screen text editor; it is not generalized to the unshipped Workplace OS personalities."
+        }
+      ]
     },
     {
       "path": "systems/xbox-system-software",
       "title": "Xbox system software",
-      "disposition": "no-evidence-found",
+      "disposition": "has-associations",
       "searched": [
         "linked-wikipedia-system-page",
         "wikidata-text-editor-platform-statements"
       ],
-      "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
-      "associations": []
+      "note": "One or more discovery relationships were found; provisional relationships still require primary-source confirmation.",
+      "associations": [
+        {
+          "name": "Visual Studio",
+          "relationship": "development-host-tool",
+          "interface_style": "graphical",
+          "source": "https://learn.microsoft.com/en-us/gaming/gdk/docs/gdk-dev/get-started/overviews/sdk-and-tools?view=gdk-2510",
+          "source_kind": "official-sdk-documentation",
+          "assertion_status": "documented",
+          "scope": {
+            "editions": [
+              "GDK-era Xbox development"
+            ]
+          },
+          "note": "Microsoft requires/recommends Visual Studio with the GDK for games targeting Xbox consoles; this is an editor/IDE relationship on the development host, not a retail-console bundle claim."
+        }
+      ]
     },
     {
       "path": "systems/xenix",
@@ -7480,13 +7639,31 @@
     {
       "path": "systems/z-vm",
       "title": "z/VM",
-      "disposition": "no-evidence-found",
+      "disposition": "has-associations",
       "searched": [
         "linked-wikipedia-system-page",
         "wikidata-text-editor-platform-statements"
       ],
-      "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
-      "associations": []
+      "note": "One or more discovery relationships were found; provisional relationships still require primary-source confirmation.",
+      "associations": [
+        {
+          "name": "XEDIT",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "source": "https://www.ibm.com/support/pages/zvm/library/740pdfs.html",
+          "source_kind": "official-documentation-index",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "z/VM 7.4"
+            ],
+            "components": [
+              "CMS"
+            ]
+          },
+          "note": "IBM's 7.4 library lists the XEDIT User's Guide, and its manual describes XEDIT as the IBM z/VM editor and both full-screen and line-mode text processing."
+        }
+      ]
     },
     {
       "path": "systems/z-vse",
@@ -7501,13 +7678,31 @@
     {
       "path": "systems/z80-rio",
       "title": "Z80-RIO",
-      "disposition": "no-evidence-found",
+      "disposition": "has-associations",
       "searched": [
         "linked-wikipedia-system-page",
         "wikidata-text-editor-platform-statements"
       ],
-      "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
-      "associations": []
+      "note": "One or more discovery relationships were found; provisional relationships still require primary-source confirmation.",
+      "associations": [
+        {
+          "name": "RIO Text Editor",
+          "relationship": "bundled-default",
+          "interface_style": "command-line",
+          "source": "https://www.bitsavers.org/pdf/zilog/mcz-1/03-0072-01A_Z80_RIO_Operating_System_Users_Manual_Sep78.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "RIO Revision A"
+            ],
+            "components": [
+              "enhanced environment"
+            ]
+          },
+          "note": "The enhanced environment's disk-resident software includes a text editor. Its dedicated manual calls it a line-oriented editor with string handling and automatic disk interface."
+        }
+      ]
     },
     {
       "path": "systems/zephyr",

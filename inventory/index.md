@@ -19,6 +19,8 @@ Generated and curated inventories used to establish catalog coverage.
 * `text-editor-associations.json` - editor relationships or an explicit no-evidence disposition for every system.
 * `text-editor-page-snapshots.json` - frozen linked-page revision metadata and provisional editor discoveries.
 * `text-editor-wikidata.json` - frozen direct text-editor platform statements used for provisional discovery.
+* `deep-research/` - ranked gap audit, non-overlapping Terra manifests, and
+  structured source-first research results awaiting normalized merge.
 
 # Supplemental
 

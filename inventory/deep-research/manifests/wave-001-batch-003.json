@@ -1,0 +1,668 @@
+{
+  "schema_version": "0.1",
+  "batch_id": "wave-001-batch-003",
+  "theme": "non-English and regionally documented systems",
+  "as_of": "2026-07-27",
+  "agent_guide": "schema/deep-research-agent-guide.md",
+  "result_path": "inventory/deep-research/results/wave-001-batch-003.json",
+  "systems": [
+    {
+      "path": "systems/z80-rio",
+      "title": "Z80-RIO",
+      "aliases": [
+        "Z80-RIO"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [
+        "developer",
+        "development_status",
+        "gui",
+        "license",
+        "platforms",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/Z80-RIO",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "Zilog",
+          "country_of_origin": null,
+          "purpose": null,
+          "programming_languages": null,
+          "first_release": null,
+          "latest_release": null,
+          "last_updated": null,
+          "development_status": "Discontinued",
+          "source_model": "Closed source",
+          "os_family": null,
+          "gui": "Command-line interface",
+          "platforms": "Zilog Z80",
+          "kernel_type": null,
+          "license": "Proprietary"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "RIO Text Editor",
+          "relationship": "bundled-default",
+          "interface_style": "command-line",
+          "source": "https://www.bitsavers.org/pdf/zilog/mcz-1/03-0072-01A_Z80_RIO_Operating_System_Users_Manual_Sep78.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "RIO Revision A"
+            ],
+            "components": [
+              "enhanced environment"
+            ]
+          },
+          "note": "The enhanced environment's disk-resident software includes a text editor. Its dedicated manual calls it a line-oriented editor with string handling and automatic disk interface."
+        }
+      ],
+      "priority_score": 125
+    },
+    {
+      "path": "systems/waha-linux",
+      "title": "واحــة لينكس",
+      "aliases": [
+        "واحــة لينكس"
+      ],
+      "discovery_languages": [
+        "ar"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {
+        "developer": null,
+        "country_of_origin": null,
+        "purpose": null,
+        "programming_languages": null,
+        "first_release": null,
+        "latest_release": null,
+        "last_updated": null,
+        "development_status": null,
+        "source_model": null,
+        "os_family": null,
+        "gui": null,
+        "platforms": null,
+        "kernel_type": null,
+        "license": null
+      },
+      "existing_sources": [
+        {
+          "id": "multilingual-manifest",
+          "title": "Multilingual catalog batch 001",
+          "resource": "inventory/multilingual/manifests/batch-001.json",
+          "source_kind": "inventory-manifest"
+        },
+        {
+          "id": "arabeyes-distros",
+          "title": "Distros",
+          "resource": "https://www.arabeyes.org/index.php?title=Distros&oldid=82007",
+          "source_kind": "arabic-community-project-history"
+        },
+        {
+          "id": "arabeyes-arabbix",
+          "title": "Arabbix",
+          "resource": "https://wiki.arabeyes.org/Arabbix",
+          "source_kind": "arabic-community-project-history"
+        },
+        {
+          "id": "waha-project",
+          "title": "مشروع واحــة",
+          "resource": "https://wahaproject.org/",
+          "source_kind": "arabic-project-site"
+        },
+        {
+          "id": "waha-linux",
+          "title": "واحــة لينكس",
+          "resource": "https://linux.wahaproject.org/",
+          "source_kind": "arabic-project-site"
+        },
+        {
+          "id": "ojuba-project",
+          "title": "نظام التشغيل أعجوبة لينكس",
+          "resource": "https://ojuba.org/linux:%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9",
+          "source_kind": "arabic-project-site"
+        },
+        {
+          "id": "ojuba-releases",
+          "title": "ojuba-releases",
+          "resource": "https://ojuba.org/ojuba-releases",
+          "source_kind": "arabic-project-release-policy"
+        },
+        {
+          "id": "helwan-project",
+          "title": "About Helwan Linux",
+          "resource": "https://helwan-linux.github.io/helwanlinux/about.html",
+          "source_kind": "project-site"
+        },
+        {
+          "id": "uruk-article",
+          "title": "Uruk GNU/Linux",
+          "resource": "https://en.wikipedia.org/wiki/Uruk_GNU/Linux",
+          "source_kind": "article"
+        },
+        {
+          "id": "kfupm-arabian-linux",
+          "title": "Arabian Linux",
+          "resource": "https://faculty.kfupm.edu.sa/ICS/muhtaseb/Teaching/ACStLect.pdf",
+          "source_kind": "arabic-university-course-material"
+        },
+        {
+          "id": "hilali-community",
+          "title": "توزيعة هلال Helal لينُكس العربية",
+          "resource": "https://www.linuxac.org/node/84",
+          "source_kind": "arabic-community-archive"
+        },
+        {
+          "id": "sabily-ubuntu",
+          "title": "Sabily derivative record",
+          "resource": "https://wiki.ubuntu.com/DerivativeTeam/Derivatives/Sabily",
+          "source_kind": "upstream-project-wiki"
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 146
+    },
+    {
+      "path": "systems/human68k",
+      "title": "Human68k",
+      "aliases": [
+        "Human68k"
+      ],
+      "discovery_languages": [
+        "ja"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {
+        "source": "inventory/multilingual/manifests/batch-008.json",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "All first-pass attributes are intentionally unverified; source-specific evidence must be researched before verification.",
+        "fields": {
+          "developer": null,
+          "country_of_origin": null,
+          "purpose": null,
+          "programming_languages": null,
+          "first_release": null,
+          "latest_release": null,
+          "last_updated": null,
+          "development_status": null,
+          "source_model": null,
+          "os_family": null,
+          "gui": null,
+          "platforms": null,
+          "kernel_type": null,
+          "license": null
+        },
+        "dispositions": {
+          "developer": "not-researched",
+          "country_of_origin": "not-researched",
+          "purpose": "not-researched",
+          "programming_languages": "not-researched",
+          "first_release": "not-researched",
+          "latest_release": "not-researched",
+          "last_updated": "not-researched",
+          "development_status": "not-researched",
+          "source_model": "not-researched",
+          "os_family": "not-researched",
+          "gui": "not-researched",
+          "platforms": "not-researched",
+          "kernel_type": "not-researched",
+          "license": "not-researched"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "discovery",
+          "title": "Multilingual manifest batch-008",
+          "resource": "inventory/multilingual/manifests/batch-008.json",
+          "source_kind": "inventory"
+        },
+        {
+          "id": "ja-os-list",
+          "title": "オペレーティングシステムの一覧",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E4%B8%80%E8%A6%A7&oldid=109838165",
+          "source_kind": "language-list",
+          "revision": "109838165"
+        },
+        {
+          "id": "ja-human68k",
+          "title": "Human68k",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=Human68k&oldid=107376143",
+          "source_kind": "article",
+          "revision": "107376143"
+        },
+        {
+          "id": "ja-ptos",
+          "title": "PTOS",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=PTOS&oldid=71685188",
+          "source_kind": "article",
+          "revision": "71685188"
+        },
+        {
+          "id": "ja-townsos",
+          "title": "TownsOS",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=TownsOS&oldid=75421418",
+          "source_kind": "article",
+          "revision": "75421418"
+        },
+        {
+          "id": "ja-acos-2",
+          "title": "ACOS-2",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=ACOS-2&oldid=103684529",
+          "source_kind": "article",
+          "revision": "103684529"
+        },
+        {
+          "id": "ja-btron",
+          "title": "BTRON",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=BTRON&oldid=109887557",
+          "source_kind": "article",
+          "revision": "109887557"
+        },
+        {
+          "id": "ja-itron",
+          "title": "ITRON",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=ITRON&oldid=110317753",
+          "source_kind": "article",
+          "revision": "110317753"
+        },
+        {
+          "id": "ja-t-kernel",
+          "title": "T-Kernel",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=T-Kernel&oldid=107371894",
+          "source_kind": "article",
+          "revision": "107371894"
+        },
+        {
+          "id": "ja-tron-project",
+          "title": "TRONプロジェクト",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=TRON%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&oldid=110359990",
+          "source_kind": "article",
+          "revision": "110359990"
+        },
+        {
+          "id": "pmc-history",
+          "title": "沿革",
+          "resource": "https://www.personal-media.co.jp/info/history.html",
+          "source_kind": "vendor-history"
+        },
+        {
+          "id": "pmc-btron-products",
+          "title": "超漢字・BTRON関連書の選び方",
+          "resource": "https://www.personal-media.co.jp/book/tron/b_presen.html",
+          "source_kind": "vendor-product-history"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "ED",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "source": "https://archive.org/details/X68000Human68k3.0",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "Human68k ver.3.0"
+            ]
+          },
+          "note": "Sharp devotes a full manual part to the screen editor ED; the Japanese preservation transcription identifies ED.X as a full-screen editor running on Human68k."
+        }
+      ],
+      "priority_score": 128
+    },
+    {
+      "path": "systems/ptos-nec",
+      "title": "PTOS",
+      "aliases": [
+        "PTOS"
+      ],
+      "discovery_languages": [
+        "ja"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {
+        "source": "inventory/multilingual/manifests/batch-008.json",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "All first-pass attributes are intentionally unverified; source-specific evidence must be researched before verification.",
+        "fields": {
+          "developer": null,
+          "country_of_origin": null,
+          "purpose": null,
+          "programming_languages": null,
+          "first_release": null,
+          "latest_release": null,
+          "last_updated": null,
+          "development_status": null,
+          "source_model": null,
+          "os_family": null,
+          "gui": null,
+          "platforms": null,
+          "kernel_type": null,
+          "license": null
+        },
+        "dispositions": {
+          "developer": "not-researched",
+          "country_of_origin": "not-researched",
+          "purpose": "not-researched",
+          "programming_languages": "not-researched",
+          "first_release": "not-researched",
+          "latest_release": "not-researched",
+          "last_updated": "not-researched",
+          "development_status": "not-researched",
+          "source_model": "not-researched",
+          "os_family": "not-researched",
+          "gui": "not-researched",
+          "platforms": "not-researched",
+          "kernel_type": "not-researched",
+          "license": "not-researched"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "discovery",
+          "title": "Multilingual manifest batch-008",
+          "resource": "inventory/multilingual/manifests/batch-008.json",
+          "source_kind": "inventory"
+        },
+        {
+          "id": "ja-os-list",
+          "title": "オペレーティングシステムの一覧",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E4%B8%80%E8%A6%A7&oldid=109838165",
+          "source_kind": "language-list",
+          "revision": "109838165"
+        },
+        {
+          "id": "ja-human68k",
+          "title": "Human68k",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=Human68k&oldid=107376143",
+          "source_kind": "article",
+          "revision": "107376143"
+        },
+        {
+          "id": "ja-ptos",
+          "title": "PTOS",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=PTOS&oldid=71685188",
+          "source_kind": "article",
+          "revision": "71685188"
+        },
+        {
+          "id": "ja-townsos",
+          "title": "TownsOS",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=TownsOS&oldid=75421418",
+          "source_kind": "article",
+          "revision": "75421418"
+        },
+        {
+          "id": "ja-acos-2",
+          "title": "ACOS-2",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=ACOS-2&oldid=103684529",
+          "source_kind": "article",
+          "revision": "103684529"
+        },
+        {
+          "id": "ja-btron",
+          "title": "BTRON",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=BTRON&oldid=109887557",
+          "source_kind": "article",
+          "revision": "109887557"
+        },
+        {
+          "id": "ja-itron",
+          "title": "ITRON",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=ITRON&oldid=110317753",
+          "source_kind": "article",
+          "revision": "110317753"
+        },
+        {
+          "id": "ja-t-kernel",
+          "title": "T-Kernel",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=T-Kernel&oldid=107371894",
+          "source_kind": "article",
+          "revision": "107371894"
+        },
+        {
+          "id": "ja-tron-project",
+          "title": "TRONプロジェクト",
+          "resource": "https://ja.wikipedia.org/w/index.php?title=TRON%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&oldid=110359990",
+          "source_kind": "article",
+          "revision": "110359990"
+        },
+        {
+          "id": "pmc-history",
+          "title": "沿革",
+          "resource": "https://www.personal-media.co.jp/info/history.html",
+          "source_kind": "vendor-history"
+        },
+        {
+          "id": "pmc-btron-products",
+          "title": "超漢字・BTRON関連書の選び方",
+          "resource": "https://www.personal-media.co.jp/book/tron/b_presen.html",
+          "source_kind": "vendor-product-history"
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 146
+    },
+    {
+      "path": "systems/tmaxos",
+      "title": "티맥스OS (TmaxOS)",
+      "aliases": [
+        "티맥스OS (TmaxOS)"
+      ],
+      "discovery_languages": [
+        "ko"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {
+        "developer": null,
+        "country_of_origin": "KR",
+        "purpose": null,
+        "programming_languages": null,
+        "first_release": null,
+        "latest_release": null,
+        "last_updated": null,
+        "development_status": null,
+        "source_model": null,
+        "os_family": null,
+        "gui": null,
+        "platforms": null,
+        "kernel_type": null,
+        "license": null
+      },
+      "existing_sources": [
+        {
+          "id": "multilingual-manifest",
+          "title": "Multilingual catalog batch 010",
+          "resource": "inventory/multilingual/manifests/batch-010.json",
+          "source_kind": "inventory-manifest"
+        },
+        {
+          "id": "ko-os-list",
+          "title": "운영체제 목록",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_%EB%AA%A9%EB%A1%9D&oldid=41169508",
+          "source_kind": "language-list"
+        },
+        {
+          "id": "ko-gooroom",
+          "title": "구름 플랫폼",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=%EA%B5%AC%EB%A6%84_%ED%94%8C%EB%9E%AB%ED%8F%BC&oldid=41145482",
+          "source_kind": "article"
+        },
+        {
+          "id": "ko-hamonikr",
+          "title": "하모니카 (운영 체제)",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)&oldid=41084648",
+          "source_kind": "article"
+        },
+        {
+          "id": "ko-tmaxos",
+          "title": "티맥스OS",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4OS&oldid=40438267",
+          "source_kind": "article"
+        },
+        {
+          "id": "ko-tmax-window",
+          "title": "티맥스 윈도",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4_%EC%9C%88%EB%8F%84&oldid=39125497",
+          "source_kind": "article"
+        },
+        {
+          "id": "ko-whale-os",
+          "title": "웨일 OS",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=%EC%9B%A8%EC%9D%BC_OS&oldid=40002181",
+          "source_kind": "article"
+        },
+        {
+          "id": "ko-annyung",
+          "title": "안녕 리눅스",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=%EC%95%88%EB%85%95_%EB%A6%AC%EB%88%85%EC%8A%A4&oldid=39027606",
+          "source_kind": "article"
+        },
+        {
+          "id": "ko-ginux",
+          "title": "지눅스",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=%EC%A7%80%EB%88%85%EC%8A%A4&oldid=39066391",
+          "source_kind": "article"
+        },
+        {
+          "id": "ko-linuxone",
+          "title": "리눅스원",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9B%90&oldid=39040304",
+          "source_kind": "article"
+        },
+        {
+          "id": "ko-mizi-research",
+          "title": "미지리서치",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=%EB%AF%B8%EC%A7%80%EB%A6%AC%EC%84%9C%EC%B9%98&oldid=39038161",
+          "source_kind": "article"
+        },
+        {
+          "id": "ko-asianux",
+          "title": "아시아눅스",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=%EC%95%84%EC%8B%9C%EC%95%84%EB%88%85%EC%8A%A4&oldid=39027607",
+          "source_kind": "article"
+        },
+        {
+          "id": "ko-hancom-gooroom",
+          "title": "한컴 구름",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=%ED%95%9C%EC%BB%B4_%EA%B5%AC%EB%A6%84&oldid=39619067",
+          "source_kind": "article"
+        },
+        {
+          "id": "ko-tmax-gooroom",
+          "title": "티맥스구름",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=%ED%8B%B0%EB%A7%A5%EC%8A%A4%EA%B5%AC%EB%A6%84&oldid=39696813",
+          "source_kind": "article"
+        },
+        {
+          "id": "navix-repository",
+          "title": "NAVIX (Naver Linux)",
+          "resource": "https://github.com/NaverCloudPlatform/Navix/tree/9deb2fcc1d670bcd23cddeadcbda13ca619346b6",
+          "source_kind": "vendor-project-repository"
+        },
+        {
+          "id": "ko-pclinuxos",
+          "title": "PCLinuxOS",
+          "resource": "https://ko.wikipedia.org/w/index.php?title=PCLinuxOS&oldid=39163287",
+          "source_kind": "article"
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 136
+    }
+  ]
+}

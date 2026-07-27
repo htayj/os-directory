@@ -51,10 +51,11 @@ def main() -> int:
     inventory_associations = sum(
         len(system["associations"]) for system in inventory["systems"]
     )
-    if associations != inventory_associations:
+    if associations < inventory_associations:
         errors.append(
-            f"site has {associations} associations; inventory has "
-            f"{inventory_associations}"
+            f"site has only {associations} associations; baseline inventory has "
+            f"{inventory_associations}. Deep-research overlays may increase but "
+            "must not reduce this count"
         )
     if data.get("stats", {}).get("systems") != len(records):
         errors.append("site system statistic is incorrect")

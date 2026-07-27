@@ -687,141 +687,6 @@
       "os_qid": "Q14656"
     },
     {
-      "editor": "NEdit",
-      "editor_qid": "Q2719620",
-      "os_qid": "Q14656"
-    },
-    {
-      "editor": "AMIS",
-      "editor_qid": "Q2819260",
-      "os_qid": "Q1670222"
-    },
-    {
-      "editor": "Aquamacs",
-      "editor_qid": "Q2859156",
-      "os_qid": "Q14116"
-    },
-    {
-      "editor": "aXe",
-      "editor_qid": "Q2874702",
-      "os_qid": "Q542726"
-    },
-    {
-      "editor": "aXe",
-      "editor_qid": "Q2874702",
-      "os_qid": "Q847593"
-    },
-    {
-      "editor": "aXe",
-      "editor_qid": "Q2874702",
-      "os_qid": "Q1208460"
-    },
-    {
-      "editor": "aXe",
-      "editor_qid": "Q2874702",
-      "os_qid": "Q3251801"
-    },
-    {
-      "editor": "Barry's Emacs",
-      "editor_qid": "Q2885703",
-      "os_qid": "Q1406"
-    },
-    {
-      "editor": "Barry's Emacs",
-      "editor_qid": "Q2885703",
-      "os_qid": "Q14116"
-    },
-    {
-      "editor": "Barry's Emacs",
-      "editor_qid": "Q2885703",
-      "os_qid": "Q3251801"
-    },
-    {
-      "editor": "PyRoom",
-      "editor_qid": "Q3031951",
-      "os_qid": "Q14656"
-    },
-    {
-      "editor": "FINE",
-      "editor_qid": "Q3063241",
-      "os_qid": "Q1481861"
-    },
-    {
-      "editor": "Freemacs",
-      "editor_qid": "Q3087345",
-      "os_qid": "Q473751"
-    },
-    {
-      "editor": "GNU Zile",
-      "editor_qid": "Q3093309",
-      "os_qid": "Q14116"
-    },
-    {
-      "editor": "GNU Zile",
-      "editor_qid": "Q3093309",
-      "os_qid": "Q3251801"
-    },
-    {
-      "editor": "GNU Zile",
-      "editor_qid": "Q3093309",
-      "os_qid": "Q58636917"
-    },
-    {
-      "editor": "GNU moe",
-      "editor_qid": "Q3093311",
-      "os_qid": "Q14116"
-    },
-    {
-      "editor": "GNU moe",
-      "editor_qid": "Q3093311",
-      "os_qid": "Q3251801"
-    },
-    {
-      "editor": "GNU moe",
-      "editor_qid": "Q3093311",
-      "os_qid": "Q58636917"
-    },
-    {
-      "editor": "JOVE",
-      "editor_qid": "Q3156938",
-      "os_qid": "Q14656"
-    },
-    {
-      "editor": "The Hessling Editor",
-      "editor_qid": "Q3521247",
-      "os_qid": "Q1406"
-    },
-    {
-      "editor": "The Hessling Editor",
-      "editor_qid": "Q3521247",
-      "os_qid": "Q11368"
-    },
-    {
-      "editor": "The Hessling Editor",
-      "editor_qid": "Q3521247",
-      "os_qid": "Q14116"
-    },
-    {
-      "editor": "The Hessling Editor",
-      "editor_qid": "Q3521247",
-      "os_qid": "Q189794"
-    },
-    {
-      "editor": "The Hessling Editor",
-      "editor_qid": "Q3521247",
-      "os_qid": "Q215448"
-    },
-    {
-      "editor": "Ulysses",
-      "editor_qid": "Q3548159",
-      "os_qid": "Q14116"
-    },
-    {
-      "editor": "Ulysses",
-      "editor_qid": "Q3548159",
-      "os_qid": "Q48493"
-    },
-    {
       "editor": "VZ Editor",
       "editor_qid": "Q11252853",
       "os_qid": "Q170434"
@@ -1240,6 +1105,141 @@
       "editor": "HippoEDIT",
       "editor_qid": "Q138842518",
       "os_qid": "Q18168774"
+    },
+    {
+      "editor": "NEdit",
+      "editor_qid": "Q2719620",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "AMIS",
+      "editor_qid": "Q2819260",
+      "os_qid": "Q1670222"
+    },
+    {
+      "editor": "Aquamacs",
+      "editor_qid": "Q2859156",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "aXe",
+      "editor_qid": "Q2874702",
+      "os_qid": "Q542726"
+    },
+    {
+      "editor": "aXe",
+      "editor_qid": "Q2874702",
+      "os_qid": "Q847593"
+    },
+    {
+      "editor": "aXe",
+      "editor_qid": "Q2874702",
+      "os_qid": "Q1208460"
+    },
+    {
+      "editor": "aXe",
+      "editor_qid": "Q2874702",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "Barry's Emacs",
+      "editor_qid": "Q2885703",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "Barry's Emacs",
+      "editor_qid": "Q2885703",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Barry's Emacs",
+      "editor_qid": "Q2885703",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "PyRoom",
+      "editor_qid": "Q3031951",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "FINE",
+      "editor_qid": "Q3063241",
+      "os_qid": "Q1481861"
+    },
+    {
+      "editor": "Freemacs",
+      "editor_qid": "Q3087345",
+      "os_qid": "Q473751"
+    },
+    {
+      "editor": "GNU Zile",
+      "editor_qid": "Q3093309",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "GNU Zile",
+      "editor_qid": "Q3093309",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "GNU Zile",
+      "editor_qid": "Q3093309",
+      "os_qid": "Q58636917"
+    },
+    {
+      "editor": "GNU moe",
+      "editor_qid": "Q3093311",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "GNU moe",
+      "editor_qid": "Q3093311",
+      "os_qid": "Q3251801"
+    },
+    {
+      "editor": "GNU moe",
+      "editor_qid": "Q3093311",
+      "os_qid": "Q58636917"
+    },
+    {
+      "editor": "JOVE",
+      "editor_qid": "Q3156938",
+      "os_qid": "Q14656"
+    },
+    {
+      "editor": "The Hessling Editor",
+      "editor_qid": "Q3521247",
+      "os_qid": "Q1406"
+    },
+    {
+      "editor": "The Hessling Editor",
+      "editor_qid": "Q3521247",
+      "os_qid": "Q11368"
+    },
+    {
+      "editor": "The Hessling Editor",
+      "editor_qid": "Q3521247",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "The Hessling Editor",
+      "editor_qid": "Q3521247",
+      "os_qid": "Q189794"
+    },
+    {
+      "editor": "The Hessling Editor",
+      "editor_qid": "Q3521247",
+      "os_qid": "Q215448"
+    },
+    {
+      "editor": "Ulysses",
+      "editor_qid": "Q3548159",
+      "os_qid": "Q14116"
+    },
+    {
+      "editor": "Ulysses",
+      "editor_qid": "Q3548159",
+      "os_qid": "Q48493"
     }
   ],
   "retrieved_at": "2026-07-26"

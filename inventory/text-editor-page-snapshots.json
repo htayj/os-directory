@@ -1758,9 +1758,9 @@
   "systems/ipod-software": {
     "associations": [],
     "language": "en",
-    "revision": 1366084273,
-    "source": "https://en.wikipedia.org/w/index.php?title=IPod&oldid=1366084273",
-    "timestamp": "2026-07-26T04:40:06Z",
+    "revision": 1366247735,
+    "source": "https://en.wikipedia.org/w/index.php?title=IPod&oldid=1366247735",
+    "timestamp": "2026-07-27T01:00:24Z",
     "title": "IPod"
   },
   "systems/ipodlinux": {
@@ -2266,15 +2266,15 @@
         "interface_style": null,
         "name": "EDLIN",
         "relationship": "historically-prominent",
-        "source": "https://en.wikipedia.org/w/index.php?title=MS-DOS&oldid=1364653196",
+        "source": "https://en.wikipedia.org/w/index.php?title=MS-DOS&oldid=1366320981",
         "source_kind": "wikipedia-system-page",
-        "source_revision": 1364653196
+        "source_revision": 1366320981
       }
     ],
     "language": "en",
-    "revision": 1364653196,
-    "source": "https://en.wikipedia.org/w/index.php?title=MS-DOS&oldid=1364653196",
-    "timestamp": "2026-07-17T19:23:19Z",
+    "revision": 1366320981,
+    "source": "https://en.wikipedia.org/w/index.php?title=MS-DOS&oldid=1366320981",
+    "timestamp": "2026-07-27T09:51:41Z",
     "title": "MS-DOS"
   },
   "systems/ms-net": {
@@ -3496,9 +3496,9 @@
   "systems/templeos": {
     "associations": [],
     "language": "en",
-    "revision": 1365929863,
-    "source": "https://en.wikipedia.org/w/index.php?title=TempleOS&oldid=1365929863",
-    "timestamp": "2026-07-25T07:12:28Z",
+    "revision": 1366321457,
+    "source": "https://en.wikipedia.org/w/index.php?title=TempleOS&oldid=1366321457",
+    "timestamp": "2026-07-27T09:57:40Z",
     "title": "TempleOS"
   },
   "systems/tenex": {
@@ -4088,9 +4088,9 @@
   "systems/wii-u-system-software": {
     "associations": [],
     "language": "en",
-    "revision": 1364113187,
-    "source": "https://en.wikipedia.org/w/index.php?title=Wii_U_system_software&oldid=1364113187",
-    "timestamp": "2026-07-14T15:49:08Z",
+    "revision": 1366285547,
+    "source": "https://en.wikipedia.org/w/index.php?title=Wii_U_system_software&oldid=1366285547",
+    "timestamp": "2026-07-27T04:35:43Z",
     "title": "Wii U system software"
   },
   "systems/windows": {

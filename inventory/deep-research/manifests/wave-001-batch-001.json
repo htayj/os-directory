@@ -1,0 +1,450 @@
+{
+  "schema_version": "0.1",
+  "batch_id": "wave-001-batch-001",
+  "theme": "historical academic and research systems",
+  "as_of": "2026-07-27",
+  "agent_guide": "schema/deep-research-agent-guide.md",
+  "result_path": "inventory/deep-research/results/wave-001-batch-001.json",
+  "systems": [
+    {
+      "path": "systems/compatible-time-sharing-system",
+      "title": "Compatible Time-Sharing System",
+      "aliases": [
+        "Compatible Time-Sharing System"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [
+        "country_of_origin",
+        "developer",
+        "development_status",
+        "first_release",
+        "gui",
+        "kernel_type",
+        "license",
+        "platforms",
+        "programming_languages",
+        "purpose",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "MIT Computation Center , Project MAC",
+          "country_of_origin": "United States",
+          "purpose": "Colleges and universities",
+          "programming_languages": "FAP assembly , MAD",
+          "first_release": "1961 ; 65 years ago ( 1961 )",
+          "latest_release": null,
+          "last_updated": null,
+          "development_status": "Discontinued, simulator available",
+          "source_model": "Open source",
+          "os_family": null,
+          "gui": "Command-line interface",
+          "platforms": "IBM 7090 , IBM 7094",
+          "kernel_type": "Monolithic , protected",
+          "license": "[ data missing ]"
+        },
+        "country_evidence": {
+          "assertion_status": "inferred",
+          "method": "inferred-from-developer-country",
+          "source": "https://www.wikidata.org/wiki/Q49108"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "ED",
+          "relationship": "bundled-default",
+          "interface_style": "line",
+          "source": "https://people.csail.mit.edu/saltzer/CTSS/CTSS-Documents/CTSS_ProgrammersGuide_1966.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "note": "Listed as a context editor for card-image files."
+        },
+        {
+          "name": "EDL",
+          "relationship": "bundled-default",
+          "interface_style": "line",
+          "source": "https://people.csail.mit.edu/saltzer/CTSS/CTSS-Documents/CTSS_ProgrammersGuide_1966.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "note": "Listed as a context editor for line-marked files."
+        },
+        {
+          "name": "QED",
+          "relationship": "bundled-default",
+          "interface_style": "line",
+          "source": "https://people.csail.mit.edu/saltzer/CTSS/CTSS-Documents/CTSS_ProgrammersGuide_1966.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "note": "Listed as a programmable editor."
+        }
+      ],
+      "priority_score": 125
+    },
+    {
+      "path": "systems/waits",
+      "title": "WAITS",
+      "aliases": [
+        "WAITS"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [
+        "country_of_origin",
+        "developer",
+        "development_status",
+        "first_release",
+        "os_family",
+        "platforms",
+        "purpose"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/WAITS",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "Stanford Artificial Intelligence Laboratory",
+          "country_of_origin": "United States",
+          "purpose": "Mainframe computer",
+          "programming_languages": null,
+          "first_release": "1967 ; 59 years ago ( 1967 )",
+          "latest_release": null,
+          "last_updated": null,
+          "development_status": "Historic",
+          "source_model": null,
+          "os_family": "DEC OS family",
+          "gui": null,
+          "platforms": "PDP-6 , PDP-10",
+          "kernel_type": null,
+          "license": null
+        },
+        "country_evidence": {
+          "assertion_status": "inferred",
+          "method": "inferred-from-developer-country",
+          "source": "https://www.wikidata.org/wiki/Q22704990"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "E",
+          "relationship": "bundled-default",
+          "interface_style": "full-screen-text",
+          "source": "https://www.saildart.org/MONCOM.BH%5BS%2CDOC%5D26",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "WAITS 9.13/M"
+            ]
+          },
+          "note": "The manual says several editors are available and identifies E as the current favorite."
+        }
+      ],
+      "priority_score": 125
+    },
+    {
+      "path": "systems/xinu",
+      "title": "Xinu",
+      "aliases": [
+        "Xinu"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms",
+        "text_editors"
+      ],
+      "provisional_fields": [
+        "developer",
+        "development_status",
+        "first_release",
+        "gui",
+        "last_updated",
+        "latest_release",
+        "programming_languages",
+        "purpose",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/Xinu",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "Douglas Comer",
+          "country_of_origin": null,
+          "purpose": "Higher education , embedded systems",
+          "programming_languages": "C",
+          "first_release": "1981 ; 45 years ago ( 1981 )",
+          "latest_release": "3rd ed. / 2025 ; 1 year ago ( 2025 )",
+          "last_updated": "3rd ed. / 2025 ; 1 year ago ( 2025 )",
+          "development_status": "Current",
+          "source_model": "Open source",
+          "os_family": null,
+          "gui": "Command-line interface",
+          "platforms": null,
+          "kernel_type": null,
+          "license": null
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 143
+    },
+    {
+      "path": "systems/xv6",
+      "title": "Xv6",
+      "aliases": [
+        "Xv6"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms",
+        "text_editors"
+      ],
+      "provisional_fields": [
+        "country_of_origin",
+        "developer",
+        "gui",
+        "kernel_type",
+        "last_updated",
+        "latest_release",
+        "license",
+        "os_family",
+        "platforms",
+        "programming_languages",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/Xv6",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "MIT",
+          "country_of_origin": "United States",
+          "purpose": null,
+          "programming_languages": "C and assembly",
+          "first_release": null,
+          "latest_release": "RISC-V: rev5 / September 2, 2025 ; 10 months ago ( 2025-09-02 ) x86-32 ( EOL ): rev11 / September 2, 2018 ; 7 years ago ( 2018-09-02 ) x86-64: rev1 / September 1, 2025 ; 10 months ago ( 2025-09-01 )",
+          "last_updated": "RISC-V: rev5 / September 2, 2025 ; 10 months ago ( 2025-09-02 ) x86-32 ( EOL ): rev11 / September 2, 2018 ; 7 years ago ( 2018-09-02 ) x86-64: rev1 / September 1, 2025 ; 10 months ago ( 2025-09-01 )",
+          "development_status": null,
+          "source_model": "Open source",
+          "os_family": "Unix-like",
+          "gui": "Command-line interface",
+          "platforms": "multiprocessor Intel x86 and RISC-V",
+          "kernel_type": "Monolithic",
+          "license": "MIT license"
+        },
+        "country_evidence": {
+          "assertion_status": "inferred",
+          "method": "inferred-from-developer-country",
+          "source": "https://www.wikidata.org/wiki/Q49108"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 143
+    },
+    {
+      "path": "systems/v",
+      "title": "V",
+      "aliases": [
+        "V"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [
+        "developer",
+        "development_status",
+        "first_release",
+        "gui",
+        "kernel_type",
+        "last_updated",
+        "latest_release",
+        "license",
+        "os_family",
+        "platforms",
+        "programming_languages",
+        "purpose"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/V_(operating_system)",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "David Cheriton",
+          "country_of_origin": null,
+          "purpose": "Research",
+          "programming_languages": "C",
+          "first_release": "1981 ; 45 years ago ( 1981 )",
+          "latest_release": "Final / 1988 ; 38 years ago ( 1988 )",
+          "last_updated": "Final / 1988 ; 38 years ago ( 1988 )",
+          "development_status": "Discontinued",
+          "source_model": null,
+          "os_family": "Distributed operating system",
+          "gui": "VGTS",
+          "platforms": "Workstations : SUN , MicroVAX , DEC Firefly",
+          "kernel_type": "Microkernel",
+          "license": "Stanford University"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "ved",
+          "relationship": "bundled-default",
+          "interface_style": "full-screen-text",
+          "source": "https://www.bitsavers.org/pdf/stanford/v-system/V_6.0refMan_Jun86.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "6.0"
+            ],
+            "interfaces": [
+              "VGTS"
+            ]
+          },
+          "note": "The command summary calls ved a text editor that runs under VGTS."
+        },
+        {
+          "name": "vemacs",
+          "relationship": "bundled-default",
+          "interface_style": "full-screen-text",
+          "source": "https://www.bitsavers.org/pdf/stanford/v-system/V_6.0refMan_Jun86.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented",
+          "scope": {
+            "releases": [
+              "6.0"
+            ],
+            "interfaces": [
+              "VGTS"
+            ]
+          },
+          "note": "The command summary identifies vemacs as Emacs using VGTS window features."
+        }
+      ],
+      "priority_score": 125
+    }
+  ]
+}

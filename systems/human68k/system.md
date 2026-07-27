@@ -10,7 +10,7 @@ as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: "Draft identity accepted from multilingual discovery; no factual claim is verified." }
 field_dispositions:
   # BEGIN GENERATED TEXT EDITOR DISPOSITION
-  - { field: text_editors, disposition: no-evidence-found, checked_at: 2026-07-26 }
+  - { field: text_editors, disposition: documented, checked_at: 2026-07-26 }
   # END GENERATED TEXT EDITOR DISPOSITION
   - { field: developer, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: country_of_origin, disposition: not-researched, checked_at: 2026-07-26 }
@@ -136,12 +136,214 @@ multilingual_infobox_snapshot:
 text_editor_research:
   inventory: /inventory/text-editor-associations.json
   checked_at: '2026-07-26'
-  disposition: no-evidence-found
-  note: No editor relationship was found in the linked Wikipedia page or direct Wikidata
-    text-editor platform statements; primary manuals and distribution manifests still
-    require research.
-text_editors: []
+  disposition: has-associations
+  note: One or more discovery relationships were found; provisional relationships
+    still require primary-source confirmation.
+text_editors:
+- name: ED
+  relationship: integral
+  interface_style: full-screen-text
+  source: https://archive.org/details/X68000Human68k3.0
+  source_kind: contemporary-system-manual
+  assertion_status: documented
+  scope:
+    releases:
+    - Human68k ver.3.0
+  note: Sharp devotes a full manual part to the screen editor ED; the Japanese preservation
+    transcription identifies ED.X as a full-screen editor running on Human68k.
 # END GENERATED TEXT EDITORS
+# BEGIN GENERATED DEEP RESEARCH
+deep_research:
+  batch_id: wave-001-batch-003
+  researcher: deep_commercial_001
+  researched_at: '2026-07-27'
+  identity_status: confirmed
+  research_summary: Human68k is Sharp's operating system for the X68000/X68030 personal-workstation family.
+    The Japanese Sharp Human68k 3.0 manual describes it as an OS developed for the machine's hardware,
+    positioned between hardware and applications, with a COMMAND.X command mode and an integral screen
+    editor named ED. The original manual documents a 1993 version-3.0 artifact and MC68000/MC68030 boot
+    support, but does not establish a geographical development location, implementation language, an exact
+    product license, or a present historical support status.
+  sources:
+  - id: sharp-human68k-30-manual-ja
+    title: Human68k ver.3.0 ユーザーズマニュアル
+    url: https://archive.org/details/X68000Human68k3.0
+    archived_url: null
+    source_kind: contemporary-system-manual
+    language: ja
+    date: '1993'
+    primary: true
+    notes: Scanned Sharp X68030 Human68k 3.0 user manual, including Human68k architecture, startup/command
+      mode, ED, and configuration chapters.
+  - id: retropc-human302-ja
+    title: Human68k version 3.02
+    url: https://retropc.net/x68000/software/sharp/human302/
+    archived_url: null
+    source_kind: preservation-documentation
+    language: ja
+    date: '2011'
+    primary: false
+    notes: Japanese preservation documentation for the Sharp Human68k 3.02 system disk and X68000 software.
+  - id: odasan-human-ed-ja
+    title: ED.X マニュアル
+    url: https://odasan.s48.xrea.com/x68000/man/ed.html
+    archived_url: null
+    source_kind: preservation-manual-transcription
+    language: ja
+    date: null
+    primary: false
+    notes: Japanese preservation transcription describing ED.X as a full-screen editor that runs on Human68k.
+  claims:
+  - field: organizations
+    value:
+      organization: Sharp
+      role: publisher and platform vendor
+    source_ids:
+    - sharp-human68k-30-manual-ja
+    - retropc-human302-ja
+    assertion_status: documented
+    source_term: SHARP SOFTWARE MANUAL; X68000
+    scope:
+      releases:
+      - Human68k ver.3.0
+    locator: Human68k ver.3.0 manual cover and preface; preservation record title
+    evidence_note: The primary manual is a Sharp Software Manual for the X68030 and Human68k; the preservation
+      record identifies the associated Sharp system disk.
+  - field: design_purposes
+    value:
+      purpose: hardware-enablement
+      primary: true
+      source_term: 本機のハードウェアの持つ高度な性能を最大限に発揮するために、独自に開発されたオペレーティングシステム
+    source_ids:
+    - sharp-human68k-30-manual-ja
+    assertion_status: documented
+    source_term: operating system developed to make the machine hardware's capabilities available
+    scope:
+      releases:
+      - Human68k ver.3.0
+      platforms:
+      - Sharp X68030
+    locator: Chapter 1.1, Human68k とは, page 1
+    evidence_note: The Japanese manual says Human68k was developed to make the X68030's hardware capabilities
+      fully available and provides the execution environment for applications.
+  - field: lifecycle_events
+    value:
+      event: release
+      date: '1993'
+      release: Human68k ver.3.0
+    source_ids:
+    - sharp-human68k-30-manual-ja
+    assertion_status: documented
+    source_term: Human68k ver.3.0
+    scope:
+      releases:
+      - Human68k ver.3.0
+    locator: Manual cover and publication metadata
+    evidence_note: The preserved original Sharp manual is titled Human68k ver.3.0 for the X68030 and dated
+      1993; this records a release-era version, not a first-release date.
+  - field: system_organization
+    value:
+      organization: other
+      source_term: hardware – Human68k – SX system/shell – application programs
+    source_ids:
+    - sharp-human68k-30-manual-ja
+    assertion_status: documented
+    source_term: OS between hardware and application programs
+    scope:
+      releases:
+      - Human68k ver.3.0
+    locator: Chapter 1.1, Human68k とは, page 1
+    evidence_note: Sharp's own layered diagram places Human68k between hardware and the SX system/shell
+      and application programs. The source does not label this using a modern kernel taxonomy.
+  - field: interfaces
+    value:
+      name: COMMAND.X command mode
+      style: command-line
+      provisioning: built-in
+      access: local-console
+    source_ids:
+    - sharp-human68k-30-manual-ja
+    assertion_status: documented
+    source_term: COMMAND.X; コマンドモード; A> prompt
+    scope:
+      releases:
+      - Human68k ver.3.0
+    locator: Chapter 2.2, Human68k の起動, pages 11-12; Chapter 4, page 35
+    evidence_note: The manual says COMMAND.X enters command mode and shows the A> prompt; it separately
+      describes command input from the keyboard.
+  - field: platforms
+    value:
+      platform: Sharp X68000 and X68030 series
+      support_origin: original-target
+      execution_mode: native
+      architectures:
+      - MC68000
+      - MC68030
+    source_ids:
+    - sharp-human68k-30-manual-ja
+    - retropc-human302-ja
+    assertion_status: documented
+    source_term: X68000 series; X68030; MC68000; MC68030
+    scope:
+      releases:
+      - Human68k ver.3.0
+    locator: Manual preface and Chapter 1.3.1, CPU種類の判別, page 8; preservation record title
+    evidence_note: The manual is for the X68030 and explicitly says version 3.0 can boot on the X68000
+      series after distinguishing MC68000 from MC68030 CPUs.
+  editor_associations:
+  - name: ED
+    relationship: integral
+    interface_style: full-screen-text
+    source_ids:
+    - sharp-human68k-30-manual-ja
+    - odasan-human-ed-ja
+    assertion_status: documented
+    scope:
+      releases:
+      - Human68k ver.3.0
+    locator: Human68k manual, Part 2, スクリーンエディタED, pages 275-296; ED.X transcription, introduction
+    evidence_note: Sharp devotes a full manual part to the screen editor ED; the Japanese preservation
+      transcription identifies ED.X as a full-screen editor running on Human68k.
+  unresolved:
+  - field: countries_of_origin
+    disposition: no-evidence-found
+    reason: The original source is Japanese and identifies Sharp and its X68030 platform, but it does
+      not state the geographical location of Human68k's original development.
+    source_ids:
+    - sharp-human68k-30-manual-ja
+  - field: development_status
+    disposition: no-evidence-found
+    reason: The consulted original and preservation materials document historical versions but do not
+      give a maintainership, retirement, or current-support statement.
+    source_ids:
+    - sharp-human68k-30-manual-ja
+    - retropc-human302-ja
+  - field: rights_regime
+    disposition: no-evidence-found
+    reason: The manual scan identifies its publisher but the consulted text does not provide a reliable
+      product-level rights characterization for Human68k binaries or source.
+    source_ids:
+    - sharp-human68k-30-manual-ja
+  - field: licenses
+    disposition: no-evidence-found
+    reason: No consulted Sharp or preservation source supplies a Human68k software license or redistribution
+      grant.
+    source_ids:
+    - sharp-human68k-30-manual-ja
+    - retropc-human302-ja
+  - field: programming_languages
+    disposition: no-evidence-found
+    reason: The manual names X BASIC and application utilities as things run under Human68k; it does not
+      identify the operating system's implementation language(s).
+    source_ids:
+    - sharp-human68k-30-manual-ja
+  - field: kernels
+    disposition: no-evidence-found
+    reason: HUMAN.SYS and operating-system services are documented, but the consulted manual does not
+      identify a kernel component or classify its architecture.
+    source_ids:
+    - sharp-human68k-30-manual-ja
+# END GENERATED DEEP RESEARCH
 ---
 
 # Human68k

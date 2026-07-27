@@ -22,6 +22,7 @@ OUTPUT = INVENTORY / "text-editor-associations.json"
 PAGE_CACHE = INVENTORY / "text-editor-page-snapshots.json"
 WIKIDATA_CACHE = INVENTORY / "text-editor-wikidata.json"
 USER_AGENT = "HistoricalOSCatalog/0.1 (text-editor relationship pass)"
+RUN_DATE = "2026-07-26"
 BLOCK_START = "# BEGIN GENERATED TEXT EDITORS"
 BLOCK_END = "# END GENERATED TEXT EDITORS"
 DISPOSITION_START = "# BEGIN GENERATED TEXT EDITOR DISPOSITION"
@@ -143,7 +144,11 @@ def all_systems() -> dict[str, dict]:
     for record in sorted((ROOT / "systems").glob("*/system.md")):
         path = str(record.parent.relative_to(ROOT))
         data = frontmatter(record)
-        result[path] = {"record": record, "title": data.get("title", record.parent.name)}
+        result[path] = {
+            "record": record,
+            "title": data.get("title", record.parent.name),
+            "deep_research": data.get("deep_research", {}),
+        }
     return result
 
 
@@ -386,7 +391,7 @@ def wikidata_associations(path_qids: dict[str, str]) -> tuple[dict[str, list[dic
                     (item["name"], item["source"]): item for item in by_qid[qid]
                 }.values()
             )
-    return result, {"query": query, "retrieved_at": "2026-07-26", "results": raw}
+    return result, {"query": query, "retrieved_at": RUN_DATE, "results": raw}
 
 
 def curated(
@@ -588,11 +593,42 @@ def merge_associations(*groups: list[dict]) -> list[dict]:
     return sorted(merged.values(), key=lambda item: (item["name"].casefold(), item["relationship"]))
 
 
+def deep_research_associations(system: dict) -> list[dict]:
+    deep = system.get("deep_research", {})
+    sources = {source["id"]: source for source in deep.get("sources", [])}
+    result = []
+    for editor in deep.get("editor_associations", []):
+        source = next(
+            (
+                sources[source_id]
+                for source_id in editor.get("source_ids", [])
+                if source_id in sources
+            ),
+            {},
+        )
+        if not source.get("url"):
+            continue
+        item = {
+            "name": editor["name"],
+            "relationship": editor["relationship"],
+            "interface_style": editor.get("interface_style"),
+            "source": source["url"],
+            "source_kind": source.get("source_kind", "deep-research-source"),
+            "assertion_status": editor["assertion_status"],
+        }
+        if editor.get("scope"):
+            item["scope"] = editor["scope"]
+        if editor.get("evidence_note"):
+            item["note"] = editor["evidence_note"]
+        result.append(item)
+    return result
+
+
 def yaml_block(entry: dict) -> str:
     value = {
         "text_editor_research": {
             "inventory": "/inventory/text-editor-associations.json",
-            "checked_at": "2026-07-26",
+            "checked_at": RUN_DATE,
             "disposition": entry["disposition"],
             "note": entry["note"],
         },
@@ -627,7 +663,7 @@ def insert(record: Path, entry: dict) -> None:
     editor_disposition = {
         "field": "text_editors",
         "disposition": disposition,
-        "checked_at": "2026-07-26",
+        "checked_at": RUN_DATE,
     }
     marker = "field_dispositions:\n"
     inline = re.search(r"^field_dispositions:\s*\[.*\]$", text, re.MULTILINE)
@@ -649,7 +685,7 @@ def insert(record: Path, entry: dict) -> None:
         disposition_lines = (
             f"  {DISPOSITION_START}\n"
             f"  - {{ field: text_editors, disposition: {disposition}, "
-            f"checked_at: 2026-07-26 }}\n"
+            f"checked_at: {RUN_DATE} }}\n"
             f"  {DISPOSITION_END}"
         )
         if marker not in text:
@@ -701,6 +737,7 @@ def main() -> int:
         ]
         associations = merge_associations(
             CURATED.get(path, []),
+            deep_research_associations(system),
             page_items,
             wd_by_path.get(path, []),
         )
@@ -736,7 +773,7 @@ def main() -> int:
         json.dumps(
             {
                 "schema_version": "0.1",
-                "as_of": "2026-07-26",
+                "as_of": RUN_DATE,
                 "systems": output,
             },
             ensure_ascii=False,

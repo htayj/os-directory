@@ -126,6 +126,191 @@ text_editor_research:
     require research.
 text_editors: []
 # END GENERATED TEXT EDITORS
+# BEGIN GENERATED DEEP RESEARCH
+deep_research:
+  batch_id: wave-001-batch-003
+  researcher: deep_commercial_001
+  researched_at: '2026-07-27'
+  identity_status: ambiguous
+  research_summary: TmaxOS is an overloaded product name. TmaxOS's 2016 Korean announcement described
+    a Unix-standard-based, commercial independent OS with a new graphics kernel and planned beta/formal
+    releases; a later Korean public-sector guide describes the separately scoped TmaxOS OE as a Debian-Linux-based
+    open OS. The records therefore retain both sources but do not collapse the 2016 product and OE/edition
+    lineage into one implementation, rights, or lifecycle claim. No consulted source establishes an exact
+    license, implementation languages, text-editor association, or a current product-wide development
+    state.
+  sources:
+  - id: tmaxos-announcement-ko-2016
+    title: ㈜티맥스오에스, 미래의 IT 환경을 바꿀 'TmaxOS' 발표
+    url: https://www.tmaxsoft.com/kr/press/view?seq=50
+    archived_url: null
+    source_kind: vendor-press-release
+    language: ko
+    date: '2016-04-20'
+    primary: true
+    notes: Korean TmaxOS announcement describing the 2016 Unix-standard-based product, intended PC/mobile/cloud
+      scope, graphics-kernel claim, beta plan, and formal-release plan.
+  - id: osskr-tmaxos-oe-guide-ko
+    title: TmaxOS OE Solution Guide
+    url: https://www.oss.kr/storage/app/public/oss/04/ca/%5BTmaxOS%20OE%5D%20Solution%20Guide.pdf
+    archived_url: null
+    source_kind: government-open-source-guide
+    language: ko
+    date: null
+    primary: false
+    notes: Korean public open-source guide describing TmaxOS OE as a Debian-Linux-based open OS distributed
+      by Tmax; its edition scope is kept distinct from the 2016 announcement.
+  - id: newsis-tmaxos-he-ko-2019
+    title: 티맥스오에스, 개인용 무료 운영체제 '티맥스OS HE' 출시
+    url: https://www.newsis.com/view/NISX20190813_0000739778
+    archived_url: null
+    source_kind: contemporary-news-report
+    language: ko
+    date: '2019-08-13'
+    primary: false
+    notes: Korean news coverage of a later Home Edition release, useful only for confirming that edition-qualified
+      TmaxOS products existed.
+  claims:
+  - field: organizations
+    value:
+      organization: 티맥스오에스 (TmaxOS Co., Ltd.)
+      role: developer and announcer
+    source_ids:
+    - tmaxos-announcement-ko-2016
+    assertion_status: documented
+    source_term: ㈜티맥스오에스
+    scope:
+      releases:
+      - 2016 announced TmaxOS
+    locator: Vendor press release, title and opening paragraphs
+    evidence_note: The Korean vendor announcement identifies TmaxOS Co., Ltd. as the company presenting
+      its independent OS named TmaxOS.
+  - field: design_purposes
+    value:
+      purpose: integrated PC, mobile, and cloud operating-system platform
+      primary: true
+      source_term: PC와 모바일, 클라우드 환경을 하나로 통합
+    source_ids:
+    - tmaxos-announcement-ko-2016
+    assertion_status: documented
+    source_term: independent OS; integrated PC/mobile/cloud environment
+    scope:
+      releases:
+      - 2016 announced TmaxOS
+    locator: Vendor press release, headline deck and opening paragraphs
+    evidence_note: The vendor describes the announced TmaxOS as an independent OS platform intended to
+      integrate PC, mobile, and cloud environments.
+  - field: lifecycle_events
+    value:
+      event: announced
+      date: '2016-04-20'
+      release: TmaxOS (2016 announced product)
+    source_ids:
+    - tmaxos-announcement-ko-2016
+    assertion_status: documented
+    source_term: TmaxOS 발표
+    scope:
+      releases:
+      - 2016 announced TmaxOS
+    locator: Vendor press release date and title
+    evidence_note: TmaxOS Co., Ltd. announced the product on April 20, 2016. The page's subsequent July
+      beta and October formal-release language is a plan, not evidence that those releases occurred.
+  - field: system_organization
+    value:
+      organization: other
+      source_term: 유닉스 표준 기반의 운영체제
+    source_ids:
+    - tmaxos-announcement-ko-2016
+    assertion_status: documented
+    source_term: Unix-standard-based operating system
+    scope:
+      releases:
+      - 2016 announced TmaxOS
+    locator: Vendor press release, headline deck and product description
+    evidence_note: The vendor calls the 2016 announced product Unix-standard-based but does not provide
+      sufficient source-level architecture detail for a conventional kernel taxonomy.
+  - field: kernels
+    value:
+      name: Tmax graphics kernel
+      architecture: other
+      source_term: 티맥스 자체 기술로 그래픽 커널을 개발
+    source_ids:
+    - tmaxos-announcement-ko-2016
+    assertion_status: documented
+    source_term: graphics kernel
+    scope:
+      releases:
+      - 2016 announced TmaxOS
+    locator: Vendor press release, graphics-technology paragraph
+    evidence_note: The vendor claims it developed its own graphics kernel after excluding X Window. This
+      is a graphics-component claim, not evidence that the whole OS uses a named monolithic or microkernel
+      architecture.
+  - field: platforms
+    value:
+      platform: 64-bit TmaxOS OE edition
+      support_origin: original-target
+      execution_mode: native
+    source_ids:
+    - osskr-tmaxos-oe-guide-ko
+    assertion_status: documented
+    source_term: TmaxOS_OE_64
+    scope:
+      releases:
+      - TmaxOS OE
+    locator: TmaxOS OE Solution Guide, product/version identification
+    evidence_note: The public-sector guide labels the documented OE edition TmaxOS_OE_64; the claim is
+      limited to that edition and does not extrapolate to every TmaxOS-branded product.
+  editor_associations: []
+  unresolved:
+  - field: development_status
+    disposition: unknown
+    reason: The vendor page gives 2016 plans, the public guide describes a later OE edition, and the 2019
+      report concerns HE. They do not establish a single current development state for all products called
+      TmaxOS.
+    source_ids:
+    - tmaxos-announcement-ko-2016
+    - osskr-tmaxos-oe-guide-ko
+    - newsis-tmaxos-he-ko-2019
+  - field: rights_regime
+    disposition: no-evidence-found
+    reason: The 2016 vendor announcement says a basic version was planned to be free to individual users,
+      while the OE guide uses an open-OS description. Neither source supplies enough licensing detail
+      to characterize the whole, multi-edition TmaxOS name.
+    source_ids:
+    - tmaxos-announcement-ko-2016
+    - osskr-tmaxos-oe-guide-ko
+  - field: licenses
+    disposition: no-evidence-found
+    reason: No consulted Korean source identifies a license text, SPDX expression, or complete component-license
+      inventory for the announced TmaxOS, OE, or HE editions.
+    source_ids:
+    - tmaxos-announcement-ko-2016
+    - osskr-tmaxos-oe-guide-ko
+    - newsis-tmaxos-he-ko-2019
+  - field: programming_languages
+    disposition: no-evidence-found
+    reason: The sources describe platform, compatibility, and graphic-kernel claims but do not identify
+      implementation languages for the system or any kernel component.
+    source_ids:
+    - tmaxos-announcement-ko-2016
+    - osskr-tmaxos-oe-guide-ko
+  - field: interfaces
+    disposition: no-evidence-found
+    reason: The 2016 announcement discusses graphics technology and PC demonstration, but does not document
+      an end-user interface style or name a desktop/shell that can be safely catalogued across the distinct
+      editions.
+    source_ids:
+    - tmaxos-announcement-ko-2016
+    - osskr-tmaxos-oe-guide-ko
+  - field: text_editors
+    disposition: no-evidence-found
+    reason: No consulted source establishes a plain-text editor and relationship to a specified TmaxOS
+      edition.
+    source_ids:
+    - tmaxos-announcement-ko-2016
+    - osskr-tmaxos-oe-guide-ko
+    - newsis-tmaxos-he-ko-2019
+# END GENERATED DEEP RESEARCH
 ---
 
 # 티맥스OS (TmaxOS)

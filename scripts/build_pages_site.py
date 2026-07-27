@@ -69,8 +69,19 @@ def first_pass(data: dict[str, Any], field: str) -> str:
     return scalar(data.get("first_pass_attributes", {}).get("fields", {}).get(field))
 
 
-def prefer(values: list[str], fallback: str) -> list[str]:
-    return values or ([fallback] if fallback else [])
+def deep_values(
+    data: dict[str, Any], field: str, keys: tuple[str, ...]
+) -> list[str]:
+    values = [
+        claim.get("value")
+        for claim in data.get("deep_research", {}).get("claims", [])
+        if claim.get("field", "").split(".", 1)[0] == field
+    ]
+    return list_values(values, keys)
+
+
+def prefer(values: list[str], deep: list[str], fallback: str) -> list[str]:
+    return values or deep or ([fallback] if fallback else [])
 
 
 def system_row(record: Path) -> dict[str, Any]:
@@ -81,22 +92,33 @@ def system_row(record: Path) -> dict[str, Any]:
 
     countries = prefer(
         list_values(data.get("countries_of_origin"), ("country", "value", "name")),
+        deep_values(data, "countries_of_origin", ("country", "value", "name")),
         first_pass(data, "country_of_origin"),
     )
     purposes = prefer(
         list_values(data.get("design_purposes"), ("value", "name")),
+        deep_values(data, "design_purposes", ("purpose", "value", "name")),
         first_pass(data, "purpose"),
     )
     languages = prefer(
         list_values(data.get("programming_languages"), ("language", "name", "value")),
+        deep_values(
+            data, "programming_languages", ("language", "name", "value")
+        ),
         first_pass(data, "programming_languages"),
     )
     licenses = prefer(
         list_values(data.get("licenses"), ("identifier", "name", "value", "license")),
+        deep_values(
+            data, "licenses", ("identifier", "name", "value", "license")
+        ),
         first_pass(data, "license"),
     )
     kernels = prefer(
         list_values(data.get("kernels"), ("architecture", "name", "value", "type")),
+        deep_values(
+            data, "kernels", ("architecture", "name", "value", "type")
+        ),
         first_pass(data, "kernel_type"),
     )
     platforms = list_values(
@@ -109,7 +131,11 @@ def system_row(record: Path) -> dict[str, Any]:
         )
         if value not in platforms
     )
-    platforms = prefer(platforms, first_pass(data, "platforms"))
+    platforms = prefer(
+        platforms,
+        deep_values(data, "platforms", ("platform", "architecture", "name", "value")),
+        first_pass(data, "platforms"),
+    )
 
     gui = list_values(data.get("gui_status"), ("value", "name", "style"))
     gui.extend(
@@ -117,10 +143,41 @@ def system_row(record: Path) -> dict[str, Any]:
         for value in list_values(data.get("interfaces"), ("style", "name", "value"))
         if value not in gui
     )
-    gui = prefer(gui, first_pass(data, "gui"))
+    gui = prefer(
+        gui,
+        deep_values(data, "interfaces", ("style", "name", "value")),
+        first_pass(data, "gui"),
+    )
 
     editors = []
-    for editor in data.get("text_editors", []):
+    deep = data.get("deep_research", {})
+    deep_sources = {source["id"]: source for source in deep.get("sources", [])}
+    raw_editors = list(data.get("text_editors", []))
+    for editor in deep.get("editor_associations", []):
+        source = next(
+            (
+                deep_sources[source_id]
+                for source_id in editor.get("source_ids", [])
+                if source_id in deep_sources
+            ),
+            {},
+        )
+        raw_editors.append(
+            editor
+            | {
+                "source": source.get("url", ""),
+                "source_kind": source.get("source_kind", ""),
+            }
+        )
+    seen_editors: set[tuple[str, str]] = set()
+    for editor in raw_editors:
+        key = (
+            scalar(editor.get("name")).casefold(),
+            scalar(editor.get("relationship")),
+        )
+        if key in seen_editors:
+            continue
+        seen_editors.add(key)
         editors.append(
             {
                 "name": scalar(editor.get("name")),
@@ -133,9 +190,12 @@ def system_row(record: Path) -> dict[str, Any]:
             }
         )
 
-    status = scalar(data.get("development_status")) or first_pass(
-        data, "development_status"
-    )
+    status = scalar(data.get("development_status"))
+    if not status:
+        status = scalar(
+            deep_values(data, "development_status", ("state", "value", "name"))
+        )
+    status = status or first_pass(data, "development_status")
     return {
         "id": record.parent.name,
         "title": scalar(data.get("title")) or record.parent.name,

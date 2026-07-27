@@ -133,6 +133,194 @@ text_editor_research:
     require research.
 text_editors: []
 # END GENERATED TEXT EDITORS
+# BEGIN GENERATED DEEP RESEARCH
+deep_research:
+  batch_id: wave-001-batch-003
+  researcher: deep_commercial_001
+  researched_at: '2026-07-27'
+  identity_status: confirmed
+  research_summary: This record is scoped to PTOS (ピートス), the standalone OS used by NEC's N5200 office-computer
+    series, rather than the later PC-PTOS compatibility lineage. Japanese historical material places operational
+    use on the N5200/05 in 1981 and identifies the machine as an 8086 office system. The available sources
+    establish platform and business-use context but not a source-level implementation language, kernel/interaction
+    model, text-editor association, product license, development location, or present lifecycle state.
+  sources:
+  - id: ptos-lab-history-ja
+    title: PTOS 開発室 - PTOS 実践歴
+    url: https://sites.google.com/site/pcptoslab/project-definition
+    archived_url: null
+    source_kind: firsthand-historical-account
+    language: ja
+    date: null
+    primary: false
+    notes: Japanese practitioner account defining PTOS as the standalone OS for NEC N5200 and describing
+      first use on an N5200/05 in 1981.
+  - id: kahaku-pc-history-ja
+    title: パーソナルコンピュータ技術の系統化調査
+    url: https://sts.kahaku.go.jp/albums/abm.php?d=3254&f=abm00010796.pdf&n=086.pdf
+    archived_url: null
+    source_kind: national-museum-historical-report
+    language: ja
+    date: '2009'
+    primary: false
+    notes: National Museum of Nature and Science historical survey documenting the N5200/05's 1981 introduction
+      and 8086 CPU in the office-computer context.
+  - id: nec-pcptos-printer-ja
+    title: PC-PTOS対応プリンタ
+    url: https://jpn.nec.com/etosjx/printer.html
+    archived_url: null
+    source_kind: official-product-documentation
+    language: ja
+    date: '2026'
+    primary: true
+    notes: Current NEC material documenting the distinct later PC-PTOS compatibility product; used only
+      to preserve the source's nomenclature boundary, not to transfer its properties to original N5200
+      PTOS.
+  - id: pcptos-history-ja
+    title: PC－PTOSってなんだァ!?<1>
+    url: https://www.nsknet.or.jp/~k24da/pcptos1.html
+    archived_url: null
+    source_kind: historical-technical-essay
+    language: ja
+    date: null
+    primary: false
+    notes: Japanese historical essay discussing the N5200/ PTOS lineage and distinguishing PC-PTOS terminology.
+  claims:
+  - field: organizations
+    value:
+      organization: NEC
+      role: original platform vendor
+    source_ids:
+    - ptos-lab-history-ja
+    - kahaku-pc-history-ja
+    assertion_status: documented
+    source_term: NECのN5200
+    scope:
+      platforms:
+      - N5200/05
+      components:
+      - original standalone PTOS
+    locator: PTOS 実践歴, opening definition; museum report, N5200/05 entry
+    evidence_note: The Japanese account defines PTOS as the standalone OS of NEC's N5200, and the museum
+      report documents the N5200/05 in its office-computer chronology.
+  - field: design_purposes
+    value:
+      purpose: business data processing on a standalone office computer
+      primary: true
+      source_term: N5200のスタンドアロン用OS
+    source_ids:
+    - ptos-lab-history-ja
+    - kahaku-pc-history-ja
+    assertion_status: documented
+    source_term: standalone OS; office computer
+    scope:
+      platforms:
+      - N5200/05
+    locator: PTOS 実践歴, opening definition and application-history text; museum report, N5200 section
+    evidence_note: The firsthand Japanese account calls PTOS the standalone OS for N5200 and describes
+      COBOL/ISAM business work; the museum source supplies the office-computer context.
+  - field: lifecycle_events
+    value:
+      event: first-operational-use
+      date: '1981'
+      subject: PTOS on NEC N5200/05
+    source_ids:
+    - ptos-lab-history-ja
+    - kahaku-pc-history-ja
+    assertion_status: documented
+    source_term: 1981年のN5200/05から
+    scope:
+      platforms:
+      - N5200/05
+      components:
+      - original standalone PTOS
+    locator: PTOS 実践歴, first paragraph; museum report, N5200/05 chronology
+    evidence_note: The practitioner account dates its actual PTOS use to the 1981 N5200/05; the museum
+      report independently dates the machine's introduction to 1981.
+  - field: platforms
+    value:
+      platform: NEC N5200/05 office computer
+      support_origin: original-target
+      execution_mode: native
+      architectures:
+      - Intel 8086
+    source_ids:
+    - ptos-lab-history-ja
+    - kahaku-pc-history-ja
+    assertion_status: documented
+    source_term: N5200/05; 8086
+    scope:
+      components:
+      - original standalone PTOS
+    locator: PTOS 実践歴, opening definition; museum report, N5200/05 entry
+    evidence_note: PTOS is identified with the N5200 standalone system, while the national museum report
+      records the N5200/05 and its Intel 8086 processor.
+  editor_associations: []
+  unresolved:
+  - field: countries_of_origin
+    disposition: no-evidence-found
+    reason: Japanese-language material and NEC product identity do not themselves establish the geographical
+      location where PTOS was developed.
+    source_ids:
+    - ptos-lab-history-ja
+    - kahaku-pc-history-ja
+  - field: development_status
+    disposition: unknown
+    reason: The historical sources establish 1981 operational use, while NEC's current PC-PTOS material
+      concerns a later, distinct compatibility lineage; neither states the lifecycle status of original
+      N5200 standalone PTOS.
+    source_ids:
+    - ptos-lab-history-ja
+    - nec-pcptos-printer-ja
+    - pcptos-history-ja
+  - field: rights_regime
+    disposition: no-evidence-found
+    reason: No consulted original-PTOS source provides a product-level rights statement. Current PC-PTOS
+      documentation cannot be treated as a rights statement for N5200 PTOS.
+    source_ids:
+    - ptos-lab-history-ja
+    - nec-pcptos-printer-ja
+  - field: licenses
+    disposition: no-evidence-found
+    reason: The consulted Japanese historical material does not supply a PTOS software license or redistribution
+      permission.
+    source_ids:
+    - ptos-lab-history-ja
+    - pcptos-history-ja
+  - field: programming_languages
+    disposition: no-evidence-found
+    reason: The practitioner source mentions COBOL5/Cobol74 and ISAM for applications developed on PTOS,
+      not the operating system's own implementation language.
+    source_ids:
+    - ptos-lab-history-ja
+  - field: system_organization
+    disposition: no-evidence-found
+    reason: The sources identify PTOS as a standalone OS but do not describe its internal organization
+      using enough detail to classify it.
+    source_ids:
+    - ptos-lab-history-ja
+    - pcptos-history-ja
+  - field: kernels
+    disposition: no-evidence-found
+    reason: No consulted source identifies a PTOS kernel component or kernel architecture.
+    source_ids:
+    - ptos-lab-history-ja
+    - kahaku-pc-history-ja
+  - field: interfaces
+    disposition: no-evidence-found
+    reason: The sources establish platform and business use but do not document a PTOS command, menu,
+      graphical, or other user-interface style.
+    source_ids:
+    - ptos-lab-history-ja
+    - pcptos-history-ja
+  - field: text_editors
+    disposition: no-evidence-found
+    reason: No sufficiently sourced PTOS editor relationship was found; application-development references
+      are not evidence of an OS-associated text editor.
+    source_ids:
+    - ptos-lab-history-ja
+    - pcptos-history-ja
+# END GENERATED DEEP RESEARCH
 ---
 
 # PTOS

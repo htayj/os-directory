@@ -1,0 +1,963 @@
+{
+  "batch_id": "wave-001-batch-002",
+  "researcher": "deep_commercial_001",
+  "researched_at": "2026-07-27",
+  "results": [
+    {
+      "path": "systems/z-vm",
+      "title": "z/VM",
+      "identity_status": "confirmed",
+      "research_summary": "IBM z/VM is the current IBM Z/LinuxONE virtual-machine operating-system and hypervisor product. Its documented base components include the Control Program (CP) and Conversational Monitor System (CMS); the current IBM library separately publishes the integral XEDIT editor. The consulted product material establishes current maintenance and platform scope, but not z/VM implementation languages or a development-location claim.",
+      "sources": [
+        {
+          "id": "ibm-zvm-general-74",
+          "title": "z/VM: 7.4 General Information, GC24-6286-74",
+          "url": "https://www.ibm.com/support/pages/zvm/library/740pdfs/74628600.pdf",
+          "archived_url": null,
+          "source_kind": "contemporary-system-manual",
+          "language": "en",
+          "date": "2024-09",
+          "primary": true,
+          "notes": "IBM product manual; product overview, CP/CMS component chapters, and server support appendix."
+        },
+        {
+          "id": "ibm-zvm-library-74",
+          "title": "IBM z/VM Library - 7.4 PDF files",
+          "url": "https://www.ibm.com/support/pages/zvm/library/740pdfs.html",
+          "archived_url": null,
+          "source_kind": "official-documentation-index",
+          "language": "en",
+          "date": "2026",
+          "primary": true,
+          "notes": "IBM's release-indexed library lists the 7.4 GA and subsequent component manuals, including XEDIT."
+        },
+        {
+          "id": "ibm-zvm-74-links",
+          "title": "IBM z/VM 7.4 links and more information",
+          "url": "https://www.ibm.com/support/pages/zvm/zvm740/links.html",
+          "archived_url": null,
+          "source_kind": "official-release-information",
+          "language": "en",
+          "date": "2024-09-20",
+          "primary": true,
+          "notes": "IBM release page gives the 7.4 ordering date and announcement resources."
+        },
+        {
+          "id": "ibm-zvm-74-changelog",
+          "title": "IBM z/VM 7.4 CMS Change Log",
+          "url": "https://www.ibm.com/support/pages/zvm/changelog/740/cms.html",
+          "archived_url": null,
+          "source_kind": "official-change-log",
+          "language": "en",
+          "date": "2026-07-07",
+          "primary": true,
+          "notes": "The current change log records 7.4 CMS feature-pack servicing in July 2026."
+        },
+        {
+          "id": "ibm-zvm-74-product",
+          "title": "z/VM 7.4.x release information",
+          "url": "https://www.ibm.com/support/pages/zvm74x",
+          "archived_url": null,
+          "source_kind": "official-release-information",
+          "language": "en",
+          "date": "2024-09-20",
+          "primary": true,
+          "notes": "IBM product release page identifies the IBM International Program License Agreement for this release."
+        }
+      ],
+      "claims": [
+        {
+          "field": "organizations",
+          "value": {"organization": "IBM", "role": "developer"},
+          "source_ids": ["ibm-zvm-general-74"],
+          "assertion_status": "documented",
+          "source_term": "IBM z/VM licensed program",
+          "scope": {"releases": ["z/VM 7.4"]},
+          "locator": "About this document; page xi",
+          "evidence_note": "IBM identifies z/VM 7.4 as its licensed program and publishes the product manual."
+        },
+        {
+          "field": "design_purposes",
+          "value": {"purpose": "hardware-enablement", "primary": true, "source_term": "premier hypervisor", "traits": ["virtualization"]},
+          "source_ids": ["ibm-zvm-general-74"],
+          "assertion_status": "documented",
+          "source_term": "premier hypervisor",
+          "scope": {"releases": ["z/VM 7.4"]},
+          "locator": "Chapter 1, z/VM overview, page 1",
+          "evidence_note": "IBM says z/VM hosts enterprise virtual servers and is designed to run hundreds to thousands of guests on IBM Z or LinuxONE."
+        },
+        {
+          "field": "development_status",
+          "value": {"state": "maintenance", "as_of": "2026-07-27"},
+          "source_ids": ["ibm-zvm-74-changelog"],
+          "assertion_status": "documented",
+          "source_term": "service and feature packs",
+          "scope": {"releases": ["z/VM 7.4"]},
+          "locator": "7.4 CMS change log, feature pack 07 fix 00, 2026-07-07",
+          "evidence_note": "IBM recorded a z/VM 7.4 CMS feature pack on July 7, 2026, establishing active product servicing at the catalog cutoff."
+        },
+        {
+          "field": "lifecycle_events",
+          "value": {"event": "release", "date": "2024-09-20", "release": "z/VM 7.4"},
+          "source_ids": ["ibm-zvm-74-links"],
+          "assertion_status": "documented",
+          "source_term": "z/VM 7.4 ordering begins",
+          "scope": {"releases": ["z/VM 7.4"]},
+          "locator": "Ordering and Availability",
+          "evidence_note": "IBM's 7.4 resource page dates ordering to September 17 and was last updated September 20, 2024; its linked 7.4 GA manual is dated September 2024."
+        },
+        {
+          "field": "rights_regime",
+          "value": {"regime": "copyrighted", "scope": "binary"},
+          "source_ids": ["ibm-zvm-general-74"],
+          "assertion_status": "documented",
+          "source_term": "licensed program",
+          "scope": {"releases": ["z/VM 7.4"]},
+          "locator": "About this document; product identification",
+          "evidence_note": "IBM describes z/VM as a licensed program rather than a public-domain or source-distributed system."
+        },
+        {
+          "field": "licenses",
+          "value": {"name": "IBM International Program License Agreement", "scope": "binary", "licensor": "IBM"},
+          "source_ids": ["ibm-zvm-74-product"],
+          "assertion_status": "documented",
+          "source_term": "International Program License Agreement",
+          "scope": {"releases": ["z/VM 7.4"]},
+          "locator": "Release-information page, licensing link",
+          "evidence_note": "IBM's z/VM 7.4 release-information page links this product to the IBM International Program License Agreement."
+        },
+        {
+          "field": "system_organization",
+          "value": {"organization": "other", "source_term": "Control Program (CP) and Conversational Monitor System (CMS)"},
+          "source_ids": ["ibm-zvm-general-74"],
+          "assertion_status": "documented",
+          "source_term": "Control Program (CP)",
+          "scope": {"releases": ["z/VM 7.4"]},
+          "locator": "Chapter 5, z/VM base product, pages 45 and 57",
+          "evidence_note": "IBM organizes the base product around CP and CMS; retaining those product terms is more precise than labeling the whole lineage a conventional monolithic kernel."
+        },
+        {
+          "field": "kernels",
+          "value": {"name": "Control Program (CP)", "architecture": "other", "source_term": "hypervisor"},
+          "source_ids": ["ibm-zvm-general-74"],
+          "assertion_status": "documented",
+          "source_term": "Control Program (CP); hypervisor",
+          "scope": {"releases": ["z/VM 7.4"]},
+          "locator": "Chapter 1, z/VM overview; Chapter 5, Control Program",
+          "evidence_note": "The manual calls z/VM a hypervisor and identifies CP as a base component; it does not classify CP using a modern monolithic/microkernel label."
+        },
+        {
+          "field": "interfaces",
+          "value": {"name": "CP/CMS", "style": "command-line", "provisioning": "built-in", "access": "local-session"},
+          "source_ids": ["ibm-zvm-general-74"],
+          "assertion_status": "documented",
+          "source_term": "CP environment; CMS environment",
+          "scope": {"releases": ["z/VM 7.4"]},
+          "locator": "Chapter 5, CP and CMS component sections",
+          "evidence_note": "IBM documents CP and CMS as base z/VM components and provides their command documentation."
+        },
+        {
+          "field": "platforms",
+          "value": {"platform": "IBM Z and IBM LinuxONE servers", "support_origin": "original-target", "execution_mode": "native"},
+          "source_ids": ["ibm-zvm-general-74"],
+          "assertion_status": "documented",
+          "source_term": "IBM Z; IBM LinuxONE",
+          "scope": {"releases": ["z/VM 7.4"]},
+          "locator": "Chapter 1, z/VM overview; Appendix A",
+          "evidence_note": "IBM says z/VM runs guests on IBM Z and LinuxONE and supplies model-specific supported-server tables."
+        }
+      ],
+      "editor_associations": [
+        {
+          "name": "XEDIT",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "source_ids": ["ibm-zvm-library-74", "ibm-zvm-general-74"],
+          "assertion_status": "documented",
+          "scope": {"releases": ["z/VM 7.4"], "components": ["CMS"]},
+          "locator": "z/VM 7.4 library, XEDIT User's Guide SC24-6338-74; General Information Chapter 5",
+          "evidence_note": "IBM's 7.4 library lists the XEDIT User's Guide, and its manual describes XEDIT as the IBM z/VM editor and both full-screen and line-mode text processing."
+        }
+      ],
+      "unresolved": [
+        {
+          "field": "countries_of_origin",
+          "disposition": "no-evidence-found",
+          "reason": "The IBM product and component manuals identify the vendor and current platform but do not establish the geographical location of original z/VM development; IBM's present corporate location is not a valid substitute.",
+          "source_ids": ["ibm-zvm-general-74", "ibm-zvm-74-product"]
+        },
+        {
+          "field": "programming_languages",
+          "disposition": "no-evidence-found",
+          "reason": "The consulted manuals list a High Level Assembler prerequisite and application interfaces, not the implementation language(s) of CP, CMS, or the whole z/VM product; no language is inferred from those toolchain references.",
+          "source_ids": ["ibm-zvm-general-74", "ibm-zvm-library-74"]
+        }
+      ]
+    },
+    {
+      "path": "systems/vxworks",
+      "title": "VxWorks",
+      "identity_status": "confirmed",
+      "research_summary": "VxWorks is Wind River's continuing commercial real-time operating-system lineage, introduced in 1987 in California. Current vendor material defines it around deterministic mission-critical embedded deployment, a kernel separated from protected user space, and a broad embedded processor/board range. It documents C/C++ as supported development languages but does not establish VxWorks' own implementation languages or publish a complete VxWorks license text in the consulted material.",
+      "sources": [
+        {
+          "id": "wind-vx-product",
+          "title": "VxWorks: The World's #1 Real-Time Operating System",
+          "url": "https://www.windriver.com/products/embedded/vxworks",
+          "archived_url": null,
+          "source_kind": "official-product-page",
+          "language": "en",
+          "date": "2026",
+          "primary": true,
+          "notes": "Current Wind River product page for the RTOS."
+        },
+        {
+          "id": "wind-vx-history",
+          "title": "Wind River Celebrates 30 Years of Embedded Innovation",
+          "url": "https://www.windriver.com/news/press/news-8961",
+          "archived_url": null,
+          "source_kind": "vendor-history-press-release",
+          "language": "en",
+          "date": "2011",
+          "primary": true,
+          "notes": "Wind River's own chronology says it was created in Berkeley, California and VxWorks was introduced in 1987."
+        },
+        {
+          "id": "wind-vx-datasheet",
+          "title": "VxWorks 7: The Safe, Secure, and Reliable RTOS",
+          "url": "https://www.windriver.com/themes/Windriver/pdf/vxworks-7-datasheet.pdf",
+          "archived_url": null,
+          "source_kind": "official-product-datasheet",
+          "language": "en",
+          "date": "2019",
+          "primary": true,
+          "notes": "Vendor datasheet documents kernel/user-space separation, processor families, compiler/tool support, and the Eclipse development environment."
+        },
+        {
+          "id": "wind-vx-sdk-guide",
+          "title": "VxWorks SDK Application Developer Guide",
+          "url": "https://labs.windriver.com/downloads/wrsdk-vxworks7-docs/VxWorksSDK-ApplicationDeveloperGuide.html",
+          "archived_url": null,
+          "source_kind": "official-sdk-manual",
+          "language": "en",
+          "date": "2020",
+          "primary": true,
+          "notes": "Vendor SDK guide covers VxWorks application types and creating a project with VS Code or the command line."
+        },
+        {
+          "id": "wind-vx-public-source-notices",
+          "title": "Public Source Code - Downloads by Product",
+          "url": "https://www.windriver.com/source",
+          "archived_url": null,
+          "source_kind": "official-source-notice-index",
+          "language": "en",
+          "date": "2026",
+          "primary": true,
+          "notes": "Wind River's public source-download page is component-specific and does not publish a general VxWorks product license."
+        }
+      ],
+      "claims": [
+        {
+          "field": "organizations",
+          "value": {"organization": "Wind River", "role": "developer"},
+          "source_ids": ["wind-vx-product", "wind-vx-history"],
+          "assertion_status": "documented",
+          "source_term": "VxWorks",
+          "scope": {},
+          "locator": "Current product page; 30-year chronology",
+          "evidence_note": "Wind River presents VxWorks as its RTOS product and its own chronology dates the product's introduction to 1987."
+        },
+        {
+          "field": "countries_of_origin",
+          "value": {"country": "US", "place": "Berkeley, California", "development_role": "origin"},
+          "source_ids": ["wind-vx-history"],
+          "assertion_status": "documented",
+          "source_term": "created in a garage in Berkeley, Calif.",
+          "scope": {"from": "1981", "through": "1987"},
+          "locator": "Select company milestones",
+          "evidence_note": "Wind River says it was created in Berkeley, California in 1981 and introduced VxWorks in 1987, supporting the United States origin for the original product lineage."
+        },
+        {
+          "field": "design_purposes",
+          "value": {"purpose": "real-time-control", "primary": true, "source_term": "mission-critical embedded systems", "traits": ["deterministic-timing", "safety-critical"]},
+          "source_ids": ["wind-vx-product"],
+          "assertion_status": "documented",
+          "source_term": "Real-Time OS for Mission-Critical Systems",
+          "scope": {},
+          "locator": "Product-page heading and key capabilities",
+          "evidence_note": "Wind River says VxWorks targets mission-critical embedded systems and is designed for hard real time and deterministic performance."
+        },
+        {
+          "field": "development_status",
+          "value": {"state": "active", "as_of": "2026-07-27"},
+          "source_ids": ["wind-vx-product"],
+          "assertion_status": "documented",
+          "source_term": "current product",
+          "scope": {},
+          "locator": "Current VxWorks product page",
+          "evidence_note": "Wind River actively markets and documents VxWorks as its current RTOS product."
+        },
+        {
+          "field": "lifecycle_events",
+          "value": {"event": "first-public-release", "date": "1987", "release": "VxWorks"},
+          "source_ids": ["wind-vx-history"],
+          "assertion_status": "documented",
+          "source_term": "VxWorks ... is introduced",
+          "scope": {},
+          "locator": "Select company milestones",
+          "evidence_note": "Wind River's vendor chronology dates VxWorks' introduction to 1987."
+        },
+        {
+          "field": "system_organization",
+          "value": {"organization": "distinct-kernel", "source_term": "separation between kernel and memory-protected user space environments"},
+          "source_ids": ["wind-vx-datasheet"],
+          "assertion_status": "documented",
+          "source_term": "kernel and memory-protected user space",
+          "scope": {"releases": ["VxWorks 7"]},
+          "locator": "Key Features",
+          "evidence_note": "The VxWorks 7 datasheet explicitly distinguishes the kernel from memory-protected user-space environments."
+        },
+        {
+          "field": "interfaces",
+          "value": {"name": "VxWorks kernel shell", "style": "command-line", "provisioning": "bundled-optional", "access": "administrative"},
+          "source_ids": ["wind-vx-datasheet", "wind-vx-sdk-guide"],
+          "assertion_status": "documented",
+          "source_term": "VxWorks kernel shell; wrdbg shell",
+          "scope": {"releases": ["VxWorks 7"]},
+          "locator": "VxWorks 7 and Workbench Essentials course description; SDK guide, Connecting to a VxWorks Target",
+          "evidence_note": "Wind River describes a VxWorks kernel shell and its SDK documents command-line debugging through wrdbg and a target console."
+        },
+        {
+          "field": "platforms",
+          "value": {"platform": ["Arm", "Power Architecture", "Intel", "RISC-V"], "support_origin": "vendor-port", "execution_mode": "native"},
+          "source_ids": ["wind-vx-datasheet"],
+          "assertion_status": "documented",
+          "source_term": "broad spectrum of silicon architectures",
+          "scope": {"releases": ["VxWorks 7"]},
+          "locator": "Key Features, extensive processor and board support",
+          "evidence_note": "The vendor datasheet lists 32/64-bit support and Arm, Power Architecture, Intel, and RISC-V among supported architecture families."
+        }
+      ],
+      "editor_associations": [
+        {
+          "name": "Visual Studio Code",
+          "relationship": "development-host-tool",
+          "interface_style": "graphical",
+          "source_ids": ["wind-vx-sdk-guide"],
+          "assertion_status": "documented",
+          "scope": {"releases": ["VxWorks 7 SDK"]},
+          "locator": "Application Developer Guide, Creating a Project with VSCode",
+          "evidence_note": "The official VxWorks 7 SDK guide has a VS Code project-creation path; this is a host-side development relationship, not a claim that the editor runs or is bundled on every VxWorks target."
+        }
+      ],
+      "unresolved": [
+        {
+          "field": "rights_regime",
+          "disposition": "unknown",
+          "reason": "The consulted vendor pages establish a commercial current product and list selected public source-component notices, but they do not state the copyright/public-domain characterization for the complete VxWorks product.",
+          "source_ids": ["wind-vx-product", "wind-vx-public-source-notices"]
+        },
+        {
+          "field": "licenses",
+          "disposition": "no-evidence-found",
+          "reason": "No complete VxWorks end-user or source license was located in the consulted public Wind River documentation; the source-download page concerns individual included components, not a whole-product license.",
+          "source_ids": ["wind-vx-public-source-notices", "wind-vx-product"]
+        },
+        {
+          "field": "programming_languages",
+          "disposition": "no-evidence-found",
+          "reason": "The datasheet documents C11, C++17, Rust, and Python as supported development languages and compilers, but that is not evidence of VxWorks implementation languages; no implementation language is inferred from the toolchain.",
+          "source_ids": ["wind-vx-datasheet", "wind-vx-sdk-guide"]
+        },
+        {
+          "field": "kernels",
+          "disposition": "unknown",
+          "reason": "Wind River calls the component a kernel and documents its user-space separation, but the consulted current sources do not classify it as monolithic, microkernel, hybrid, or another normalized architecture for the cited release.",
+          "source_ids": ["wind-vx-datasheet", "wind-vx-product"]
+        }
+      ]
+    },
+    {
+      "path": "systems/workplace-os",
+      "title": "Workplace OS",
+      "identity_status": "confirmed",
+      "research_summary": "Workplace OS names IBM's early-1990s microkernel/personality architecture and its limited PowerPC expression, not a normally released universal OS family. IBM's contemporaneous OS/2 Warp Connect (PowerPC Edition) Redbook documents the IBM Microkernel, personality-neutral services, OS/2 dominant personality, command-line and Workplace Shell interface, PowerPC target, and a bundled DOS E editor. The broader promised personalities should not be treated as shipped editions.",
+      "sources": [
+        {
+          "id": "ibm-os2ppc-redbook",
+          "title": "OS/2 Warp (PowerPC Edition): A First Look, SG24-4630-00",
+          "url": "https://www.ibmfiles.com/ibmfiles/powerpc/os2ppc_first_look.pdf",
+          "archived_url": null,
+          "source_kind": "contemporary-system-manual",
+          "language": "en",
+          "date": "1995-12",
+          "primary": true,
+          "notes": "Archived copy of an IBM International Technical Support Organization Redbook; it applies to OS/2 Warp Connect (PowerPC Edition) 1.0 and documents the IBM Microkernel architecture."
+        },
+        {
+          "id": "fleisch-workplace-case-study",
+          "title": "Workplace microkernel and OS: a case study",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291097-024X%28199805%2928%3A6%3C569%3A%3AAID-SPE158%3E3.0.CO%3B2-U",
+          "archived_url": null,
+          "source_kind": "scholarly-case-study",
+          "language": "en",
+          "date": "1998",
+          "primary": false,
+          "notes": "Peer-reviewed retrospective by former project participants; its abstract identifies the Workplace OS microkernel as the core component and describes its multiple-personality premise."
+        },
+        {
+          "id": "jhu-microkernel-paper",
+          "title": "Experience with the Development of a Microkernel-Based, Multiserver Operating System",
+          "url": "https://srl.cs.jhu.edu/courses/600.439/ExperienceMicrokernelBasedOS.pdf",
+          "archived_url": null,
+          "source_kind": "technical-paper",
+          "language": "en",
+          "date": "1997",
+          "primary": false,
+          "notes": "Technical paper describing the IBM Microkernel and the Workplace OS multiserver structure."
+        }
+      ],
+      "claims": [
+        {
+          "field": "organizations",
+          "value": {"organization": "IBM", "role": "developer"},
+          "source_ids": ["ibm-os2ppc-redbook", "fleisch-workplace-case-study"],
+          "assertion_status": "documented",
+          "source_term": "IBM Microkernel; IBM's Microkernel",
+          "scope": {"editions": ["OS/2 Warp Connect (PowerPC Edition) 1.0"]},
+          "locator": "Redbook, chapters 1-2; case-study abstract",
+          "evidence_note": "IBM's contemporary architecture book names the IBM Microkernel, while the case study describes it as Workplace OS's core component."
+        },
+        {
+          "field": "countries_of_origin",
+          "value": {"country": "US", "place": ["Boca Raton, Florida", "Austin, Texas"], "development_role": "origin"},
+          "source_ids": ["ibm-os2ppc-redbook"],
+          "assertion_status": "documented",
+          "source_term": "IBM ... development, Boca Raton; IBM Microkernel development, Austin",
+          "scope": {"editions": ["OS/2 Warp Connect (PowerPC Edition) 1.0"]},
+          "locator": "Acknowledgments, pages xviii-xix",
+          "evidence_note": "The IBM Redbook credits OS/2 PowerPC development in Boca Raton and IBM Microkernel development in Austin, both in the United States; the claim is scoped to the documented released expression."
+        },
+        {
+          "field": "design_purposes",
+          "value": {"purpose": "portability-research", "primary": true, "source_term": "highly portable systems", "traits": ["compatibility", "extensibility"]},
+          "source_ids": ["ibm-os2ppc-redbook", "fleisch-workplace-case-study"],
+          "assertion_status": "documented",
+          "source_term": "multiple operating system personalities",
+          "scope": {},
+          "locator": "Redbook, Chapter 1 and Chapter 2, page 5; case-study abstract",
+          "evidence_note": "IBM says the microkernel structures system software for flexibility and portability and supports multiple personalities; the case study describes the intended concurrent personality platform."
+        },
+        {
+          "field": "development_status",
+          "value": {"state": "discontinued", "as_of": "2026-07-27"},
+          "source_ids": ["fleisch-workplace-case-study", "ibm-os2ppc-redbook"],
+          "assertion_status": "documented",
+          "source_term": "case study; Version 1.0",
+          "scope": {},
+          "locator": "Case study, abstract and May 1998 publication; Redbook first edition, December 1995",
+          "evidence_note": "The post-project scholarly case study treats Workplace OS as a historical project, while the last identified IBM expression is the 1995 PowerPC Edition 1.0 documentation; no current product stream was found."
+        },
+        {
+          "field": "lifecycle_events",
+          "value": {"event": "first-public-release", "date": "1995-12", "release": "OS/2 Warp Connect (PowerPC Edition) Version 1.0"},
+          "source_ids": ["ibm-os2ppc-redbook"],
+          "assertion_status": "documented",
+          "source_term": "First Edition (December 1995); applies to ... Version 1.0",
+          "scope": {"editions": ["OS/2 Warp Connect (PowerPC Edition) 1.0"]},
+          "locator": "Title verso, pages i-ii",
+          "evidence_note": "IBM's contemporaneous Redbook states it applies to the Version 1.0 PowerPC Edition and is first published in December 1995; it is a limited expression of Workplace OS rather than evidence that all promised personalities shipped."
+        },
+        {
+          "field": "rights_regime",
+          "value": {"regime": "copyrighted", "scope": "documentation"},
+          "source_ids": ["ibm-os2ppc-redbook"],
+          "assertion_status": "documented",
+          "source_term": "Copyright International Business Machines Corporation 1995. All rights reserved.",
+          "scope": {"editions": ["OS/2 Warp Connect (PowerPC Edition) 1.0"]},
+          "locator": "Title verso, copyright notice",
+          "evidence_note": "The IBM Redbook directly establishes copyright and restricted-rights status for the documented release material; it does not supply a complete software EULA."
+        },
+        {
+          "field": "system_organization",
+          "value": {"organization": "distinct-kernel", "source_term": "microkernel services and dominant personality"},
+          "source_ids": ["ibm-os2ppc-redbook"],
+          "assertion_status": "documented",
+          "source_term": "IBM microkernel; personality-neutral services; dominant personality",
+          "scope": {"editions": ["OS/2 Warp Connect (PowerPC Edition) 1.0"]},
+          "locator": "Chapter 2, pages 5-6; Chapter 3, microkernel services",
+          "evidence_note": "IBM documents a pure kernel plus user-level servers and a dominant OS/2 personality, rather than a single undifferentiated OS/2 kernel."
+        },
+        {
+          "field": "kernels",
+          "value": {"name": "IBM Microkernel", "architecture": "microkernel", "source_term": "pure kernel"},
+          "source_ids": ["ibm-os2ppc-redbook", "fleisch-workplace-case-study"],
+          "assertion_status": "documented",
+          "source_term": "IBM Microkernel",
+          "scope": {"editions": ["OS/2 Warp Connect (PowerPC Edition) 1.0"]},
+          "locator": "Redbook, Chapter 2, pages 5-6; case-study abstract",
+          "evidence_note": "IBM says its microkernel is implemented as a pure kernel with user-level servers; the later case study identifies that named microkernel as Workplace OS's core component."
+        },
+        {
+          "field": "interfaces",
+          "value": {"name": "Workplace Shell and OS/2 command line", "style": ["graphical", "command-line"], "provisioning": "built-in", "access": "local-session"},
+          "source_ids": ["ibm-os2ppc-redbook"],
+          "assertion_status": "documented",
+          "source_term": "Workplace Shell; command line interface",
+          "scope": {"editions": ["OS/2 Warp Connect (PowerPC Edition) 1.0"], "components": ["OS/2 dominant personality"]},
+          "locator": "Chapter 4, sections 4.2.10 and 4.4 Graphics Subsystem Summary",
+          "evidence_note": "IBM says the PowerPC Edition continues to offer a command-line interface and that users see the OS/2 Workplace Shell desktop; this does not assert that every unshipped Workplace personality had that UI."
+        },
+        {
+          "field": "platforms",
+          "value": {"platform": "PowerPC-based machines", "support_origin": "original-target", "execution_mode": "native"},
+          "source_ids": ["ibm-os2ppc-redbook"],
+          "assertion_status": "documented",
+          "source_term": "PowerPC architecture",
+          "scope": {"editions": ["OS/2 Warp Connect (PowerPC Edition) 1.0"]},
+          "locator": "Chapter 1, Introduction, page 3",
+          "evidence_note": "The IBM document says OS/2 Warp Connect (PowerPC Edition) runs on PowerPC architecture systems and must be installed on a PowerPC-based machine."
+        }
+      ],
+      "editor_associations": [
+        {
+          "name": "E",
+          "relationship": "bundled-optional",
+          "interface_style": "full-screen-text",
+          "source_ids": ["ibm-os2ppc-redbook"],
+          "assertion_status": "documented",
+          "scope": {"editions": ["OS/2 Warp Connect (PowerPC Edition) 1.0"], "components": ["MVM DOS environment"]},
+          "locator": "Chapter 4, Table 2, Changes to DOS Utilities, page 84",
+          "evidence_note": "IBM's table marks DOS E as added in the PowerPC Edition's DOS utility set and calls it a full-screen text editor; it is not generalized to the unshipped Workplace OS personalities."
+        }
+      ],
+      "unresolved": [
+        {
+          "field": "licenses",
+          "disposition": "no-evidence-found",
+          "reason": "The contemporary IBM material has a copyright and documentation restricted-rights notice but does not contain the applicable software license text for Workplace OS/OS/2 Warp Connect PowerPC Edition.",
+          "source_ids": ["ibm-os2ppc-redbook"]
+        },
+        {
+          "field": "programming_languages",
+          "disposition": "no-evidence-found",
+          "reason": "The Redbook documents standard C/C++ headers in a toolkit, which is application-development material rather than evidence of Workplace OS implementation languages; no OS implementation language is inferred.",
+          "source_ids": ["ibm-os2ppc-redbook"]
+        }
+      ]
+    },
+    {
+      "path": "systems/windows-iot",
+      "title": "Windows IoT",
+      "identity_status": "confirmed",
+      "research_summary": "Windows IoT is Microsoft’s family label, formerly Windows Embedded, rather than a single uniform kernel release. It includes discontinued Windows 10 IoT Core and currently supported Windows IoT Enterprise streams with different interfaces, licensing, and lifecycle. This result scopes claims to the documented edition and does not infer Windows internals or languages from the public platform APIs.",
+      "sources": [
+        {
+          "id": "ms-windows-iot-docs",
+          "title": "Windows for IoT Documentation",
+          "url": "https://learn.microsoft.com/en-us/windows/iot/",
+          "archived_url": null,
+          "source_kind": "official-product-documentation",
+          "language": "en",
+          "date": "2026",
+          "primary": true,
+          "notes": "Microsoft describes Windows for IoT as a family of operating systems formerly called Windows Embedded."
+        },
+        {
+          "id": "ms-iot-enterprise-overview",
+          "title": "What is Windows IoT Enterprise?",
+          "url": "https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/overview",
+          "archived_url": null,
+          "source_kind": "official-product-documentation",
+          "language": "en",
+          "date": "2026-02-26",
+          "primary": true,
+          "notes": "Microsoft definition, intended fixed-purpose use, binary equivalence to Windows Enterprise, and servicing model."
+        },
+        {
+          "id": "ms-iot-enterprise-lifecycle",
+          "title": "Windows 11 IoT Enterprise - Microsoft Lifecycle",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/products/windows-11-iot-enterprise",
+          "archived_url": null,
+          "source_kind": "official-lifecycle-record",
+          "language": "en",
+          "date": "2026",
+          "primary": true,
+          "notes": "Official current support table for the Windows 11 IoT Enterprise stream."
+        },
+        {
+          "id": "ms-iot-announcement-2015",
+          "title": "Windows 10 IoT: Powering the Internet of Things",
+          "url": "https://blogs.windows.com/windowsexperience/2015/03/18/windows-10-iot-powering-the-internet-of-things/",
+          "archived_url": null,
+          "source_kind": "official-announcement",
+          "language": "en",
+          "date": "2015-03-18",
+          "primary": true,
+          "notes": "Microsoft announcement of the Windows 10 IoT offering and intended device categories."
+        },
+        {
+          "id": "ms-iot-enterprise-license",
+          "title": "Microsoft Software License Terms: Windows IoT Enterprise (All Editions)",
+          "url": "https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/eula/license_en-us_english_united_states.pdf",
+          "archived_url": null,
+          "source_kind": "official-license",
+          "language": "en",
+          "date": "2024-04",
+          "primary": true,
+          "notes": "Microsoft's Windows IoT Enterprise EULA; it reserves rights not expressly granted and sets copy/transfer restrictions."
+        },
+        {
+          "id": "ms-iot-core-maker",
+          "title": "Microsoft brings Windows 10 to Makers",
+          "url": "https://blogs.windows.com/windowsdeveloper/2015/04/29/microsoft-brings-windows-10-to-makers/",
+          "archived_url": null,
+          "source_kind": "official-announcement",
+          "language": "en",
+          "date": "2015-04-29",
+          "primary": true,
+          "notes": "Windows 10 IoT Core preview announcement identifies Raspberry Pi 2 and Intel MinnowBoard Max support."
+        },
+        {
+          "id": "ms-iot-core-rpi",
+          "title": "Working with Raspberry Pi and Windows 10",
+          "url": "https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/may/internet-of-things-working-with-raspberry-pi-and-windows-10",
+          "archived_url": null,
+          "source_kind": "official-developer-article",
+          "language": "en",
+          "date": "2017-05",
+          "primary": true,
+          "notes": "Microsoft developer article documents the IoT Core Dashboard, Device Portal, remote control, and Visual Studio UWP development."
+        }
+      ],
+      "claims": [
+        {
+          "field": "organizations",
+          "value": {"organization": "Microsoft", "role": "developer"},
+          "source_ids": ["ms-windows-iot-docs", "ms-iot-announcement-2015"],
+          "assertion_status": "documented",
+          "source_term": "Windows for IoT; Microsoft",
+          "scope": {},
+          "locator": "Windows for IoT documentation landing page; 2015 announcement by Microsoft Operating Systems Group",
+          "evidence_note": "Microsoft's documentation identifies Windows for IoT as its operating-system family and its operating-systems group announced the Windows 10 IoT offering."
+        },
+        {
+          "field": "design_purposes",
+          "value": {"purpose": "embedded-control", "primary": true, "source_term": "fixed purpose devices", "application_domains": ["ATMs", "point-of-sale", "industrial automation", "medical devices", "kiosks"]},
+          "source_ids": ["ms-iot-enterprise-overview", "ms-iot-announcement-2015"],
+          "assertion_status": "documented",
+          "source_term": "fixed purpose devices; intelligent, connected IoT devices",
+          "scope": {"editions": ["Windows IoT Enterprise", "Windows 10 IoT"]},
+          "locator": "Windows IoT Enterprise overview, Fixed Purpose Devices; 2015 announcement",
+          "evidence_note": "Microsoft says the Enterprise line is for fixed-purpose devices and announced Windows 10 IoT for connected gateways, point of sale, robotics, and specialty medical devices."
+        },
+        {
+          "field": "development_status",
+          "value": {"state": "active", "as_of": "2026-07-27", "edition": "Windows 11 IoT Enterprise"},
+          "source_ids": ["ms-iot-enterprise-lifecycle"],
+          "assertion_status": "documented",
+          "source_term": "In Support",
+          "scope": {"editions": ["Windows 11 IoT Enterprise"]},
+          "locator": "Support Dates",
+          "evidence_note": "Microsoft's lifecycle record lists Windows 11 IoT Enterprise as in support; this does not project support to discontinued Windows IoT Core."
+        },
+        {
+          "field": "lifecycle_events",
+          "value": {"event": "announced", "date": "2015-03-18", "release": "Windows 10 IoT"},
+          "source_ids": ["ms-iot-announcement-2015"],
+          "assertion_status": "documented",
+          "source_term": "Windows 10 IoT",
+          "scope": {"editions": ["Windows 10 IoT"]},
+          "locator": "Announcement date and opening paragraphs",
+          "evidence_note": "Microsoft publicly described Windows 10 IoT and the intended summer 2015 availability on March 18, 2015."
+        },
+        {
+          "field": "rights_regime",
+          "value": {"regime": "copyrighted", "scope": "binary", "edition": "Windows IoT Enterprise"},
+          "source_ids": ["ms-iot-enterprise-license"],
+          "assertion_status": "documented",
+          "source_term": "reserve all rights ... not expressly granted",
+          "scope": {"editions": ["Windows IoT Enterprise"]},
+          "locator": "License Terms, section 1(c), Restrictions",
+          "evidence_note": "Microsoft's EULA reserves intellectual-property rights not expressly granted, establishing a copyrighted proprietary regime for the cited Enterprise editions."
+        },
+        {
+          "field": "licenses",
+          "value": {"name": "Microsoft Software License Terms: Windows IoT Enterprise (All Editions)", "scope": "binary", "licensor": "Microsoft"},
+          "source_ids": ["ms-iot-enterprise-license"],
+          "assertion_status": "documented",
+          "source_term": "MICROSOFT SOFTWARE LICENSE TERMS WINDOWS IOT ENTERPRISE (ALL EDITIONS)",
+          "scope": {"editions": ["Windows IoT Enterprise"]},
+          "locator": "Title and section 1(c)",
+          "evidence_note": "The official EULA covers Windows IoT Enterprise editions and restricts copying, transfer, separate feature use, and circumvention."
+        },
+        {
+          "field": "interfaces",
+          "value": {"name": "Windows IoT Core Device Portal and remote PowerShell", "style": "command-line", "provisioning": "bundled-default", "access": "remote-session"},
+          "source_ids": ["ms-iot-core-rpi"],
+          "assertion_status": "documented",
+          "source_term": "Device Portal; remote PowerShell; headless mode",
+          "scope": {"editions": ["Windows 10 IoT Core"]},
+          "locator": "Working with Raspberry Pi and Windows 10, Device Portal and Developing for the Raspberry Pi",
+          "evidence_note": "Microsoft documents IoT Core's browser-accessible Device Portal, remote control, headless use, and remote PowerShell; this scoped claim avoids treating all Windows IoT editions as headless."
+        },
+        {
+          "field": "platforms",
+          "value": {"platform": ["Raspberry Pi 2", "Intel MinnowBoard Max"], "support_origin": "official-port", "execution_mode": "native"},
+          "source_ids": ["ms-iot-core-maker"],
+          "assertion_status": "documented",
+          "source_term": "Windows 10 IoT Core Insider Preview",
+          "scope": {"editions": ["Windows 10 IoT Core preview"]},
+          "locator": "Opening announcement paragraphs",
+          "evidence_note": "Microsoft announced IoT Core preview support for Raspberry Pi 2 and Intel MinnowBoard Max; the old board-specific scope is retained."
+        }
+      ],
+      "editor_associations": [
+        {
+          "name": "Visual Studio",
+          "relationship": "development-host-tool",
+          "interface_style": "graphical",
+          "source_ids": ["ms-iot-core-rpi"],
+          "assertion_status": "documented",
+          "scope": {"editions": ["Windows 10 IoT Core"], "platforms": ["Raspberry Pi"]},
+          "locator": "Working with Raspberry Pi and Windows 10, Developing for the Raspberry Pi Using Visual Studio",
+          "evidence_note": "Microsoft's IoT Core guide directs developers to install Visual Studio's Universal Windows App tools and create a UWP project; it is a development-host association, not a claim that Visual Studio is installed on the device."
+        }
+      ],
+      "unresolved": [
+        {
+          "field": "countries_of_origin",
+          "disposition": "no-evidence-found",
+          "reason": "The consulted Microsoft material establishes the vendor and products but not the original Windows IoT development location. Microsoft headquarters or documentation location would not prove country of origin.",
+          "source_ids": ["ms-windows-iot-docs", "ms-iot-announcement-2015"]
+        },
+        {
+          "field": "programming_languages",
+          "disposition": "no-evidence-found",
+          "reason": "The public documentation names UWP and Visual Studio development tooling but does not establish implementation languages for the family or its different editions; those languages are not inferred from API/toolchain support.",
+          "source_ids": ["ms-iot-core-rpi", "ms-iot-enterprise-overview"]
+        },
+        {
+          "field": "system_organization",
+          "disposition": "unknown",
+          "reason": "Windows IoT is a family label covering distinct editions. Microsoft states that IoT Enterprise is binary equivalent to Windows Enterprise but the consulted sources do not give a normalized whole-family system-organization classification.",
+          "source_ids": ["ms-windows-iot-docs", "ms-iot-enterprise-overview"]
+        },
+        {
+          "field": "kernels",
+          "disposition": "unknown",
+          "reason": "No consulted Microsoft source identifies a kernel architecture for every Windows IoT edition, and a Windows-family inference would erase the edition boundary documented by Microsoft.",
+          "source_ids": ["ms-windows-iot-docs", "ms-iot-enterprise-overview"]
+        }
+      ]
+    },
+    {
+      "path": "systems/xbox-system-software",
+      "title": "Xbox system software",
+      "identity_status": "confirmed",
+      "research_summary": "Xbox system software is a Microsoft console-software family spanning separate console generations and system versions, not one stable kernel release. Microsoft documents a current, separately versioned Game OS for Xbox titles, continuing console updates for Xbox One and Series X|S, and the GDK/Visual Studio development path. Historic kernel and implementation-language claims remain intentionally unresolved because Microsoft’s public generation-spanning sources do not establish them.",
+      "sources": [
+        {
+          "id": "ms-xbox-announcement-2000",
+          "title": "Microsoft Unveils Plans for Xbox",
+          "url": "https://news.microsoft.com/source/2000/03/10/microsoft-unveils-plans-for-xbox/",
+          "archived_url": null,
+          "source_kind": "official-announcement",
+          "language": "en",
+          "date": "2000-03-10",
+          "primary": true,
+          "notes": "Microsoft's first public Xbox announcement describes a dedicated video-game console and developer platform."
+        },
+        {
+          "id": "ms-xbox-launch-2001",
+          "title": "Microsoft Announces Launch Details for Xbox in North America",
+          "url": "https://news.microsoft.com/source/2001/05/16/microsoft-announces-launch-details-for-xbox-in-north-america/",
+          "archived_url": null,
+          "source_kind": "official-release-announcement",
+          "language": "en",
+          "date": "2001-05-16",
+          "primary": true,
+          "notes": "Microsoft announced North American retail availability beginning November 8, 2001."
+        },
+        {
+          "id": "ms-xbox-gdk-game-os",
+          "title": "What is the Microsoft Game Development Kit?",
+          "url": "https://learn.microsoft.com/en-us/gaming/gdk/docs/gdk-dev/intro/introduction?view=gdk-2510",
+          "archived_url": null,
+          "source_kind": "official-sdk-documentation",
+          "language": "en",
+          "date": "2025-12-10",
+          "primary": true,
+          "notes": "Microsoft documents Game OS, its separate game-versioning model, GDK APIs, and Visual Studio support."
+        },
+        {
+          "id": "ms-xbox-update-2026-04",
+          "title": "April Xbox Update: Customize Your Console, Manually Add Your Favorite Games on PC, and More",
+          "url": "https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/",
+          "archived_url": null,
+          "source_kind": "official-update-note",
+          "language": "en",
+          "date": "2026-04-30",
+          "primary": true,
+          "notes": "Microsoft's Xbox Wire note documents April 2026 console features and current Series X|S/Xbox One update delivery."
+        },
+        {
+          "id": "ms-xbox-gdk-tools",
+          "title": "SDK and tools requirements - Microsoft Game Development Kit",
+          "url": "https://learn.microsoft.com/en-us/gaming/gdk/docs/gdk-dev/get-started/overviews/sdk-and-tools?view=gdk-2510",
+          "archived_url": null,
+          "source_kind": "official-sdk-documentation",
+          "language": "en",
+          "date": "2026",
+          "primary": true,
+          "notes": "Microsoft's current GDK document specifies Visual Studio and SDK tooling for games targeting Xbox consoles."
+        },
+        {
+          "id": "ms-xbox-series-manual-license",
+          "title": "Xbox Series X|S Product and Regulatory Guide",
+          "url": "https://download.microsoft.com/download/c/5/1/c516c773-0650-4719-8b1e-fbee939075f5/XBOX%20SERIES%20X%20%20%20S%20MANUAL%20EN%20-%20AU%20NZ.pdf",
+          "archived_url": null,
+          "source_kind": "official-product-manual",
+          "language": "en",
+          "date": "2025-03",
+          "primary": true,
+          "notes": "Microsoft product guide directs users to the Xbox Software License Agreement."
+        }
+      ],
+      "claims": [
+        {
+          "field": "organizations",
+          "value": {"organization": "Microsoft", "role": "developer"},
+          "source_ids": ["ms-xbox-announcement-2000", "ms-xbox-gdk-game-os"],
+          "assertion_status": "documented",
+          "source_term": "Microsoft; Microsoft Game Development Kit",
+          "scope": {},
+          "locator": "2000 announcement; GDK overview",
+          "evidence_note": "Microsoft announced that it was developing the Xbox platform and publishes the GDK and Game OS documentation for current Xbox console development."
+        },
+        {
+          "field": "design_purposes",
+          "value": {"purpose": "gaming", "primary": true, "source_term": "dedicated video game console; Game OS optimized for games"},
+          "source_ids": ["ms-xbox-announcement-2000", "ms-xbox-gdk-game-os"],
+          "assertion_status": "documented",
+          "source_term": "dedicated video game console",
+          "scope": {},
+          "locator": "2000 announcement, opening paragraphs; GDK overview, On Xbox",
+          "evidence_note": "Microsoft announced Xbox as a dedicated console for games and describes the current Game OS as optimized for running games with defined resource guarantees."
+        },
+        {
+          "field": "development_status",
+          "value": {"state": "active", "as_of": "2026-07-27", "editions": ["Xbox One", "Xbox Series X|S"]},
+          "source_ids": ["ms-xbox-update-2026-04"],
+          "assertion_status": "documented",
+          "source_term": "Console Updates",
+          "scope": {"platforms": ["Xbox One", "Xbox Series X|S"]},
+          "locator": "April 2026 update, Console Updates and Help Shape the Future of Xbox",
+          "evidence_note": "Microsoft released console software features in April 2026 and explicitly addresses Xbox Series X|S and Xbox One update participation."
+        },
+        {
+          "field": "lifecycle_events",
+          "value": {"event": "announced", "date": "2000-03-10", "subject": "Xbox"},
+          "source_ids": ["ms-xbox-announcement-2000"],
+          "assertion_status": "documented",
+          "source_term": "Microsoft Unveils Plans for Xbox",
+          "scope": {"platforms": ["original Xbox"]},
+          "locator": "Dateline and opening paragraph",
+          "evidence_note": "Microsoft publicly unveiled the future dedicated Xbox console on March 10, 2000."
+        },
+        {
+          "field": "lifecycle_events",
+          "value": {"event": "commercial-availability", "date": "2001-11-08", "subject": "Xbox North American launch"},
+          "source_ids": ["ms-xbox-launch-2001"],
+          "assertion_status": "documented",
+          "source_term": "Starting Nov. 8, 2001",
+          "scope": {"platforms": ["original Xbox"], "countries": ["US", "CA"]},
+          "locator": "Opening announcement paragraphs",
+          "evidence_note": "Microsoft announced that Xbox consoles would become available through North American retailers beginning November 8, 2001."
+        },
+        {
+          "field": "rights_regime",
+          "value": {"regime": "copyrighted", "scope": "binary", "edition": "Xbox Series X|S"},
+          "source_ids": ["ms-xbox-series-manual-license"],
+          "assertion_status": "documented",
+          "source_term": "Software License Agreement",
+          "scope": {"platforms": ["Xbox Series X|S"]},
+          "locator": "Product and Regulatory Guide, Software License Agreement reference",
+          "evidence_note": "Microsoft's Series X|S guide directs users to a software license agreement, establishing licensed proprietary treatment for that console software scope."
+        },
+        {
+          "field": "licenses",
+          "value": {"name": "Xbox Software License Agreement", "scope": "binary", "licensor": "Microsoft"},
+          "source_ids": ["ms-xbox-series-manual-license"],
+          "assertion_status": "documented",
+          "source_term": "Software License Agreement at xbox.com/slt",
+          "scope": {"platforms": ["Xbox Series X|S"]},
+          "locator": "Product and Regulatory Guide, Software License Agreement",
+          "evidence_note": "The Microsoft product guide names the Xbox Software License Agreement and provides its official location; this is scoped to the Series X|S product guide."
+        },
+        {
+          "field": "system_organization",
+          "value": {"organization": "other", "source_term": "separate Game OS"},
+          "source_ids": ["ms-xbox-gdk-game-os"],
+          "assertion_status": "documented",
+          "source_term": "separate Game OS optimized for games",
+          "scope": {"editions": ["GDK-era Xbox Game OS"]},
+          "locator": "GDK overview, Testing games that use the Game OS and Gaming Runtime on Xbox",
+          "evidence_note": "Microsoft calls the relevant layer a separate Game OS and describes its game-specific versioning and resource model; the source does not assign a generic monolithic/microkernel label."
+        },
+        {
+          "field": "interfaces",
+          "value": {"name": "Xbox Home", "style": "graphical", "provisioning": "bundled-default", "access": "local-console"},
+          "source_ids": ["ms-xbox-update-2026-04"],
+          "assertion_status": "documented",
+          "source_term": "Home; My games & apps",
+          "scope": {"platforms": ["Xbox One", "Xbox Series X|S"]},
+          "locator": "April 2026 update, Console Updates",
+          "evidence_note": "Microsoft's current console-update note documents Home groups, color customization, My games & apps, and game cards as the first-party console interface."
+        },
+        {
+          "field": "platforms",
+          "value": {"platform": ["Xbox One", "Xbox Series X", "Xbox Series S"], "support_origin": "original-target", "execution_mode": "native"},
+          "source_ids": ["ms-xbox-update-2026-04", "ms-xbox-gdk-game-os"],
+          "assertion_status": "documented",
+          "source_term": "Xbox Series X|S; Xbox One; Xbox consoles",
+          "scope": {"editions": ["current console software", "GDK-era Game OS"]},
+          "locator": "April 2026 update; GDK overview, On Xbox",
+          "evidence_note": "Microsoft's update note identifies the current Xbox One and Series X|S console platforms, while the GDK documentation establishes the Game OS scope on Xbox consoles."
+        }
+      ],
+      "editor_associations": [
+        {
+          "name": "Visual Studio",
+          "relationship": "development-host-tool",
+          "interface_style": "graphical",
+          "source_ids": ["ms-xbox-gdk-tools", "ms-xbox-gdk-game-os"],
+          "assertion_status": "documented",
+          "scope": {"editions": ["GDK-era Xbox development"]},
+          "locator": "SDK and tools requirements, Visual Studio; GDK overview, Support for Visual Studio",
+          "evidence_note": "Microsoft requires/recommends Visual Studio with the GDK for games targeting Xbox consoles; this is an editor/IDE relationship on the development host, not a retail-console bundle claim."
+        }
+      ],
+      "unresolved": [
+        {
+          "field": "countries_of_origin",
+          "disposition": "no-evidence-found",
+          "reason": "Microsoft's announcements establish company ownership and launch locations but do not document the physical location of original Xbox system-software development. A launch venue cannot establish a development origin.",
+          "source_ids": ["ms-xbox-announcement-2000", "ms-xbox-launch-2001"]
+        },
+        {
+          "field": "programming_languages",
+          "disposition": "no-evidence-found",
+          "reason": "The GDK documents C and C++ API styles for game developers, not the implementation language(s) of Xbox system software across its generations; no implementation language is inferred from exposed APIs.",
+          "source_ids": ["ms-xbox-gdk-game-os", "ms-xbox-gdk-tools"]
+        },
+        {
+          "field": "kernels",
+          "disposition": "unknown",
+          "reason": "The family title spans original Xbox, Xbox 360, Xbox One, and Series-era products. The consulted Microsoft GDK source documents a separate Game OS but provides no kernel architecture that can be applied across those generations.",
+          "source_ids": ["ms-xbox-gdk-game-os", "ms-xbox-announcement-2000"]
+        }
+      ]
+    }
+  ]
+}
