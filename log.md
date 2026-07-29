@@ -2,6 +2,15 @@
 
 ## 2026-07-29
 
+* **Preservation-source audit**: Screened all 208 public repositories on Lars
+  Brinkhoff's GitHub profile and mapped 27 selected operating-system,
+  documentation, media, editor-history, networking, and recovery projects.
+* **Attribution boundaries**: Distinguished profile-owned repositories,
+  profile forks, and external projects with verified contributions instead of
+  treating profile visibility as original authorship.
+* **Catalog additions**: Added Small ITS/SITS and DTSS records, including
+  educational purpose, country of origin, platform, lifecycle, interface, and
+  preservation evidence; added SITS's TINTE editor association.
 * **Lisp-machine coverage**: Audited every machine family explicitly named by
   the Computer History Wiki LISP-machine page and added a structured
   machine-to-operating-system inventory.

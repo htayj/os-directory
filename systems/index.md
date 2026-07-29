@@ -100,6 +100,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Cromix](cromix/) - Cromemco multiuser, multitasking Unix-like operating system.
 * [CSI-DOS](csi-dos/) - Draft operating-system identity pending core research.
 * [CTOS](ctos/) - Draft operating-system identity pending core research.
+* [Dartmouth Time-Sharing System](dartmouth-time-sharing-system/) - Dartmouth College's educational general-purpose timesharing operating-system lineage, commonly abbreviated DTSS.
 * [Darwin](darwin/) - Draft operating-system identity pending core research.
 * [Data ONTAP](data-ontap/) - Draft operating-system identity pending core research.
 * [DC/OSx](dc-osx/) - Draft operating-system identity pending core research.
@@ -400,6 +401,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [SISNE Plus](sisne-plus/) - Draft multilingual inventory record for SISNE Plus.
 * [SkyOS](skyos/) - Draft operating-system identity pending core research.
 * [Smaky](smaky-os/) - Draft multilingual inventory record for Smaky.
+* [Small Incompatible Timesharing System](small-incompatible-timesharing-system/) - MIT AI Laboratory's multi-user PDP-11/45 timesharing system for Logo and other PDP-11 programs, commonly called SITS or Small ITS.
 * [SmartOS](smartos/) - Draft inventory record for SmartOS.
 * [So.Di.Linux Orizzonti](sodilinux/) - Draft multilingual inventory record for So.Di.Linux Orizzonti.
 * [SODA](soda/) - Draft operating-system identity pending core research.

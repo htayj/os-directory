@@ -573,6 +573,9 @@ CURATED = {
     "systems/interlisp-d-medley": [
         curated("TEdit", "native", "https://xeroxparcarchive.computerhistory.org/Xerox_PARC_source_code.html", "graphical", "documented", "institutional-source-archive"),
     ],
+    "systems/small-incompatible-timesharing-system": [
+        curated("TINTE", "integral", "https://github.com/pdp11/sits", "full-screen-text", "documented", "preservation-project"),
+    ],
 }
 
 

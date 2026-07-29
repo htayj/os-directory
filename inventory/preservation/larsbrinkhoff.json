@@ -1,0 +1,272 @@
+{
+  "subject": {
+    "name": "Lars Brinkhoff",
+    "profile": "https://github.com/larsbrinkhoff"
+  },
+  "snapshot": {
+    "observed_at": "2026-07-29",
+    "profile_public_repositories_screened": 208,
+    "selected_preservation_projects": 27,
+    "method": "GitHub profile repository metadata screening followed by README, tree, and contributor review for selected projects"
+  },
+  "relationship_vocabulary": [
+    "profile-owned",
+    "profile-fork",
+    "external-project-with-verified-contribution"
+  ],
+  "artifact_kind_vocabulary": [
+    "documentation-archive",
+    "emulator-build",
+    "format-recovery-tool",
+    "media-image",
+    "network-restoration",
+    "oral-history",
+    "software-history",
+    "source-history",
+    "source-reconstruction"
+  ],
+  "projects": [
+    {
+      "repository": "PDP-10/its",
+      "url": "https://github.com/PDP-10/its",
+      "relationship": "external-project-with-verified-contribution",
+      "contributions": 1435,
+      "artifact_kinds": ["source-reconstruction", "emulator-build"],
+      "systems": ["systems/incompatible-timesharing-system"],
+      "note": "Automated runnable reconstruction of ITS from preserved source, tools, and scripts; supports SIMH and KLH10."
+    },
+    {
+      "repository": "pdp11/sits",
+      "url": "https://github.com/pdp11/sits",
+      "relationship": "external-project-with-verified-contribution",
+      "contributions": 5,
+      "artifact_kinds": ["source-reconstruction", "emulator-build"],
+      "systems": ["systems/small-incompatible-timesharing-system"],
+      "note": "Runnable reconstruction of the Small Incompatible Timesharing System under SIMH."
+    },
+    {
+      "repository": "larsbrinkhoff/its-history",
+      "url": "https://github.com/larsbrinkhoff/its-history",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["source-history"],
+      "systems": ["systems/incompatible-timesharing-system"],
+      "note": "Reconstructs ITS development history from surviving source and binary material."
+    },
+    {
+      "repository": "larsbrinkhoff/ooits",
+      "url": "https://github.com/larsbrinkhoff/ooits",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["source-reconstruction", "network-restoration"],
+      "systems": ["systems/incompatible-timesharing-system"],
+      "note": "Preserves and revives early 1972-1973 ITS versions, including simulated ARPANET operation."
+    },
+    {
+      "repository": "larsbrinkhoff/its-manual",
+      "url": "https://github.com/larsbrinkhoff/its-manual",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["documentation-archive"],
+      "systems": ["systems/incompatible-timesharing-system"],
+      "note": "Manual material for ITS commands, editors, programming tools, and hardware."
+    },
+    {
+      "repository": "larsbrinkhoff/its-archives",
+      "url": "https://github.com/larsbrinkhoff/its-archives",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["documentation-archive", "media-image"],
+      "systems": ["systems/incompatible-timesharing-system"],
+      "note": "Index and working material for locating, interpreting, and preserving ITS archives."
+    },
+    {
+      "repository": "larsbrinkhoff/its-interviews",
+      "url": "https://github.com/larsbrinkhoff/its-interviews",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["oral-history"],
+      "systems": ["systems/incompatible-timesharing-system"],
+      "note": "Oral-history material from people associated with ITS."
+    },
+    {
+      "repository": "larsbrinkhoff/its-book",
+      "url": "https://github.com/larsbrinkhoff/its-book",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["documentation-archive", "software-history"],
+      "systems": ["systems/incompatible-timesharing-system"],
+      "note": "Historical writing and research about ITS."
+    },
+    {
+      "repository": "larsbrinkhoff/pdp10-its-disassembler",
+      "url": "https://github.com/larsbrinkhoff/pdp10-its-disassembler",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["format-recovery-tool"],
+      "systems": [
+        "systems/incompatible-timesharing-system",
+        "systems/waits",
+        "systems/tenex",
+        "systems/tops-10",
+        "systems/tops-20"
+      ],
+      "note": "Recovery and disassembly tooling for files and tapes from several PDP-10 operating systems."
+    },
+    {
+      "repository": "larsbrinkhoff/build-tenex",
+      "url": "https://github.com/larsbrinkhoff/build-tenex",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["source-reconstruction", "emulator-build"],
+      "systems": ["systems/tenex"],
+      "note": "Bootstraps a TENEX toolchain and assembles a preserved SUMEX-AIM monitor; the project documents remaining failures."
+    },
+    {
+      "repository": "larsbrinkhoff/tops20-v2",
+      "url": "https://github.com/larsbrinkhoff/tops20-v2",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["media-image", "source-reconstruction"],
+      "systems": ["systems/tops-20"],
+      "note": "Preserves TOPS-20 Release 2 media and extraction/build notes."
+    },
+    {
+      "repository": "larsbrinkhoff/pdp10-periodic-build",
+      "url": "https://github.com/larsbrinkhoff/pdp10-periodic-build",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["source-reconstruction"],
+      "systems": ["systems/tops-10", "systems/tops-20"],
+      "note": "Periodic build automation for preserved TOPS-10 and TOPS-20 materials."
+    },
+    {
+      "repository": "larsbrinkhoff/2bsd",
+      "url": "https://github.com/larsbrinkhoff/2bsd",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["media-image", "source-history"],
+      "systems": ["systems/berkeley-software-distribution"],
+      "note": "Preserves 2BSD distributions and installation tapes, including 2.9BSD and 2.11BSD material."
+    },
+    {
+      "repository": "larsbrinkhoff/dtss-backup",
+      "url": "https://github.com/larsbrinkhoff/dtss-backup",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["documentation-archive", "source-history"],
+      "systems": ["systems/dartmouth-time-sharing-system"],
+      "note": "Aggregates DTSS and Dartmouth BASIC material from multiple historical sites."
+    },
+    {
+      "repository": "larsbrinkhoff/mit-logo-and-sits-raw-files",
+      "url": "https://github.com/larsbrinkhoff/mit-logo-and-sits-raw-files",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["source-history", "media-image"],
+      "systems": ["systems/small-incompatible-timesharing-system"],
+      "note": "Preserves unsorted recovered MIT PDP-10 Logo, PDP-11 Logo, and Small ITS files."
+    },
+    {
+      "repository": "larsbrinkhoff/emacs-history",
+      "url": "https://github.com/larsbrinkhoff/emacs-history",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["software-history", "source-history"],
+      "systems": [
+        "systems/incompatible-timesharing-system",
+        "systems/tops-20",
+        "systems/multics",
+        "systems/mit-lisp-machine-system-software",
+        "systems/lmi-lisp-machine-software",
+        "systems/genera"
+      ],
+      "note": "Preserves editor history across TECO EMACS, Lisp-machine editors, Multics Emacs, Gosling Emacs, and GNU Emacs."
+    },
+    {
+      "repository": "larsbrinkhoff/lmfs-tape",
+      "url": "https://github.com/larsbrinkhoff/lmfs-tape",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["format-recovery-tool"],
+      "systems": [
+        "systems/mit-lisp-machine-system-software",
+        "systems/lmi-lisp-machine-software",
+        "systems/genera"
+      ],
+      "note": "Reads, lists, and extracts Lisp Machine File System tapes; exact vendor and release scope must be verified per tape."
+    },
+    {
+      "repository": "larsbrinkhoff/prebuilt-emulator-images-with-interesting-software-installed",
+      "url": "https://github.com/larsbrinkhoff/prebuilt-emulator-images-with-interesting-software-installed",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["media-image", "emulator-build"],
+      "systems": ["systems/berkeley-software-distribution"],
+      "note": "Provides runnable period software environments, including 4.2BSD and 4.3BSD images."
+    },
+    {
+      "repository": "larsbrinkhoff/tape-lab",
+      "url": "https://github.com/larsbrinkhoff/tape-lab",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["format-recovery-tool"],
+      "systems": [],
+      "note": "Cross-system laboratory for inspecting and recovering historical tape data."
+    },
+    {
+      "repository": "larsbrinkhoff/tools-for-unusual-tape-formats",
+      "url": "https://github.com/larsbrinkhoff/tools-for-unusual-tape-formats",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["format-recovery-tool"],
+      "systems": [],
+      "note": "Cross-system tools for uncommon tape encodings and layouts."
+    },
+    {
+      "repository": "larsbrinkhoff/image-tape",
+      "url": "https://github.com/larsbrinkhoff/image-tape",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["format-recovery-tool", "media-image"],
+      "systems": [],
+      "note": "Cross-system magnetic-tape imaging work."
+    },
+    {
+      "repository": "larsbrinkhoff/mldev",
+      "url": "https://github.com/larsbrinkhoff/mldev",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["network-restoration"],
+      "systems": ["systems/incompatible-timesharing-system"],
+      "note": "Development work supporting historical MIT network interoperability."
+    },
+    {
+      "repository": "larsbrinkhoff/linux-ncp",
+      "url": "https://github.com/larsbrinkhoff/linux-ncp",
+      "relationship": "profile-owned",
+      "artifact_kinds": ["network-restoration"],
+      "systems": ["systems/incompatible-timesharing-system"],
+      "note": "NCP networking work useful for reconnecting preserved ARPANET-era systems."
+    },
+    {
+      "repository": "larsbrinkhoff/ka10-simh",
+      "url": "https://github.com/larsbrinkhoff/ka10-simh",
+      "relationship": "profile-fork",
+      "artifact_kinds": ["emulator-build"],
+      "systems": ["systems/incompatible-timesharing-system"],
+      "note": "Profile fork of KA10-oriented SIMH work; useful infrastructure, not attributed here as an original Lars-authored project."
+    },
+    {
+      "repository": "larsbrinkhoff/open-simh",
+      "url": "https://github.com/larsbrinkhoff/open-simh",
+      "relationship": "profile-fork",
+      "artifact_kinds": ["emulator-build"],
+      "systems": [
+        "systems/incompatible-timesharing-system",
+        "systems/small-incompatible-timesharing-system",
+        "systems/tenex",
+        "systems/tops-10",
+        "systems/tops-20",
+        "systems/vms"
+      ],
+      "note": "Profile fork of the multi-system SIMH emulator suite; retained as enabling infrastructure with fork status explicit."
+    },
+    {
+      "repository": "larsbrinkhoff/pdp7-unix",
+      "url": "https://github.com/larsbrinkhoff/pdp7-unix",
+      "relationship": "profile-fork",
+      "artifact_kinds": ["source-reconstruction", "emulator-build"],
+      "systems": ["systems/research-unix", "systems/unix"],
+      "note": "Profile fork of the PDP-7 Unix reconstruction; useful evidence and tooling, not attributed here as Lars's original project."
+    },
+    {
+      "repository": "larsbrinkhoff/vmsbackup",
+      "url": "https://github.com/larsbrinkhoff/vmsbackup",
+      "relationship": "profile-fork",
+      "artifact_kinds": ["format-recovery-tool"],
+      "systems": ["systems/vms"],
+      "note": "Profile fork of VMS backup-media tooling; fork status is preserved."
+    }
+  ]
+}

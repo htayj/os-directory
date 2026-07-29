@@ -3,11 +3,11 @@
   "as_of": "2026-07-29",
   "repository": "https://github.com/htayj/os-directory",
   "stats": {
-    "systems": 535,
-    "systems_with_editors": 78,
-    "associations": 238,
-    "unique_editors": 117,
-    "documented_associations": 36,
+    "systems": 537,
+    "systems_with_editors": 79,
+    "associations": 239,
+    "unique_editors": 118,
+    "documented_associations": 37,
     "provisional_associations": 202
   },
   "systems": [
@@ -2829,7 +2829,7 @@
       "license": [],
       "first_release": "",
       "latest_release": "Milestone 129 release stream",
-      "last_updated": "",
+      "last_updated": "2026-07-17",
       "gui": [
         "none documented"
       ],
@@ -3358,6 +3358,41 @@
       ],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "dartmouth-time-sharing-system",
+      "title": "Dartmouth Time-Sharing System",
+      "description": "Dartmouth College's educational general-purpose timesharing operating-system lineage, commonly abbreviated DTSS.",
+      "record_path": "systems/dartmouth-time-sharing-system/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/dartmouth-time-sharing-system/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "broad-access-to-computing",
+        "interactive-education"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1964-05-01",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [
+        "non-graphical-terminal",
+        "terminal"
+      ],
+      "platform": [
+        "GE-225 / DATANET-30",
+        "GE-235 / GE-265",
+        "GE-635"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -4827,8 +4862,8 @@
       ],
       "license": [],
       "first_release": "",
-      "latest_release": "",
-      "last_updated": "",
+      "latest_release": "1987-06",
+      "last_updated": "1987-06",
       "gui": [
         "graphical",
         "conversational"
@@ -13977,6 +14012,50 @@
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
       "editors": []
+    },
+    {
+      "id": "small-incompatible-timesharing-system",
+      "title": "Small Incompatible Timesharing System",
+      "description": "MIT AI Laboratory's multi-user PDP-11/45 timesharing system for Logo and other PDP-11 programs, commonly called SITS or Small ITS.",
+      "record_path": "systems/small-incompatible-timesharing-system/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/small-incompatible-timesharing-system/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "inactive-original-with-runnable-preservation",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "educational-computing",
+        "general-purpose-multilanguage-timesharing"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1974",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [
+        "mixed-terminal-and-graphics-display",
+        "command",
+        "graphical-terminal"
+      ],
+      "platform": [
+        "DEC PDP-11/45"
+      ],
+      "kernel": [],
+      "editor_disposition": "has-associations",
+      "editor_checked_at": "2026-07-29",
+      "editors": [
+        {
+          "name": "TINTE",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "assertion_status": "documented",
+          "source": "https://github.com/pdp11/sits",
+          "source_kind": "preservation-project",
+          "note": ""
+        }
+      ]
     },
     {
       "id": "smartos",

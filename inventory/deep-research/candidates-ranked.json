@@ -7216,83 +7216,6 @@
       "priority_score": 143
     },
     {
-      "path": "systems/coherent",
-      "title": "Coherent",
-      "aliases": [
-        "Coherent"
-      ],
-      "discovery_languages": [
-        "en"
-      ],
-      "catalog_level": "inventory",
-      "missing_fields": [
-        "organizations",
-        "countries_of_origin",
-        "design_purposes",
-        "development_status",
-        "lifecycle_events",
-        "rights_regime",
-        "licenses",
-        "programming_languages",
-        "system_organization",
-        "kernels",
-        "interfaces",
-        "platforms",
-        "text_editors"
-      ],
-      "provisional_fields": [
-        "country_of_origin",
-        "developer",
-        "development_status",
-        "first_release",
-        "gui",
-        "kernel_type",
-        "last_updated",
-        "latest_release",
-        "license",
-        "os_family",
-        "platforms",
-        "source_model"
-      ],
-      "first_pass_attributes": {
-        "source": "https://en.wikipedia.org/wiki/Coherent_(operating_system)",
-        "retrieved_at": "2026-07-26",
-        "assertion_status": "provisional",
-        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
-        "fields": {
-          "developer": "Mark Williams Company",
-          "country_of_origin": "United States",
-          "purpose": null,
-          "programming_languages": null,
-          "first_release": "1980 ; 46 years ago ( 1980 )",
-          "latest_release": "4.2.14 / 1994 ; 32 years ago ( 1994 )",
-          "last_updated": "4.2.14 / 1994 ; 32 years ago ( 1994 )",
-          "development_status": "Discontinued",
-          "source_model": "Closed source; open sourced in 2015",
-          "os_family": "Unix-like",
-          "gui": "Command-line ( KornShell )",
-          "platforms": "PDP-11 , x86 ( 8088 , 286 , 386 , 486 ), Motorola 68000 , Zilog Z8000",
-          "kernel_type": "Monolithic",
-          "license": "2015: BSD-3-Clause Original: Proprietary"
-        },
-        "country_evidence": {
-          "assertion_status": "inferred",
-          "method": "inferred-from-developer-headquarters",
-          "source": "https://www.wikidata.org/wiki/Q570986"
-        }
-      },
-      "existing_sources": [
-        {
-          "id": "wikipedia-list",
-          "title": "List of operating systems",
-          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
-          "source_kind": "list"
-        }
-      ],
-      "existing_text_editors": [],
-      "priority_score": 143
-    },
-    {
       "path": "systems/coloros",
       "title": "ColorOS",
       "aliases": [
@@ -12708,6 +12631,79 @@
           "platforms": "ARM , MIPS , Power ISA , x86",
           "kernel_type": "Monolithic ( Linux )",
           "license": "Apache 2.0 and GPL v2"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 143
+    },
+    {
+      "path": "systems/orvyl-and-wylbur",
+      "title": "ORVYL and WYLBUR",
+      "aliases": [
+        "ORVYL and WYLBUR"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms",
+        "text_editors"
+      ],
+      "provisional_fields": [
+        "country_of_origin",
+        "developer",
+        "development_status",
+        "first_release",
+        "license",
+        "platforms",
+        "programming_languages",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/ORVYL_and_WYLBUR",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "Stanford University",
+          "country_of_origin": "United States",
+          "purpose": null,
+          "programming_languages": "360/370 Assembly language",
+          "first_release": "1967, 1968",
+          "latest_release": null,
+          "last_updated": null,
+          "development_status": "Discontinued",
+          "source_model": "Originally Open source ; the later proprietary versions had licensed source",
+          "os_family": null,
+          "gui": null,
+          "platforms": "IBM S/360, S/370, and successors",
+          "kernel_type": null,
+          "license": "Originally public domain; the later proprietary versions had distinct licenses"
+        },
+        "country_evidence": {
+          "assertion_status": "inferred",
+          "method": "inferred-from-developer-country",
+          "source": "https://www.wikidata.org/wiki/Q41506"
         }
       },
       "existing_sources": [
@@ -29369,6 +29365,75 @@
       "priority_score": 133
     },
     {
+      "path": "systems/stratus-vos",
+      "title": "Stratus VOS",
+      "aliases": [
+        "Stratus VOS"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms",
+        "text_editors"
+      ],
+      "provisional_fields": [
+        "developer",
+        "development_status",
+        "kernel_type",
+        "last_updated",
+        "latest_release",
+        "license",
+        "os_family",
+        "platforms",
+        "programming_languages",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/Stratus_VOS",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "Stratus Technologies",
+          "country_of_origin": null,
+          "purpose": null,
+          "programming_languages": "PL/I , C , Assembly language",
+          "first_release": null,
+          "latest_release": "19.3.1bx / May 2025",
+          "last_updated": "19.3.1bx / May 2025",
+          "development_status": "Current",
+          "source_model": "Closed source",
+          "os_family": "Multics-like",
+          "gui": null,
+          "platforms": "i860 , x86 , PA-RISC , 68k",
+          "kernel_type": "Monolithic kernel",
+          "license": "Kernel: Stratus Technologies Drivers, libraries, and user-land programs: Stratus Technologies , Other"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia",
+          "title": "Stratus VOS",
+          "resource": "https://en.wikipedia.org/wiki/Stratus_VOS",
+          "source_kind": "article"
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 133
+    },
+    {
       "path": "systems/syllable-desktop",
       "title": "Syllable Desktop",
       "aliases": [
@@ -32409,6 +32474,92 @@
       "priority_score": 125
     },
     {
+      "path": "systems/coherent",
+      "title": "Coherent",
+      "aliases": [
+        "Coherent"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [
+        "country_of_origin",
+        "developer",
+        "development_status",
+        "first_release",
+        "gui",
+        "kernel_type",
+        "last_updated",
+        "latest_release",
+        "license",
+        "os_family",
+        "platforms",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/Coherent_(operating_system)",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "Mark Williams Company",
+          "country_of_origin": "United States",
+          "purpose": null,
+          "programming_languages": null,
+          "first_release": "1980 ; 46 years ago ( 1980 )",
+          "latest_release": "4.2.14 / 1994 ; 32 years ago ( 1994 )",
+          "last_updated": "4.2.14 / 1994 ; 32 years ago ( 1994 )",
+          "development_status": "Discontinued",
+          "source_model": "Closed source; open sourced in 2015",
+          "os_family": "Unix-like",
+          "gui": "Command-line ( KornShell )",
+          "platforms": "PDP-11 , x86 ( 8088 , 286 , 386 , 486 ), Motorola 68000 , Zilog Z8000",
+          "kernel_type": "Monolithic",
+          "license": "2015: BSD-3-Clause Original: Proprietary"
+        },
+        "country_evidence": {
+          "assertion_status": "inferred",
+          "method": "inferred-from-developer-headquarters",
+          "source": "https://www.wikidata.org/wiki/Q570986"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "Emacs",
+          "relationship": "ported",
+          "interface_style": null,
+          "source": "https://en.wikipedia.org/w/index.php?title=Coherent_%28operating_system%29&oldid=1319367048",
+          "source_kind": "wikipedia-system-page",
+          "source_revision": 1319367048,
+          "assertion_status": "provisional"
+        }
+      ],
+      "priority_score": 125
+    },
+    {
       "path": "systems/dos-v",
       "title": "DOS/V",
       "aliases": [
@@ -34076,115 +34227,6 @@
           "interface_style": "full-screen-text",
           "source": "https://en.wikipedia.org/wiki/Extensible_VAX_Editor",
           "source_kind": "editor-history-secondary-reference",
-          "assertion_status": "provisional"
-        },
-        {
-          "name": "LSE",
-          "relationship": "historically-prominent",
-          "interface_style": null,
-          "source": "https://en.wikipedia.org/w/index.php?title=OpenVMS&oldid=1363459274",
-          "source_kind": "wikipedia-system-page",
-          "source_revision": 1363459274,
-          "assertion_status": "provisional"
-        },
-        {
-          "name": "TECO",
-          "relationship": "bundled-optional",
-          "interface_style": null,
-          "source": "https://en.wikipedia.org/w/index.php?title=OpenVMS&oldid=1363459274",
-          "source_kind": "wikipedia-system-page",
-          "source_revision": 1363459274,
-          "assertion_status": "provisional"
-        },
-        {
-          "name": "Visual Studio Code",
-          "relationship": "integral",
-          "interface_style": null,
-          "source": "https://en.wikipedia.org/w/index.php?title=OpenVMS&oldid=1363459274",
-          "source_kind": "wikipedia-system-page",
-          "source_revision": 1363459274,
-          "assertion_status": "provisional"
-        }
-      ],
-      "priority_score": 125
-    },
-    {
-      "path": "systems/orvyl-and-wylbur",
-      "title": "ORVYL and WYLBUR",
-      "aliases": [
-        "ORVYL and WYLBUR"
-      ],
-      "discovery_languages": [
-        "en"
-      ],
-      "catalog_level": "inventory",
-      "missing_fields": [
-        "organizations",
-        "countries_of_origin",
-        "design_purposes",
-        "development_status",
-        "lifecycle_events",
-        "rights_regime",
-        "licenses",
-        "programming_languages",
-        "system_organization",
-        "kernels",
-        "interfaces",
-        "platforms"
-      ],
-      "provisional_fields": [
-        "country_of_origin",
-        "developer",
-        "development_status",
-        "first_release",
-        "license",
-        "platforms",
-        "programming_languages",
-        "source_model"
-      ],
-      "first_pass_attributes": {
-        "source": "https://en.wikipedia.org/wiki/ORVYL_and_WYLBUR",
-        "retrieved_at": "2026-07-26",
-        "assertion_status": "provisional",
-        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
-        "fields": {
-          "developer": "Stanford University",
-          "country_of_origin": "United States",
-          "purpose": null,
-          "programming_languages": "360/370 Assembly language",
-          "first_release": "1967, 1968",
-          "latest_release": null,
-          "last_updated": null,
-          "development_status": "Discontinued",
-          "source_model": "Originally Open source ; the later proprietary versions had licensed source",
-          "os_family": null,
-          "gui": null,
-          "platforms": "IBM S/360, S/370, and successors",
-          "kernel_type": null,
-          "license": "Originally public domain; the later proprietary versions had distinct licenses"
-        },
-        "country_evidence": {
-          "assertion_status": "inferred",
-          "method": "inferred-from-developer-country",
-          "source": "https://www.wikidata.org/wiki/Q41506"
-        }
-      },
-      "existing_sources": [
-        {
-          "id": "wikipedia-list",
-          "title": "List of operating systems",
-          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
-          "source_kind": "list"
-        }
-      ],
-      "existing_text_editors": [
-        {
-          "name": "Emacs",
-          "relationship": "historically-prominent",
-          "interface_style": null,
-          "source": "https://en.wikipedia.org/w/index.php?title=ORVYL_and_WYLBUR&oldid=1360449701",
-          "source_kind": "wikipedia-system-page",
-          "source_revision": 1360449701,
           "assertion_status": "provisional"
         }
       ],
@@ -37697,84 +37739,6 @@
           "interface_style": "full-screen-text",
           "source": "https://en.wikipedia.org/wiki/Vi_(text_editor)",
           "source_kind": "editor-history-secondary-reference",
-          "assertion_status": "provisional"
-        }
-      ],
-      "priority_score": 115
-    },
-    {
-      "path": "systems/stratus-vos",
-      "title": "Stratus VOS",
-      "aliases": [
-        "Stratus VOS"
-      ],
-      "discovery_languages": [
-        "en"
-      ],
-      "catalog_level": "inventory",
-      "missing_fields": [
-        "organizations",
-        "countries_of_origin",
-        "design_purposes",
-        "lifecycle_events",
-        "rights_regime",
-        "licenses",
-        "programming_languages",
-        "system_organization",
-        "kernels",
-        "interfaces",
-        "platforms"
-      ],
-      "provisional_fields": [
-        "developer",
-        "development_status",
-        "kernel_type",
-        "last_updated",
-        "latest_release",
-        "license",
-        "os_family",
-        "platforms",
-        "programming_languages",
-        "source_model"
-      ],
-      "first_pass_attributes": {
-        "source": "https://en.wikipedia.org/wiki/Stratus_VOS",
-        "retrieved_at": "2026-07-26",
-        "assertion_status": "provisional",
-        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
-        "fields": {
-          "developer": "Stratus Technologies",
-          "country_of_origin": null,
-          "purpose": null,
-          "programming_languages": "PL/I , C , Assembly language",
-          "first_release": null,
-          "latest_release": "19.3.1bx / May 2025",
-          "last_updated": "19.3.1bx / May 2025",
-          "development_status": "Current",
-          "source_model": "Closed source",
-          "os_family": "Multics-like",
-          "gui": null,
-          "platforms": "i860 , x86 , PA-RISC , 68k",
-          "kernel_type": "Monolithic kernel",
-          "license": "Kernel: Stratus Technologies Drivers, libraries, and user-land programs: Stratus Technologies , Other"
-        }
-      },
-      "existing_sources": [
-        {
-          "id": "wikipedia",
-          "title": "Stratus VOS",
-          "resource": "https://en.wikipedia.org/wiki/Stratus_VOS",
-          "source_kind": "article"
-        }
-      ],
-      "existing_text_editors": [
-        {
-          "name": "Visual Studio Code",
-          "relationship": "historically-prominent",
-          "interface_style": null,
-          "source": "https://en.wikipedia.org/w/index.php?title=Stratus_VOS&oldid=1334695313",
-          "source_kind": "wikipedia-system-page",
-          "source_revision": 1334695313,
           "assertion_status": "provisional"
         }
       ],
@@ -42316,6 +42280,61 @@
       "priority_score": 58
     },
     {
+      "path": "systems/dartmouth-time-sharing-system",
+      "title": "Dartmouth Time-Sharing System",
+      "aliases": [
+        "Dartmouth Time-Sharing System",
+        "DTSS"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "kernels",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "dartmouth-1960s",
+          "title": "Dartmouth Computing Timeline: The 1960s",
+          "resource": "https://www.dartmouth.edu/its-tools/archive/history/timeline/1960s.html",
+          "source_kind": "institutional-history"
+        },
+        {
+          "id": "dartmouth-1970s",
+          "title": "Dartmouth Computing Timeline: The 1970s",
+          "resource": "https://www.dartmouth.edu/its-tools/archive/history/timeline/1970s.html",
+          "source_kind": "institutional-history"
+        },
+        {
+          "id": "dartmouth-exhibit",
+          "title": "Sharing the Computer",
+          "resource": "https://www.library.dartmouth.edu/exhibits/sharing-the-computer",
+          "source_kind": "institutional-exhibit"
+        },
+        {
+          "id": "lars-dtss-backup",
+          "title": "Backup of DTSS and Dartmouth BASIC",
+          "resource": "https://github.com/larsbrinkhoff/dtss-backup",
+          "source_kind": "preservation-aggregation"
+        },
+        {
+          "id": "bitsavers-dtss",
+          "title": "Dartmouth DTSS documentation archive",
+          "resource": "https://bitsavers.org/pdf/dartmouth/dtss/",
+          "source_kind": "documentation-archive"
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 58
+    },
+    {
       "path": "systems/mos",
       "title": "Acorn MOS",
       "aliases": [
@@ -43134,6 +43153,58 @@
       ],
       "existing_text_editors": [],
       "priority_score": 41
+    },
+    {
+      "path": "systems/small-incompatible-timesharing-system",
+      "title": "Small Incompatible Timesharing System",
+      "aliases": [
+        "Small Incompatible Timesharing System",
+        "SITS",
+        "Small ITS"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "kernels"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "sits-repository",
+          "title": "The SITS Timesharing System",
+          "resource": "https://github.com/pdp11/sits",
+          "source_kind": "preservation-project"
+        },
+        {
+          "id": "lars-raw-files",
+          "title": "MIT Logo and SITS raw files",
+          "resource": "https://github.com/larsbrinkhoff/mit-logo-and-sits-raw-files",
+          "source_kind": "preservation-source-repository"
+        },
+        {
+          "id": "gunkies-sits",
+          "title": "SITS",
+          "resource": "https://gunkies.org/wiki/SITS",
+          "source_kind": "historical-computing-wiki"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "TINTE",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "source": "https://github.com/pdp11/sits",
+          "source_kind": "preservation-project",
+          "assertion_status": "documented"
+        }
+      ],
+      "priority_score": 40
     },
     {
       "path": "systems/risc-os",

@@ -24,6 +24,10 @@ Generated and curated inventories used to establish catalog coverage.
 * [Lisp-machine operating-system coverage](lisp-machine-os-coverage.md) -
   machine-to-system mappings and explicit non-OS or unresolved dispositions for
   every family named by the Computer History Wiki LISP-machine page.
+* [Lars Brinkhoff preservation-source audit](preservation/larsbrinkhoff.md) -
+  system mappings for 27 selected preservation projects after screening all
+  208 public profile repositories, with ownership, fork, and verified external
+  contribution boundaries.
 
 # Supplemental
 

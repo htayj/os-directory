@@ -1317,6 +1317,14 @@
       "associations": []
     },
     {
+      "path": "systems/dartmouth-time-sharing-system",
+      "title": "Dartmouth Time-Sharing System",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/darwin",
       "title": "Darwin",
       "disposition": "no-evidence-found",
@@ -5717,6 +5725,25 @@
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
       "associations": []
+    },
+    {
+      "path": "systems/small-incompatible-timesharing-system",
+      "title": "Small Incompatible Timesharing System",
+      "disposition": "has-associations",
+      "searched": [
+        "curated-primary-sources"
+      ],
+      "note": "One or more relationships are documented by curated primary or institutional sources.",
+      "associations": [
+        {
+          "name": "TINTE",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "source": "https://github.com/pdp11/sits",
+          "source_kind": "preservation-project",
+          "assertion_status": "documented"
+        }
+      ]
     },
     {
       "path": "systems/smartos",

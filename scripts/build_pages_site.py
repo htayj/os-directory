@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+from datetime import date
 from pathlib import Path
 from typing import Any
 
@@ -28,7 +29,7 @@ def scalar(value: Any) -> str:
         return ""
     if isinstance(value, bool):
         return "yes" if value else "no"
-    if isinstance(value, (str, int, float)):
+    if isinstance(value, (str, int, float, date)):
         return str(value)
     if isinstance(value, list):
         return "; ".join(part for item in value if (part := scalar(item)))
@@ -44,6 +45,7 @@ def scalar(value: Any) -> str:
             "identifier",
             "license",
             "organization",
+            "date",
         ):
             if value.get(key) not in (None, "", [], {}):
                 return scalar(value[key])
@@ -209,9 +211,13 @@ def system_row(record: Path) -> dict[str, Any]:
         "purpose": purposes,
         "programming_language": languages,
         "license": licenses,
-        "first_release": first_pass(data, "first_release"),
-        "latest_release": first_pass(data, "latest_release"),
-        "last_updated": first_pass(data, "last_updated"),
+        "first_release": scalar(data.get("first_release"))
+        or first_pass(data, "first_release"),
+        "latest_release": scalar(data.get("latest_release"))
+        or scalar(data.get("latest_releases"))
+        or first_pass(data, "latest_release"),
+        "last_updated": scalar(data.get("last_updated"))
+        or first_pass(data, "last_updated"),
         "gui": gui,
         "platform": platforms,
         "kernel": kernels,
