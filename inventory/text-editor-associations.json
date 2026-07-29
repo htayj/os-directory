@@ -13,6 +13,14 @@
       "associations": []
     },
     {
+      "path": "systems/386bsd",
+      "title": "386BSD",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/86-dos",
       "title": "86-DOS",
       "disposition": "has-associations",
@@ -145,6 +153,14 @@
         "wikidata-text-editor-platform-statements"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/amber-operating-system",
+      "title": "Amber Operating System",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -299,6 +315,14 @@
       "associations": []
     },
     {
+      "path": "systems/ants-terminal-system",
+      "title": "ARPA Network Terminal System",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/aos-2",
       "title": "Academic Operating System",
       "disposition": "no-evidence-found",
@@ -317,6 +341,14 @@
         "wikidata-text-editor-platform-statements"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/apex-tx-2",
+      "title": "APEX",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -459,6 +491,14 @@
       "associations": []
     },
     {
+      "path": "systems/august",
+      "title": "August",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/aurora-os",
       "title": "Aurora OS",
       "disposition": "no-evidence-found",
@@ -547,13 +587,23 @@
     {
       "path": "systems/batch-11-dos-11",
       "title": "DEC BATCH-11/DOS-11",
-      "disposition": "no-evidence-found",
+      "disposition": "has-associations",
       "searched": [
+        "curated-primary-sources",
         "linked-wikipedia-system-page",
         "wikidata-text-editor-platform-statements"
       ],
-      "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
-      "associations": []
+      "note": "One or more relationships are documented by curated primary, institutional, or preservation sources.",
+      "associations": [
+        {
+          "name": "EDIT-11",
+          "relationship": "bundled-default",
+          "interface_style": "line-oriented",
+          "source": "https://gunkies.org/wiki/DOS/BATCH",
+          "source_kind": "historical-computing-wiki",
+          "assertion_status": "documented"
+        }
+      ]
     },
     {
       "path": "systems/bcos-olivetti",
@@ -771,6 +821,14 @@
       "associations": []
     },
     {
+      "path": "systems/bsd-os",
+      "title": "BSD/OS",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/burroughs-mcp",
       "title": "Burroughs MCP",
       "disposition": "no-evidence-found",
@@ -815,6 +873,14 @@
       "associations": []
     },
     {
+      "path": "systems/cal-time-sharing-system",
+      "title": "CAL Time-Sharing System",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/calyxos",
       "title": "CalyxOS",
       "disposition": "no-evidence-found",
@@ -824,6 +890,25 @@
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
       "associations": []
+    },
+    {
+      "path": "systems/camexec",
+      "title": "Camexec",
+      "disposition": "has-associations",
+      "searched": [
+        "curated-primary-sources"
+      ],
+      "note": "One or more relationships are documented by curated primary or institutional sources.",
+      "associations": [
+        {
+          "name": "TECO",
+          "relationship": "native",
+          "interface_style": "command-oriented",
+          "source": "https://gunkies.org/wiki/Camexec",
+          "source_kind": "historical-computing-wiki",
+          "assertion_status": "documented"
+        }
+      ]
     },
     {
       "path": "systems/canaima-gnu-linux",
@@ -1401,6 +1486,14 @@
       "associations": []
     },
     {
+      "path": "systems/demos-soviet-unix",
+      "title": "DEMOS",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/diams",
       "title": "DIAMS",
       "disposition": "no-evidence-found",
@@ -1728,6 +1821,14 @@
       "associations": []
     },
     {
+      "path": "systems/elf-operating-system",
+      "title": "ELF operating system",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/emui",
       "title": "EMUI",
       "disposition": "no-evidence-found",
@@ -1972,6 +2073,14 @@
       "associations": []
     },
     {
+      "path": "systems/foonex",
+      "title": "FOONEX",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/freebsd",
       "title": "FreeBSD",
       "disposition": "has-associations",
@@ -2120,6 +2229,14 @@
         "wikidata-text-editor-platform-statements"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/fuzzball-operating-system",
+      "title": "Fuzzball",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -2684,6 +2801,14 @@
       "associations": []
     },
     {
+      "path": "systems/interactive-application-system",
+      "title": "Interactive Application System",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/interactive-unix",
       "title": "Interactive Unix",
       "disposition": "has-associations",
@@ -2894,6 +3019,14 @@
         "english-wikipedia-exact-title-query"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/joss",
+      "title": "JOSS",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -3328,6 +3461,14 @@
       ]
     },
     {
+      "path": "systems/lsx",
+      "title": "LSX",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/lynxos",
       "title": "LynxOS",
       "disposition": "no-evidence-found",
@@ -3664,6 +3805,25 @@
       "associations": []
     },
     {
+      "path": "systems/magicsix",
+      "title": "MagicSix",
+      "disposition": "has-associations",
+      "searched": [
+        "curated-primary-sources"
+      ],
+      "note": "One or more relationships are documented by curated primary or institutional sources.",
+      "associations": [
+        {
+          "name": "SINE",
+          "relationship": "native",
+          "interface_style": "emacs-family",
+          "source": "https://gunkies.org/wiki/MagicSix",
+          "source_kind": "historical-computing-wiki",
+          "assertion_status": "documented"
+        }
+      ]
+    },
+    {
       "path": "systems/magnussoft-zeta",
       "title": "magnussoft ZETA",
       "disposition": "no-evidence-found",
@@ -3728,6 +3888,14 @@
       "associations": []
     },
     {
+      "path": "systems/mert",
+      "title": "MERT",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/micrium-os",
       "title": "Micrium OS",
       "disposition": "no-evidence-found",
@@ -3736,6 +3904,14 @@
         "wikidata-text-editor-platform-statements"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/micro-operating-system",
+      "title": "Micro Operating System",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -3778,6 +3954,22 @@
         "english-wikipedia-exact-title-query"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/mini-unix",
+      "title": "MINI-UNIX",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
+      "path": "systems/minits",
+      "title": "MINITS",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -4146,6 +4338,14 @@
       "associations": []
     },
     {
+      "path": "systems/mvs",
+      "title": "MVS",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/navix",
       "title": "네빅스 (NAVIX; Naver Linux)",
       "disposition": "no-evidence-found",
@@ -4213,6 +4413,14 @@
         "wikidata-text-editor-platform-statements"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/network-unix",
+      "title": "Network UNIX",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -4300,6 +4508,33 @@
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
       "associations": []
+    },
+    {
+      "path": "systems/nord-ops",
+      "title": "NORD-OPS",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
+      "path": "systems/nord-tss",
+      "title": "NORD-TSS",
+      "disposition": "has-associations",
+      "searched": [
+        "curated-primary-sources"
+      ],
+      "note": "One or more relationships are documented by curated primary or institutional sources.",
+      "associations": [
+        {
+          "name": "QED",
+          "relationship": "bundled-optional",
+          "interface_style": "command-oriented",
+          "source": "https://gunkies.org/wiki/NORD-TSS",
+          "source_kind": "historical-computing-wiki",
+          "assertion_status": "documented"
+        }
+      ]
     },
     {
       "path": "systems/nos",
@@ -4951,6 +5186,14 @@
       "associations": []
     },
     {
+      "path": "systems/pdp-1-x-time-sharing-system",
+      "title": "PDP-1-X Time Sharing System",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/pen-geos",
       "title": "PEN/GEOS",
       "disposition": "no-evidence-found",
@@ -5139,6 +5382,14 @@
         "wikidata-text-editor-platform-statements"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/pro-venix",
+      "title": "PRO/VENIX",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -5405,6 +5656,14 @@
       "associations": []
     },
     {
+      "path": "systems/risos-arpa-terminal-system",
+      "title": "RISOS/ARPA Terminal System",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/rockbox",
       "title": "Rockbox",
       "disposition": "no-evidence-found",
@@ -5515,6 +5774,14 @@
         "wikidata-text-editor-platform-statements"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/rts-8",
+      "title": "RTS-8",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -5672,6 +5939,14 @@
         "wikidata-text-editor-platform-statements"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/sintran",
+      "title": "SINTRAN",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -5840,6 +6115,25 @@
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
       "associations": []
+    },
+    {
+      "path": "systems/stanford-time-sharing-system",
+      "title": "Stanford Time-Sharing System",
+      "disposition": "has-associations",
+      "searched": [
+        "curated-primary-sources"
+      ],
+      "note": "One or more relationships are documented by curated primary or institutional sources.",
+      "associations": [
+        {
+          "name": "TVEDIT",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "source": "https://gunkies.org/wiki/Stanford_Time-Sharing_System",
+          "source_kind": "historical-computing-wiki",
+          "assertion_status": "documented"
+        }
+      ]
     },
     {
       "path": "systems/startos",
@@ -6383,6 +6677,14 @@
       "associations": []
     },
     {
+      "path": "systems/tropix",
+      "title": "TROPIX",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/trsdos",
       "title": "TRSDOS",
       "disposition": "no-evidence-found",
@@ -6433,6 +6735,14 @@
         "linked-wikipedia-system-page"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/tss-8",
+      "title": "TSS/8",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -6510,6 +6820,22 @@
       "associations": []
     },
     {
+      "path": "systems/tymcom-ix",
+      "title": "TYMCOM-IX",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
+      "path": "systems/tymcom-x",
+      "title": "TYMCOM-X",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/ubuntu-kylin",
       "title": "优麒麟",
       "disposition": "no-evidence-found",
@@ -6529,6 +6855,14 @@
         "wikidata-text-editor-platform-statements"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/ucsb-on-line-system",
+      "title": "UCSB On-Line System",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -6660,6 +6994,22 @@
           "assertion_status": "provisional"
         }
       ]
+    },
+    {
+      "path": "systems/unix-32v",
+      "title": "UNIX/32V",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
+      "path": "systems/unix-370",
+      "title": "UNIX/370",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
     },
     {
       "path": "systems/unix-system-v",
@@ -6809,6 +7159,14 @@
       ]
     },
     {
+      "path": "systems/vaxeln",
+      "title": "VAXELN",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/versados",
       "title": "VERSAdos",
       "disposition": "no-evidence-found",
@@ -6861,6 +7219,14 @@
         "wikidata-text-editor-platform-statements"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/vm-386",
+      "title": "VM/386",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -7696,6 +8062,14 @@
         "wikidata-text-editor-platform-statements"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/yggdrasil-linux",
+      "title": "Yggdrasil Linux/GNU/X",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {

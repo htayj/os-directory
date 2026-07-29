@@ -3,6 +3,7 @@
 Draft system-lineage records currently present in this bundle. Their individual completeness and field dispositions are authoritative.
 
 * [1B（電房具1B）](1b/) - Draft multilingual inventory record; factual research is pending.
+* [386BSD](386bsd/) - William and Lynne Jolitz's i386 port and release of the BSD Net/2 code, ancestral to FreeBSD and NetBSD.
 * [86-DOS](86-dos/) - Draft operating-system identity pending core research.
 * [9front](9front/) - Draft operating-system identity pending core research.
 * [A/ROSE](a-rose/) - Apple real-time embedded operating-system environment for Macintosh Coprocessor Platform cards.
@@ -15,6 +16,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [ACOS-2](acos-2/) - Draft multilingual inventory record; factual research is pending.
 * [AdaOS](adaos/) - Draft multilingual inventory record; factual research is pending.
 * [Alto Executive](alto-executive/) - Xerox Alto-family command executive and boot environment used to start Interlisp-D on Xerox 1100 Lisp workstations.
+* [Amber Operating System](amber-operating-system/) - A Multics-influenced operating system developed for the S-1 supercomputer.
 * [Amdahl UTS](uts/) - Draft inventory record for Amdahl UTS.
 * [Amiga Unix](amiga-unix/) - Commodore port of AT&T UNIX System V for Amiga 2500UX and 3000UX systems.
 * [AmigaOS](amigaos/) - Operating-system lineage for Commodore Amiga computers, with later maintained branches.
@@ -25,17 +27,20 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Android TV](android-tv/) - Draft operating-system identity pending core research.
 * [Android-x86](android-x86/) - Draft inventory record for Android-x86.
 * [Apache Mynewt](apache-mynewt/) - Draft operating-system identity pending core research.
+* [APEX](apex-tx-2/) - A time- and memory-sharing executive for quick-response online applications on the MIT Lincoln Laboratory TX-2.
 * [Apple DOS](apple-dos/) - Apple disk operating-system lineage for Apple II computers.
 * [Apple Pascal](apple-pascal/) - Apple II Pascal-system software distributed as an independently named operating-system environment.
 * [Apple SOS](apple-sos/) - Sophisticated Operating System (SOS), the Apple III operating system.
 * [ArcaOS](arcaos/) - Draft inventory record for ArcaOS.
 * [AROS](aros/) - Draft operating-system identity pending core research.
+* [ARPA Network Terminal System](ants-terminal-system/) - A PDP-11 ARPANET terminal-host system combining TIP-like access with local storage and peripheral services.
 * [Arthur](arthur/) - Acorn's short-lived ROM operating system for early ARM Archimedes computers.
 * [ARX](arx/) - Unreleased Acorn graphical operating-system project for ARM Archimedes computers.
 * [Atari DOS](atari-dos/) - Disk operating-system lineage for Atari 8-bit computers.
 * [Atari MultiTOS](atari-multitos/) - Atari multitasking operating-system product for TOS-compatible computers.
 * [Atari TOS](atari-tos/) - Atari operating-system lineage for ST-series computers.
 * [AtheOS](atheos/) - Draft operating-system identity pending core research.
+* [August](august/) - A TENEX-derived PDP-10 operating system created for Douglas Engelbart's Augment project at Tymshare.
 * [Aurora OS](aurora-os/) - Draft operating-system identity pending core research.
 * [Azure Sphere](azure-sphere/) - Draft operating-system identity pending core research.
 * [B-right](b-right/) - Draft multilingual inventory record; factual research is pending.
@@ -60,10 +65,13 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [bridgeOS](bridgeos/) - Apple embedded operating system identity with limited first-pass public evidence.
 * [BS1000](bs1000-siemens/) - Draft multilingual inventory record; factual research is pending.
 * [BS2000](bs2000/) - Draft inventory record for BS2000.
+* [BSD/OS](bsd-os/) - BSDi's commercial BSD operating system, originally released as BSD/386.
 * [Burroughs MCP](burroughs-mcp/) - Burroughs/Unisys Master Control Program operating-system lineage.
 * [Business Operating System](business-operating-system/) - Draft inventory record for Business Operating System.
 * [CAINE Linux (Computer Aided INvestigative Environment)](caine-linux/) - Draft multilingual inventory record; factual research is pending.
+* [CAL Time-Sharing System](cal-time-sharing-system/) - An experimental time-sharing operating system developed at UC Berkeley for the CDC 6400.
 * [CalyxOS](calyxos/) - Draft operating-system identity pending core research.
+* [Camexec](camexec/) - An ITS-style PDP-11 timesharing operating system used by Camex's newspaper display-ad production system.
 * [Canaima GNU/Linux](canaima-gnu-linux/) - Draft multilingual inventory record for Canaima GNU/Linux.
 * [CatOS](catos/) - Draft operating-system identity pending core research.
 * [CB Unix](cb-unix/) - Bell Labs UNIX system associated with the Computing Science Research Center.
@@ -108,6 +116,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [DEC BATCH-11/DOS-11](batch-11-dos-11/) - Draft inventory record for DEC BATCH-11/DOS-11.
 * [DEC MICA](dec-mica/) - Draft operating-system identity pending core research.
 * [DEFT Linux (Digital Evidence & Forensic Toolkit)](deft-linux/) - Draft multilingual inventory record; factual research is pending.
+* [DEMOS](demos-soviet-unix/) - A Soviet Unix lineage combining AT&T Unix and BSD material with Russian-localized and locally developed utilities.
 * [DIAMS](diams/) - Draft multilingual inventory record for DIAMS.
 * [DIP DOS](dip-dos/) - Draft operating-system identity pending core research.
 * [DivestOS](divestos/) - Draft operating-system identity pending core research.
@@ -135,6 +144,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Edinburgh Multiple Access System](edinburgh-multiple-access-system/) - Draft inventory record for Edinburgh Multiple Access System.
 * [Edos](edos/) - Draft operating-system identity pending core research.
 * [Elbrus Linux](elbrus-linux/) - MCST GNU/Linux operating-system lineage for Elbrus, SPARC, and selected x86 computers.
+* [ELF operating system](elf-operating-system/) - A real-time multiprogramming PDP-11 operating system used for ARPANET terminal access and later experimental Internet routers.
 * [EMUI](emui/) - Draft operating-system identity pending core research.
 * [EmuTOS](emutos/) - Draft operating-system identity pending core research.
 * [EOS](eos/) - Draft inventory record for EOS.
@@ -154,6 +164,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Firefox OS](firefox-os/) - Draft inventory record for Firefox OS.
 * [FlexOS](flexos/) - Digital Research operating-system lineage derived from Concurrent DOS 286.
 * [Flyme OS](flyme-os/) - Draft inventory record for Flyme OS.
+* [FOONEX](foonex/) - A TENEX-derived operating system for Foonly's PDP-10-compatible computers.
 * [FreeBSD](freebsd/) - Draft inventory record for FreeBSD.
 * [FreeDOS](freedos/) - Draft operating-system identity pending core research.
 * [FreeRTOS](freertos-openrtos-safertos/) - Draft operating-system identity pending core research.
@@ -161,6 +172,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Fuchsia](fuchsia/) - Draft operating-system identity pending core research.
 * [FuguIta](fuguita-fr-listing/) - Draft multilingual inventory record for FuguIta.
 * [FUSS (Free Upgrade for a digitally Sustainable School)](fuss-linux/) - Draft multilingual inventory record; factual research is pending.
+* [Fuzzball](fuzzball-operating-system/) - David Mills's PDP-11 experimental networking operating system, widely used as an NSFNET backbone router and time server.
 * [Gargoyle](gargoyle/) - Draft inventory record for Gargoyle.
 * [GCOS](gcos/) - Draft inventory record for GCOS.
 * [Genera](genera/) - Symbolics' Lisp-written operating system and integrated software-development environment for Symbolics Lisp machines and later virtual platforms.
@@ -204,6 +216,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Inferno](inferno/) - Distributed operating-system lineage derived from Plan 9.
 * [INTEGRITY](integrity/) - Draft operating-system identity pending core research.
 * [INTEGRITY-178B](integrity-178b/) - Draft operating-system identity pending core research.
+* [Interactive Application System](interactive-application-system/) - DEC's PDP-11 operating system configurable for time-sharing, multi-user, or real-time operation.
 * [Interactive Unix](interactive-unix/) - Draft inventory record for Interactive Unix.
 * [Interlisp-D / Medley](interlisp-d-medley/) - Xerox's integrated graphical Interlisp workstation environment, later renamed Medley and ported from D-machines to a virtual machine.
 * [iOS](ios/) - Apple's mobile operating system for iPhone, formerly iPhone OS.
@@ -219,6 +232,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [J-right/V](j-right-v/) - Draft multilingual inventory record; factual research is pending.
 * [JavaOS](javaos/) - Draft operating-system identity pending core research.
 * [JemaOS](jemao/) - Draft multilingual inventory record for JemaOS.
+* [JOSS](joss/) - RAND's interactive time-sharing system and programming environment, first for JOHNNIAC and later the PDP-6.
 * [JunOS](junos/) - Draft inventory record for JunOS.
 * [JX](jx/) - Draft operating-system identity pending core research.
 * [K42](k42/) - Draft operating-system identity pending core research.
@@ -240,25 +254,31 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Linux Caixa Mágica](linux-caixa-magica/) - Draft multilingual inventory record for Linux Caixa Mágica.
 * [LiteOS](liteos/) - Draft inventory record for LiteOS.
 * [LMI Lisp Machine Software](lmi-lisp-machine-software/) - Lisp Machines, Inc.'s integrated Lisp-machine system software for Series III and Lambda hardware.
+* [LSX](lsx/) - A reduced Sixth Edition Unix variant for small PDP-11 systems without memory management.
 * [LynxOS](lynxos/) - Draft inventory record for LynxOS.
 * [M0n0wall](m0n0wall/) - Draft inventory record for M0n0wall.
 * [macOS](macos/) - Apple's operating system for Mac computers, formerly Mac OS X and OS X.
 * [Maemo](mmo/) - Draft inventory record for Maemo.
 * [MagiC](magic/) - Draft inventory record for MagiC.
 * [Magic Cap](magic-cap/) - Draft operating-system identity pending core research.
+* [MagicSix](magicsix/) - A Multics-like operating system developed by MIT's Architecture Machine Group for Interdata and Perkin-Elmer 32-bit computers.
 * [magnussoft ZETA](magnussoft-zeta/) - Discontinued BeOS-derived operating-system distribution marketed by magnussoft.
 * [MDOS (Modular Disk Operating System)](mdos-olivetti/) - Draft multilingual inventory record; factual research is pending.
 * [MeeGo](meego/) - Draft operating-system identity pending core research.
 * [MeikOS](meikos/) - Draft inventory record for MeikOS.
 * [MenuetOS](menuetos/) - Draft inventory record for MenuetOS.
+* [MERT](mert/) - Bell Labs' multi-environment real-time PDP-11 operating system with an early microkernel-like organization.
 * [Michigan Terminal System](mts/) - Draft operating-system identity pending core research.
 * [Micrium OS](micrium-os/) - Draft inventory record for Micrium OS.
+* [Micro Operating System](micro-operating-system/) - Jim Mathis's cooperative real-time multitasking kernel for packet switches and related network appliances.
 * [MicroOS (MOS)](microos-mos-freedos/) - Draft multilingual inventory record; factual research is pending.
 * [Microport System V/AT 386](system-v-at-386/) - Draft operating-system identity pending core research.
 * [Microsoft Windows](windows/) - Draft operating-system identity pending core research.
 * [MidnightBSD](midnightbsd/) - Draft inventory record for MidnightBSD.
 * [Midori](midori/) - Draft operating-system identity pending core research.
 * [MIKROS](mikros-czechoslovak-cpm/) - Draft multilingual inventory record; factual research is pending.
+* [MINI-UNIX](mini-unix/) - A reduced Sixth Edition Unix variant for PDP-11 models without memory management.
+* [MINITS](minits/) - An MIT PDP-11 multitasking operating system used primarily for network routers, terminal concentrators, graphics terminals, and Chaosnet front ends.
 * [MINIX](minix/) - Draft inventory record for MINIX.
 * [MiNT](mint/) - Draft inventory record for MiNT.
 * [MIPS RISC/os](risc-os-2/) - Draft operating-system identity pending core research.
@@ -282,11 +302,13 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Multiuser DOS](multiuser-dos/) - Digital Research multiuser and multitasking DOS operating-system lineage.
 * [MUSIC/SP](music-sp/) - Draft operating-system identity pending core research.
 * [Musix GNU+Linux](musix-gnu-linux/) - Draft multilingual inventory record; factual research is pending.
+* [MVS](mvs/) - IBM's multitasking, multi-user, and batch operating-system lineage for System/370-class mainframes.
 * [NCOS](ncos/) - Draft operating-system identity pending core research.
 * [NCR VRX](vrx/) - Draft inventory record for NCR VRX.
 * [Nemesis](nemesis/) - Draft inventory record for Nemesis.
 * [NetBSD](netbsd/) - Draft operating-system identity pending core research.
 * [NetWare](netware/) - Draft operating-system identity pending core research.
+* [Network UNIX](network-unix/) - The University of Illinois ARPANET networking extension to Fifth and Sixth Edition Unix.
 * [NewDos/80](newdos-80/) - Draft operating-system identity pending core research.
 * [Newton OS](newton-os/) - Apple's operating system for Newton MessagePad personal digital assistants.
 * [Nexenta OS](nexenta-os/) - Draft inventory record for Nexenta OS.
@@ -294,6 +316,8 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Nintendo 3DS system software](nintendo-3ds-system-software/) - Draft operating-system identity pending core research.
 * [Nintendo DSi system software](nintendo-dsi-system-software/) - Draft inventory record for Nintendo DSi system software.
 * [Nintendo Switch system software](nintendo-switch-system-software/) - Draft operating-system identity pending core research.
+* [NORD-OPS](nord-ops/) - A mass-storage-oriented Norsk Data operating layer providing batch and conversational services as tasks under SINTRAN.
+* [NORD-TSS](nord-tss/) - Norsk Data's general-purpose time-sharing system with protected files, batch processing, messaging, and interactive development tools.
 * [NOS](nos/) - Control Data Corporation Network Operating System lineage.
 * [NOS/VE](nos-ve/) - Control Data Corporation NOS Virtual Environment operating system.
 * [Nova Distribución Cubana de GNU/Linux](nova-cuban-gnu-linux/) - Draft multilingual inventory record; factual research is pending.
@@ -338,6 +362,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [PC DOS](pc-dos/) - Draft operating-system identity pending core research.
 * [PC-MOS/386](pc-mos-386/) - Draft inventory record for PC-MOS/386.
 * [PCOS (Professional Computer Operating System)](pcos-olivetti/) - Draft multilingual inventory record for PCOS (Professional Computer Operating System).
+* [PDP-1-X Time Sharing System](pdp-1-x-time-sharing-system/) - MIT RLE's experimental capability-oriented time-sharing operating system for the modified PDP-1-X.
 * [PEN/GEOS](pen-geos/) - Draft operating-system identity pending core research.
 * [PenPoint OS](penpoint-os/) - Draft inventory record for PenPoint OS.
 * [pfSense](pfsense/) - Draft inventory record for pfSense.
@@ -354,6 +379,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Plurix](plurix/) - Draft operating-system identity pending core research.
 * [PostmarketOS](postmarketos/) - Draft operating-system identity pending core research.
 * [PRIMOS](primos/) - Draft inventory record for PRIMOS.
+* [PRO/VENIX](pro-venix/) - VenturCom's Version 7 Unix-derived multi-user real-time workstation system for the DEC Professional 350.
 * [ProDOS](prodos/) - Apple II operating-system lineage comprising 8-bit and 16-bit streams.
 * [PSOS](psos/) - Draft inventory record for PSOS.
 * [PTOS](ptos-nec/) - Draft multilingual inventory record; factual research is pending.
@@ -374,6 +400,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [RIOT](riot/) - Draft inventory record for RIOT.
 * [RISC iX](risc-ix/) - Acorn's UNIX System V-derived operating system for ARM workstations.
 * [RISC OS](risc-os/) - Modular graphical operating system originally developed by Acorn for ARM computers.
+* [RISOS/ARPA Terminal System](risos-arpa-terminal-system/) - A PDP-11 ARPANET terminal system influenced by Multics and MIT's PDP-1-X time-sharing work.
 * [RMX](irmx/) - Draft operating-system identity pending core research.
 * [Rockbox](rockbox/) - Draft inventory record for Rockbox.
 * [Rodos](rodos/) - Draft multilingual inventory record for Rodos.
@@ -383,6 +410,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [RT-11](rt-11/) - Draft inventory record for RT-11.
 * [RT-Thread](rt-thread/) - Draft inventory record for RT-Thread.
 * [RTEMS](rtems/) - Draft inventory record for RTEMS.
+* [RTS-8](rts-8/) - DEC's compact fixed-priority real-time operating system for the PDP-8 family.
 * [RTXC Quadros](rtxc-quadros/) - Draft inventory record for RTXC Quadros.
 * [Sabayon Linux](sabayon-linux/) - Draft multilingual inventory record for Sabayon Linux.
 * [Sailfish OS](sailfish-os/) - Draft inventory record for Sailfish OS.
@@ -396,6 +424,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Sinclair QDOS](sinclair-qdos/) - Draft inventory record for Sinclair QDOS.
 * [Singularity](singularity/) - Draft operating-system identity pending core research.
 * [SINIX](sinix/) - Draft operating-system identity pending core research.
+* [SINTRAN](sintran/) - The Norwegian SINTRAN operating-system family, spanning the original 1968 monitor, SINTRAN II, and SINTRAN III.
 * [SINTRAN III](sintran-iii/) - Draft operating-system identity pending core research.
 * [Siris 8](siris-8/) - CII operating-system identity.
 * [SISNE Plus](sisne-plus/) - Draft multilingual inventory record for SISNE Plus.
@@ -410,6 +439,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [SOX (Sistema Operacional X)](sox-sistema-operacional-x/) - Draft multilingual inventory record for SOX (Sistema Operacional X).
 * [Spring](spring/) - Draft inventory record for Spring.
 * [Sprite](sprite/) - Draft operating-system identity pending core research.
+* [Stanford Time-Sharing System](stanford-time-sharing-system/) - Stanford's experimental PDP-1 time-sharing systems, predecessors that influenced WAITS.
 * [Stratus VOS](stratus-vos/) - Draft inventory record for Stratus VOS.
 * [SunOS](sunos/) - Draft operating-system identity pending core research.
 * [SUPER-UX](super-ux/) - Draft operating-system identity pending core research.
@@ -445,12 +475,14 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Transaction Processing Facility](tpf/) - Draft inventory record for Transaction Processing Facility.
 * [TripOS](tripos/) - Draft inventory record for TripOS.
 * [Trisquel GNU/Linux](trisquel-gnu-linux/) - Draft multilingual inventory record; factual research is pending.
+* [TROPIX](tropix/) - A Unix-compatible operating system independently developed at the Federal University of Rio de Janeiro.
 * [TRSDOS](trsdos/) - Draft operating-system identity pending core research.
 * [Tru64 UNIX](digital-unix/) - Draft operating-system identity pending core research.
 * [TrueOS](trueos/) - Draft operating-system identity pending core research.
 * [Trusted Solaris](trusted-solaris/) - Draft inventory record for Trusted Solaris.
 * [TSS/360](tss-360/) - Draft operating-system identity pending core research.
 * [TSS/370](tss-370/) - Draft operating-system identity pending core research.
+* [TSS/8](tss-8/) - DEC's general-purpose multi-user time-sharing operating system for PDP-8 computers.
 * [Tsurugi Linux (Tsurugi LAB)](tsurugi-linux/) - Draft multilingual inventory record for Tsurugi Linux (Tsurugi LAB).
 * [TSX-32](tsx-32/) - Draft operating-system identity pending core research.
 * [Tunes OS](tunes-os/) - Draft multilingual inventory record; factual research is pending.
@@ -458,7 +490,10 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Tuquito](tuquito/) - Draft multilingual inventory record; factual research is pending.
 * [TurboDOS](turbodos/) - Draft operating-system identity pending core research.
 * [tvOS](tvos/) - Apple operating system for Apple TV devices.
+* [TYMCOM-IX](tymcom-ix/) - Tymshare's enhanced Berkeley Timesharing System for the SDS 940.
+* [TYMCOM-X](tymcom-x/) - Tymshare's PDP-10 time-sharing operating-system lineage, later adapted to KS10 hardware as TYMCOM-XX.
 * [Ubuntu Touch](ubuntu-touch/) - Draft operating-system identity pending core research.
+* [UCSB On-Line System](ucsb-on-line-system/) - The University of California, Santa Barbara's ARPANET-connected time-sharing system for an IBM System/360 Model 75.
 * [UCSD p-System](ucsd-p-system/) - Draft inventory record for UCSD p-System.
 * [Ufficio Zero Linux OS](ufficio-zero-linux-os/) - Draft multilingual inventory record for Ufficio Zero Linux OS.
 * [Ultrix](ultrix/) - Draft operating-system identity pending core research.
@@ -470,16 +505,20 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [University of Michigan Executive System](university-of-michigan-executive-system/) - Draft inventory record for University of Michigan Executive System.
 * [Unix](unix/) - Bell Laboratories operating-system lineage and progenitor of the Unix family.
 * [UNIX System V](unix-system-v/) - AT&T UNIX System V operating-system lineage.
+* [UNIX/32V](unix-32v/) - Bell Labs' first widely influential 32-bit Unix port, derived from Seventh Edition Unix for the VAX-11/780.
+* [UNIX/370](unix-370/) - Two historical efforts to host Unix user environments on IBM System/370-class hardware under TSS/370 or VM/370.
 * [UnixWare](unixware/) - Draft operating-system identity pending core research.
 * [Unnamed NetBSD variant for Airport Extreme and Time Capsule](unnamed-netbsd-variant-for-airport-extreme-and-time-capsule/) - Unnamed Apple appliance operating-system variant identified by the frozen source list as NetBSD-derived.
 * [Unununium](unununium/) - Draft multilingual inventory record; factual research is pending.
 * [Ututo](ututo/) - Draft multilingual inventory record; factual research is pending.
 * [V](v/) - Draft operating-system identity pending core research.
+* [VAXELN](vaxeln/) - DEC's VAX real-time operating system for dedicated scientific, industrial, workstation, and control applications.
 * [VERSAdos](versados/) - Draft inventory record for VERSAdos.
 * [Verve](verve/) - Draft operating-system identity pending core research.
 * [visionOS](visionos/) - Apple operating system for spatial-computing devices.
 * [Visopsys](visopsys/) - Draft operating-system identity pending core research.
 * [VM](virtual-machine-facility-370/) - Draft inventory record for VM.
+* [VM/386](vm-386/) - IGC's DOS-launched protected-mode multi-user and multitasking operating system for Intel 386-compatible computers.
 * [VM2000](vm2000/) - Draft operating-system identity pending core research.
 * [VPS/VM](vps-vm/) - Draft operating-system identity pending core research.
 * [VS/9](vs-9/) - Draft inventory record for VS/9.
@@ -504,6 +543,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Xinu](xinu/) - Draft operating-system identity pending core research.
 * [XTS-400](xts-400/) - Trusted operating system developed for BAE Systems.
 * [Xv6](xv6/) - Draft operating-system identity pending core research.
+* [Yggdrasil Linux/GNU/X](yggdrasil-linux/) - An early plug-and-play Linux distribution designed as a complete system on CD-ROM.
 * [Z-DOS](z-dos/) - Draft operating-system identity pending core research.
 * [z/OS](z-os/) - Draft operating-system identity pending core research.
 * [Z/TPF](z-tpf/) - Draft inventory record for Z/TPF.

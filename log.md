@@ -2,6 +2,15 @@
 
 ## 2026-07-29
 
+* **Gunkies coverage**: Recursively captured 330 unique pages across 35
+  Computer History Wiki operating-system categories, pinned every source page
+  by revision and content hash, and assigned every page a catalog or non-system
+  disposition.
+* **Gunkies catalog additions**: Added 40 historical systems absent from the
+  catalog, including APEX, Amber, August, Camexec, ELF, FOONEX, Fuzzball,
+  MagicSix, NORD-OPS/TSS, RATS, TYMCOM-IX/X, VAXELN, and VM/386.
+* **Gunkies editors**: Added documented EDIT-11, TECO, SINE, QED, and TVEDIT
+  associations while retaining explicit no-evidence dispositions elsewhere.
 * **Preservation-source audit**: Screened all 208 public repositories on Lars
   Brinkhoff's GitHub profile and mapped 27 selected operating-system,
   documentation, media, editor-history, networking, and recovery projects.

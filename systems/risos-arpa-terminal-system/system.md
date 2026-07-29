@@ -1,0 +1,125 @@
+---
+type: Operating System
+title: RISOS/ARPA Terminal System
+description: A PDP-11 ARPANET terminal system influenced by Multics and MIT's PDP-1-X time-sharing work.
+tags:
+- operating-system
+- gunkies-discovery
+- historical
+status: draft
+generated:
+  by: codex/gpt-5
+  at: '2026-07-29T00:00:00-04:00'
+schema_version: '0.1'
+as_of: '2026-07-29'
+catalog_completeness:
+  level: core
+  note: Identity and selected core facts are source-reviewed against the frozen Gunkies revision. Explicit dispositions retain fields not established by that page.
+field_dispositions:
+# BEGIN GENERATED TEXT EDITOR DISPOSITION
+- { field: text_editors, disposition: no-evidence-found, checked_at: 2026-07-29 }
+# END GENERATED TEXT EDITOR DISPOSITION
+- field: programming_languages
+  disposition: no-evidence-found
+  checked_at: '2026-07-29'
+  reason: Not established by the reviewed Gunkies page.
+- field: rights_regime
+  disposition: no-evidence-found
+  checked_at: '2026-07-29'
+  reason: Not established by the reviewed Gunkies page.
+- field: licenses
+  disposition: no-evidence-found
+  checked_at: '2026-07-29'
+  reason: Not established by the reviewed Gunkies page.
+- field: kernels
+  disposition: no-evidence-found
+  checked_at: '2026-07-29'
+  reason: Not established by the reviewed Gunkies page.
+- field: gui_status
+  disposition: no-evidence-found
+  checked_at: '2026-07-29'
+  reason: Not established by the reviewed Gunkies page.
+- field: first_release
+  disposition: no-evidence-found
+  checked_at: '2026-07-29'
+  reason: Not established by the reviewed Gunkies page.
+- field: latest_releases
+  disposition: no-evidence-found
+  checked_at: '2026-07-29'
+  reason: Not established by the reviewed Gunkies page.
+- field: last_updated
+  disposition: no-evidence-found
+  checked_at: '2026-07-29'
+  reason: Not established by the reviewed Gunkies page.
+source_list:
+  title: List of operating systems
+  revision: 1365063001
+  occurrences: []
+discovery_provenance:
+- method: gunkies-category-audit
+  language: en
+  source: https://gunkies.org/wiki/RISOS/ARPA_Terminal_System
+  source_revision: 36089
+  observed_at: '2026-07-29'
+  disposition: included-system
+names:
+- value: RISOS/ARPA Terminal System
+  kind: canonical
+  language: en
+  script: Latn
+  evidence:
+  - gunkies-risos-arpa-terminal-system
+  assertion_status: provisional
+- value: RATS
+  kind: alias
+  language: en
+  script: Latn
+  evidence:
+  - gunkies-risos-arpa-terminal-system
+  assertion_status: provisional
+countries_of_origin:
+- US
+development_status:
+  value: discontinued
+  evidence:
+  - gunkies-risos-arpa-terminal-system
+  assertion_status: provisional
+design_purposes:
+- value: arpanet-terminal-host
+  evidence:
+  - gunkies-risos-arpa-terminal-system
+  assertion_status: provisional
+  primary: true
+hardware_platforms:
+- value: DEC PDP-11
+  evidence:
+  - gunkies-risos-arpa-terminal-system
+  assertion_status: provisional
+sources:
+- id: gunkies-risos-arpa-terminal-system
+  resource: https://gunkies.org/w/index.php?title=RISOS/ARPA_Terminal_System&oldid=36089
+  title: RISOS/ARPA Terminal System
+  source_kind: historical-computing-wiki
+  revision: 36089
+  revision_timestamp: '2025-04-11T11:44:57Z'
+lineage_relations:
+- target: PDP-1-X Time Sharing System
+  relation: related-lineage
+  evidence:
+  - gunkies-risos-arpa-terminal-system
+  assertion_status: provisional
+- target: Multics-influenced
+  relation: related-lineage
+  evidence:
+  - gunkies-risos-arpa-terminal-system
+  assertion_status: provisional
+# BEGIN GENERATED TEXT EDITORS
+text_editor_research:
+  inventory: /inventory/text-editor-associations.json
+  checked_at: '2026-07-29'
+  disposition: no-evidence-found
+  note: No editor relationship was established during the incremental source-backed
+    record addition.
+text_editors: []
+# END GENERATED TEXT EDITORS
+---

@@ -1,0 +1,3741 @@
+[
+  {
+    "page_id": 3093,
+    "title": "2.10BSD",
+    "categories": [
+      "Category:CSRG BSD",
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/2.10BSD",
+    "revision": 27993,
+    "revision_timestamp": "2022-10-27T16:46:23Z",
+    "wikitext_sha256": "fa092514271f799e1cf30b4e98fb23383a913ab1645982fa9c69d5526bea1ead"
+  },
+  {
+    "page_id": 3104,
+    "title": "2.11BSD",
+    "categories": [
+      "Category:CSRG BSD",
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/2.11BSD",
+    "revision": 27994,
+    "revision_timestamp": "2022-10-27T16:48:35Z",
+    "wikitext_sha256": "ff25975d6572ebb087672c0a757abf738359ed1770533f935ccaad208d9cecdf"
+  },
+  {
+    "page_id": 2498,
+    "title": "2.9BSD",
+    "categories": [
+      "Category:CSRG BSD",
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/2.9BSD",
+    "revision": 36259,
+    "revision_timestamp": "2025-05-12T18:06:22Z",
+    "wikitext_sha256": "24831bf19ae39ffdd253ed89d0cc92de30e6ccb77756e694acfee11099a2380b"
+  },
+  {
+    "page_id": 8444,
+    "title": "286 DOS-Extender",
+    "categories": [
+      "Category:DOS Enhancements"
+    ],
+    "url": "https://gunkies.org/wiki/286_DOS-Extender",
+    "revision": 33112,
+    "revision_timestamp": "2024-01-28T20:10:19Z",
+    "wikitext_sha256": "00f9f0f58cec1c9cfbf4c19273b7289936f5726a9a705c83cbf83e277baad2df"
+  },
+  {
+    "page_id": 1362,
+    "title": "386 BSD 0.1",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/386_BSD_0.1",
+    "revision": 19718,
+    "revision_timestamp": "2018-12-16T14:21:41Z",
+    "wikitext_sha256": "4363caaa5370095474e32c87200bb778e9b9d16c381c2770e8009bb5089f6826"
+  },
+  {
+    "page_id": 1363,
+    "title": "386 BSD 0.1 pl23",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/386_BSD_0.1_pl23",
+    "revision": 19719,
+    "revision_timestamp": "2018-12-16T14:22:06Z",
+    "wikitext_sha256": "83d1bf5b531ad33848a42fb51d4cd63a4e93fae43e38cf3ee342eb966fec4871"
+  },
+  {
+    "page_id": 1365,
+    "title": "386 BSD 0.1 pl24",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/386_BSD_0.1_pl24",
+    "revision": 19720,
+    "revision_timestamp": "2018-12-16T14:22:37Z",
+    "wikitext_sha256": "5259066c01b9c15e54d53159379b4e3eaa41f678ac2834c260d3cb6d304ce963"
+  },
+  {
+    "page_id": 2671,
+    "title": "386 DOS-Extender",
+    "categories": [
+      "Category:DOS Enhancements"
+    ],
+    "url": "https://gunkies.org/wiki/386_DOS-Extender",
+    "revision": 35325,
+    "revision_timestamp": "2024-10-12T23:19:03Z",
+    "wikitext_sha256": "4cf9649a615dae52a510004745bae274b84024b8276c40261ba85919c6b7d0e3"
+  },
+  {
+    "page_id": 478,
+    "title": "386BSD",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/386BSD",
+    "revision": 36295,
+    "revision_timestamp": "2025-05-22T13:36:30Z",
+    "wikitext_sha256": "0dbf2275d5f6fe10cd83c2fb110ce4f0820dc3bff702c696a8a59550a8986fa4"
+  },
+  {
+    "page_id": 1349,
+    "title": "386BSD 0.0",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/386BSD_0.0",
+    "revision": 23096,
+    "revision_timestamp": "2021-03-09T15:48:02Z",
+    "wikitext_sha256": "9a4093d618915424b8e556960ee26eeb454293263636cf7c479b1cda02670a3e"
+  },
+  {
+    "page_id": 1351,
+    "title": "386BSD 0.0 announcement",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/386BSD_0.0_announcement",
+    "revision": 21298,
+    "revision_timestamp": "2019-07-15T03:43:08Z",
+    "wikitext_sha256": "7633e6d4e800a632b96a4724ea3e709fd3225b47a524bea60698263d44f13ee4"
+  },
+  {
+    "page_id": 1094,
+    "title": "386BSD 0.1 announcement",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/386BSD_0.1_announcement",
+    "revision": 19713,
+    "revision_timestamp": "2018-12-16T14:13:57Z",
+    "wikitext_sha256": "96c3d871f9f8f8df6ba083a092b2b966a83094e9d4d2e954022806e89591270d"
+  },
+  {
+    "page_id": 1095,
+    "title": "386BSD 1.0",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/386BSD_1.0",
+    "revision": 19717,
+    "revision_timestamp": "2018-12-16T14:21:17Z",
+    "wikitext_sha256": "6cc92567e49038a260d4a4c55b7389af4092b4c78475fce00947bdd30c6f207a"
+  },
+  {
+    "page_id": 386,
+    "title": "3BSD",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/3BSD",
+    "revision": 32205,
+    "revision_timestamp": "2023-12-21T12:44:53Z",
+    "wikitext_sha256": "b54be452f23ec748c033824e84c4e0b8ca39c9ed5637a3347bcb30a6d8639c90"
+  },
+  {
+    "page_id": 2636,
+    "title": "4.1 BSD",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/4.1_BSD",
+    "revision": 16950,
+    "revision_timestamp": "2018-06-17T16:23:12Z",
+    "wikitext_sha256": "3767a84ea48f13ea0f51090a3c6a4454e356a1d5b06aad3cf05569a233534866"
+  },
+  {
+    "page_id": 348,
+    "title": "4.2 BSD",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/4.2_BSD",
+    "revision": 35686,
+    "revision_timestamp": "2024-12-20T18:08:18Z",
+    "wikitext_sha256": "99b3d8219c7281e9f1ca621aba7b215c98d59c57c392b97f849dcd2c8673e34c"
+  },
+  {
+    "page_id": 315,
+    "title": "4.3 BSD",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/4.3_BSD",
+    "revision": 36756,
+    "revision_timestamp": "2025-09-27T19:23:42Z",
+    "wikitext_sha256": "19ec59cbf37019e68c4d2bdb5492bb02eb6b187e0d22c0c5e02581b8c0cea1a2"
+  },
+  {
+    "page_id": 504,
+    "title": "4.3 BSD Quasijarus",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/4.3_BSD_Quasijarus",
+    "revision": 21300,
+    "revision_timestamp": "2019-07-16T02:15:12Z",
+    "wikitext_sha256": "a81f3ebb939b3887967e0949a77b02ac11a3b2f31946c08aae632dbaba6d5771"
+  },
+  {
+    "page_id": 503,
+    "title": "4.3 BSD Reno",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/4.3_BSD_Reno",
+    "revision": 35684,
+    "revision_timestamp": "2024-12-20T17:18:31Z",
+    "wikitext_sha256": "6f38e80f8c96bb96b4ab57e8640fef8d19e347bf8861a7f2125df40e7ed46b2c"
+  },
+  {
+    "page_id": 502,
+    "title": "4.3 BSD Tahoe",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/4.3_BSD_Tahoe",
+    "revision": 35674,
+    "revision_timestamp": "2024-12-20T12:37:26Z",
+    "wikitext_sha256": "a00162914d8815483bcb745aacbe1a0737aa6b592def64b9111da4ec2974137a"
+  },
+  {
+    "page_id": 500,
+    "title": "4.3 BSD+NFS Wisconsin Unix",
+    "categories": [
+      "Category:CSRG BSD",
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/4.3_BSD%2BNFS_Wisconsin_Unix",
+    "revision": 36752,
+    "revision_timestamp": "2025-09-27T19:10:14Z",
+    "wikitext_sha256": "b300a7047de3e68a243c722c73290474400a2fa19dca744a54963fdde5b2d3ca"
+  },
+  {
+    "page_id": 7115,
+    "title": "4.4BSD",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/4.4BSD",
+    "revision": 26755,
+    "revision_timestamp": "2022-06-27T19:12:31Z",
+    "wikitext_sha256": "604340278d21d7c9618025b450ec976dad84adb6321075f73a753ff6508e7ba7"
+  },
+  {
+    "page_id": 722,
+    "title": "4.4BSD Lite",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/4.4BSD_Lite",
+    "revision": 26743,
+    "revision_timestamp": "2022-06-27T14:25:52Z",
+    "wikitext_sha256": "da74e8866b8aff529f8c213635a954ea114b97b7bafd32b95b0b3b79fbcc7cde"
+  },
+  {
+    "page_id": 1382,
+    "title": "4.4BSD Lite Release 2",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/4.4BSD_Lite_Release_2",
+    "revision": 26745,
+    "revision_timestamp": "2022-06-27T14:28:19Z",
+    "wikitext_sha256": "078fa733eb46f3c7ca7d506be332abd4747689144249d81015973b5a7177c2a1"
+  },
+  {
+    "page_id": 388,
+    "title": "4BSD",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/4BSD",
+    "revision": 26884,
+    "revision_timestamp": "2022-07-03T13:18:14Z",
+    "wikitext_sha256": "57f588838b6251822ce8b2e770fe2ec69faf1909511c870736f5d7f132ce4de7"
+  },
+  {
+    "page_id": 516,
+    "title": "86-DOS",
+    "categories": [
+      "Category:DOS"
+    ],
+    "url": "https://gunkies.org/wiki/86-DOS",
+    "revision": 29659,
+    "revision_timestamp": "2023-05-22T12:07:00Z",
+    "wikitext_sha256": "d2691a54957519eb29a8319f870b6933d9a8537cccc2a3fac2c9e6ccfedbe95e"
+  },
+  {
+    "page_id": 630,
+    "title": "A UNIX™ Operating System for the DEC VAX-11/780 Computer",
+    "categories": [
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/A_UNIX%E2%84%A2_Operating_System_for_the_DEC_VAX-11/780_Computer",
+    "revision": 36381,
+    "revision_timestamp": "2025-06-11T20:11:00Z",
+    "wikitext_sha256": "20c882aa2dbcde29f940468eebc97c20e303170bae025cd24e70329b50a40781"
+  },
+  {
+    "page_id": 378,
+    "title": "A/UX",
+    "categories": [
+      "Category:Apple Operating Systems",
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/A/UX",
+    "revision": 35745,
+    "revision_timestamp": "2024-12-29T05:34:43Z",
+    "wikitext_sha256": "dad8f54ebf66d55ea353440e3ff00867a2f327289fe7f37bb61e58f8e76907fd"
+  },
+  {
+    "page_id": 7148,
+    "title": "Advanced Installation of Ultrix V2.0 on SIMH",
+    "categories": [
+      "Category:ULTRIX"
+    ],
+    "url": "https://gunkies.org/wiki/Advanced_Installation_of_Ultrix_V2.0_on_SIMH",
+    "revision": 36779,
+    "revision_timestamp": "2025-09-29T16:15:24Z",
+    "wikitext_sha256": "490cefcdf9bbcdc299c663174d912ddb5169ce56da25999a221b6a32230eca4d"
+  },
+  {
+    "page_id": 1177,
+    "title": "AIX",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/AIX",
+    "revision": 23041,
+    "revision_timestamp": "2021-03-02T16:08:43Z",
+    "wikitext_sha256": "4bc4ce087ea551154c99ce46f58e26601683e99b5497e10012f1d90f843ef5d0"
+  },
+  {
+    "page_id": 5351,
+    "title": "Amber Operating System",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Amber_Operating_System",
+    "revision": 36992,
+    "revision_timestamp": "2025-12-01T19:55:40Z",
+    "wikitext_sha256": "f84e6cb362110f28e5326d1d3485c725251756ab7536783b35287d660829935c"
+  },
+  {
+    "page_id": 687,
+    "title": "AmigaDOS",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/AmigaDOS",
+    "revision": 15311,
+    "revision_timestamp": "2018-01-19T06:31:53Z",
+    "wikitext_sha256": "edaf455f274c625e3e8661526ca5e08013840bf1beeddeb8d52704ff117d034e"
+  },
+  {
+    "page_id": 2681,
+    "title": "AMIX",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/AMIX",
+    "revision": 19769,
+    "revision_timestamp": "2018-12-16T16:00:23Z",
+    "wikitext_sha256": "3d9e68606c6c7b38d7d0cf3081c1d187cb5bb6928863fa5de3391376fa2f513f"
+  },
+  {
+    "page_id": 7108,
+    "title": "An introduction to the UNIX ed line editor",
+    "categories": [
+      "Category:UNIX"
+    ],
+    "url": "https://gunkies.org/wiki/An_introduction_to_the_UNIX_ed_line_editor",
+    "revision": 26725,
+    "revision_timestamp": "2022-06-27T02:53:42Z",
+    "wikitext_sha256": "c1f511a9e825ac7a76d7ecd1ebaed3f8dcb9c1a26d0d5c96bd4297612e295092"
+  },
+  {
+    "page_id": 6603,
+    "title": "ANTS terminal system",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/ANTS_terminal_system",
+    "revision": 26800,
+    "revision_timestamp": "2022-06-30T01:12:02Z",
+    "wikitext_sha256": "65f3aee7d73020e53a6d523823e513e4a2206ca643b816632a95cc4a937a2040"
+  },
+  {
+    "page_id": 4202,
+    "title": "APEX",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/APEX",
+    "revision": 36818,
+    "revision_timestamp": "2025-10-07T11:09:15Z",
+    "wikitext_sha256": "9743ef01d99cb1cc76d596a8c74a359674dd8d417122e94cddff66692f2b7876"
+  },
+  {
+    "page_id": 592,
+    "title": "Apple DOS",
+    "categories": [
+      "Category:Apple Operating Systems",
+      "Category:DOS"
+    ],
+    "url": "https://gunkies.org/wiki/Apple_DOS",
+    "revision": 29710,
+    "revision_timestamp": "2023-05-23T00:57:03Z",
+    "wikitext_sha256": "61c80ce1aafd16d3f8a9a6ebd9a7b5fd1ddd82a6608394fd546c97b7f95ac627"
+  },
+  {
+    "page_id": 4208,
+    "title": "Atari TOS",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Atari_TOS",
+    "revision": 32944,
+    "revision_timestamp": "2024-01-14T21:21:12Z",
+    "wikitext_sha256": "ef32e7f825b510a241f00d7c24ef2f16b882640e46b4f15cd2d9c42b9010debd"
+  },
+  {
+    "page_id": 4205,
+    "title": "August",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-10 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/August",
+    "revision": 32028,
+    "revision_timestamp": "2023-12-03T14:24:09Z",
+    "wikitext_sha256": "a21ee129ec799639b2644787145c820cc97e0af8f79502f9dd1677f668135a86"
+  },
+  {
+    "page_id": 3836,
+    "title": "Batch operating system",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Batch_operating_system",
+    "revision": 27642,
+    "revision_timestamp": "2022-09-10T06:41:07Z",
+    "wikitext_sha256": "bd6501d3ad38c78f9408b86e6f57b1a35846871893bb26e8f253ca7c3fe6729d"
+  },
+  {
+    "page_id": 6287,
+    "title": "Batch processing",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Batch_processing",
+    "revision": 36980,
+    "revision_timestamp": "2025-11-23T11:23:22Z",
+    "wikitext_sha256": "793ed67d9f3a2a2985ab05a12182ca4546446ee5efef6ff739358ba25bb93a1a"
+  },
+  {
+    "page_id": 4228,
+    "title": "Berkeley Time-Sharing System",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Berkeley_Time-Sharing_System",
+    "revision": 36698,
+    "revision_timestamp": "2025-09-17T14:10:30Z",
+    "wikitext_sha256": "fc71ea6118903bd0f7f2e14aae3951572b1fa2f7a2cc7f9f11a4ca5fbc185512"
+  },
+  {
+    "page_id": 7230,
+    "title": "Booting a real MicroVAX 2000 from an ULTRIX V3.0 DMS Server on a SIMH MicroVAX 3900",
+    "categories": [
+      "Category:ULTRIX"
+    ],
+    "url": "https://gunkies.org/wiki/Booting_a_real_MicroVAX_2000_from_an_ULTRIX_V3.0_DMS_Server_on_a_SIMH_MicroVAX_3900",
+    "revision": 27112,
+    "revision_timestamp": "2022-07-18T09:45:13Z",
+    "wikitext_sha256": "4a5ea28c27b956645b019586a9ee62563f8ae324a5538002de7ad12c58e10a87"
+  },
+  {
+    "page_id": 606,
+    "title": "BSD",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/BSD",
+    "revision": 36754,
+    "revision_timestamp": "2025-09-27T19:16:53Z",
+    "wikitext_sha256": "4e1679f5cc764b23d355f3cd7dbf74ee76c87939c9c39c7d7692fc9618603c2c"
+  },
+  {
+    "page_id": 1118,
+    "title": "BSD Daemon",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/BSD_Daemon",
+    "revision": 20135,
+    "revision_timestamp": "2018-12-18T17:42:39Z",
+    "wikitext_sha256": "a5e83d3afcd6adc4753554ed3e034cb855e05b61ed34be5ea6a7c3337c0f51fc"
+  },
+  {
+    "page_id": 3239,
+    "title": "BSD Fast File System",
+    "categories": [
+      "Category:CSRG BSD",
+      "Category:File Systems",
+      "Category:UNIX"
+    ],
+    "url": "https://gunkies.org/wiki/BSD_Fast_File_System",
+    "revision": 36293,
+    "revision_timestamp": "2025-05-22T10:49:05Z",
+    "wikitext_sha256": "8196e8e834806af837cb58593ab044c57b60874c11bac4ea6ed49263acac2acc"
+  },
+  {
+    "page_id": 416,
+    "title": "BSD on VAX",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/BSD_on_VAX",
+    "revision": 25759,
+    "revision_timestamp": "2022-05-02T00:48:14Z",
+    "wikitext_sha256": "14639481644c2c207c223fb1da041c3606fa7ddf13a61b1a689b21c434b30e59"
+  },
+  {
+    "page_id": 1078,
+    "title": "BSD/386",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/BSD/386",
+    "revision": 25772,
+    "revision_timestamp": "2022-05-02T13:55:27Z",
+    "wikitext_sha256": "2a70cfae03a4f5aa53b1aac6c1e4cf880d64811729447c37929958ce16f55376"
+  },
+  {
+    "page_id": 724,
+    "title": "BSD/OS",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/BSD/OS",
+    "revision": 20054,
+    "revision_timestamp": "2018-12-18T14:39:41Z",
+    "wikitext_sha256": "d9a02ff01dcb65b6d9f1813e0b30745ec15da388902ae265d578058ab4439536"
+  },
+  {
+    "page_id": 2644,
+    "title": "Bug fixes and changes in 4.1bsd",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/Bug_fixes_and_changes_in_4.1bsd",
+    "revision": 19179,
+    "revision_timestamp": "2018-12-11T03:01:01Z",
+    "wikitext_sha256": "dee6af14239efa95c284ff93ad0e57b250b5128f9b653b938ea2d18f733005b9"
+  },
+  {
+    "page_id": 4119,
+    "title": "Byte stream",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Byte_stream",
+    "revision": 36113,
+    "revision_timestamp": "2025-04-16T12:01:49Z",
+    "wikitext_sha256": "dd7a47bacd34139fd0aa0cbae8fb6f00df53e3f27bb8f072e4509dae0047e6bf"
+  },
+  {
+    "page_id": 7766,
+    "title": "CAL Time-Sharing System",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/CAL_Time-Sharing_System",
+    "revision": 32655,
+    "revision_timestamp": "2024-01-09T23:56:56Z",
+    "wikitext_sha256": "2d5dc0ec78ea35679a4ec7788a11379f7f12e2bdf17a3c4c09bbd962042b3e6b"
+  },
+  {
+    "page_id": 4299,
+    "title": "Camexec",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Camexec",
+    "revision": 34032,
+    "revision_timestamp": "2024-03-31T23:12:27Z",
+    "wikitext_sha256": "80f1ad1ddb1b110cfcd21e320ddb0ed487c9802f058bc990bf494986ca2fda92"
+  },
+  {
+    "page_id": 6576,
+    "title": "CB-UNIX",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/CB-UNIX",
+    "revision": 28319,
+    "revision_timestamp": "2022-12-29T23:31:54Z",
+    "wikitext_sha256": "9601661610bd315d5e9c7067f10522568f8fab07ed420d697050d423f6f45301"
+  },
+  {
+    "page_id": 2561,
+    "title": "Coherent",
+    "categories": [
+      "Category:UNIX Clones"
+    ],
+    "url": "https://gunkies.org/wiki/Coherent",
+    "revision": 34065,
+    "revision_timestamp": "2024-04-07T06:01:59Z",
+    "wikitext_sha256": "d9065a1ef96748f8f1e7cb094ecba04e25c05c5d80e13e41154f8dc9866f6cbd"
+  },
+  {
+    "page_id": 4012,
+    "title": "Command processor",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Command_processor",
+    "revision": 27825,
+    "revision_timestamp": "2022-10-11T20:40:56Z",
+    "wikitext_sha256": "2f2a2c864e28fdd3dc5dcc20d0839de12c20e75a9443af485798037beda25288"
+  },
+  {
+    "page_id": 4009,
+    "title": "Compatible Time-Sharing System",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Compatible_Time-Sharing_System",
+    "revision": 36989,
+    "revision_timestamp": "2025-12-01T11:17:22Z",
+    "wikitext_sha256": "b542c9c748e2584b0e9b8d96b736c4d8e0c71a88935f24fe37202c3211e5f123"
+  },
+  {
+    "page_id": 7452,
+    "title": "CP operating system",
+    "categories": [
+      "Category:IBM Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/CP_operating_system",
+    "revision": 30653,
+    "revision_timestamp": "2023-07-29T21:47:34Z",
+    "wikitext_sha256": "2a592c351c8de25dc336f6d874cc7d2647e7ef8ecc90d46acac8f5e4e657b373"
+  },
+  {
+    "page_id": 237,
+    "title": "CP/M",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/CP/M",
+    "revision": 36148,
+    "revision_timestamp": "2025-04-20T10:46:23Z",
+    "wikitext_sha256": "96cd527df180650662773b100e465b0c6974ad6d80aae9a494caea9fcedb063d"
+  },
+  {
+    "page_id": 6929,
+    "title": "Customizing VMS V1.0",
+    "categories": [
+      "Category:VMS Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Customizing_VMS_V1.0",
+    "revision": 35197,
+    "revision_timestamp": "2024-08-29T23:18:27Z",
+    "wikitext_sha256": "1abfd5ffcb2725010f1e5de26971566ae2b1a7e69765eca563ed771e9147308b"
+  },
+  {
+    "page_id": 7973,
+    "title": "Daemon",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Daemon",
+    "revision": 30986,
+    "revision_timestamp": "2023-08-14T14:51:08Z",
+    "wikitext_sha256": "15429c694f805761df697472c4bf52a6ae561dda7ffa5a9671e83b551ad23b68"
+  },
+  {
+    "page_id": 8368,
+    "title": "Dartmouth Time Sharing System",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Dartmouth_Time_Sharing_System",
+    "revision": 35338,
+    "revision_timestamp": "2024-10-13T00:31:04Z",
+    "wikitext_sha256": "8a166e1e657f029b47acfb0a40258116bcbd404f822d7684fae20b917c9d4779"
+  },
+  {
+    "page_id": 1339,
+    "title": "Darwin",
+    "categories": [
+      "Category:Apple Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Darwin",
+    "revision": 32852,
+    "revision_timestamp": "2024-01-13T15:58:33Z",
+    "wikitext_sha256": "bf69d7d4c8e9573173e497745673944b7ace0258f16afb5b7fec79f2fac4445f"
+  },
+  {
+    "page_id": 3265,
+    "title": "Darwin 0.2",
+    "categories": [
+      "Category:Apple Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Darwin_0.2",
+    "revision": 20080,
+    "revision_timestamp": "2018-12-18T15:33:08Z",
+    "wikitext_sha256": "44d58afad23b32a37464d80fc0f4647f76dc02f0b3d227e4db561a1607c6d318"
+  },
+  {
+    "page_id": 1341,
+    "title": "Darwin 1.4.1 Release notes",
+    "categories": [
+      "Category:Apple Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Darwin_1.4.1_Release_notes",
+    "revision": 19676,
+    "revision_timestamp": "2018-12-16T04:05:15Z",
+    "wikitext_sha256": "70192286f0e68b8d298077a4ffb25d45e6cda75f6d87f5d6ff731d47405f8224"
+  },
+  {
+    "page_id": 1340,
+    "title": "Darwin 6.0.1 Release notes",
+    "categories": [
+      "Category:Apple Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Darwin_6.0.1_Release_notes",
+    "revision": 32851,
+    "revision_timestamp": "2024-01-13T15:57:00Z",
+    "wikitext_sha256": "9e38ea63549ed55ee2aaf91222a62de0acc159286654ee3f54cca744c35abdaa"
+  },
+  {
+    "page_id": 1342,
+    "title": "Darwin 7.0.1 Release notes",
+    "categories": [
+      "Category:Apple Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Darwin_7.0.1_Release_notes",
+    "revision": 19678,
+    "revision_timestamp": "2018-12-16T04:06:13Z",
+    "wikitext_sha256": "2ea75fa2a2a2ac4be4d556af4aa4ac0988e8f206d10b49d8c012eeaed7d1cd48"
+  },
+  {
+    "page_id": 1343,
+    "title": "Darwin 8.0.1 Release notes",
+    "categories": [
+      "Category:Apple Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Darwin_8.0.1_Release_notes",
+    "revision": 19679,
+    "revision_timestamp": "2018-12-16T04:06:45Z",
+    "wikitext_sha256": "4c59b171e788a07154b293ab2520682a718bba1bd0665feab2e416215edd05a5"
+  },
+  {
+    "page_id": 10,
+    "title": "DECnet on VMS",
+    "categories": [
+      "Category:VMS Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/DECnet_on_VMS",
+    "revision": 35341,
+    "revision_timestamp": "2024-10-13T08:03:56Z",
+    "wikitext_sha256": "ce5bbcff8f192f179b95051b7a5b013a5dd39e5a71309b563df4ec93e2d54d68"
+  },
+  {
+    "page_id": 736,
+    "title": "Dell UNIX",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/Dell_UNIX",
+    "revision": 23103,
+    "revision_timestamp": "2021-03-09T18:59:21Z",
+    "wikitext_sha256": "219061a28cef41563167574ce7d014ed3048b62caa977e96b04edf747687f824"
+  },
+  {
+    "page_id": 2494,
+    "title": "DEMOS",
+    "categories": [
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/DEMOS",
+    "revision": 36149,
+    "revision_timestamp": "2025-04-20T13:36:44Z",
+    "wikitext_sha256": "8736543247d3f9f8fa4026de762a6b13e59e3f7fbc29fd4acdc53cc485222365"
+  },
+  {
+    "page_id": 5222,
+    "title": "Device driver",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Device_driver",
+    "revision": 19645,
+    "revision_timestamp": "2018-12-16T00:03:58Z",
+    "wikitext_sha256": "1d3cfd3c2db07f88e921aaed97b2b754e484ae9fc88c31feafe01ad24175d9ee"
+  },
+  {
+    "page_id": 8876,
+    "title": "Diagnostic Runtime Services",
+    "categories": [
+      "Category:PDP-11 Diagnostic Software"
+    ],
+    "url": "https://gunkies.org/wiki/Diagnostic_Runtime_Services",
+    "revision": 35399,
+    "revision_timestamp": "2024-10-28T13:19:18Z",
+    "wikitext_sha256": "f4dcc44cc2bb12ce4f0867b2a1a2e34231230c86fedc726975142206e9cb667d"
+  },
+  {
+    "page_id": 8504,
+    "title": "Digital UNIX",
+    "categories": [
+      "Category:DEC Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Digital_UNIX",
+    "revision": 33417,
+    "revision_timestamp": "2024-02-11T19:19:43Z",
+    "wikitext_sha256": "75a560fa37e8dedd330cadc0b40d7e3bb72a1629c5ae09726edd2444915a2d4c"
+  },
+  {
+    "page_id": 3670,
+    "title": "Directory",
+    "categories": [
+      "Category:File Systems",
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Directory",
+    "revision": 34339,
+    "revision_timestamp": "2024-05-05T02:37:10Z",
+    "wikitext_sha256": "01941e913e7bbc7d81458eb6b2055aa02119cb85b960000f8e316a0637a1b60b"
+  },
+  {
+    "page_id": 5590,
+    "title": "Disk operating system",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Disk_operating_system",
+    "revision": 19593,
+    "revision_timestamp": "2018-12-15T19:58:28Z",
+    "wikitext_sha256": "e6aa3e1679c54fbc4179dd6d9d3ed5d1c315bb5128a02a782445159d749c2339"
+  },
+  {
+    "page_id": 4015,
+    "title": "DOS",
+    "categories": [
+      "Category:DOS",
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/DOS",
+    "revision": 29712,
+    "revision_timestamp": "2023-05-23T01:06:13Z",
+    "wikitext_sha256": "499f39690772f03cb9ff40f9095352a49b9e9e12455ddaec6e8693a115773458"
+  },
+  {
+    "page_id": 1121,
+    "title": "DOS extender",
+    "categories": [
+      "Category:DOS Enhancements"
+    ],
+    "url": "https://gunkies.org/wiki/DOS_extender",
+    "revision": 36987,
+    "revision_timestamp": "2025-12-01T05:42:33Z",
+    "wikitext_sha256": "3ff2f686ab0368b2e249b95c0b06b7e95ced71513d1923a94eb9a3aae869ae01"
+  },
+  {
+    "page_id": 1123,
+    "title": "DOS Protected Mode Interface",
+    "categories": [
+      "Category:DOS Enhancements"
+    ],
+    "url": "https://gunkies.org/wiki/DOS_Protected_Mode_Interface",
+    "revision": 23050,
+    "revision_timestamp": "2021-03-03T22:44:49Z",
+    "wikitext_sha256": "2735df795113ce8fba130f220d3581ebdd0c11aa31543135261962d3efc25488"
+  },
+  {
+    "page_id": 6251,
+    "title": "DOS-11",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:DOS",
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/DOS-11",
+    "revision": 29709,
+    "revision_timestamp": "2023-05-23T00:47:57Z",
+    "wikitext_sha256": "89c354798f5a3cdea71a74249b4322efc418174564995e39c90e234a4b10131a"
+  },
+  {
+    "page_id": 615,
+    "title": "DOS/4GW",
+    "categories": [
+      "Category:DOS Enhancements"
+    ],
+    "url": "https://gunkies.org/wiki/DOS/4GW",
+    "revision": 20458,
+    "revision_timestamp": "2019-01-01T13:40:14Z",
+    "wikitext_sha256": "89182c7872fbc9e421707c8f091e251b7b375cba58dd30a19ec8c9cd6a42d5bf"
+  },
+  {
+    "page_id": 171,
+    "title": "DOS/BATCH",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/DOS/BATCH",
+    "revision": 16738,
+    "revision_timestamp": "2018-06-10T15:21:12Z",
+    "wikitext_sha256": "75d23e606e8b7bc0484ae7741760757555fc5ed6191adb4193c122eea9e977d5"
+  },
+  {
+    "page_id": 499,
+    "title": "Eedsp",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/Eedsp",
+    "revision": 36755,
+    "revision_timestamp": "2025-09-27T19:21:02Z",
+    "wikitext_sha256": "ef74052962f53c422afe784927f5a3e18b6a159112a1841842a4eaf884ef10b6"
+  },
+  {
+    "page_id": 6605,
+    "title": "ELF operating system",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/ELF_operating_system",
+    "revision": 27849,
+    "revision_timestamp": "2022-10-14T14:23:17Z",
+    "wikitext_sha256": "4cfc538e82cc2d7fcb1129a48efeb5a64e0ae9a3559967506bc0ae750cbcd8aa"
+  },
+  {
+    "page_id": 7461,
+    "title": "FAT file system",
+    "categories": [
+      "Category:File Systems",
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/FAT_file_system",
+    "revision": 30048,
+    "revision_timestamp": "2023-06-12T17:15:59Z",
+    "wikitext_sha256": "fabc72be4255405f1323360ac1eb6f24d00c9299b301a3ee1ed782153b5a4157"
+  },
+  {
+    "page_id": 3787,
+    "title": "File",
+    "categories": [
+      "Category:File Systems"
+    ],
+    "url": "https://gunkies.org/wiki/File",
+    "revision": 36134,
+    "revision_timestamp": "2025-04-18T16:03:22Z",
+    "wikitext_sha256": "ea612235aeb6727572c8d0415d43e5100839e92084d8cfcd897ec065b1b32341"
+  },
+  {
+    "page_id": 3665,
+    "title": "File system",
+    "categories": [
+      "Category:File Systems",
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/File_system",
+    "revision": 36135,
+    "revision_timestamp": "2025-04-18T16:04:40Z",
+    "wikitext_sha256": "3c9f0d539c39705cd31ae8970e6e88d7060b5921205a0ce6a7a4bb6350c18827"
+  },
+  {
+    "page_id": 6899,
+    "title": "Flex",
+    "categories": [
+      "Category:UNIX Applications"
+    ],
+    "url": "https://gunkies.org/wiki/Flex",
+    "revision": 25782,
+    "revision_timestamp": "2022-05-03T19:39:29Z",
+    "wikitext_sha256": "d0b54e29912a1143809c8245bfab8a6a9e0d13b5ebf540f4bf46abab5d42ec29"
+  },
+  {
+    "page_id": 4130,
+    "title": "FOONEX",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-10 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/FOONEX",
+    "revision": 23025,
+    "revision_timestamp": "2021-03-02T13:47:03Z",
+    "wikitext_sha256": "73fd2de14ed5266beca5553767daac472befc59d4df4c972e8651f2e59440858"
+  },
+  {
+    "page_id": 1337,
+    "title": "FreeBSD",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/FreeBSD",
+    "revision": 36297,
+    "revision_timestamp": "2025-05-25T16:46:25Z",
+    "wikitext_sha256": "da98ddf27dea47f26c30e08a81be2a6aca6fea52e47dca6ffb98abad2db9f245"
+  },
+  {
+    "page_id": 1338,
+    "title": "FreeBSD 1.0 EPSILON announcement",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/FreeBSD_1.0_EPSILON_announcement",
+    "revision": 19697,
+    "revision_timestamp": "2018-12-16T13:58:58Z",
+    "wikitext_sha256": "8727fe49b8cc905d1bdd0c9391b986c3b9d66635e9fa81253264558ffa0bfdc1"
+  },
+  {
+    "page_id": 1357,
+    "title": "FreeBSD 1.0 GAMMA announcement",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/FreeBSD_1.0_GAMMA_announcement",
+    "revision": 19698,
+    "revision_timestamp": "2018-12-16T13:59:25Z",
+    "wikitext_sha256": "4c49332604b1a468a1d9c0863e732959a3999c6a20ed6b5a670f8532a2fe9f05"
+  },
+  {
+    "page_id": 4298,
+    "title": "Fuzzball",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Fuzzball",
+    "revision": 36303,
+    "revision_timestamp": "2025-05-29T01:47:16Z",
+    "wikitext_sha256": "02798f0235fbcf8fa0715738228cda2e26fe706fd56f828ad32094da2ec5766f"
+  },
+  {
+    "page_id": 716,
+    "title": "Geos",
+    "categories": [
+      "Category:Operating Environments"
+    ],
+    "url": "https://gunkies.org/wiki/Geos",
+    "revision": 23060,
+    "revision_timestamp": "2021-03-07T13:12:14Z",
+    "wikitext_sha256": "90ac9ddfee6aa3c887a45d06c4211b5ab9fe13d73e60f5c98e0d58063d209a37"
+  },
+  {
+    "page_id": 598,
+    "title": "GNU",
+    "categories": [
+      "Category:UNIX Clones"
+    ],
+    "url": "https://gunkies.org/wiki/GNU",
+    "revision": 33590,
+    "revision_timestamp": "2024-02-19T15:48:09Z",
+    "wikitext_sha256": "1c3f607859cbd0976e5f2ec768b650affb79a8d312826c8cef4ef9b1d8bb0554"
+  },
+  {
+    "page_id": 425,
+    "title": "Gordon Letwin OS/2 usenet post",
+    "categories": [
+      "Category:OS/2"
+    ],
+    "url": "https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post",
+    "revision": 20001,
+    "revision_timestamp": "2018-12-17T01:41:52Z",
+    "wikitext_sha256": "8e419c677e0dca0fcaf19f67c90c55b308540cc6689b3c8a294dd7af8d065cef"
+  },
+  {
+    "page_id": 4663,
+    "title": "Hard link",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Hard_link",
+    "revision": 19866,
+    "revision_timestamp": "2018-12-16T21:24:31Z",
+    "wikitext_sha256": "da6e2f3ed47ad22d68aa460d1cb26387566047632b9ad6f4e700d3bfcff90e2c"
+  },
+  {
+    "page_id": 5287,
+    "title": "Hypervisor",
+    "categories": [
+      "Category:OS Concepts"
+    ],
+    "url": "https://gunkies.org/wiki/Hypervisor",
+    "revision": 32823,
+    "revision_timestamp": "2024-01-13T13:11:29Z",
+    "wikitext_sha256": "49bd3d16183bcbe044d2ea6178f963567161bf4dd4bc5c5a6604290ff135c60c"
+  },
+  {
+    "page_id": 2663,
+    "title": "IBM OS/2 SE 1.0 announcement",
+    "categories": [
+      "Category:OS/2"
+    ],
+    "url": "https://gunkies.org/wiki/IBM_OS/2_SE_1.0_announcement",
+    "revision": 36396,
+    "revision_timestamp": "2025-06-13T12:03:21Z",
+    "wikitext_sha256": "4c71031e5cbcebbc2c00b648c92dca2828c9ee984637a2cb0fd8356357fc97b1"
+  },
+  {
+    "page_id": 441,
+    "title": "Incompatible Timesharing System",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-10 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Incompatible_Timesharing_System",
+    "revision": 36620,
+    "revision_timestamp": "2025-07-26T10:28:03Z",
+    "wikitext_sha256": "625f12e5ddfeee80d8864253a6af7147adc833899232dbf4065518bb7782c339"
+  },
+  {
+    "page_id": 2666,
+    "title": "Inside OS/2",
+    "categories": [
+      "Category:OS/2"
+    ],
+    "url": "https://gunkies.org/wiki/Inside_OS/2",
+    "revision": 36401,
+    "revision_timestamp": "2025-06-13T12:44:07Z",
+    "wikitext_sha256": "fe8295dcaf32c36e78a1660eba5407289c4418088824ca099b6d0379e42e4f9b"
+  },
+  {
+    "page_id": 2739,
+    "title": "Installing 2.9 BSD on SIMH",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_2.9_BSD_on_SIMH",
+    "revision": 22317,
+    "revision_timestamp": "2020-05-29T11:57:35Z",
+    "wikitext_sha256": "44e962ea833520ff962e5774d6cbc27ebe0b0c5bb98df7d5e20e5bc704936fde"
+  },
+  {
+    "page_id": 1100,
+    "title": "Installing 386BSD 1.0 on Qemu",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_386BSD_1.0_on_Qemu",
+    "revision": 19808,
+    "revision_timestamp": "2018-12-16T19:33:44Z",
+    "wikitext_sha256": "2fd7b0880582db0efc2a4264e34fa9621adc850f2f6fcfcac6e8860c340a663b"
+  },
+  {
+    "page_id": 1059,
+    "title": "Installing 386BSD on BOCHS",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_386BSD_on_BOCHS",
+    "revision": 29098,
+    "revision_timestamp": "2023-03-26T21:38:25Z",
+    "wikitext_sha256": "94c93d4b4605b6545ffa306b86ee2a730469df6cff8741bda592bc6495ae4fcb"
+  },
+  {
+    "page_id": 7189,
+    "title": "Installing and Configuring an ULTRIX V3.0 DMS Server on a SIMH MicroVAX 3900",
+    "categories": [
+      "Category:ULTRIX"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_and_Configuring_an_ULTRIX_V3.0_DMS_Server_on_a_SIMH_MicroVAX_3900",
+    "revision": 35359,
+    "revision_timestamp": "2024-10-16T06:46:10Z",
+    "wikitext_sha256": "72274996188fe8309727a2adce53e0f149ebb9eead5601fa6b121f3bb1f22124"
+  },
+  {
+    "page_id": 7858,
+    "title": "Installing and Configuring MicroVMS V4.0 on a MicroVAX I",
+    "categories": [
+      "Category:VMS Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_and_Configuring_MicroVMS_V4.0_on_a_MicroVAX_I",
+    "revision": 36956,
+    "revision_timestamp": "2025-11-16T15:48:51Z",
+    "wikitext_sha256": "b0227f83d265fed1f7ada3bda3f29ffa3dc5a9c67ea973e1c589ffa6a8b7038a"
+  },
+  {
+    "page_id": 9124,
+    "title": "Installing and Testing Asynchronous DECnet over DDCMP between two MicroVAX Computers",
+    "categories": [
+      "Category:VMS Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_and_Testing_Asynchronous_DECnet_over_DDCMP_between_two_MicroVAX_Computers",
+    "revision": 36677,
+    "revision_timestamp": "2025-09-07T08:24:14Z",
+    "wikitext_sha256": "d5ee4c0005e57d609efb283693e36f2381924293b95132ab3ec080e1e1a51693"
+  },
+  {
+    "page_id": 7553,
+    "title": "Installing FreeBSD 2.0 On Virtualbox",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_FreeBSD_2.0_On_Virtualbox",
+    "revision": 29099,
+    "revision_timestamp": "2023-03-26T21:39:17Z",
+    "wikitext_sha256": "14ec9957c97d786ad7c93a6585f5e1e87e710ed033f142ca66f075a723152eac"
+  },
+  {
+    "page_id": 7101,
+    "title": "Installing MicroVMS V4.6 on SIMH",
+    "categories": [
+      "Category:VMS Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_MicroVMS_V4.6_on_SIMH",
+    "revision": 31246,
+    "revision_timestamp": "2023-08-19T19:58:39Z",
+    "wikitext_sha256": "8e354e5efced2187d6b24fbec151dcc7a7277ecb3f57f159103785197afab51b"
+  },
+  {
+    "page_id": 8899,
+    "title": "Installing MicroVMS V4.7 and VAX Workstation Software V3.3 on SIMH",
+    "categories": [
+      "Category:VMS Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_MicroVMS_V4.7_and_VAX_Workstation_Software_V3.3_on_SIMH",
+    "revision": 35292,
+    "revision_timestamp": "2024-10-04T08:08:50Z",
+    "wikitext_sha256": "48047cc414eb2160ca60271e65faa8cc33ba0c55804a16bea0dff2325e42c14a"
+  },
+  {
+    "page_id": 2645,
+    "title": "Installing Minix 1.5 for the 8086",
+    "categories": [
+      "Category:UNIX Clones"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_Minix_1.5_for_the_8086",
+    "revision": 20011,
+    "revision_timestamp": "2018-12-17T02:03:22Z",
+    "wikitext_sha256": "ade93d5045189a066a088f806249e18db02ef40440af66ee975522876edc3aeb"
+  },
+  {
+    "page_id": 547,
+    "title": "Installing Ultrix 4.0 on SIMH",
+    "categories": [
+      "Category:ULTRIX"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_Ultrix_4.0_on_SIMH",
+    "revision": 26889,
+    "revision_timestamp": "2022-07-03T16:41:26Z",
+    "wikitext_sha256": "77c7c51e23d9d0c9a3f3dae2fd40c89a58649ad4d70a04c9c6572bfebf12b603"
+  },
+  {
+    "page_id": 2756,
+    "title": "Installing Ultrix 4.5 on SIMH",
+    "categories": [
+      "Category:ULTRIX"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_Ultrix_4.5_on_SIMH",
+    "revision": 31672,
+    "revision_timestamp": "2023-09-29T07:30:05Z",
+    "wikitext_sha256": "5a6834af9035d96e5d920bbe154e1a1780638caf5540e1c89ff255f272e9a535"
+  },
+  {
+    "page_id": 7105,
+    "title": "Installing Ultrix V1.1 on SIMH",
+    "categories": [
+      "Category:ULTRIX"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_Ultrix_V1.1_on_SIMH",
+    "revision": 36778,
+    "revision_timestamp": "2025-09-29T16:11:27Z",
+    "wikitext_sha256": "a2f8339c423e666804b5d3817b7f8433043aece03d9d809a380e9afbb20206e5"
+  },
+  {
+    "page_id": 7794,
+    "title": "Installing ULTRIX-11 V1.0 on SIMH",
+    "categories": [
+      "Category:ULTRIX"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_ULTRIX-11_V1.0_on_SIMH",
+    "revision": 30179,
+    "revision_timestamp": "2023-06-21T10:31:55Z",
+    "wikitext_sha256": "707da173c0582ec96b99d8a6b2b6ec12e27e17b1208ae3934ed6e123adc1ee75"
+  },
+  {
+    "page_id": 3008,
+    "title": "Installing Unix Seventh Edition",
+    "categories": [
+      "Category:UNIX"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_Unix_Seventh_Edition",
+    "revision": 22676,
+    "revision_timestamp": "2020-10-29T16:20:40Z",
+    "wikitext_sha256": "297fd2b441db4cbd050baf0b083c265601bc3e392f62b054af640a42cb97ac38"
+  },
+  {
+    "page_id": 2998,
+    "title": "Installing UNIX Sixth Edition",
+    "categories": [
+      "Category:UNIX"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_UNIX_Sixth_Edition",
+    "revision": 34766,
+    "revision_timestamp": "2024-06-28T18:58:52Z",
+    "wikitext_sha256": "dbe1f7a6381371bf5c7408befbe144e16d6025468725213e242f3e448faf2068"
+  },
+  {
+    "page_id": 3018,
+    "title": "Installing UNIX Sixth Edition on Ersatz-11",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_UNIX_Sixth_Edition_on_Ersatz-11",
+    "revision": 20750,
+    "revision_timestamp": "2019-03-03T01:45:14Z",
+    "wikitext_sha256": "126de2dae0ec622dcfa90020a0d338dfe3ad966c58ddd8c01d02c6ca3fd3cb21"
+  },
+  {
+    "page_id": 6923,
+    "title": "Installing VMS V1.0 on SIMH",
+    "categories": [
+      "Category:VMS Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_VMS_V1.0_on_SIMH",
+    "revision": 28292,
+    "revision_timestamp": "2022-12-13T01:29:38Z",
+    "wikitext_sha256": "13040cff893d044515a1e41c511418b23d96957cd8def7def74830debad2738f"
+  },
+  {
+    "page_id": 6996,
+    "title": "Installing VMS V2.0 on SIMH",
+    "categories": [
+      "Category:VMS Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Installing_VMS_V2.0_on_SIMH",
+    "revision": 35434,
+    "revision_timestamp": "2024-10-31T08:02:16Z",
+    "wikitext_sha256": "87ed72329d8bb339061315443994ad7714b3fbfb5d7b3df24cdbc1eabc404993"
+  },
+  {
+    "page_id": 7234,
+    "title": "Installing, Configuring, and Testing A VMS V4.7 Local Area VAXcluster on SIMH",
+    "categories": [
+      "Category:VMS Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Installing,_Configuring,_and_Testing_A_VMS_V4.7_Local_Area_VAXcluster_on_SIMH",
+    "revision": 36662,
+    "revision_timestamp": "2025-08-19T18:50:06Z",
+    "wikitext_sha256": "e0a315edbec505442065c9b66c1e2ba7642ec59c6fc79e8319c649e3fbade751"
+  },
+  {
+    "page_id": 6998,
+    "title": "Installing, Configuring, and Testing DECnet V1.3 on VMS V2.0",
+    "categories": [
+      "Category:VMS Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Installing,_Configuring,_and_Testing_DECnet_V1.3_on_VMS_V2.0",
+    "revision": 35363,
+    "revision_timestamp": "2024-10-21T09:54:56Z",
+    "wikitext_sha256": "eae2b0bce99f3df219380a88c3797c9946c5c253e977b6994452f55ae9761746"
+  },
+  {
+    "page_id": 8880,
+    "title": "Interactive Application System",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Real-Time Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Interactive_Application_System",
+    "revision": 35198,
+    "revision_timestamp": "2024-08-29T23:28:33Z",
+    "wikitext_sha256": "2460e420117399356470964b3ecbe20c4822b618a3e7814d9f6b8b1817a8c1c9"
+  },
+  {
+    "page_id": 8211,
+    "title": "ITS 138",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-10 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/ITS_138",
+    "revision": 33054,
+    "revision_timestamp": "2024-01-19T06:28:48Z",
+    "wikitext_sha256": "ec944c3abf48b0d625fc951556d9b3d1892780627693c8c475858665dea31cad"
+  },
+  {
+    "page_id": 8134,
+    "title": "ITS Internals Manual",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-10 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/ITS_Internals_Manual",
+    "revision": 31984,
+    "revision_timestamp": "2023-12-01T12:00:58Z",
+    "wikitext_sha256": "c921926024bf69483d860a9366b2272278126ee3a3750e6f7dfaeeabc7129ec1"
+  },
+  {
+    "page_id": 7785,
+    "title": "ITS on-disk file system layout",
+    "categories": [
+      "Category:File Systems"
+    ],
+    "url": "https://gunkies.org/wiki/ITS_on-disk_file_system_layout",
+    "revision": 33020,
+    "revision_timestamp": "2024-01-16T00:40:01Z",
+    "wikitext_sha256": "fe36e9fd395d6158a589028b9e03ede4469af85794a438b08ef05646d74adca3"
+  },
+  {
+    "page_id": 5083,
+    "title": "Job",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Job",
+    "revision": 36562,
+    "revision_timestamp": "2025-07-21T09:47:05Z",
+    "wikitext_sha256": "fe3d7d10138ff3ad5a5d73ace37732ae8ad9eea7f3b445fc7f5060cc5ac4e269"
+  },
+  {
+    "page_id": 6768,
+    "title": "JOSS",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/JOSS",
+    "revision": 30142,
+    "revision_timestamp": "2023-06-20T05:45:36Z",
+    "wikitext_sha256": "8c2a73af4ee141d48c524c207bdcc8dd552d1af660834c04d3ce7d5a37ca4541"
+  },
+  {
+    "page_id": 4766,
+    "title": "Kernel",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Kernel",
+    "revision": 25172,
+    "revision_timestamp": "2022-01-29T12:11:46Z",
+    "wikitext_sha256": "8d1b9444ca128c0a062e37cb9d6f3e7f7ff36a543968a44e89abe870dbeb0ccf"
+  },
+  {
+    "page_id": 8439,
+    "title": "Kernel process",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Kernel_process",
+    "revision": 33090,
+    "revision_timestamp": "2024-01-25T02:38:20Z",
+    "wikitext_sha256": "e0eaf2f714dad25c162b6f2d76714711bc405a7afcaf792b20d0cb4e701cc676"
+  },
+  {
+    "page_id": 6898,
+    "title": "Lex",
+    "categories": [
+      "Category:UNIX Applications"
+    ],
+    "url": "https://gunkies.org/wiki/Lex",
+    "revision": 25781,
+    "revision_timestamp": "2022-05-03T19:32:15Z",
+    "wikitext_sha256": "cd86cd758ec74532db8b629d3ee41a6703a0800399fdfaf6f4f7520864c36a45"
+  },
+  {
+    "page_id": 234,
+    "title": "Linux",
+    "categories": [
+      "Category:Linux"
+    ],
+    "url": "https://gunkies.org/wiki/Linux",
+    "revision": 33758,
+    "revision_timestamp": "2024-02-29T16:01:20Z",
+    "wikitext_sha256": "425ea95f1d8768b30a26323e57cc285d73d01f771f2459e6e56c0068e54568ef"
+  },
+  {
+    "page_id": 1184,
+    "title": "Linux 0.00",
+    "categories": [
+      "Category:Linux"
+    ],
+    "url": "https://gunkies.org/wiki/Linux_0.00",
+    "revision": 20262,
+    "revision_timestamp": "2018-12-19T23:23:25Z",
+    "wikitext_sha256": "2d3d17ae2daf23c5d0ca2a0bbbf5da5e7913e6b6d5a656c5b58143060ebea031"
+  },
+  {
+    "page_id": 1190,
+    "title": "Linux 0.01",
+    "categories": [
+      "Category:Linux"
+    ],
+    "url": "https://gunkies.org/wiki/Linux_0.01",
+    "revision": 20263,
+    "revision_timestamp": "2018-12-19T23:24:00Z",
+    "wikitext_sha256": "c085b4f98b156077f155c0a3398153aa5552f206417f43e3e2b21f8dcd09bdea"
+  },
+  {
+    "page_id": 1191,
+    "title": "Linux 0.02",
+    "categories": [
+      "Category:Linux"
+    ],
+    "url": "https://gunkies.org/wiki/Linux_0.02",
+    "revision": 20264,
+    "revision_timestamp": "2018-12-19T23:24:46Z",
+    "wikitext_sha256": "f8786e1d5e773d6bd10c53e812e00a67de6b34d13473b9ff73da957ee0de2c13"
+  },
+  {
+    "page_id": 1187,
+    "title": "Linux 0.11",
+    "categories": [
+      "Category:Linux"
+    ],
+    "url": "https://gunkies.org/wiki/Linux_0.11",
+    "revision": 20259,
+    "revision_timestamp": "2018-12-19T23:20:37Z",
+    "wikitext_sha256": "e71b6d86dad2a8db38100755c5d5978e47372dd7c76c87a1502356b6a2ae39da"
+  },
+  {
+    "page_id": 1188,
+    "title": "Linux 0.12",
+    "categories": [
+      "Category:Linux"
+    ],
+    "url": "https://gunkies.org/wiki/Linux_0.12",
+    "revision": 20267,
+    "revision_timestamp": "2018-12-19T23:26:36Z",
+    "wikitext_sha256": "bea2febf4e9e5e5dfea55bab252f2f4c0e5c133cb7a98e6811dbcbead42fdfa8"
+  },
+  {
+    "page_id": 1189,
+    "title": "Linux 0.95a",
+    "categories": [
+      "Category:Linux"
+    ],
+    "url": "https://gunkies.org/wiki/Linux_0.95a",
+    "revision": 20265,
+    "revision_timestamp": "2018-12-19T23:25:20Z",
+    "wikitext_sha256": "0713566cd962400fcc2e75e361550a698f6825d875a6c1e2c4be889fb255c2bb"
+  },
+  {
+    "page_id": 1194,
+    "title": "Linux 0.99pl9",
+    "categories": [
+      "Category:Linux"
+    ],
+    "url": "https://gunkies.org/wiki/Linux_0.99pl9",
+    "revision": 20266,
+    "revision_timestamp": "2018-12-19T23:25:54Z",
+    "wikitext_sha256": "9e8b7f00c1a0dffd67e6060fd61510941a3806c788fb206f399383e567c78741"
+  },
+  {
+    "page_id": 419,
+    "title": "Lions book",
+    "categories": [
+      "Category:UNIX"
+    ],
+    "url": "https://gunkies.org/wiki/Lions_book",
+    "revision": 36289,
+    "revision_timestamp": "2025-05-21T13:23:37Z",
+    "wikitext_sha256": "ff13a92d069a02557e25f4f78440f04abf89a6702349d503398f6b01de50cebf"
+  },
+  {
+    "page_id": 7346,
+    "title": "List of SITS system calls",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/List_of_SITS_system_calls",
+    "revision": 29102,
+    "revision_timestamp": "2023-03-26T21:45:03Z",
+    "wikitext_sha256": "1dc5985b7f897cc934122aed79894e79e3903d85ce8b54952841e9441c68747b"
+  },
+  {
+    "page_id": 6218,
+    "title": "LSX",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/LSX",
+    "revision": 28114,
+    "revision_timestamp": "2022-11-08T06:14:34Z",
+    "wikitext_sha256": "f211bf5163ac17f81d802905e69dc983bdbe179f862222c65d689905b4d4d5db"
+  },
+  {
+    "page_id": 1192,
+    "title": "Mac Minix 1.5.10.7",
+    "categories": [
+      "Category:UNIX Clones"
+    ],
+    "url": "https://gunkies.org/wiki/Mac_Minix_1.5.10.7",
+    "revision": 20010,
+    "revision_timestamp": "2018-12-17T02:02:20Z",
+    "wikitext_sha256": "0b045c9aa49c3090b0b5ff067d4180b2d7b27d0aba1bddc5dea91e46e6be07ff"
+  },
+  {
+    "page_id": 9112,
+    "title": "Mac OS",
+    "categories": [
+      "Category:Apple Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Mac_OS",
+    "revision": 36604,
+    "revision_timestamp": "2025-07-24T10:59:50Z",
+    "wikitext_sha256": "03b847bf317f4616b972c7087a5053f8268895a381751005f9b14b591b94c0dc"
+  },
+  {
+    "page_id": 582,
+    "title": "Mach",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Mach",
+    "revision": 21371,
+    "revision_timestamp": "2019-08-02T01:22:23Z",
+    "wikitext_sha256": "118ab0ce3504be3928aa0dbf5a2b28129874bbf9a904cc4254f031002272d9fe"
+  },
+  {
+    "page_id": 411,
+    "title": "MacMiNT",
+    "categories": [
+      "Category:Operating Environments"
+    ],
+    "url": "https://gunkies.org/wiki/MacMiNT",
+    "revision": 28291,
+    "revision_timestamp": "2022-12-09T11:59:14Z",
+    "wikitext_sha256": "1ea72a22875bf5071f94518da926163dfd478ef694f98b32ca72a0485d93a2d3"
+  },
+  {
+    "page_id": 9114,
+    "title": "MacOS",
+    "categories": [
+      "Category:Apple Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/MacOS",
+    "revision": 36606,
+    "revision_timestamp": "2025-07-24T11:21:55Z",
+    "wikitext_sha256": "0cfdaa6a6071ba2df44bbd7afc2e47dbcfc3dbf951acc92e4e39520fe76c166d"
+  },
+  {
+    "page_id": 5178,
+    "title": "MagicSix",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/MagicSix",
+    "revision": 35332,
+    "revision_timestamp": "2024-10-13T00:06:54Z",
+    "wikitext_sha256": "8311c4b646091978d5fc2df7ce7a65413f0edb0bfcbdce89373343d0f48e1c68"
+  },
+  {
+    "page_id": 6794,
+    "title": "MERT operating system",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/MERT_operating_system",
+    "revision": 36500,
+    "revision_timestamp": "2025-07-11T12:58:47Z",
+    "wikitext_sha256": "e8d5afb7b610d97288e782a6b9689cfc4cb9e21d7c6a942b8f52d214c04fdfdf"
+  },
+  {
+    "page_id": 5266,
+    "title": "Microkernel",
+    "categories": [
+      "Category:OS Concepts"
+    ],
+    "url": "https://gunkies.org/wiki/Microkernel",
+    "revision": 32141,
+    "revision_timestamp": "2023-12-14T21:15:23Z",
+    "wikitext_sha256": "418ac923edab2d4413bd734793cb91b7e6e4959276faf1658bfc797468e5e74c"
+  },
+  {
+    "page_id": 732,
+    "title": "Microport System V",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/Microport_System_V",
+    "revision": 21795,
+    "revision_timestamp": "2019-11-22T16:52:50Z",
+    "wikitext_sha256": "8fc487ec37d77733363eb90de5ce2080f2b9eac4ad6f83ed679cbd3dddca579c"
+  },
+  {
+    "page_id": 609,
+    "title": "Microsoft Windows",
+    "categories": [
+      "Category:DOS Enhancements",
+      "Category:Microsoft Operating Environments",
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Microsoft_Windows",
+    "revision": 32879,
+    "revision_timestamp": "2024-01-13T18:07:26Z",
+    "wikitext_sha256": "7bdc7e9ce82ec30f3f499666d3d4237212afb770b9c28dbd49ce84af8606339d"
+  },
+  {
+    "page_id": 2992,
+    "title": "Microsoft Windows v3.0 Debug Release 1.14",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Microsoft_Windows_v3.0_Debug_Release_1.14",
+    "revision": 19609,
+    "revision_timestamp": "2018-12-15T21:16:26Z",
+    "wikitext_sha256": "161352b5a2c42f2ced2317964002bb7bd4137a7c77b3c97447d89878c68a998a"
+  },
+  {
+    "page_id": 636,
+    "title": "Microsoft Windows-386 Being Delivered With Compaq 80386-Based PCs Through Dec. 31, 1987",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Microsoft_Windows-386_Being_Delivered_With_Compaq_80386-Based_PCs_Through_Dec._31,_1987",
+    "revision": 32856,
+    "revision_timestamp": "2024-01-13T16:06:52Z",
+    "wikitext_sha256": "5a8ecd105e9836cfc015503b1e20ddbd56f290321bbda4064b66d918f2642abe"
+  },
+  {
+    "page_id": 7539,
+    "title": "MicroVMS",
+    "categories": [
+      "Category:VMS"
+    ],
+    "url": "https://gunkies.org/wiki/MicroVMS",
+    "revision": 36671,
+    "revision_timestamp": "2025-09-07T07:02:07Z",
+    "wikitext_sha256": "6d9a489f4638cfb4ea031dea7935e92a952af5fdfad722e56234917ef3d0f359"
+  },
+  {
+    "page_id": 6206,
+    "title": "MINI-UNIX",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/MINI-UNIX",
+    "revision": 35879,
+    "revision_timestamp": "2025-02-03T05:37:13Z",
+    "wikitext_sha256": "104bd2869a2fb4adc2c3266b352cd726d1452970446ba39af0909adb63e06e57"
+  },
+  {
+    "page_id": 4224,
+    "title": "MINITS",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/MINITS",
+    "revision": 36103,
+    "revision_timestamp": "2025-04-14T17:48:11Z",
+    "wikitext_sha256": "e8a871f9e24487230dfc793daeb29fa434bd5d83037c2fad14c1af7b95eaeb4a"
+  },
+  {
+    "page_id": 1183,
+    "title": "Minix",
+    "categories": [
+      "Category:UNIX Clones"
+    ],
+    "url": "https://gunkies.org/wiki/Minix",
+    "revision": 20009,
+    "revision_timestamp": "2018-12-17T02:01:14Z",
+    "wikitext_sha256": "731b5f00282bcca312b0446aa8f8ecde6f462ba5a065a076ecf0b6a2a0ef73a3"
+  },
+  {
+    "page_id": 4321,
+    "title": "MOS operating system",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Real-Time Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/MOS_operating_system",
+    "revision": 33097,
+    "revision_timestamp": "2024-01-25T14:36:56Z",
+    "wikitext_sha256": "8165b92359b5ddbbb98ae7671195f15a79dc2f737b93f635b1d9236a6bfe74ea"
+  },
+  {
+    "page_id": 424,
+    "title": "MS-DOS",
+    "categories": [
+      "Category:DOS (Compatible PCs)",
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/MS-DOS",
+    "revision": 29646,
+    "revision_timestamp": "2023-05-22T05:03:23Z",
+    "wikitext_sha256": "56781f37329a1ed541dcf503486f02c52e555989a7cdba527ac4e28319b327b3"
+  },
+  {
+    "page_id": 3632,
+    "title": "Multi-tasking",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Multi-tasking",
+    "revision": 23652,
+    "revision_timestamp": "2021-05-15T15:07:28Z",
+    "wikitext_sha256": "f28c24a45c90d75a9dcf272e5c2077f1379ce7b196a6fefea6717eff42095b27"
+  },
+  {
+    "page_id": 7611,
+    "title": "MULTI-TREK",
+    "categories": [
+      "Category:VMS Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/MULTI-TREK",
+    "revision": 36668,
+    "revision_timestamp": "2025-08-23T18:24:38Z",
+    "wikitext_sha256": "7a824c519c4db84a747870ac5271e7862eecab822eb9dce00c29aa8f11e0eee2"
+  },
+  {
+    "page_id": 526,
+    "title": "Multics",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Multics",
+    "revision": 35650,
+    "revision_timestamp": "2024-12-15T17:44:15Z",
+    "wikitext_sha256": "4ec61d2649df2c07880bfa7058bb62f57065a97a34e48c5d31692cda3138bc19"
+  },
+  {
+    "page_id": 436,
+    "title": "MUSIC/SP",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/MUSIC/SP",
+    "revision": 18227,
+    "revision_timestamp": "2018-10-20T01:21:43Z",
+    "wikitext_sha256": "444541601eafa215db3f11dea7b1db5f75b70020a76635ed5a0b513e1e6d7e10"
+  },
+  {
+    "page_id": 327,
+    "title": "MVS",
+    "categories": [
+      "Category:IBM Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/MVS",
+    "revision": 24563,
+    "revision_timestamp": "2021-11-01T11:43:28Z",
+    "wikitext_sha256": "13d6614817fc9bd435518287beca09918c97cc2d40582a9292b7eba26b6276a3"
+  },
+  {
+    "page_id": 1352,
+    "title": "Net/1",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/Net/1",
+    "revision": 19894,
+    "revision_timestamp": "2018-12-16T22:04:03Z",
+    "wikitext_sha256": "1bce750959ce6dc286b382e75626209aa101a775c5f9180fc6c633fca19627e2"
+  },
+  {
+    "page_id": 480,
+    "title": "Net/2",
+    "categories": [
+      "Category:CSRG BSD"
+    ],
+    "url": "https://gunkies.org/wiki/Net/2",
+    "revision": 28512,
+    "revision_timestamp": "2023-01-28T11:44:25Z",
+    "wikitext_sha256": "7fda9ceb312c6e470053aad0cfa692b572aa1e4dc6a2b06f8e52c06c95f9032a"
+  },
+  {
+    "page_id": 241,
+    "title": "NetBSD",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/NetBSD",
+    "revision": 36302,
+    "revision_timestamp": "2025-05-28T20:03:27Z",
+    "wikitext_sha256": "3df03dcf97ceedd01e33f0b801d5d69ae7d6a856c503ba936c22f4a2f1e2c759"
+  },
+  {
+    "page_id": 1353,
+    "title": "NetBSD 0.8",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/NetBSD_0.8",
+    "revision": 20273,
+    "revision_timestamp": "2018-12-19T23:34:56Z",
+    "wikitext_sha256": "598fceac1e5bae5df88de0df6060eb0b66f055139966ad21d33a49e095571932"
+  },
+  {
+    "page_id": 1335,
+    "title": "NetBSD 0.8 announcement",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/NetBSD_0.8_announcement",
+    "revision": 19778,
+    "revision_timestamp": "2018-12-16T16:11:55Z",
+    "wikitext_sha256": "3db794d0350769585f79ae1acb9d565db1bcc8db49d89db679af3a53bc81f9d1"
+  },
+  {
+    "page_id": 1371,
+    "title": "NetBSD 0.8 kernel building notes",
+    "categories": [
+      "Category:UNIX Practical Guides",
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/NetBSD_0.8_kernel_building_notes",
+    "revision": 19779,
+    "revision_timestamp": "2018-12-16T16:14:07Z",
+    "wikitext_sha256": "cd69e6f82dc01350db94a7a25498f98a4d5f4de27dff38a987838ad8a75dc616"
+  },
+  {
+    "page_id": 1372,
+    "title": "NetBSD 0.8 userland building notes",
+    "categories": [
+      "Category:UNIX Practical Guides",
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/NetBSD_0.8_userland_building_notes",
+    "revision": 19780,
+    "revision_timestamp": "2018-12-16T16:14:47Z",
+    "wikitext_sha256": "c2a2c9c38fe998e7faaa1e96919c47b52a4e66a317098d3ace698d6a10f1ee4c"
+  },
+  {
+    "page_id": 1345,
+    "title": "NetBSD 0.9",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/NetBSD_0.9",
+    "revision": 19781,
+    "revision_timestamp": "2018-12-16T16:15:15Z",
+    "wikitext_sha256": "9b05b77db8eecde4fb225bcb018b68d50c8eefb9763d5eb313228124eaf55f9f"
+  },
+  {
+    "page_id": 1336,
+    "title": "NetBSD 0.9 announcement",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/NetBSD_0.9_announcement",
+    "revision": 19782,
+    "revision_timestamp": "2018-12-16T16:15:37Z",
+    "wikitext_sha256": "9fc65a5d361c38d321a25674e427da47453d463a59e39a5853c32bed2dd759e4"
+  },
+  {
+    "page_id": 1361,
+    "title": "NetBSD 0.9a",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/NetBSD_0.9a",
+    "revision": 19886,
+    "revision_timestamp": "2018-12-16T21:53:27Z",
+    "wikitext_sha256": "e7be1c0f6ccde4a01d5da9cd7651344d8295395aa7b608507d87ab9c36456927"
+  },
+  {
+    "page_id": 1348,
+    "title": "NetBSD 1.2",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/NetBSD_1.2",
+    "revision": 19887,
+    "revision_timestamp": "2018-12-16T21:54:24Z",
+    "wikitext_sha256": "333605f2191f9fde02c9d4f76aa5c7fc9be5bda513b50ad3dc7f1067a21cfb1f"
+  },
+  {
+    "page_id": 7364,
+    "title": "Network UNIX",
+    "categories": [
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/Network_UNIX",
+    "revision": 27865,
+    "revision_timestamp": "2022-10-16T17:28:56Z",
+    "wikitext_sha256": "ae8c72cde952330816b4af738fc5c6d108f1b8a7d3d595387aebea4485c3ada9"
+  },
+  {
+    "page_id": 406,
+    "title": "NeXTSTEP",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/NeXTSTEP",
+    "revision": 28507,
+    "revision_timestamp": "2023-01-28T11:05:05Z",
+    "wikitext_sha256": "91236bc31a9cf49d0a898cb21969e77c4cf5ee4453cd126e61d4effe6aa0ff68"
+  },
+  {
+    "page_id": 4457,
+    "title": "NORD-OPS",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/NORD-OPS",
+    "revision": 27633,
+    "revision_timestamp": "2022-09-09T13:06:43Z",
+    "wikitext_sha256": "7f3b0dcf7cf1a8f303e6f4dd23b4e056e959e19fed989e24cd4f97e05f740bd4"
+  },
+  {
+    "page_id": 3343,
+    "title": "NORD-TSS",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/NORD-TSS",
+    "revision": 27640,
+    "revision_timestamp": "2022-09-09T13:15:24Z",
+    "wikitext_sha256": "2e1626cc864737394d55ab158fcd4d5d9ace9e9cc782a7de736d757ae103eb5b"
+  },
+  {
+    "page_id": 7779,
+    "title": "ODS2",
+    "categories": [
+      "Category:File Systems",
+      "Category:VMS"
+    ],
+    "url": "https://gunkies.org/wiki/ODS2",
+    "revision": 35497,
+    "revision_timestamp": "2024-11-15T16:46:09Z",
+    "wikitext_sha256": "ddf79f58d4f2374a6415d44d77dcecd3695a846b34acc1559deb12f39b28db40"
+  },
+  {
+    "page_id": 423,
+    "title": "OpenBSD",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/OpenBSD",
+    "revision": 18250,
+    "revision_timestamp": "2018-10-20T02:16:51Z",
+    "wikitext_sha256": "5e1a546c9de82ae81b1517a6cbd1d1fc8ad62e83b45dc89757188cf79332921b"
+  },
+  {
+    "page_id": 8391,
+    "title": "Operating environment",
+    "categories": [
+      "Category:OS Concepts",
+      "Category:Operating Environments"
+    ],
+    "url": "https://gunkies.org/wiki/Operating_environment",
+    "revision": 32878,
+    "revision_timestamp": "2024-01-13T18:05:06Z",
+    "wikitext_sha256": "280651f70f4bf78b113509c702dedc0bfe2395376ffd5f54310e2fc8d8e43431"
+  },
+  {
+    "page_id": 404,
+    "title": "OS/2",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/OS/2",
+    "revision": 36402,
+    "revision_timestamp": "2025-06-14T04:37:50Z",
+    "wikitext_sha256": "c5914fd3829298ed425357832ce3946acda67875e808ea6810253f99a98d4aca"
+  },
+  {
+    "page_id": 5689,
+    "title": "OS/360",
+    "categories": [
+      "Category:IBM Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/OS/360",
+    "revision": 27629,
+    "revision_timestamp": "2022-09-09T12:59:11Z",
+    "wikitext_sha256": "282a63c2918f3579170c2b4bacc015638ccf16e22321c570c22174f152e38954"
+  },
+  {
+    "page_id": 432,
+    "title": "OS/8",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:PDP-8 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/OS/8",
+    "revision": 28001,
+    "revision_timestamp": "2022-10-27T23:29:10Z",
+    "wikitext_sha256": "8a45d4c6b50085f0db9d99041060623ead61a4600c83bde1b866d7549cd0bd1b"
+  },
+  {
+    "page_id": 8856,
+    "title": "Overpowered",
+    "categories": [
+      "Category:DEC Humor"
+    ],
+    "url": "https://gunkies.org/wiki/Overpowered",
+    "revision": 35157,
+    "revision_timestamp": "2024-08-28T12:12:46Z",
+    "wikitext_sha256": "b13a1fb624c475a14ed8a90d0ae9a48029aa14101fef6643528c4d6a1c544503"
+  },
+  {
+    "page_id": 3780,
+    "title": "Page fault",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Page_fault",
+    "revision": 20151,
+    "revision_timestamp": "2018-12-18T18:03:45Z",
+    "wikitext_sha256": "21d0e3632536a40da822ace9f9ace4c79aca8f2441df78784c9fcd82a49bc936"
+  },
+  {
+    "page_id": 2600,
+    "title": "Patching OS/2 for fast machines",
+    "categories": [
+      "Category:OS/2"
+    ],
+    "url": "https://gunkies.org/wiki/Patching_OS/2_for_fast_machines",
+    "revision": 20003,
+    "revision_timestamp": "2018-12-17T01:44:59Z",
+    "wikitext_sha256": "dd68309bccca057d067c1667f68c013389266f66c897d0dfd86ef1be91cfd15f"
+  },
+  {
+    "page_id": 6163,
+    "title": "PC-DOS",
+    "categories": [
+      "Category:DOS (Compatible PCs)",
+      "Category:IBM Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/PC-DOS",
+    "revision": 29694,
+    "revision_timestamp": "2023-05-22T18:40:31Z",
+    "wikitext_sha256": "8f7b8c9fc3a48468578e10d1897caee491f66bd57abaee09db4c09cd65ada750"
+  },
+  {
+    "page_id": 6488,
+    "title": "PCLSRing",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/PCLSRing",
+    "revision": 31937,
+    "revision_timestamp": "2023-11-23T06:50:05Z",
+    "wikitext_sha256": "78b1be5b9b89deec5ce1e1cdc83d7549fdf960a31218e2db2e64cc86678ea2a7"
+  },
+  {
+    "page_id": 6486,
+    "title": "PDP-1-X Time Sharing System",
+    "categories": [
+      "Category:Non-DEC Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/PDP-1-X_Time_Sharing_System",
+    "revision": 36067,
+    "revision_timestamp": "2025-04-07T14:33:09Z",
+    "wikitext_sha256": "6d5b3ea63a985017888931ed2acf5e6c223b6e9beba4c91bd34ef8eb5c048c05"
+  },
+  {
+    "page_id": 6513,
+    "title": "PDP-7 UNIX",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/PDP-7_UNIX",
+    "revision": 36580,
+    "revision_timestamp": "2025-07-22T10:32:19Z",
+    "wikitext_sha256": "58cb0000735f4f6ba20ee7c68268c5f1b13e0090d52b1f7175c8d3919b5c5e5e"
+  },
+  {
+    "page_id": 5093,
+    "title": "Pipe",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Pipe",
+    "revision": 36433,
+    "revision_timestamp": "2025-06-30T19:38:50Z",
+    "wikitext_sha256": "3c9a1d6f6965127bc51a224b4f891c2c5dfb65a8518c4387b7dd3b0385c2808a"
+  },
+  {
+    "page_id": 6966,
+    "title": "Playing DUNGEON on VMS V1.0",
+    "categories": [
+      "Category:VMS Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Playing_DUNGEON_on_VMS_V1.0",
+    "revision": 27147,
+    "revision_timestamp": "2022-07-24T10:20:40Z",
+    "wikitext_sha256": "10923a296c3945db4cf9787cfad1634c37fbca21a046e531922d4198973f416a"
+  },
+  {
+    "page_id": 5964,
+    "title": "PRIMOS",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/PRIMOS",
+    "revision": 21644,
+    "revision_timestamp": "2019-09-28T11:59:50Z",
+    "wikitext_sha256": "2de0cbe15edf81270358124756db4a5b52a7be69c4888f01e0091eb585ed7930"
+  },
+  {
+    "page_id": 7923,
+    "title": "PRO/VENIX",
+    "categories": [
+      "Category:VENIX"
+    ],
+    "url": "https://gunkies.org/wiki/PRO/VENIX",
+    "revision": 32800,
+    "revision_timestamp": "2024-01-13T02:02:52Z",
+    "wikitext_sha256": "00c7fec0a106a999d72aeaa5d9f973f162ec08bbb2e06c728599728fbd5eb94b"
+  },
+  {
+    "page_id": 3759,
+    "title": "Process",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Process",
+    "revision": 19851,
+    "revision_timestamp": "2018-12-16T21:13:26Z",
+    "wikitext_sha256": "02553e487dc94cc639f343ffbf9ab696a3c2ff432c273e2db993d7bc5f72ba7f"
+  },
+  {
+    "page_id": 603,
+    "title": "ProDOS",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/ProDOS",
+    "revision": 18280,
+    "revision_timestamp": "2018-10-20T16:29:20Z",
+    "wikitext_sha256": "98a443feb8201428a10ed6bd2e78cdd6396028f8a960411d0a6fbb5efe9520be"
+  },
+  {
+    "page_id": 6285,
+    "title": "PWB/UNIX",
+    "categories": [
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/PWB/UNIX",
+    "revision": 36432,
+    "revision_timestamp": "2025-06-30T19:33:14Z",
+    "wikitext_sha256": "d67abfc1f66e92b07839d261062b2d855836147d70e40da5f6905c11a56ec9fe"
+  },
+  {
+    "page_id": 2454,
+    "title": "QNX",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/QNX",
+    "revision": 33614,
+    "revision_timestamp": "2024-02-21T00:49:41Z",
+    "wikitext_sha256": "51133ef9c149efa8b59ed9b38f7ae1472a49595caa76473017a7a79bc1af69d2"
+  },
+  {
+    "page_id": 1073,
+    "title": "QuickWin",
+    "categories": [
+      "Category:Operating Environments"
+    ],
+    "url": "https://gunkies.org/wiki/QuickWin",
+    "revision": 20278,
+    "revision_timestamp": "2018-12-19T23:41:29Z",
+    "wikitext_sha256": "c63e58676721639441bf1133d1ee03a102f33eea0f3785e3a99e6d188681ac15"
+  },
+  {
+    "page_id": 3635,
+    "title": "Real-time system",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Real-time_system",
+    "revision": 33615,
+    "revision_timestamp": "2024-02-21T00:52:36Z",
+    "wikitext_sha256": "bc0a90482650f2a0d2786d78f17b0bfef0f3560f8c4226d6512c3a44f1059345"
+  },
+  {
+    "page_id": 7529,
+    "title": "Repairing early UNIX file systems",
+    "categories": [
+      "Category:File Systems",
+      "Category:UNIX",
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Repairing_early_UNIX_file_systems",
+    "revision": 30057,
+    "revision_timestamp": "2023-06-12T19:43:12Z",
+    "wikitext_sha256": "513fd6bbc3f1e0b28d7dbd2d7516d66a87583d30190d581263b14005be382ff6"
+  },
+  {
+    "page_id": 6622,
+    "title": "RISOS/ARPA Terminal System",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/RISOS/ARPA_Terminal_System",
+    "revision": 36089,
+    "revision_timestamp": "2025-04-11T11:44:57Z",
+    "wikitext_sha256": "fde110c806f33a6cbdd4181895d76638031af66096b0fd2c265efa22555f67df"
+  },
+  {
+    "page_id": 7,
+    "title": "RSTS/E",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/RSTS/E",
+    "revision": 36147,
+    "revision_timestamp": "2025-04-20T10:40:31Z",
+    "wikitext_sha256": "323ae39d51ff75188058dd07c8efe3ef9ec473d8185e58e8f80ff48c5fadfec3"
+  },
+  {
+    "page_id": 5,
+    "title": "RSX-11",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Real-Time Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/RSX-11",
+    "revision": 35188,
+    "revision_timestamp": "2024-08-29T17:56:31Z",
+    "wikitext_sha256": "9cf9db130f3ed335135402cc953ca6aaf24cc3b0d9519637cdd47294af3c36c0"
+  },
+  {
+    "page_id": 762,
+    "title": "RT-11",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/RT-11",
+    "revision": 36112,
+    "revision_timestamp": "2025-04-15T22:36:22Z",
+    "wikitext_sha256": "750b117bde166a177d22bc26f49a3d3613b9d83e78a2b457e674af6812c0302d"
+  },
+  {
+    "page_id": 9002,
+    "title": "RTEM-11 - RT-11 Virtualization in 1982",
+    "categories": [
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/RTEM-11_-_RT-11_Virtualization_in_1982",
+    "revision": 36690,
+    "revision_timestamp": "2025-09-11T19:59:43Z",
+    "wikitext_sha256": "ed2ad8d8cd86774212ea8ade13896984e2bbf8cdb9bd79eb2830f486a79daf4d"
+  },
+  {
+    "page_id": 4381,
+    "title": "RTS-8",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:PDP-8 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/RTS-8",
+    "revision": 22441,
+    "revision_timestamp": "2020-06-22T22:32:53Z",
+    "wikitext_sha256": "781c30b0092559e41304e6cb3d3b52472d3da3db1b9aa88482c30c037a97eb21"
+  },
+  {
+    "page_id": 3019,
+    "title": "Running an LSI-11 from UNIX V6",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Running_an_LSI-11_from_UNIX_V6",
+    "revision": 30239,
+    "revision_timestamp": "2023-07-02T16:25:23Z",
+    "wikitext_sha256": "f8e52dcd4b12fcebb8958b5070cd2e4e63ba135dd3675fabe87c40caa42ab021"
+  },
+  {
+    "page_id": 7746,
+    "title": "Running ITS (the Incompatible Timesharing System) on the KL-10",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-10 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Running_ITS_(the_Incompatible_Timesharing_System)_on_the_KL-10",
+    "revision": 32543,
+    "revision_timestamp": "2024-01-05T15:58:28Z",
+    "wikitext_sha256": "07d798a1af5aad8af5ac0893e058ffbf9c55d85430684f78adef867c6cea1526"
+  },
+  {
+    "page_id": 426,
+    "title": "Running UNIX v6 in SIMH",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Running_UNIX_v6_in_SIMH",
+    "revision": 36136,
+    "revision_timestamp": "2025-04-18T16:38:27Z",
+    "wikitext_sha256": "082dd8e872ab47565523e00180225cd76b73b8ac616c41cd2c7c53d43fe082c9"
+  },
+  {
+    "page_id": 4232,
+    "title": "Running UNIX V6 on an -11/23",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Running_UNIX_V6_on_an_-11/23",
+    "revision": 36365,
+    "revision_timestamp": "2025-06-10T09:36:42Z",
+    "wikitext_sha256": "fb4194d04b68ec483cf5f44a289c0b4e46d7e5bec510a094cb3544e06045f338"
+  },
+  {
+    "page_id": 5517,
+    "title": "Scheduler",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Scheduler",
+    "revision": 19854,
+    "revision_timestamp": "2018-12-16T21:14:54Z",
+    "wikitext_sha256": "ccafae5ff35cc4eeceb2af6b79ebeeb96b89547473881e0b9fe58124fd11d2e4"
+  },
+  {
+    "page_id": 2640,
+    "title": "Setting up (BSD 4.0) the Fourth Berkeley Software Tape",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Setting_up_(BSD_4.0)_the_Fourth_Berkeley_Software_Tape",
+    "revision": 28419,
+    "revision_timestamp": "2023-01-17T01:00:38Z",
+    "wikitext_sha256": "653610505ec1604fd0c5570102e7c5e3cd25c0a5a20e4bff3a78f9053a72ddbc"
+  },
+  {
+    "page_id": 7169,
+    "title": "Setting Up RIS on ULTRIX V2.0",
+    "categories": [
+      "Category:ULTRIX"
+    ],
+    "url": "https://gunkies.org/wiki/Setting_Up_RIS_on_ULTRIX_V2.0",
+    "revision": 26965,
+    "revision_timestamp": "2022-07-07T20:56:57Z",
+    "wikitext_sha256": "ebaebdcb9f8d9843d739f01dbddb3f99f031adab907e108e458b251c3d9acc77"
+  },
+  {
+    "page_id": 745,
+    "title": "Setting up the Third Berkeley Software Tape",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Setting_up_the_Third_Berkeley_Software_Tape",
+    "revision": 28420,
+    "revision_timestamp": "2023-01-17T01:01:19Z",
+    "wikitext_sha256": "b1c9229b88c4e08d808c0405755be2ce10c1cfc0668a4ac43cbf7fca6bf1ed36"
+  },
+  {
+    "page_id": 1305,
+    "title": "Setting Up Unix - Seventh Edition",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Setting_Up_Unix_-_Seventh_Edition",
+    "revision": 28418,
+    "revision_timestamp": "2023-01-17T00:56:56Z",
+    "wikitext_sha256": "99827f9f39fe9cbaf60715dda4623e6a7742824f6262278516dba16aa3f5096d"
+  },
+  {
+    "page_id": 1322,
+    "title": "Setting up UNIX - Sixth Edition",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Setting_up_UNIX_-_Sixth_Edition",
+    "revision": 35400,
+    "revision_timestamp": "2024-10-28T16:49:39Z",
+    "wikitext_sha256": "af8f0763dc21b90fd48f21fcd95ce4c78a80efcb85a85035bf35f06a68fd76fe"
+  },
+  {
+    "page_id": 628,
+    "title": "Setting Up Version 1.0 of UNIX/32V Operating System",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Setting_Up_Version_1.0_of_UNIX/32V_Operating_System",
+    "revision": 28807,
+    "revision_timestamp": "2023-03-06T08:33:31Z",
+    "wikitext_sha256": "bf28fd200731fe3f12f6a27f1b3c13d3af8b0f7bfa65f32548b51a37f7c82200"
+  },
+  {
+    "page_id": 6165,
+    "title": "Single-tasking",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Single-tasking",
+    "revision": 22461,
+    "revision_timestamp": "2020-06-29T13:58:36Z",
+    "wikitext_sha256": "ff78c87754f97c6b2c958f013f2daff5202284009bfe9320fe8c15cc6481bb68"
+  },
+  {
+    "page_id": 3627,
+    "title": "SINTRAN",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/SINTRAN",
+    "revision": 24520,
+    "revision_timestamp": "2021-10-29T17:00:20Z",
+    "wikitext_sha256": "7a54ef6d0c5686c7641b166f51fc3d68f81df436f96e679c0f1b6ec1ead620f2"
+  },
+  {
+    "page_id": 3626,
+    "title": "SINTRAN III",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/SINTRAN_III",
+    "revision": 18664,
+    "revision_timestamp": "2018-11-05T20:47:04Z",
+    "wikitext_sha256": "1adf02e595f1c7fb2b19c79452e437639b73030cd0debeed9b334b42ff9e7f32"
+  },
+  {
+    "page_id": 4621,
+    "title": "SITS",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/SITS",
+    "revision": 36102,
+    "revision_timestamp": "2025-04-14T17:44:15Z",
+    "wikitext_sha256": "b61c504a7e5af5aa16920decb06ea3170ca4222ebb80692510ec1195093e1449"
+  },
+  {
+    "page_id": 7390,
+    "title": "SITS file system",
+    "categories": [
+      "Category:File Systems"
+    ],
+    "url": "https://gunkies.org/wiki/SITS_file_system",
+    "revision": 30052,
+    "revision_timestamp": "2023-06-12T17:21:53Z",
+    "wikitext_sha256": "c7d7d07d1efc785919e18cdad2fbe13c3ca9347e1aa2056cd6a1b71f87b1ade6"
+  },
+  {
+    "page_id": 473,
+    "title": "Solaris",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/Solaris",
+    "revision": 32850,
+    "revision_timestamp": "2024-01-13T15:55:17Z",
+    "wikitext_sha256": "e867102a4987e72f3cfcb44ed968980536f292ba823cbf9538ea0d156f532215"
+  },
+  {
+    "page_id": 8939,
+    "title": "Spooler",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Spooler",
+    "revision": 35582,
+    "revision_timestamp": "2024-11-24T12:08:09Z",
+    "wikitext_sha256": "8caf75f2a48cb5815fe79286adc349426813165d23da7af43f8538bafc404817"
+  },
+  {
+    "page_id": 7748,
+    "title": "Stanford Time-Sharing System",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Stanford_Time-Sharing_System",
+    "revision": 30030,
+    "revision_timestamp": "2023-06-12T05:38:17Z",
+    "wikitext_sha256": "f6e1484c1c90eab3e59e82352a83cc9f332deb8623a4c14e8d4f61fc24caf0f5"
+  },
+  {
+    "page_id": 319,
+    "title": "SunOS",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/SunOS",
+    "revision": 31924,
+    "revision_timestamp": "2023-11-20T06:09:10Z",
+    "wikitext_sha256": "aea73137c2ba02284815f3b52e3303db5b32a321631c6256c9c6bf020090c225"
+  },
+  {
+    "page_id": 4398,
+    "title": "Swapping",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Swapping",
+    "revision": 19588,
+    "revision_timestamp": "2018-12-15T19:38:19Z",
+    "wikitext_sha256": "3c000e6bc353c2eff8dcfb08528714b74d2e7a51dbe1376b20be6b42cb451b70"
+  },
+  {
+    "page_id": 4662,
+    "title": "Symbolic link",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Symbolic_link",
+    "revision": 31454,
+    "revision_timestamp": "2023-09-06T05:32:03Z",
+    "wikitext_sha256": "f3c79ef132bfb5a8ee55d9240a9a97479364ec150dc1853e0cea0d70ca6fe7ba"
+  },
+  {
+    "page_id": 7111,
+    "title": "System call",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/System_call",
+    "revision": 26737,
+    "revision_timestamp": "2022-06-27T12:27:27Z",
+    "wikitext_sha256": "b96061d09a5e9f20978a912c7541b30428613c74a3e4861bc9ea92db471a9ea6"
+  },
+  {
+    "page_id": 4458,
+    "title": "Task",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Task",
+    "revision": 19853,
+    "revision_timestamp": "2018-12-16T21:14:34Z",
+    "wikitext_sha256": "b23d2187ad5fcd5d27a17795bafcf49e1a2c7da81b37c647f0bf48b9bff60386"
+  },
+  {
+    "page_id": 3831,
+    "title": "TENEX",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-10 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/TENEX",
+    "revision": 34763,
+    "revision_timestamp": "2024-06-28T16:28:14Z",
+    "wikitext_sha256": "c0bb8a45993dccd19f5b0bfaee8af690fcba3995e990728f8e9f59a5157faa55"
+  },
+  {
+    "page_id": 6909,
+    "title": "TENEX file system layout",
+    "categories": [
+      "Category:File Systems"
+    ],
+    "url": "https://gunkies.org/wiki/TENEX_file_system_layout",
+    "revision": 35471,
+    "revision_timestamp": "2024-11-08T11:01:18Z",
+    "wikitext_sha256": "92fc12003a2b7b9c2db63ff807f52e8724559ada9da33a7cc8214e6036f99807"
+  },
+  {
+    "page_id": 7734,
+    "title": "Text terminals supported by WAITS",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Text_terminals_supported_by_WAITS",
+    "revision": 35804,
+    "revision_timestamp": "2025-01-14T16:42:01Z",
+    "wikitext_sha256": "90c811673f21a412a1a003f73e005241f90e48a70bc0a8c6e3821c53172ab46c"
+  },
+  {
+    "page_id": 6918,
+    "title": "THE VAXORCIST",
+    "categories": [
+      "Category:DEC Humor"
+    ],
+    "url": "https://gunkies.org/wiki/THE_VAXORCIST",
+    "revision": 25893,
+    "revision_timestamp": "2022-05-20T06:21:27Z",
+    "wikitext_sha256": "6df7e59e7c35904e7f9c42c590e2457a943224fddeba2d020c8af61b710bfa51"
+  },
+  {
+    "page_id": 7548,
+    "title": "The VMS-MicroVMS Merge",
+    "categories": [
+      "Category:VMS"
+    ],
+    "url": "https://gunkies.org/wiki/The_VMS-MicroVMS_Merge",
+    "revision": 33032,
+    "revision_timestamp": "2024-01-16T01:40:01Z",
+    "wikitext_sha256": "b56495fd8ad1f0fbf9976ff17521082e172c6287e2dae68a5863356c2a29e131"
+  },
+  {
+    "page_id": 5272,
+    "title": "Thread",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Thread",
+    "revision": 32144,
+    "revision_timestamp": "2023-12-15T16:25:39Z",
+    "wikitext_sha256": "e7c3b1b2f522ef85354ec797bd08232443146e42506f49eca68d153b37037daf"
+  },
+  {
+    "page_id": 3162,
+    "title": "Time-sharing",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Time-sharing",
+    "revision": 36783,
+    "revision_timestamp": "2025-09-30T15:41:13Z",
+    "wikitext_sha256": "73d2959e584558b9fcd409557f0ad78f7fdb9e99014177709616ae91e5852e0a"
+  },
+  {
+    "page_id": 495,
+    "title": "Top",
+    "categories": [
+      "Category:UNIX Applications"
+    ],
+    "url": "https://gunkies.org/wiki/Top",
+    "revision": 34278,
+    "revision_timestamp": "2024-04-24T11:03:28Z",
+    "wikitext_sha256": "dc8f80887169cf6f4feac2c03188294099cbfb14d57491986213e5f782f9353e"
+  },
+  {
+    "page_id": 3802,
+    "title": "TOPS-10",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:PDP-10 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/TOPS-10",
+    "revision": 31940,
+    "revision_timestamp": "2023-11-28T01:32:57Z",
+    "wikitext_sha256": "7d894eb343a716d4c0353e3519ff83e5982df934711b52b0deb2968ec44709c6"
+  },
+  {
+    "page_id": 208,
+    "title": "TOPS-20",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:PDP-10 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/TOPS-20",
+    "revision": 34764,
+    "revision_timestamp": "2024-06-28T16:30:23Z",
+    "wikitext_sha256": "56d8a0bf3a346b4c2a8c285f3e40a0b3653f328a8c12228fb4477a86abc23d9c"
+  },
+  {
+    "page_id": 4183,
+    "title": "TripOS",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/TripOS",
+    "revision": 15313,
+    "revision_timestamp": "2018-01-19T06:33:18Z",
+    "wikitext_sha256": "e313d5117acaf2f912d92266b2df536afdab2402b6a8fab88460e62b29175d8c"
+  },
+  {
+    "page_id": 507,
+    "title": "TROPIX",
+    "categories": [
+      "Category:UNIX Clones"
+    ],
+    "url": "https://gunkies.org/wiki/TROPIX",
+    "revision": 20192,
+    "revision_timestamp": "2018-12-18T21:27:38Z",
+    "wikitext_sha256": "075b03c7486260a7858b2b02b1e599af137b948bae65f8d73570f9308f4887d6"
+  },
+  {
+    "page_id": 518,
+    "title": "TROPIX Manual",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/TROPIX_Manual",
+    "revision": 21396,
+    "revision_timestamp": "2019-08-13T15:55:32Z",
+    "wikitext_sha256": "6456b0d5ef6488f7e51a1a24571ad514a1dfd8f928a1a89d1d3516f5ef9869bf"
+  },
+  {
+    "page_id": 768,
+    "title": "TSR",
+    "categories": [
+      "Category:DOS Enhancements"
+    ],
+    "url": "https://gunkies.org/wiki/TSR",
+    "revision": 20451,
+    "revision_timestamp": "2019-01-01T13:28:02Z",
+    "wikitext_sha256": "4fa0e394d1f76a0cfc6faff72011c090345bebd3cce533b56c407622e76bac25"
+  },
+  {
+    "page_id": 4382,
+    "title": "TSS/8",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:PDP-8 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/TSS/8",
+    "revision": 21806,
+    "revision_timestamp": "2019-11-22T20:57:41Z",
+    "wikitext_sha256": "cc89b49ff011a9a30b403abcda3ddaebf1945694345fe8345c3bb5b639812c8f"
+  },
+  {
+    "page_id": 6900,
+    "title": "TYMCOM-IX",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/TYMCOM-IX",
+    "revision": 25824,
+    "revision_timestamp": "2022-05-05T17:32:59Z",
+    "wikitext_sha256": "ef5e616c7883f82a626ba602c09139a56d1e39483e5460cc16313431befce953"
+  },
+  {
+    "page_id": 4134,
+    "title": "TYMCOM-X",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-10 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/TYMCOM-X",
+    "revision": 33887,
+    "revision_timestamp": "2024-03-13T06:57:01Z",
+    "wikitext_sha256": "2759af05eded865a90a8c23b2b7e64b3cd0df9a8c5adf629511f97dd0ffc4dcf"
+  },
+  {
+    "page_id": 8975,
+    "title": "UCSB On-Line System",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/UCSB_On-Line_System",
+    "revision": 36290,
+    "revision_timestamp": "2025-05-22T10:35:58Z",
+    "wikitext_sha256": "a6b6b5ba32706d690568ccad9bf9c7d117def51a965e8dc674831e083923af69"
+  },
+  {
+    "page_id": 321,
+    "title": "ULTRIX",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:ULTRIX",
+      "Category:Unix-based OS's",
+      "Category:VAX Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/ULTRIX",
+    "revision": 36796,
+    "revision_timestamp": "2025-10-01T18:12:25Z",
+    "wikitext_sha256": "84d6e6156214a1190094269aea0d7faa758f1ebdd12f4b15641de5d35097ea1c"
+  },
+  {
+    "page_id": 7162,
+    "title": "ULTRIX Diskless Mangement Services",
+    "categories": [
+      "Category:ULTRIX"
+    ],
+    "url": "https://gunkies.org/wiki/ULTRIX_Diskless_Mangement_Services",
+    "revision": 26968,
+    "revision_timestamp": "2022-07-08T07:33:22Z",
+    "wikitext_sha256": "f34f457671f7e8736bab17748e0109da5afc9b351f609e5f9aedd024def7452b"
+  },
+  {
+    "page_id": 7164,
+    "title": "ULTRIX Remote Console",
+    "categories": [
+      "Category:ULTRIX"
+    ],
+    "url": "https://gunkies.org/wiki/ULTRIX_Remote_Console",
+    "revision": 36676,
+    "revision_timestamp": "2025-09-07T08:20:54Z",
+    "wikitext_sha256": "9d0808cc6e58cbfb7c1d216f619a0c9d19c113dc043f543b3a1629952682b1a2"
+  },
+  {
+    "page_id": 7154,
+    "title": "ULTRIX Remote Installation Service",
+    "categories": [
+      "Category:ULTRIX"
+    ],
+    "url": "https://gunkies.org/wiki/ULTRIX_Remote_Installation_Service",
+    "revision": 35335,
+    "revision_timestamp": "2024-10-13T00:21:02Z",
+    "wikitext_sha256": "7dcdc9cba259965123342843b9ee12bfcd7961573107bef496d491cbe4984e23"
+  },
+  {
+    "page_id": 147,
+    "title": "UNIX",
+    "categories": [
+      "Category:Operating Systems",
+      "Category:UNIX"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX",
+    "revision": 36483,
+    "revision_timestamp": "2025-07-07T13:59:53Z",
+    "wikitext_sha256": "1df4a5e0af4ae102e915a327bcc345be64fc793acaeb78ce5042c95d1417e683"
+  },
+  {
+    "page_id": 6854,
+    "title": "UNIX a.out file",
+    "categories": [
+      "Category:UNIX"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_a.out_file",
+    "revision": 25489,
+    "revision_timestamp": "2022-04-06T18:00:41Z",
+    "wikitext_sha256": "98e250d54e90ba94387c58589bacd5a0655abdb6621510b1ea52fed36d180641"
+  },
+  {
+    "page_id": 7320,
+    "title": "Unix dump/restore tape format",
+    "categories": [
+      "Category:UNIX"
+    ],
+    "url": "https://gunkies.org/wiki/Unix_dump/restore_tape_format",
+    "revision": 36138,
+    "revision_timestamp": "2025-04-18T16:42:28Z",
+    "wikitext_sha256": "1e18a6d46671e2544763343c05ad8e19ffdff85741439f58e17ea522281c67ec"
+  },
+  {
+    "page_id": 3256,
+    "title": "Unix Eighth Edition",
+    "categories": [
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/Unix_Eighth_Edition",
+    "revision": 36104,
+    "revision_timestamp": "2025-04-14T17:59:38Z",
+    "wikitext_sha256": "7aaf9e7b9b09dba509c14f7d3324fe3b911da407f8baa5a47a323c0c03cd1e92"
+  },
+  {
+    "page_id": 1318,
+    "title": "UNIX Fifth Edition",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_Fifth_Edition",
+    "revision": 28781,
+    "revision_timestamp": "2023-03-03T11:27:57Z",
+    "wikitext_sha256": "8f2ee88ab9371c2b7f3c585e5fa7b663c68902c77d90b080dbabf3b5c6ae7f26"
+  },
+  {
+    "page_id": 3671,
+    "title": "UNIX file system",
+    "categories": [
+      "Category:File Systems",
+      "Category:UNIX"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_file_system",
+    "revision": 36291,
+    "revision_timestamp": "2025-05-22T10:40:11Z",
+    "wikitext_sha256": "4c689210009f05204e9ee4d917df7730ef3d3b9099ccd2e9b8ebf0462aec4dc4"
+  },
+  {
+    "page_id": 357,
+    "title": "UNIX First Edition",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_First_Edition",
+    "revision": 36390,
+    "revision_timestamp": "2025-06-12T17:10:36Z",
+    "wikitext_sha256": "c552211d610eb0f26b2a64855b49ae2d78b2a8800c9f13b25b0d67274ee38cbe"
+  },
+  {
+    "page_id": 6935,
+    "title": "UNIX Fourth Edition",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_Fourth_Edition",
+    "revision": 37103,
+    "revision_timestamp": "2025-12-20T04:15:34Z",
+    "wikitext_sha256": "fd77dd9fb3add1f0646994312b7b00e459969fdc1a1993a44423906821ecea81"
+  },
+  {
+    "page_id": 4291,
+    "title": "Unix interoperability with PDP-10",
+    "categories": [
+      "Category:UNIX Applications"
+    ],
+    "url": "https://gunkies.org/wiki/Unix_interoperability_with_PDP-10",
+    "revision": 36137,
+    "revision_timestamp": "2025-04-18T16:39:28Z",
+    "wikitext_sha256": "cdb89bd202fc019ca20469111bec1931d72daf8e29e41daa84143ebd876c0251"
+  },
+  {
+    "page_id": 3258,
+    "title": "Unix Ninth Edition",
+    "categories": [
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/Unix_Ninth_Edition",
+    "revision": 28013,
+    "revision_timestamp": "2022-10-28T14:02:41Z",
+    "wikitext_sha256": "42bfb2805ffab3d8546ea12b429590fe5e2b5923e90dc865997f3622988d20d4"
+  },
+  {
+    "page_id": 6937,
+    "title": "UNIX Second Edition",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_Second_Edition",
+    "revision": 31776,
+    "revision_timestamp": "2023-10-20T01:54:54Z",
+    "wikitext_sha256": "d6292bb15ec562672730fbb216c33f86e520c7266be47b887e1cdeaacd8e1e03"
+  },
+  {
+    "page_id": 374,
+    "title": "Unix Seventh Edition",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/Unix_Seventh_Edition",
+    "revision": 36437,
+    "revision_timestamp": "2025-07-01T00:49:25Z",
+    "wikitext_sha256": "317937696f2040cb0a4bf6fcaa787cfabf50c8b2e44c4c62177b794b2e34ac81"
+  },
+  {
+    "page_id": 413,
+    "title": "UNIX Sixth Edition",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_Sixth_Edition",
+    "revision": 36438,
+    "revision_timestamp": "2025-07-01T00:52:50Z",
+    "wikitext_sha256": "29e603fd56ce3ebd972127925fa5166bd28ff1454f893826d50c134ce2b70e4d"
+  },
+  {
+    "page_id": 739,
+    "title": "UNIX System III",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix OS's",
+      "Category:VAX Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_System_III",
+    "revision": 31805,
+    "revision_timestamp": "2023-10-21T17:36:17Z",
+    "wikitext_sha256": "319567d3fec77e15bc29e5282c24aaaf92b1b921b3f081035ecbb4685877bb94"
+  },
+  {
+    "page_id": 1330,
+    "title": "UNIX System IV",
+    "categories": [
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_System_IV",
+    "revision": 28307,
+    "revision_timestamp": "2022-12-29T02:25:05Z",
+    "wikitext_sha256": "2d0461dfd8578e6466c402fe38df399acb1b60801342b432a53ad91cf2897586"
+  },
+  {
+    "page_id": 1374,
+    "title": "UNIX System V",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix OS's",
+      "Category:VAX Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_System_V",
+    "revision": 36054,
+    "revision_timestamp": "2025-03-30T21:55:02Z",
+    "wikitext_sha256": "d5589927be4b3a752cc350f3b093fcf0762e87a84de61ed672a0b8ca28962374"
+  },
+  {
+    "page_id": 1373,
+    "title": "Unix SYSVr2",
+    "categories": [
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/Unix_SYSVr2",
+    "revision": 20017,
+    "revision_timestamp": "2018-12-17T02:17:50Z",
+    "wikitext_sha256": "57df589128f19187a3b0e35d4abefab76ae5f70352144e87e1a02a6312eddacc"
+  },
+  {
+    "page_id": 5843,
+    "title": "Unix SYSVr3",
+    "categories": [
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/Unix_SYSVr3",
+    "revision": 31804,
+    "revision_timestamp": "2023-10-21T17:34:46Z",
+    "wikitext_sha256": "8696837fc6535433accbb4ad0d518d7b415805ad71d5b0128ea9da762a289940"
+  },
+  {
+    "page_id": 3719,
+    "title": "Unix SYSVr4",
+    "categories": [
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/Unix_SYSVr4",
+    "revision": 20018,
+    "revision_timestamp": "2018-12-17T02:19:14Z",
+    "wikitext_sha256": "a34eededc8ac656fe5df13b827a2813106fcd30559c7efa337be53cb3b7ebc91"
+  },
+  {
+    "page_id": 6895,
+    "title": "Unix Tenth Edition",
+    "categories": [
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/Unix_Tenth_Edition",
+    "revision": 25754,
+    "revision_timestamp": "2022-05-01T20:57:52Z",
+    "wikitext_sha256": "dea16b8e19e4d55274cb5bd7991043cb9eb484705763cd111fa9fcc67549e74e"
+  },
+  {
+    "page_id": 6936,
+    "title": "UNIX Third Edition",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-11 Operating Systems",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_Third_Edition",
+    "revision": 31777,
+    "revision_timestamp": "2023-10-20T01:58:51Z",
+    "wikitext_sha256": "a9cb68ce640fee1fb857dfc7118682cc29b0989954e25202d76cbc736a53f01e"
+  },
+  {
+    "page_id": 5760,
+    "title": "UNIX V6 dump analysis",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_V6_dump_analysis",
+    "revision": 26846,
+    "revision_timestamp": "2022-07-02T10:07:42Z",
+    "wikitext_sha256": "5fc282244dbfd62875eaa8d7efa4c5f6b7aee6551c45f970c0983b94091fa1d6"
+  },
+  {
+    "page_id": 5763,
+    "title": "UNIX V6 internals",
+    "categories": [
+      "Category:UNIX"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_V6_internals",
+    "revision": 34089,
+    "revision_timestamp": "2024-04-08T11:48:09Z",
+    "wikitext_sha256": "ad6dff2cfce76114d5e9dc4d3c256076a8d490faa8121ec622c5deeba76128e1"
+  },
+  {
+    "page_id": 5694,
+    "title": "UNIX V6 memory layout",
+    "categories": [
+      "Category:UNIX"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX_V6_memory_layout",
+    "revision": 30326,
+    "revision_timestamp": "2023-07-08T13:20:28Z",
+    "wikitext_sha256": "bad1cf1e3b2d54a702e87719d0eceaefe203efca2b75985545a0b1d3a7b35fdb"
+  },
+  {
+    "page_id": 2780,
+    "title": "UNIX* System V and 4.1C BSD",
+    "categories": [
+      "Category:CSRG BSD",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX*_System_V_and_4.1C_BSD",
+    "revision": 19969,
+    "revision_timestamp": "2018-12-17T00:06:07Z",
+    "wikitext_sha256": "019e3d47ae41cfdeaed7d176f5d151ce5158e8f7a1f9d9d0bd8a525eb71eabe4"
+  },
+  {
+    "page_id": 382,
+    "title": "Unix/32V",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:Unix OS's",
+      "Category:VAX Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Unix/32V",
+    "revision": 36981,
+    "revision_timestamp": "2025-11-28T02:01:12Z",
+    "wikitext_sha256": "5c70259d3508cbaecfee38cdf5648203eba99726aaf5c4e1ef8ddc106396b106"
+  },
+  {
+    "page_id": 7887,
+    "title": "UNIX/370",
+    "categories": [
+      "Category:IBM Operating Systems",
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/UNIX/370",
+    "revision": 36440,
+    "revision_timestamp": "2025-07-01T01:09:08Z",
+    "wikitext_sha256": "829b1a1700e3018feeff9c5088c5b02da68a7ac815681e3a7dd56efc76b66cc7"
+  },
+  {
+    "page_id": 1393,
+    "title": "UnixWare",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/UnixWare",
+    "revision": 18368,
+    "revision_timestamp": "2018-10-21T20:15:07Z",
+    "wikitext_sha256": "188faa91180c451e1a778b3748a4909759f0fdcd805262241b96df2886626551"
+  },
+  {
+    "page_id": 5707,
+    "title": "Upgrading UNIX Sixth Edition",
+    "categories": [
+      "Category:UNIX Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/Upgrading_UNIX_Sixth_Edition",
+    "revision": 28791,
+    "revision_timestamp": "2023-03-04T11:02:21Z",
+    "wikitext_sha256": "5983124d16350ace866b891465e34d916bcee46e880d6c81d121d4d38a1e73b4"
+  },
+  {
+    "page_id": 6575,
+    "title": "USG UNIX",
+    "categories": [
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/USG_UNIX",
+    "revision": 28315,
+    "revision_timestamp": "2022-12-29T02:52:31Z",
+    "wikitext_sha256": "68bd8c0106474453c8e3f85afa5dbe25da644c643cd99d1fc2ebbd34efc808f2"
+  },
+  {
+    "page_id": 9127,
+    "title": "UUCP",
+    "categories": [
+      "Category:UNIX"
+    ],
+    "url": "https://gunkies.org/wiki/UUCP",
+    "revision": 36708,
+    "revision_timestamp": "2025-09-18T20:50:01Z",
+    "wikitext_sha256": "b02372c3c5bcea2688995c7db0a0c5e76ed11634f77cc064014018062a0e218c"
+  },
+  {
+    "page_id": 2589,
+    "title": "Uudecode",
+    "categories": [
+      "Category:UNIX Applications"
+    ],
+    "url": "https://gunkies.org/wiki/Uudecode",
+    "revision": 19955,
+    "revision_timestamp": "2018-12-16T23:33:17Z",
+    "wikitext_sha256": "41e151ce7a893305358592d596670d99a769cb10da1764c4c8569b5e5188e6a1"
+  },
+  {
+    "page_id": 2590,
+    "title": "Uuencoded",
+    "categories": [
+      "Category:UNIX Applications"
+    ],
+    "url": "https://gunkies.org/wiki/Uuencoded",
+    "revision": 19956,
+    "revision_timestamp": "2018-12-16T23:34:26Z",
+    "wikitext_sha256": "4927bf393271643c94b1d9ababeb832d6045ed1ffcb449845ea0f1e3bf5fc32c"
+  },
+  {
+    "page_id": 7900,
+    "title": "VAX Diagnostic Supervisor",
+    "categories": [
+      "Category:VMS Practical Guides"
+    ],
+    "url": "https://gunkies.org/wiki/VAX_Diagnostic_Supervisor",
+    "revision": 36962,
+    "revision_timestamp": "2025-11-18T21:10:46Z",
+    "wikitext_sha256": "3ad027050616838aa7b096c93a081c4771a03f1a5dac2712b6a2388b7ceb1753"
+  },
+  {
+    "page_id": 7094,
+    "title": "VAXELN",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:VAX Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/VAXELN",
+    "revision": 26777,
+    "revision_timestamp": "2022-06-28T20:22:58Z",
+    "wikitext_sha256": "05144822017ebf53308f6915bae4cdc42a8e49f14d820d7841ce7aa67818df17"
+  },
+  {
+    "page_id": 7915,
+    "title": "VENIX Graphics on the Professional",
+    "categories": [
+      "Category:VENIX",
+      "Category:VENIX Tutorials"
+    ],
+    "url": "https://gunkies.org/wiki/VENIX_Graphics_on_the_Professional",
+    "revision": 30737,
+    "revision_timestamp": "2023-08-03T06:40:58Z",
+    "wikitext_sha256": "53ca2e676b724f95e22b839af844a97bce8844e71746c35ed4e432ddb7b984ad"
+  },
+  {
+    "page_id": 8314,
+    "title": "Versions of important ITS software",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Versions_of_important_ITS_software",
+    "revision": 33347,
+    "revision_timestamp": "2024-02-08T19:28:55Z",
+    "wikitext_sha256": "20d7736cba0e812671cde86799fb4b170af8b13519b15a0aebed5dfe1aecc34f"
+  },
+  {
+    "page_id": 597,
+    "title": "Virtual DOS Machine",
+    "categories": [
+      "Category:Microsoft Operating Environments"
+    ],
+    "url": "https://gunkies.org/wiki/Virtual_DOS_Machine",
+    "revision": 33608,
+    "revision_timestamp": "2024-02-20T16:10:33Z",
+    "wikitext_sha256": "8ffd189c5a9dc31cced67f3b9756d87cc8c17dae0ac030ed50b813332d6513ad"
+  },
+  {
+    "page_id": 3761,
+    "title": "Virtual machine",
+    "categories": [
+      "Category:OS Basics"
+    ],
+    "url": "https://gunkies.org/wiki/Virtual_machine",
+    "revision": 35393,
+    "revision_timestamp": "2024-10-28T12:46:57Z",
+    "wikitext_sha256": "30e202897a01383ac37369907a5d3ab97586743e19fb9e3c141034f9851351a0"
+  },
+  {
+    "page_id": 771,
+    "title": "VM/370",
+    "categories": [
+      "Category:IBM Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/VM/370",
+    "revision": 33082,
+    "revision_timestamp": "2024-01-24T14:55:18Z",
+    "wikitext_sha256": "334614989a476ed182e2bc0f26c34d0a7a6836efab32d6a096324128e4f11ddf"
+  },
+  {
+    "page_id": 2439,
+    "title": "VM/386",
+    "categories": [
+      "Category:Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/VM/386",
+    "revision": 20284,
+    "revision_timestamp": "2018-12-19T23:53:52Z",
+    "wikitext_sha256": "1eba82063b4e38c66b8db385fb59d66de8c9d589a5b454c1113b11c802a84e5e"
+  },
+  {
+    "page_id": 180,
+    "title": "VMS",
+    "categories": [
+      "Category:DEC Operating Systems",
+      "Category:VAX Operating Systems",
+      "Category:VMS"
+    ],
+    "url": "https://gunkies.org/wiki/VMS",
+    "revision": 35498,
+    "revision_timestamp": "2024-11-15T17:00:50Z",
+    "wikitext_sha256": "2a72c6f522b62fafbd638ad749f085f22479fcc101138d1b68e981f2981797e3"
+  },
+  {
+    "page_id": 6920,
+    "title": "VMS Software, Inc.",
+    "categories": [
+      "Category:VMS"
+    ],
+    "url": "https://gunkies.org/wiki/VMS_Software,_Inc.",
+    "revision": 25903,
+    "revision_timestamp": "2022-05-20T18:20:26Z",
+    "wikitext_sha256": "2e265f0afbfcb98ca83a91921d568667f64adc1391effcbb458152cd8952d5ff"
+  },
+  {
+    "page_id": 4086,
+    "title": "WAITS",
+    "categories": [
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-10 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/WAITS",
+    "revision": 36964,
+    "revision_timestamp": "2025-11-19T07:14:13Z",
+    "wikitext_sha256": "40b7322a3e7d9be16f0c6eda4c0ea2b311cc3cd5f949f2181864678f3d08ddb4"
+  },
+  {
+    "page_id": 7772,
+    "title": "WAITS on-disk file structure",
+    "categories": [
+      "Category:File Systems"
+    ],
+    "url": "https://gunkies.org/wiki/WAITS_on-disk_file_structure",
+    "revision": 35336,
+    "revision_timestamp": "2024-10-13T00:24:52Z",
+    "wikitext_sha256": "99277f0199b822888a29d0472acc1a41d3c87b96a7dc70b67a399bb1df54672a"
+  },
+  {
+    "page_id": 7778,
+    "title": "WAITS system directories",
+    "categories": [
+      "Category:File Systems",
+      "Category:Non-DEC Operating Systems",
+      "Category:PDP-10 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/WAITS_system_directories",
+    "revision": 30062,
+    "revision_timestamp": "2023-06-13T11:30:17Z",
+    "wikitext_sha256": "28c90ce3071c54cb39d08766cfa8df010ae0c6f4e078a9d888a892a5a6593c7f"
+  },
+  {
+    "page_id": 567,
+    "title": "Win32s",
+    "categories": [
+      "Category:DOS Enhancements"
+    ],
+    "url": "https://gunkies.org/wiki/Win32s",
+    "revision": 20454,
+    "revision_timestamp": "2019-01-01T13:35:07Z",
+    "wikitext_sha256": "7a36a3b83dacccb73c8d5131b430e32f6946a0af6b63516f0f0944e93c874f7b"
+  },
+  {
+    "page_id": 595,
+    "title": "Windows 1.0",
+    "categories": [
+      "Category:Microsoft Operating Environments"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_1.0",
+    "revision": 32889,
+    "revision_timestamp": "2024-01-13T18:38:38Z",
+    "wikitext_sha256": "ec4744958050549b9e2315b3bf69075195987dfc84169dbe9ade9868991f5323"
+  },
+  {
+    "page_id": 3857,
+    "title": "Windows 1.0 Alpha",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_1.0_Alpha",
+    "revision": 19982,
+    "revision_timestamp": "2018-12-17T00:26:06Z",
+    "wikitext_sha256": "d2588c7aa3a772dac8f05b930aee32fe6dc0f2ba66d09d2a956e673b60510bc4"
+  },
+  {
+    "page_id": 3855,
+    "title": "Windows 1.0 Beta",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_1.0_Beta",
+    "revision": 19983,
+    "revision_timestamp": "2018-12-17T00:26:44Z",
+    "wikitext_sha256": "0cc70723363ec3cc57a1151bc3d87e3da1ab118f518881193a545e83dc0213d9"
+  },
+  {
+    "page_id": 3859,
+    "title": "Windows 1.0 Developer Release 5",
+    "categories": [
+      "Category:Microsoft Operating Environments"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_1.0_Developer_Release_5",
+    "revision": 32888,
+    "revision_timestamp": "2024-01-13T18:35:30Z",
+    "wikitext_sha256": "b99fe03da320ff34433ae246e5b05af01d5cc585125900095eada1d6e993adc5"
+  },
+  {
+    "page_id": 3863,
+    "title": "Windows 1.0 Premiere Edition",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_1.0_Premiere_Edition",
+    "revision": 33251,
+    "revision_timestamp": "2024-02-06T17:29:14Z",
+    "wikitext_sha256": "012505f96a4eda85cd72918443d52db2ceedba4cae0cbc7c6281c0e111a6c99e"
+  },
+  {
+    "page_id": 596,
+    "title": "Windows 2.0",
+    "categories": [
+      "Category:Microsoft Operating Environments"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_2.0",
+    "revision": 32881,
+    "revision_timestamp": "2024-01-13T18:11:12Z",
+    "wikitext_sha256": "6c43d5666f0759d1a75cf17495eb5201a9492fed8eccfb39349eb68354a51c40"
+  },
+  {
+    "page_id": 577,
+    "title": "Windows 3.0",
+    "categories": [
+      "Category:Microsoft Operating Environments"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_3.0",
+    "revision": 32891,
+    "revision_timestamp": "2024-01-13T18:45:58Z",
+    "wikitext_sha256": "c791dbe0cb276e5e8f248e01ac78789ed31615151efdbd56b010abfc5cef2a72"
+  },
+  {
+    "page_id": 3853,
+    "title": "Windows 3.00.55 Beta",
+    "categories": [
+      "Category:Microsoft Operating Environments"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_3.00.55_Beta",
+    "revision": 32890,
+    "revision_timestamp": "2024-01-13T18:43:19Z",
+    "wikitext_sha256": "ae029a6eb4f895d8df881b1d684ca6604965ce02df2146bc2f8c9eba76c16486"
+  },
+  {
+    "page_id": 578,
+    "title": "Windows 3.1",
+    "categories": [
+      "Category:Microsoft Operating Environments"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_3.1",
+    "revision": 32887,
+    "revision_timestamp": "2024-01-13T18:31:05Z",
+    "wikitext_sha256": "147ba10764d196ab5fb58921f143c9132bb3889b60d54bdc8de8c8461d38b5d7"
+  },
+  {
+    "page_id": 1085,
+    "title": "Windows 3.2",
+    "categories": [
+      "Category:Microsoft Operating Environments"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_3.2",
+    "revision": 32885,
+    "revision_timestamp": "2024-01-13T18:27:18Z",
+    "wikitext_sha256": "49e63179445422e994292908bac3dd18f52a6fb4a9ce9622f2a45b908111a6e9"
+  },
+  {
+    "page_id": 566,
+    "title": "Windows 95",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_95",
+    "revision": 20460,
+    "revision_timestamp": "2019-01-01T13:44:28Z",
+    "wikitext_sha256": "30121d90b23e3ed16b2074d0ebe1f66b01edc76f30246713af3d01474090528d"
+  },
+  {
+    "page_id": 3623,
+    "title": "Windows 98",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_98",
+    "revision": 19603,
+    "revision_timestamp": "2018-12-15T20:19:51Z",
+    "wikitext_sha256": "83767ba4090e02a3dc037615e31719dcf0a345fb17b1eaec18dc3fff3ff7608e"
+  },
+  {
+    "page_id": 5833,
+    "title": "Windows ME",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_ME",
+    "revision": 22871,
+    "revision_timestamp": "2021-01-03T21:00:16Z",
+    "wikitext_sha256": "f2bf74e4fcafd2534976a0439ea3276b93777924e5cb94b54ccd545b47a72787"
+  },
+  {
+    "page_id": 554,
+    "title": "Windows NT",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_NT",
+    "revision": 32892,
+    "revision_timestamp": "2024-01-13T18:47:50Z",
+    "wikitext_sha256": "aae9841ffabb7dc9e3fd6a426c5318ce9ba89809c1b87671e86a6e4251b966f7"
+  },
+  {
+    "page_id": 2470,
+    "title": "Windows NT 3.1 Betas",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_NT_3.1_Betas",
+    "revision": 20200,
+    "revision_timestamp": "2018-12-18T21:37:22Z",
+    "wikitext_sha256": "6f3308f58acb247ad7b9e29628e7954b37038146c6866b1659ae6eb14ed1443c"
+  },
+  {
+    "page_id": 2473,
+    "title": "Windows NT 3.1 December 1991 beta",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_NT_3.1_December_1991_beta",
+    "revision": 33269,
+    "revision_timestamp": "2024-02-07T07:33:51Z",
+    "wikitext_sha256": "f36ca93c457c37f81124664151a5aa27a7b68d24343c10183ef424c792d5cd49"
+  },
+  {
+    "page_id": 556,
+    "title": "Windows NT 3.1 HCL",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_NT_3.1_HCL",
+    "revision": 19988,
+    "revision_timestamp": "2018-12-17T01:17:28Z",
+    "wikitext_sha256": "31a1ad03041041cee1a5d79dc1cf781a109fb764a69382a072b1e19a98e232bf"
+  },
+  {
+    "page_id": 2475,
+    "title": "Windows NT 3.1 March 1993 beta",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_NT_3.1_March_1993_beta",
+    "revision": 19989,
+    "revision_timestamp": "2018-12-17T01:17:57Z",
+    "wikitext_sha256": "0c78158a5ae18e21523c82e106a430cd74f5c71219164dd01baf3b1033433e36"
+  },
+  {
+    "page_id": 2471,
+    "title": "Windows NT 3.1 October 1991 beta",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_NT_3.1_October_1991_beta",
+    "revision": 19990,
+    "revision_timestamp": "2018-12-17T01:18:22Z",
+    "wikitext_sha256": "3653ebd5ff4e3a0f03f9bbbb625d7e09c74101a3593dfd3a676e23cd1c4f6887"
+  },
+  {
+    "page_id": 2477,
+    "title": "Windows NT 3.1 October 1992 beta",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_NT_3.1_October_1992_beta",
+    "revision": 19991,
+    "revision_timestamp": "2018-12-17T01:19:16Z",
+    "wikitext_sha256": "9b94e646d116b307af228813844795e858e0cc96816b8d655b5371bbb3562436"
+  },
+  {
+    "page_id": 1386,
+    "title": "Windows NT 3.1 SDK",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_NT_3.1_SDK",
+    "revision": 19992,
+    "revision_timestamp": "2018-12-17T01:20:51Z",
+    "wikitext_sha256": "642c8c129ee3c3b9edd8c2a605bf15a741d7d87457e76036c907d6b397b29dcf"
+  },
+  {
+    "page_id": 619,
+    "title": "Windows NT 3.5 HCL",
+    "categories": [
+      "Category:Microsoft Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/Windows_NT_3.5_HCL",
+    "revision": 19993,
+    "revision_timestamp": "2018-12-17T01:21:19Z",
+    "wikitext_sha256": "09088be65e4e02529f65d53b80ec3aae6bca0b5992b90122bce51bd036873747"
+  },
+  {
+    "page_id": 616,
+    "title": "WinG",
+    "categories": [
+      "Category:Microsoft Operating Environments"
+    ],
+    "url": "https://gunkies.org/wiki/WinG",
+    "revision": 32959,
+    "revision_timestamp": "2024-01-15T10:25:39Z",
+    "wikitext_sha256": "554b8e346312c9fcbec0211203740db48a3c3def4701213ccbe99e843597df95"
+  },
+  {
+    "page_id": 403,
+    "title": "XENIX",
+    "categories": [
+      "Category:Unix-based OS's"
+    ],
+    "url": "https://gunkies.org/wiki/XENIX",
+    "revision": 36439,
+    "revision_timestamp": "2025-07-01T01:03:46Z",
+    "wikitext_sha256": "561af528936236facf409b17c76f40e9200e6127c450011dcdea2f7619c96882"
+  },
+  {
+    "page_id": 8601,
+    "title": "Xv6",
+    "categories": [
+      "Category:Unix OS's"
+    ],
+    "url": "https://gunkies.org/wiki/Xv6",
+    "revision": 33761,
+    "revision_timestamp": "2024-02-29T17:07:56Z",
+    "wikitext_sha256": "cc8915b0f62b536ace19e7bd3d27791a4443f5a304e3964ab328c701e780517f"
+  },
+  {
+    "page_id": 6325,
+    "title": "XXDP diagnostic package",
+    "categories": [
+      "Category:PDP-11 Diagnostic Software",
+      "Category:PDP-11 Operating Systems"
+    ],
+    "url": "https://gunkies.org/wiki/XXDP_diagnostic_package",
+    "revision": 35177,
+    "revision_timestamp": "2024-08-29T07:56:50Z",
+    "wikitext_sha256": "eef78d76b71add0e81fb34c9177299d42686938ee3d3a25ae565d6504199355e"
+  },
+  {
+    "page_id": 7659,
+    "title": "Yggdrasil Linux",
+    "categories": [
+      "Category:Linux"
+    ],
+    "url": "https://gunkies.org/wiki/Yggdrasil_Linux",
+    "revision": 29556,
+    "revision_timestamp": "2023-05-21T08:04:11Z",
+    "wikitext_sha256": "76526cec2259e7011cc1c5b625731d1fdc9e006fe71da420a9e0a5c8e00e5fc6"
+  }
+]

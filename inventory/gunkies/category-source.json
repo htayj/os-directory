@@ -1,0 +1,223 @@
+{
+  "schema_version": "0.1",
+  "title": "Computer History Wiki recursive operating-system category corpus",
+  "root_category": "Category:Operating Systems",
+  "root_url": "https://gunkies.org/wiki/Category:Operating_Systems",
+  "observed_at": "2026-07-29T13:01:34+00:00",
+  "maximum_category_depth": 4,
+  "category_count": 35,
+  "page_count": 330,
+  "scope_note": "Every namespace-0 page reachable through recursive category membership below the root is retained. Category membership is a discovery signal, not proof that a page describes an operating system.",
+  "categories": [
+    {
+      "title": "Category:Operating Systems",
+      "depth": 0,
+      "page_members": 33,
+      "subcategory_members": 13
+    },
+    {
+      "title": "Category:Apple Operating Systems",
+      "depth": 1,
+      "page_members": 10,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:DEC Operating Systems",
+      "depth": 1,
+      "page_members": 15,
+      "subcategory_members": 5
+    },
+    {
+      "title": "Category:DOS",
+      "depth": 1,
+      "page_members": 4,
+      "subcategory_members": 1
+    },
+    {
+      "title": "Category:File Systems",
+      "depth": 1,
+      "page_members": 13,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:IBM Operating Systems",
+      "depth": 1,
+      "page_members": 6,
+      "subcategory_members": 1
+    },
+    {
+      "title": "Category:Microsoft Operating Systems",
+      "depth": 1,
+      "page_members": 21,
+      "subcategory_members": 2
+    },
+    {
+      "title": "Category:Non-DEC Operating Systems",
+      "depth": 1,
+      "page_members": 38,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:OS Basics",
+      "depth": 1,
+      "page_members": 29,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:OS Concepts",
+      "depth": 1,
+      "page_members": 3,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:Operating Environments",
+      "depth": 1,
+      "page_members": 4,
+      "subcategory_members": 2
+    },
+    {
+      "title": "Category:PDP-8 Operating Systems",
+      "depth": 1,
+      "page_members": 3,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:Real-Time Operating Systems",
+      "depth": 1,
+      "page_members": 3,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:UNIX",
+      "depth": 1,
+      "page_members": 13,
+      "subcategory_members": 6
+    },
+    {
+      "title": "Category:CSRG BSD",
+      "depth": 2,
+      "page_members": 24,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:DOS (Compatible PCs)",
+      "depth": 2,
+      "page_members": 2,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:DOS Enhancements",
+      "depth": 2,
+      "page_members": 8,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:Microsoft Operating Environments",
+      "depth": 2,
+      "page_members": 10,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:OS/2",
+      "depth": 2,
+      "page_members": 4,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:PDP-10 Operating Systems",
+      "depth": 2,
+      "page_members": 12,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:PDP-11 Diagnostic Software",
+      "depth": 2,
+      "page_members": 2,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:PDP-11 Operating Systems",
+      "depth": 2,
+      "page_members": 35,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:UNIX Applications",
+      "depth": 2,
+      "page_members": 6,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:UNIX Clones",
+      "depth": 2,
+      "page_members": 6,
+      "subcategory_members": 1
+    },
+    {
+      "title": "Category:UNIX Practical Guides",
+      "depth": 2,
+      "page_members": 18,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:Unix OS's",
+      "depth": 2,
+      "page_members": 29,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:Unix-based OS's",
+      "depth": 2,
+      "page_members": 38,
+      "subcategory_members": 3
+    },
+    {
+      "title": "Category:VAX Operating Systems",
+      "depth": 2,
+      "page_members": 6,
+      "subcategory_members": 2
+    },
+    {
+      "title": "Category:Linux",
+      "depth": 3,
+      "page_members": 9,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:ULTRIX",
+      "depth": 3,
+      "page_members": 12,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:VENIX",
+      "depth": 3,
+      "page_members": 2,
+      "subcategory_members": 1
+    },
+    {
+      "title": "Category:VMS",
+      "depth": 3,
+      "page_members": 5,
+      "subcategory_members": 2
+    },
+    {
+      "title": "Category:DEC Humor",
+      "depth": 4,
+      "page_members": 2,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:VENIX Tutorials",
+      "depth": 4,
+      "page_members": 1,
+      "subcategory_members": 0
+    },
+    {
+      "title": "Category:VMS Practical Guides",
+      "depth": 4,
+      "page_members": 13,
+      "subcategory_members": 0
+    }
+  ]
+}

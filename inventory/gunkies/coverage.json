@@ -1,0 +1,4555 @@
+{
+  "schema_version": "0.1",
+  "as_of": "2026-07-29",
+  "source": "inventory/gunkies/category-source.json",
+  "scope_note": "Every recursively discovered category page has a disposition. Category membership alone does not establish an operating-system identity.",
+  "entry_count": 330,
+  "entries": [
+    {
+      "page_title": "2.10BSD",
+      "page_id": 3093,
+      "url": "https://gunkies.org/wiki/2.10BSD",
+      "revision": 27993,
+      "categories": [
+        "Category:CSRG BSD",
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "2.11BSD",
+      "page_id": 3104,
+      "url": "https://gunkies.org/wiki/2.11BSD",
+      "revision": 27994,
+      "categories": [
+        "Category:CSRG BSD",
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "2.9BSD",
+      "page_id": 2498,
+      "url": "https://gunkies.org/wiki/2.9BSD",
+      "revision": 36259,
+      "categories": [
+        "Category:CSRG BSD",
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "286 DOS-Extender",
+      "page_id": 8444,
+      "url": "https://gunkies.org/wiki/286_DOS-Extender",
+      "revision": 33112,
+      "categories": [
+        "Category:DOS Enhancements"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:DOS Enhancements."
+    },
+    {
+      "page_title": "386 BSD 0.1",
+      "page_id": 1362,
+      "url": "https://gunkies.org/wiki/386_BSD_0.1",
+      "revision": 19718,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/386bsd"
+      ],
+      "note": "386BSD release, patch level, or announcement"
+    },
+    {
+      "page_title": "386 BSD 0.1 pl23",
+      "page_id": 1363,
+      "url": "https://gunkies.org/wiki/386_BSD_0.1_pl23",
+      "revision": 19719,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/386bsd"
+      ],
+      "note": "386BSD release, patch level, or announcement"
+    },
+    {
+      "page_title": "386 BSD 0.1 pl24",
+      "page_id": 1365,
+      "url": "https://gunkies.org/wiki/386_BSD_0.1_pl24",
+      "revision": 19720,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/386bsd"
+      ],
+      "note": "386BSD release, patch level, or announcement"
+    },
+    {
+      "page_title": "386 DOS-Extender",
+      "page_id": 2671,
+      "url": "https://gunkies.org/wiki/386_DOS-Extender",
+      "revision": 35325,
+      "categories": [
+        "Category:DOS Enhancements"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:DOS Enhancements."
+    },
+    {
+      "page_title": "386BSD",
+      "page_id": 478,
+      "url": "https://gunkies.org/wiki/386BSD",
+      "revision": 36295,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/386bsd"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "386BSD 0.0",
+      "page_id": 1349,
+      "url": "https://gunkies.org/wiki/386BSD_0.0",
+      "revision": 23096,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/386bsd"
+      ],
+      "note": "386BSD release, patch level, or announcement"
+    },
+    {
+      "page_title": "386BSD 0.0 announcement",
+      "page_id": 1351,
+      "url": "https://gunkies.org/wiki/386BSD_0.0_announcement",
+      "revision": 21298,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/386bsd"
+      ],
+      "note": "386BSD release, patch level, or announcement"
+    },
+    {
+      "page_title": "386BSD 0.1 announcement",
+      "page_id": 1094,
+      "url": "https://gunkies.org/wiki/386BSD_0.1_announcement",
+      "revision": 19713,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/386bsd"
+      ],
+      "note": "386BSD release, patch level, or announcement"
+    },
+    {
+      "page_title": "386BSD 1.0",
+      "page_id": 1095,
+      "url": "https://gunkies.org/wiki/386BSD_1.0",
+      "revision": 19717,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/386bsd"
+      ],
+      "note": "386BSD release, patch level, or announcement"
+    },
+    {
+      "page_title": "3BSD",
+      "page_id": 386,
+      "url": "https://gunkies.org/wiki/3BSD",
+      "revision": 32205,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "4.1 BSD",
+      "page_id": 2636,
+      "url": "https://gunkies.org/wiki/4.1_BSD",
+      "revision": 16950,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "4.2 BSD",
+      "page_id": 348,
+      "url": "https://gunkies.org/wiki/4.2_BSD",
+      "revision": 35686,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "4.3 BSD",
+      "page_id": 315,
+      "url": "https://gunkies.org/wiki/4.3_BSD",
+      "revision": 36756,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "4.3 BSD Quasijarus",
+      "page_id": 504,
+      "url": "https://gunkies.org/wiki/4.3_BSD_Quasijarus",
+      "revision": 21300,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "4.3 BSD Reno",
+      "page_id": 503,
+      "url": "https://gunkies.org/wiki/4.3_BSD_Reno",
+      "revision": 35684,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "4.3 BSD Tahoe",
+      "page_id": 502,
+      "url": "https://gunkies.org/wiki/4.3_BSD_Tahoe",
+      "revision": 35674,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "4.3 BSD+NFS Wisconsin Unix",
+      "page_id": 500,
+      "url": "https://gunkies.org/wiki/4.3_BSD%2BNFS_Wisconsin_Unix",
+      "revision": 36752,
+      "categories": [
+        "Category:CSRG BSD",
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "4.4BSD",
+      "page_id": 7115,
+      "url": "https://gunkies.org/wiki/4.4BSD",
+      "revision": 26755,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "4.4BSD Lite",
+      "page_id": 722,
+      "url": "https://gunkies.org/wiki/4.4BSD_Lite",
+      "revision": 26743,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "4.4BSD Lite Release 2",
+      "page_id": 1382,
+      "url": "https://gunkies.org/wiki/4.4BSD_Lite_Release_2",
+      "revision": 26745,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "4BSD",
+      "page_id": 388,
+      "url": "https://gunkies.org/wiki/4BSD",
+      "revision": 26884,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "86-DOS",
+      "page_id": 516,
+      "url": "https://gunkies.org/wiki/86-DOS",
+      "revision": 29659,
+      "categories": [
+        "Category:DOS"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/86-dos"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "A UNIX™ Operating System for the DEC VAX-11/780 Computer",
+      "page_id": 630,
+      "url": "https://gunkies.org/wiki/A_UNIX%E2%84%A2_Operating_System_for_the_DEC_VAX-11/780_Computer",
+      "revision": 36381,
+      "categories": [
+        "Category:Unix OS's"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/unix-32v"
+      ],
+      "note": "Historical paper."
+    },
+    {
+      "page_title": "A/UX",
+      "page_id": 378,
+      "url": "https://gunkies.org/wiki/A/UX",
+      "revision": 35745,
+      "categories": [
+        "Category:Apple Operating Systems",
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/a-ux"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Advanced Installation of Ultrix V2.0 on SIMH",
+      "page_id": 7148,
+      "url": "https://gunkies.org/wiki/Advanced_Installation_of_Ultrix_V2.0_on_SIMH",
+      "revision": 36779,
+      "categories": [
+        "Category:ULTRIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/ultrix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "AIX",
+      "page_id": 1177,
+      "url": "https://gunkies.org/wiki/AIX",
+      "revision": 23041,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-lineage-or-alias",
+      "catalog_records": [
+        "systems/ibm-aix"
+      ],
+      "note": "Catalog title is IBM AIX."
+    },
+    {
+      "page_title": "Amber Operating System",
+      "page_id": 5351,
+      "url": "https://gunkies.org/wiki/Amber_Operating_System",
+      "revision": 36992,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/amber-operating-system"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "AmigaDOS",
+      "page_id": 687,
+      "url": "https://gunkies.org/wiki/AmigaDOS",
+      "revision": 15311,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "covered-lineage-or-alias",
+      "catalog_records": [
+        "systems/amigaos"
+      ],
+      "note": "AmigaDOS is covered within the AmigaOS lineage."
+    },
+    {
+      "page_title": "AMIX",
+      "page_id": 2681,
+      "url": "https://gunkies.org/wiki/AMIX",
+      "revision": 19769,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/amiga-unix"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "An introduction to the UNIX ed line editor",
+      "page_id": 7108,
+      "url": "https://gunkies.org/wiki/An_introduction_to_the_UNIX_ed_line_editor",
+      "revision": 26725,
+      "categories": [
+        "Category:UNIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX."
+    },
+    {
+      "page_title": "ANTS terminal system",
+      "page_id": 6603,
+      "url": "https://gunkies.org/wiki/ANTS_terminal_system",
+      "revision": 26800,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/ants-terminal-system"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "APEX",
+      "page_id": 4202,
+      "url": "https://gunkies.org/wiki/APEX",
+      "revision": 36818,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/apex-tx-2"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "Apple DOS",
+      "page_id": 592,
+      "url": "https://gunkies.org/wiki/Apple_DOS",
+      "revision": 29710,
+      "categories": [
+        "Category:Apple Operating Systems",
+        "Category:DOS"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/apple-dos"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Atari TOS",
+      "page_id": 4208,
+      "url": "https://gunkies.org/wiki/Atari_TOS",
+      "revision": 32944,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/atari-tos"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "August",
+      "page_id": 4205,
+      "url": "https://gunkies.org/wiki/August",
+      "revision": 32028,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-10 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/august"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "Batch operating system",
+      "page_id": 3836,
+      "url": "https://gunkies.org/wiki/Batch_operating_system",
+      "revision": 27642,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Batch processing",
+      "page_id": 6287,
+      "url": "https://gunkies.org/wiki/Batch_processing",
+      "revision": 36980,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Berkeley Time-Sharing System",
+      "page_id": 4228,
+      "url": "https://gunkies.org/wiki/Berkeley_Time-Sharing_System",
+      "revision": 36698,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/berkeley-timesharing-system"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Booting a real MicroVAX 2000 from an ULTRIX V3.0 DMS Server on a SIMH MicroVAX 3900",
+      "page_id": 7230,
+      "url": "https://gunkies.org/wiki/Booting_a_real_MicroVAX_2000_from_an_ULTRIX_V3.0_DMS_Server_on_a_SIMH_MicroVAX_3900",
+      "revision": 27112,
+      "categories": [
+        "Category:ULTRIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/ultrix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "BSD",
+      "page_id": 606,
+      "url": "https://gunkies.org/wiki/BSD",
+      "revision": 36754,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-lineage-or-alias",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD family page."
+    },
+    {
+      "page_title": "BSD Daemon",
+      "page_id": 1118,
+      "url": "https://gunkies.org/wiki/BSD_Daemon",
+      "revision": 20135,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "Mascot, not an operating system."
+    },
+    {
+      "page_title": "BSD Fast File System",
+      "page_id": 3239,
+      "url": "https://gunkies.org/wiki/BSD_Fast_File_System",
+      "revision": 36293,
+      "categories": [
+        "Category:CSRG BSD",
+        "Category:File Systems",
+        "Category:UNIX"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "File system."
+    },
+    {
+      "page_title": "BSD on VAX",
+      "page_id": 416,
+      "url": "https://gunkies.org/wiki/BSD_on_VAX",
+      "revision": 25759,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "Historical context page."
+    },
+    {
+      "page_title": "BSD/386",
+      "page_id": 1078,
+      "url": "https://gunkies.org/wiki/BSD/386",
+      "revision": 25772,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/bsd-os"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "BSD/OS",
+      "page_id": 724,
+      "url": "https://gunkies.org/wiki/BSD/OS",
+      "revision": 20054,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/bsd-os"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "Bug fixes and changes in 4.1bsd",
+      "page_id": 2644,
+      "url": "https://gunkies.org/wiki/Bug_fixes_and_changes_in_4.1bsd",
+      "revision": 19179,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:CSRG BSD."
+    },
+    {
+      "page_title": "Byte stream",
+      "page_id": 4119,
+      "url": "https://gunkies.org/wiki/Byte_stream",
+      "revision": 36113,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "CAL Time-Sharing System",
+      "page_id": 7766,
+      "url": "https://gunkies.org/wiki/CAL_Time-Sharing_System",
+      "revision": 32655,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/cal-time-sharing-system"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "Camexec",
+      "page_id": 4299,
+      "url": "https://gunkies.org/wiki/Camexec",
+      "revision": 34032,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/camexec"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "CB-UNIX",
+      "page_id": 6576,
+      "url": "https://gunkies.org/wiki/CB-UNIX",
+      "revision": 28319,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/cb-unix"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Coherent",
+      "page_id": 2561,
+      "url": "https://gunkies.org/wiki/Coherent",
+      "revision": 34065,
+      "categories": [
+        "Category:UNIX Clones"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/coherent"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Command processor",
+      "page_id": 4012,
+      "url": "https://gunkies.org/wiki/Command_processor",
+      "revision": 27825,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Compatible Time-Sharing System",
+      "page_id": 4009,
+      "url": "https://gunkies.org/wiki/Compatible_Time-Sharing_System",
+      "revision": 36989,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/compatible-time-sharing-system"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "CP operating system",
+      "page_id": 7452,
+      "url": "https://gunkies.org/wiki/CP_operating_system",
+      "revision": 30653,
+      "categories": [
+        "Category:IBM Operating Systems"
+      ],
+      "disposition": "covered-lineage-or-alias",
+      "catalog_records": [
+        "systems/cp-40",
+        "systems/cp-67",
+        "systems/cp-cms"
+      ],
+      "note": "The page describes the CP-40 and CP-67 virtual-machine lineage."
+    },
+    {
+      "page_title": "CP/M",
+      "page_id": 237,
+      "url": "https://gunkies.org/wiki/CP/M",
+      "revision": 36148,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/cp-m"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Customizing VMS V1.0",
+      "page_id": 6929,
+      "url": "https://gunkies.org/wiki/Customizing_VMS_V1.0",
+      "revision": 35197,
+      "categories": [
+        "Category:VMS Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:VMS Practical Guides."
+    },
+    {
+      "page_title": "Daemon",
+      "page_id": 7973,
+      "url": "https://gunkies.org/wiki/Daemon",
+      "revision": 30986,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Dartmouth Time Sharing System",
+      "page_id": 8368,
+      "url": "https://gunkies.org/wiki/Dartmouth_Time_Sharing_System",
+      "revision": 35338,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/dartmouth-time-sharing-system"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Darwin",
+      "page_id": 1339,
+      "url": "https://gunkies.org/wiki/Darwin",
+      "revision": 32852,
+      "categories": [
+        "Category:Apple Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/darwin"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Darwin 0.2",
+      "page_id": 3265,
+      "url": "https://gunkies.org/wiki/Darwin_0.2",
+      "revision": 20080,
+      "categories": [
+        "Category:Apple Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/darwin"
+      ],
+      "note": "Darwin release or release notes"
+    },
+    {
+      "page_title": "Darwin 1.4.1 Release notes",
+      "page_id": 1341,
+      "url": "https://gunkies.org/wiki/Darwin_1.4.1_Release_notes",
+      "revision": 19676,
+      "categories": [
+        "Category:Apple Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/darwin"
+      ],
+      "note": "Darwin release or release notes"
+    },
+    {
+      "page_title": "Darwin 6.0.1 Release notes",
+      "page_id": 1340,
+      "url": "https://gunkies.org/wiki/Darwin_6.0.1_Release_notes",
+      "revision": 32851,
+      "categories": [
+        "Category:Apple Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/darwin"
+      ],
+      "note": "Darwin release or release notes"
+    },
+    {
+      "page_title": "Darwin 7.0.1 Release notes",
+      "page_id": 1342,
+      "url": "https://gunkies.org/wiki/Darwin_7.0.1_Release_notes",
+      "revision": 19678,
+      "categories": [
+        "Category:Apple Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/darwin"
+      ],
+      "note": "Darwin release or release notes"
+    },
+    {
+      "page_title": "Darwin 8.0.1 Release notes",
+      "page_id": 1343,
+      "url": "https://gunkies.org/wiki/Darwin_8.0.1_Release_notes",
+      "revision": 19679,
+      "categories": [
+        "Category:Apple Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/darwin"
+      ],
+      "note": "Darwin release or release notes"
+    },
+    {
+      "page_title": "DECnet on VMS",
+      "page_id": 10,
+      "url": "https://gunkies.org/wiki/DECnet_on_VMS",
+      "revision": 35341,
+      "categories": [
+        "Category:VMS Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:VMS Practical Guides."
+    },
+    {
+      "page_title": "Dell UNIX",
+      "page_id": 736,
+      "url": "https://gunkies.org/wiki/Dell_UNIX",
+      "revision": 23103,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-lineage-or-alias",
+      "catalog_records": [
+        "systems/unix-system-v"
+      ],
+      "note": "Vendor System V distribution."
+    },
+    {
+      "page_title": "DEMOS",
+      "page_id": 2494,
+      "url": "https://gunkies.org/wiki/DEMOS",
+      "revision": 36149,
+      "categories": [
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/demos-soviet-unix"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "Device driver",
+      "page_id": 5222,
+      "url": "https://gunkies.org/wiki/Device_driver",
+      "revision": 19645,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Diagnostic Runtime Services",
+      "page_id": 8876,
+      "url": "https://gunkies.org/wiki/Diagnostic_Runtime_Services",
+      "revision": 35399,
+      "categories": [
+        "Category:PDP-11 Diagnostic Software"
+      ],
+      "disposition": "diagnostic-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:PDP-11 Diagnostic Software."
+    },
+    {
+      "page_title": "Digital UNIX",
+      "page_id": 8504,
+      "url": "https://gunkies.org/wiki/Digital_UNIX",
+      "revision": 33417,
+      "categories": [
+        "Category:DEC Operating Systems"
+      ],
+      "disposition": "covered-lineage-or-alias",
+      "catalog_records": [
+        "systems/digital-unix"
+      ],
+      "note": "Catalog title is Tru64 UNIX."
+    },
+    {
+      "page_title": "Directory",
+      "page_id": 3670,
+      "url": "https://gunkies.org/wiki/Directory",
+      "revision": 34339,
+      "categories": [
+        "Category:File Systems",
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:File Systems."
+    },
+    {
+      "page_title": "Disk operating system",
+      "page_id": 5590,
+      "url": "https://gunkies.org/wiki/Disk_operating_system",
+      "revision": 19593,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "DOS",
+      "page_id": 4015,
+      "url": "https://gunkies.org/wiki/DOS",
+      "revision": 29712,
+      "categories": [
+        "Category:DOS",
+        "Category:Operating Systems"
+      ],
+      "disposition": "grouping-page",
+      "catalog_records": [],
+      "note": "Ambiguous DOS family/grouping rather than one operating-system identity."
+    },
+    {
+      "page_title": "DOS extender",
+      "page_id": 1121,
+      "url": "https://gunkies.org/wiki/DOS_extender",
+      "revision": 36987,
+      "categories": [
+        "Category:DOS Enhancements"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:DOS Enhancements."
+    },
+    {
+      "page_title": "DOS Protected Mode Interface",
+      "page_id": 1123,
+      "url": "https://gunkies.org/wiki/DOS_Protected_Mode_Interface",
+      "revision": 23050,
+      "categories": [
+        "Category:DOS Enhancements"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:DOS Enhancements."
+    },
+    {
+      "page_title": "DOS-11",
+      "page_id": 6251,
+      "url": "https://gunkies.org/wiki/DOS-11",
+      "revision": 29709,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:DOS",
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "covered-lineage-or-alias",
+      "catalog_records": [
+        "systems/batch-11-dos-11"
+      ],
+      "note": "Covered by the combined DEC BATCH-11/DOS-11 lineage."
+    },
+    {
+      "page_title": "DOS/4GW",
+      "page_id": 615,
+      "url": "https://gunkies.org/wiki/DOS/4GW",
+      "revision": 20458,
+      "categories": [
+        "Category:DOS Enhancements"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:DOS Enhancements."
+    },
+    {
+      "page_title": "DOS/BATCH",
+      "page_id": 171,
+      "url": "https://gunkies.org/wiki/DOS/BATCH",
+      "revision": 16738,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "covered-lineage-or-alias",
+      "catalog_records": [
+        "systems/batch-11-dos-11"
+      ],
+      "note": "Covered by the combined DEC BATCH-11/DOS-11 lineage."
+    },
+    {
+      "page_title": "Eedsp",
+      "page_id": 499,
+      "url": "https://gunkies.org/wiki/Eedsp",
+      "revision": 36755,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "hardware-or-site",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "A VAX host/site, not an operating system."
+    },
+    {
+      "page_title": "ELF operating system",
+      "page_id": 6605,
+      "url": "https://gunkies.org/wiki/ELF_operating_system",
+      "revision": 27849,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/elf-operating-system"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "FAT file system",
+      "page_id": 7461,
+      "url": "https://gunkies.org/wiki/FAT_file_system",
+      "revision": 30048,
+      "categories": [
+        "Category:File Systems",
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:File Systems."
+    },
+    {
+      "page_title": "File",
+      "page_id": 3787,
+      "url": "https://gunkies.org/wiki/File",
+      "revision": 36134,
+      "categories": [
+        "Category:File Systems"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:File Systems."
+    },
+    {
+      "page_title": "File system",
+      "page_id": 3665,
+      "url": "https://gunkies.org/wiki/File_system",
+      "revision": 36135,
+      "categories": [
+        "Category:File Systems",
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:File Systems."
+    },
+    {
+      "page_title": "Flex",
+      "page_id": 6899,
+      "url": "https://gunkies.org/wiki/Flex",
+      "revision": 25782,
+      "categories": [
+        "Category:UNIX Applications"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX Applications."
+    },
+    {
+      "page_title": "FOONEX",
+      "page_id": 4130,
+      "url": "https://gunkies.org/wiki/FOONEX",
+      "revision": 23025,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-10 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/foonex"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "FreeBSD",
+      "page_id": 1337,
+      "url": "https://gunkies.org/wiki/FreeBSD",
+      "revision": 36297,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/freebsd"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "FreeBSD 1.0 EPSILON announcement",
+      "page_id": 1338,
+      "url": "https://gunkies.org/wiki/FreeBSD_1.0_EPSILON_announcement",
+      "revision": 19697,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/freebsd"
+      ],
+      "note": "FreeBSD release or announcement"
+    },
+    {
+      "page_title": "FreeBSD 1.0 GAMMA announcement",
+      "page_id": 1357,
+      "url": "https://gunkies.org/wiki/FreeBSD_1.0_GAMMA_announcement",
+      "revision": 19698,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/freebsd"
+      ],
+      "note": "FreeBSD release or announcement"
+    },
+    {
+      "page_title": "Fuzzball",
+      "page_id": 4298,
+      "url": "https://gunkies.org/wiki/Fuzzball",
+      "revision": 36303,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/fuzzball-operating-system"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "Geos",
+      "page_id": 716,
+      "url": "https://gunkies.org/wiki/Geos",
+      "revision": 23060,
+      "categories": [
+        "Category:Operating Environments"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/geos"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "GNU",
+      "page_id": 598,
+      "url": "https://gunkies.org/wiki/GNU",
+      "revision": 33590,
+      "categories": [
+        "Category:UNIX Clones"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/gnu"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Gordon Letwin OS/2 usenet post",
+      "page_id": 425,
+      "url": "https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post",
+      "revision": 20001,
+      "categories": [
+        "Category:OS/2"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS/2."
+    },
+    {
+      "page_title": "Hard link",
+      "page_id": 4663,
+      "url": "https://gunkies.org/wiki/Hard_link",
+      "revision": 19866,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Hypervisor",
+      "page_id": 5287,
+      "url": "https://gunkies.org/wiki/Hypervisor",
+      "revision": 32823,
+      "categories": [
+        "Category:OS Concepts"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Concepts."
+    },
+    {
+      "page_title": "IBM OS/2 SE 1.0 announcement",
+      "page_id": 2663,
+      "url": "https://gunkies.org/wiki/IBM_OS/2_SE_1.0_announcement",
+      "revision": 36396,
+      "categories": [
+        "Category:OS/2"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS/2."
+    },
+    {
+      "page_title": "Incompatible Timesharing System",
+      "page_id": 441,
+      "url": "https://gunkies.org/wiki/Incompatible_Timesharing_System",
+      "revision": 36620,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-10 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/incompatible-timesharing-system"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Inside OS/2",
+      "page_id": 2666,
+      "url": "https://gunkies.org/wiki/Inside_OS/2",
+      "revision": 36401,
+      "categories": [
+        "Category:OS/2"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS/2."
+    },
+    {
+      "page_title": "Installing 2.9 BSD on SIMH",
+      "page_id": 2739,
+      "url": "https://gunkies.org/wiki/Installing_2.9_BSD_on_SIMH",
+      "revision": 22317,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Installing 386BSD 1.0 on Qemu",
+      "page_id": 1100,
+      "url": "https://gunkies.org/wiki/Installing_386BSD_1.0_on_Qemu",
+      "revision": 19808,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/386bsd"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Installing 386BSD on BOCHS",
+      "page_id": 1059,
+      "url": "https://gunkies.org/wiki/Installing_386BSD_on_BOCHS",
+      "revision": 29098,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/386bsd"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Installing and Configuring an ULTRIX V3.0 DMS Server on a SIMH MicroVAX 3900",
+      "page_id": 7189,
+      "url": "https://gunkies.org/wiki/Installing_and_Configuring_an_ULTRIX_V3.0_DMS_Server_on_a_SIMH_MicroVAX_3900",
+      "revision": 35359,
+      "categories": [
+        "Category:ULTRIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/ultrix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Installing and Configuring MicroVMS V4.0 on a MicroVAX I",
+      "page_id": 7858,
+      "url": "https://gunkies.org/wiki/Installing_and_Configuring_MicroVMS_V4.0_on_a_MicroVAX_I",
+      "revision": 36956,
+      "categories": [
+        "Category:VMS Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:VMS Practical Guides."
+    },
+    {
+      "page_title": "Installing and Testing Asynchronous DECnet over DDCMP between two MicroVAX Computers",
+      "page_id": 9124,
+      "url": "https://gunkies.org/wiki/Installing_and_Testing_Asynchronous_DECnet_over_DDCMP_between_two_MicroVAX_Computers",
+      "revision": 36677,
+      "categories": [
+        "Category:VMS Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:VMS Practical Guides."
+    },
+    {
+      "page_title": "Installing FreeBSD 2.0 On Virtualbox",
+      "page_id": 7553,
+      "url": "https://gunkies.org/wiki/Installing_FreeBSD_2.0_On_Virtualbox",
+      "revision": 29099,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/freebsd"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Installing MicroVMS V4.6 on SIMH",
+      "page_id": 7101,
+      "url": "https://gunkies.org/wiki/Installing_MicroVMS_V4.6_on_SIMH",
+      "revision": 31246,
+      "categories": [
+        "Category:VMS Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:VMS Practical Guides."
+    },
+    {
+      "page_title": "Installing MicroVMS V4.7 and VAX Workstation Software V3.3 on SIMH",
+      "page_id": 8899,
+      "url": "https://gunkies.org/wiki/Installing_MicroVMS_V4.7_and_VAX_Workstation_Software_V3.3_on_SIMH",
+      "revision": 35292,
+      "categories": [
+        "Category:VMS Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:VMS Practical Guides."
+    },
+    {
+      "page_title": "Installing Minix 1.5 for the 8086",
+      "page_id": 2645,
+      "url": "https://gunkies.org/wiki/Installing_Minix_1.5_for_the_8086",
+      "revision": 20011,
+      "categories": [
+        "Category:UNIX Clones"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/minix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Installing Ultrix 4.0 on SIMH",
+      "page_id": 547,
+      "url": "https://gunkies.org/wiki/Installing_Ultrix_4.0_on_SIMH",
+      "revision": 26889,
+      "categories": [
+        "Category:ULTRIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/ultrix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Installing Ultrix 4.5 on SIMH",
+      "page_id": 2756,
+      "url": "https://gunkies.org/wiki/Installing_Ultrix_4.5_on_SIMH",
+      "revision": 31672,
+      "categories": [
+        "Category:ULTRIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/ultrix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Installing Ultrix V1.1 on SIMH",
+      "page_id": 7105,
+      "url": "https://gunkies.org/wiki/Installing_Ultrix_V1.1_on_SIMH",
+      "revision": 36778,
+      "categories": [
+        "Category:ULTRIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/ultrix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Installing ULTRIX-11 V1.0 on SIMH",
+      "page_id": 7794,
+      "url": "https://gunkies.org/wiki/Installing_ULTRIX-11_V1.0_on_SIMH",
+      "revision": 30179,
+      "categories": [
+        "Category:ULTRIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/ultrix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Installing Unix Seventh Edition",
+      "page_id": 3008,
+      "url": "https://gunkies.org/wiki/Installing_Unix_Seventh_Edition",
+      "revision": 22676,
+      "categories": [
+        "Category:UNIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Installing UNIX Sixth Edition",
+      "page_id": 2998,
+      "url": "https://gunkies.org/wiki/Installing_UNIX_Sixth_Edition",
+      "revision": 34766,
+      "categories": [
+        "Category:UNIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Installing UNIX Sixth Edition on Ersatz-11",
+      "page_id": 3018,
+      "url": "https://gunkies.org/wiki/Installing_UNIX_Sixth_Edition_on_Ersatz-11",
+      "revision": 20750,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Installing VMS V1.0 on SIMH",
+      "page_id": 6923,
+      "url": "https://gunkies.org/wiki/Installing_VMS_V1.0_on_SIMH",
+      "revision": 28292,
+      "categories": [
+        "Category:VMS Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:VMS Practical Guides."
+    },
+    {
+      "page_title": "Installing VMS V2.0 on SIMH",
+      "page_id": 6996,
+      "url": "https://gunkies.org/wiki/Installing_VMS_V2.0_on_SIMH",
+      "revision": 35434,
+      "categories": [
+        "Category:VMS Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:VMS Practical Guides."
+    },
+    {
+      "page_title": "Installing, Configuring, and Testing A VMS V4.7 Local Area VAXcluster on SIMH",
+      "page_id": 7234,
+      "url": "https://gunkies.org/wiki/Installing,_Configuring,_and_Testing_A_VMS_V4.7_Local_Area_VAXcluster_on_SIMH",
+      "revision": 36662,
+      "categories": [
+        "Category:VMS Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:VMS Practical Guides."
+    },
+    {
+      "page_title": "Installing, Configuring, and Testing DECnet V1.3 on VMS V2.0",
+      "page_id": 6998,
+      "url": "https://gunkies.org/wiki/Installing,_Configuring,_and_Testing_DECnet_V1.3_on_VMS_V2.0",
+      "revision": 35363,
+      "categories": [
+        "Category:VMS Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:VMS Practical Guides."
+    },
+    {
+      "page_title": "Interactive Application System",
+      "page_id": 8880,
+      "url": "https://gunkies.org/wiki/Interactive_Application_System",
+      "revision": 35198,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Real-Time Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/interactive-application-system"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "ITS 138",
+      "page_id": 8211,
+      "url": "https://gunkies.org/wiki/ITS_138",
+      "revision": 33054,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-10 Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/incompatible-timesharing-system"
+      ],
+      "note": "ITS version"
+    },
+    {
+      "page_title": "ITS Internals Manual",
+      "page_id": 8134,
+      "url": "https://gunkies.org/wiki/ITS_Internals_Manual",
+      "revision": 31984,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-10 Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/incompatible-timesharing-system"
+      ],
+      "note": "ITS manual."
+    },
+    {
+      "page_title": "ITS on-disk file system layout",
+      "page_id": 7785,
+      "url": "https://gunkies.org/wiki/ITS_on-disk_file_system_layout",
+      "revision": 33020,
+      "categories": [
+        "Category:File Systems"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:File Systems."
+    },
+    {
+      "page_title": "Job",
+      "page_id": 5083,
+      "url": "https://gunkies.org/wiki/Job",
+      "revision": 36562,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "JOSS",
+      "page_id": 6768,
+      "url": "https://gunkies.org/wiki/JOSS",
+      "revision": 30142,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/joss"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "Kernel",
+      "page_id": 4766,
+      "url": "https://gunkies.org/wiki/Kernel",
+      "revision": 25172,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Kernel process",
+      "page_id": 8439,
+      "url": "https://gunkies.org/wiki/Kernel_process",
+      "revision": 33090,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Lex",
+      "page_id": 6898,
+      "url": "https://gunkies.org/wiki/Lex",
+      "revision": 25781,
+      "categories": [
+        "Category:UNIX Applications"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX Applications."
+    },
+    {
+      "page_title": "Linux",
+      "page_id": 234,
+      "url": "https://gunkies.org/wiki/Linux",
+      "revision": 33758,
+      "categories": [
+        "Category:Linux"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/linux"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Linux 0.00",
+      "page_id": 1184,
+      "url": "https://gunkies.org/wiki/Linux_0.00",
+      "revision": 20262,
+      "categories": [
+        "Category:Linux"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/linux"
+      ],
+      "note": "Linux kernel release"
+    },
+    {
+      "page_title": "Linux 0.01",
+      "page_id": 1190,
+      "url": "https://gunkies.org/wiki/Linux_0.01",
+      "revision": 20263,
+      "categories": [
+        "Category:Linux"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/linux"
+      ],
+      "note": "Linux kernel release"
+    },
+    {
+      "page_title": "Linux 0.02",
+      "page_id": 1191,
+      "url": "https://gunkies.org/wiki/Linux_0.02",
+      "revision": 20264,
+      "categories": [
+        "Category:Linux"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/linux"
+      ],
+      "note": "Linux kernel release"
+    },
+    {
+      "page_title": "Linux 0.11",
+      "page_id": 1187,
+      "url": "https://gunkies.org/wiki/Linux_0.11",
+      "revision": 20259,
+      "categories": [
+        "Category:Linux"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/linux"
+      ],
+      "note": "Linux kernel release"
+    },
+    {
+      "page_title": "Linux 0.12",
+      "page_id": 1188,
+      "url": "https://gunkies.org/wiki/Linux_0.12",
+      "revision": 20267,
+      "categories": [
+        "Category:Linux"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/linux"
+      ],
+      "note": "Linux kernel release"
+    },
+    {
+      "page_title": "Linux 0.95a",
+      "page_id": 1189,
+      "url": "https://gunkies.org/wiki/Linux_0.95a",
+      "revision": 20265,
+      "categories": [
+        "Category:Linux"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/linux"
+      ],
+      "note": "Linux kernel release"
+    },
+    {
+      "page_title": "Linux 0.99pl9",
+      "page_id": 1194,
+      "url": "https://gunkies.org/wiki/Linux_0.99pl9",
+      "revision": 20266,
+      "categories": [
+        "Category:Linux"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/linux"
+      ],
+      "note": "Linux kernel release"
+    },
+    {
+      "page_title": "Lions book",
+      "page_id": 419,
+      "url": "https://gunkies.org/wiki/Lions_book",
+      "revision": 36289,
+      "categories": [
+        "Category:UNIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX."
+    },
+    {
+      "page_title": "List of SITS system calls",
+      "page_id": 7346,
+      "url": "https://gunkies.org/wiki/List_of_SITS_system_calls",
+      "revision": 29102,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/small-incompatible-timesharing-system"
+      ],
+      "note": "SITS interface list."
+    },
+    {
+      "page_title": "LSX",
+      "page_id": 6218,
+      "url": "https://gunkies.org/wiki/LSX",
+      "revision": 28114,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/lsx"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "Mac Minix 1.5.10.7",
+      "page_id": 1192,
+      "url": "https://gunkies.org/wiki/Mac_Minix_1.5.10.7",
+      "revision": 20010,
+      "categories": [
+        "Category:UNIX Clones"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/minix"
+      ],
+      "note": "MINIX Macintosh port/version"
+    },
+    {
+      "page_title": "Mac OS",
+      "page_id": 9112,
+      "url": "https://gunkies.org/wiki/Mac_OS",
+      "revision": 36604,
+      "categories": [
+        "Category:Apple Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/macos"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Mach",
+      "page_id": 582,
+      "url": "https://gunkies.org/wiki/Mach",
+      "revision": 21371,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "kernel-not-operating-system",
+      "catalog_records": [],
+      "note": "Mach is catalog-relevant kernel technology, not a standalone OS record here."
+    },
+    {
+      "page_title": "MacMiNT",
+      "page_id": 411,
+      "url": "https://gunkies.org/wiki/MacMiNT",
+      "revision": 28291,
+      "categories": [
+        "Category:Operating Environments"
+      ],
+      "disposition": "operating-environment",
+      "catalog_records": [
+        "systems/mint"
+      ],
+      "note": "MiNT-based Macintosh operating environment."
+    },
+    {
+      "page_title": "MacOS",
+      "page_id": 9114,
+      "url": "https://gunkies.org/wiki/MacOS",
+      "revision": 36606,
+      "categories": [
+        "Category:Apple Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/macos"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "MagicSix",
+      "page_id": 5178,
+      "url": "https://gunkies.org/wiki/MagicSix",
+      "revision": 35332,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/magicsix"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "MERT operating system",
+      "page_id": 6794,
+      "url": "https://gunkies.org/wiki/MERT_operating_system",
+      "revision": 36500,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-lineage-or-alias",
+      "catalog_records": [
+        "systems/mert"
+      ],
+      "note": "Catalog title is MERT."
+    },
+    {
+      "page_title": "Microkernel",
+      "page_id": 5266,
+      "url": "https://gunkies.org/wiki/Microkernel",
+      "revision": 32141,
+      "categories": [
+        "Category:OS Concepts"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Concepts."
+    },
+    {
+      "page_title": "Microport System V",
+      "page_id": 732,
+      "url": "https://gunkies.org/wiki/Microport_System_V",
+      "revision": 21795,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-lineage-or-alias",
+      "catalog_records": [
+        "systems/system-v-at-386"
+      ],
+      "note": "Catalog title is Microport System V/AT 386."
+    },
+    {
+      "page_title": "Microsoft Windows",
+      "page_id": 609,
+      "url": "https://gunkies.org/wiki/Microsoft_Windows",
+      "revision": 32879,
+      "categories": [
+        "Category:DOS Enhancements",
+        "Category:Microsoft Operating Environments",
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Microsoft Windows v3.0 Debug Release 1.14",
+      "page_id": 2992,
+      "url": "https://gunkies.org/wiki/Microsoft_Windows_v3.0_Debug_Release_1.14",
+      "revision": 19609,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Microsoft Windows prerelease"
+    },
+    {
+      "page_title": "Microsoft Windows-386 Being Delivered With Compaq 80386-Based PCs Through Dec. 31, 1987",
+      "page_id": 636,
+      "url": "https://gunkies.org/wiki/Microsoft_Windows-386_Being_Delivered_With_Compaq_80386-Based_PCs_Through_Dec._31,_1987",
+      "revision": 32856,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Contemporary announcement."
+    },
+    {
+      "page_title": "MicroVMS",
+      "page_id": 7539,
+      "url": "https://gunkies.org/wiki/MicroVMS",
+      "revision": 36671,
+      "categories": [
+        "Category:VMS"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/vms"
+      ],
+      "note": "OpenVMS/VAX-VMS product variant."
+    },
+    {
+      "page_title": "MINI-UNIX",
+      "page_id": 6206,
+      "url": "https://gunkies.org/wiki/MINI-UNIX",
+      "revision": 35879,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/mini-unix"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "MINITS",
+      "page_id": 4224,
+      "url": "https://gunkies.org/wiki/MINITS",
+      "revision": 36103,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/minits"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "Minix",
+      "page_id": 1183,
+      "url": "https://gunkies.org/wiki/Minix",
+      "revision": 20009,
+      "categories": [
+        "Category:UNIX Clones"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/minix"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "MOS operating system",
+      "page_id": 4321,
+      "url": "https://gunkies.org/wiki/MOS_operating_system",
+      "revision": 33097,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Real-Time Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/micro-operating-system"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "MS-DOS",
+      "page_id": 424,
+      "url": "https://gunkies.org/wiki/MS-DOS",
+      "revision": 29646,
+      "categories": [
+        "Category:DOS (Compatible PCs)",
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/ms-dos"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Multi-tasking",
+      "page_id": 3632,
+      "url": "https://gunkies.org/wiki/Multi-tasking",
+      "revision": 23652,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "MULTI-TREK",
+      "page_id": 7611,
+      "url": "https://gunkies.org/wiki/MULTI-TREK",
+      "revision": 36668,
+      "categories": [
+        "Category:VMS Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:VMS Practical Guides."
+    },
+    {
+      "page_title": "Multics",
+      "page_id": 526,
+      "url": "https://gunkies.org/wiki/Multics",
+      "revision": 35650,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/multics"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "MUSIC/SP",
+      "page_id": 436,
+      "url": "https://gunkies.org/wiki/MUSIC/SP",
+      "revision": 18227,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/music-sp"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "MVS",
+      "page_id": 327,
+      "url": "https://gunkies.org/wiki/MVS",
+      "revision": 24563,
+      "categories": [
+        "Category:IBM Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/mvs"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "Net/1",
+      "page_id": 1352,
+      "url": "https://gunkies.org/wiki/Net/1",
+      "revision": 19894,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "Net/2",
+      "page_id": 480,
+      "url": "https://gunkies.org/wiki/Net/2",
+      "revision": 28512,
+      "categories": [
+        "Category:CSRG BSD"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "BSD release or distribution"
+    },
+    {
+      "page_title": "NetBSD",
+      "page_id": 241,
+      "url": "https://gunkies.org/wiki/NetBSD",
+      "revision": 36302,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/netbsd"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "NetBSD 0.8",
+      "page_id": 1353,
+      "url": "https://gunkies.org/wiki/NetBSD_0.8",
+      "revision": 20273,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/netbsd"
+      ],
+      "note": "NetBSD release, announcement, or build notes"
+    },
+    {
+      "page_title": "NetBSD 0.8 announcement",
+      "page_id": 1335,
+      "url": "https://gunkies.org/wiki/NetBSD_0.8_announcement",
+      "revision": 19778,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/netbsd"
+      ],
+      "note": "NetBSD release, announcement, or build notes"
+    },
+    {
+      "page_title": "NetBSD 0.8 kernel building notes",
+      "page_id": 1371,
+      "url": "https://gunkies.org/wiki/NetBSD_0.8_kernel_building_notes",
+      "revision": 19779,
+      "categories": [
+        "Category:UNIX Practical Guides",
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/netbsd"
+      ],
+      "note": "NetBSD release, announcement, or build notes"
+    },
+    {
+      "page_title": "NetBSD 0.8 userland building notes",
+      "page_id": 1372,
+      "url": "https://gunkies.org/wiki/NetBSD_0.8_userland_building_notes",
+      "revision": 19780,
+      "categories": [
+        "Category:UNIX Practical Guides",
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/netbsd"
+      ],
+      "note": "NetBSD release, announcement, or build notes"
+    },
+    {
+      "page_title": "NetBSD 0.9",
+      "page_id": 1345,
+      "url": "https://gunkies.org/wiki/NetBSD_0.9",
+      "revision": 19781,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/netbsd"
+      ],
+      "note": "NetBSD release, announcement, or build notes"
+    },
+    {
+      "page_title": "NetBSD 0.9 announcement",
+      "page_id": 1336,
+      "url": "https://gunkies.org/wiki/NetBSD_0.9_announcement",
+      "revision": 19782,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/netbsd"
+      ],
+      "note": "NetBSD release, announcement, or build notes"
+    },
+    {
+      "page_title": "NetBSD 0.9a",
+      "page_id": 1361,
+      "url": "https://gunkies.org/wiki/NetBSD_0.9a",
+      "revision": 19886,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/netbsd"
+      ],
+      "note": "NetBSD release, announcement, or build notes"
+    },
+    {
+      "page_title": "NetBSD 1.2",
+      "page_id": 1348,
+      "url": "https://gunkies.org/wiki/NetBSD_1.2",
+      "revision": 19887,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/netbsd"
+      ],
+      "note": "NetBSD release, announcement, or build notes"
+    },
+    {
+      "page_title": "Network UNIX",
+      "page_id": 7364,
+      "url": "https://gunkies.org/wiki/Network_UNIX",
+      "revision": 27865,
+      "categories": [
+        "Category:Unix OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/network-unix"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "NeXTSTEP",
+      "page_id": 406,
+      "url": "https://gunkies.org/wiki/NeXTSTEP",
+      "revision": 28507,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/nextstep"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "NORD-OPS",
+      "page_id": 4457,
+      "url": "https://gunkies.org/wiki/NORD-OPS",
+      "revision": 27633,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/nord-ops"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "NORD-TSS",
+      "page_id": 3343,
+      "url": "https://gunkies.org/wiki/NORD-TSS",
+      "revision": 27640,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/nord-tss"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "ODS2",
+      "page_id": 7779,
+      "url": "https://gunkies.org/wiki/ODS2",
+      "revision": 35497,
+      "categories": [
+        "Category:File Systems",
+        "Category:VMS"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:File Systems."
+    },
+    {
+      "page_title": "OpenBSD",
+      "page_id": 423,
+      "url": "https://gunkies.org/wiki/OpenBSD",
+      "revision": 18250,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/openbsd"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Operating environment",
+      "page_id": 8391,
+      "url": "https://gunkies.org/wiki/Operating_environment",
+      "revision": 32878,
+      "categories": [
+        "Category:OS Concepts",
+        "Category:Operating Environments"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Concepts."
+    },
+    {
+      "page_title": "OS/2",
+      "page_id": 404,
+      "url": "https://gunkies.org/wiki/OS/2",
+      "revision": 36402,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/os-2"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "OS/360",
+      "page_id": 5689,
+      "url": "https://gunkies.org/wiki/OS/360",
+      "revision": 27629,
+      "categories": [
+        "Category:IBM Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/os-360"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "OS/8",
+      "page_id": 432,
+      "url": "https://gunkies.org/wiki/OS/8",
+      "revision": 28001,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:PDP-8 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/os-8"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Overpowered",
+      "page_id": 8856,
+      "url": "https://gunkies.org/wiki/Overpowered",
+      "revision": 35157,
+      "categories": [
+        "Category:DEC Humor"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:DEC Humor."
+    },
+    {
+      "page_title": "Page fault",
+      "page_id": 3780,
+      "url": "https://gunkies.org/wiki/Page_fault",
+      "revision": 20151,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Patching OS/2 for fast machines",
+      "page_id": 2600,
+      "url": "https://gunkies.org/wiki/Patching_OS/2_for_fast_machines",
+      "revision": 20003,
+      "categories": [
+        "Category:OS/2"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS/2."
+    },
+    {
+      "page_title": "PC-DOS",
+      "page_id": 6163,
+      "url": "https://gunkies.org/wiki/PC-DOS",
+      "revision": 29694,
+      "categories": [
+        "Category:DOS (Compatible PCs)",
+        "Category:IBM Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/pc-dos"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "PCLSRing",
+      "page_id": 6488,
+      "url": "https://gunkies.org/wiki/PCLSRing",
+      "revision": 31937,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "PDP-1-X Time Sharing System",
+      "page_id": 6486,
+      "url": "https://gunkies.org/wiki/PDP-1-X_Time_Sharing_System",
+      "revision": 36067,
+      "categories": [
+        "Category:Non-DEC Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/pdp-1-x-time-sharing-system"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "PDP-7 UNIX",
+      "page_id": 6513,
+      "url": "https://gunkies.org/wiki/PDP-7_UNIX",
+      "revision": 36580,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Early Research Unix hardware/version context."
+    },
+    {
+      "page_title": "Pipe",
+      "page_id": 5093,
+      "url": "https://gunkies.org/wiki/Pipe",
+      "revision": 36433,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Playing DUNGEON on VMS V1.0",
+      "page_id": 6966,
+      "url": "https://gunkies.org/wiki/Playing_DUNGEON_on_VMS_V1.0",
+      "revision": 27147,
+      "categories": [
+        "Category:VMS Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:VMS Practical Guides."
+    },
+    {
+      "page_title": "PRIMOS",
+      "page_id": 5964,
+      "url": "https://gunkies.org/wiki/PRIMOS",
+      "revision": 21644,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/primos"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "PRO/VENIX",
+      "page_id": 7923,
+      "url": "https://gunkies.org/wiki/PRO/VENIX",
+      "revision": 32800,
+      "categories": [
+        "Category:VENIX"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/pro-venix"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "Process",
+      "page_id": 3759,
+      "url": "https://gunkies.org/wiki/Process",
+      "revision": 19851,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "ProDOS",
+      "page_id": 603,
+      "url": "https://gunkies.org/wiki/ProDOS",
+      "revision": 18280,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/prodos"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "PWB/UNIX",
+      "page_id": 6285,
+      "url": "https://gunkies.org/wiki/PWB/UNIX",
+      "revision": 36432,
+      "categories": [
+        "Category:Unix OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/pwb-unix"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "QNX",
+      "page_id": 2454,
+      "url": "https://gunkies.org/wiki/QNX",
+      "revision": 33614,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/qnx"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "QuickWin",
+      "page_id": 1073,
+      "url": "https://gunkies.org/wiki/QuickWin",
+      "revision": 20278,
+      "categories": [
+        "Category:Operating Environments"
+      ],
+      "disposition": "operating-environment",
+      "catalog_records": [],
+      "note": "Page belongs to Category:Operating Environments."
+    },
+    {
+      "page_title": "Real-time system",
+      "page_id": 3635,
+      "url": "https://gunkies.org/wiki/Real-time_system",
+      "revision": 33615,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Repairing early UNIX file systems",
+      "page_id": 7529,
+      "url": "https://gunkies.org/wiki/Repairing_early_UNIX_file_systems",
+      "revision": 30057,
+      "categories": [
+        "Category:File Systems",
+        "Category:UNIX",
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:File Systems."
+    },
+    {
+      "page_title": "RISOS/ARPA Terminal System",
+      "page_id": 6622,
+      "url": "https://gunkies.org/wiki/RISOS/ARPA_Terminal_System",
+      "revision": 36089,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/risos-arpa-terminal-system"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "RSTS/E",
+      "page_id": 7,
+      "url": "https://gunkies.org/wiki/RSTS/E",
+      "revision": 36147,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/rsts-e"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "RSX-11",
+      "page_id": 5,
+      "url": "https://gunkies.org/wiki/RSX-11",
+      "revision": 35188,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Real-Time Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/rsx-11"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "RT-11",
+      "page_id": 762,
+      "url": "https://gunkies.org/wiki/RT-11",
+      "revision": 36112,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/rt-11"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "RTEM-11 - RT-11 Virtualization in 1982",
+      "page_id": 9002,
+      "url": "https://gunkies.org/wiki/RTEM-11_-_RT-11_Virtualization_in_1982",
+      "revision": 36690,
+      "categories": [
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/rt-11"
+      ],
+      "note": "Article about RT-11 virtualization."
+    },
+    {
+      "page_title": "RTS-8",
+      "page_id": 4381,
+      "url": "https://gunkies.org/wiki/RTS-8",
+      "revision": 22441,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:PDP-8 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/rts-8"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "Running an LSI-11 from UNIX V6",
+      "page_id": 3019,
+      "url": "https://gunkies.org/wiki/Running_an_LSI-11_from_UNIX_V6",
+      "revision": 30239,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Running ITS (the Incompatible Timesharing System) on the KL-10",
+      "page_id": 7746,
+      "url": "https://gunkies.org/wiki/Running_ITS_(the_Incompatible_Timesharing_System)_on_the_KL-10",
+      "revision": 32543,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-10 Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/incompatible-timesharing-system"
+      ],
+      "note": "ITS operating guide."
+    },
+    {
+      "page_title": "Running UNIX v6 in SIMH",
+      "page_id": 426,
+      "url": "https://gunkies.org/wiki/Running_UNIX_v6_in_SIMH",
+      "revision": 36136,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Running UNIX V6 on an -11/23",
+      "page_id": 4232,
+      "url": "https://gunkies.org/wiki/Running_UNIX_V6_on_an_-11/23",
+      "revision": 36365,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Scheduler",
+      "page_id": 5517,
+      "url": "https://gunkies.org/wiki/Scheduler",
+      "revision": 19854,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Setting up (BSD 4.0) the Fourth Berkeley Software Tape",
+      "page_id": 2640,
+      "url": "https://gunkies.org/wiki/Setting_up_(BSD_4.0)_the_Fourth_Berkeley_Software_Tape",
+      "revision": 28419,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Setting Up RIS on ULTRIX V2.0",
+      "page_id": 7169,
+      "url": "https://gunkies.org/wiki/Setting_Up_RIS_on_ULTRIX_V2.0",
+      "revision": 26965,
+      "categories": [
+        "Category:ULTRIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/ultrix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Setting up the Third Berkeley Software Tape",
+      "page_id": 745,
+      "url": "https://gunkies.org/wiki/Setting_up_the_Third_Berkeley_Software_Tape",
+      "revision": 28420,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Setting Up Unix - Seventh Edition",
+      "page_id": 1305,
+      "url": "https://gunkies.org/wiki/Setting_Up_Unix_-_Seventh_Edition",
+      "revision": 28418,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Setting up UNIX - Sixth Edition",
+      "page_id": 1322,
+      "url": "https://gunkies.org/wiki/Setting_up_UNIX_-_Sixth_Edition",
+      "revision": 35400,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX Practical Guides."
+    },
+    {
+      "page_title": "Setting Up Version 1.0 of UNIX/32V Operating System",
+      "page_id": 628,
+      "url": "https://gunkies.org/wiki/Setting_Up_Version_1.0_of_UNIX/32V_Operating_System",
+      "revision": 28807,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/unix-32v"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "Single-tasking",
+      "page_id": 6165,
+      "url": "https://gunkies.org/wiki/Single-tasking",
+      "revision": 22461,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "SINTRAN",
+      "page_id": 3627,
+      "url": "https://gunkies.org/wiki/SINTRAN",
+      "revision": 24520,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/sintran"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "SINTRAN III",
+      "page_id": 3626,
+      "url": "https://gunkies.org/wiki/SINTRAN_III",
+      "revision": 18664,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/sintran-iii"
+      ],
+      "note": "Distinct SINTRAN III record."
+    },
+    {
+      "page_title": "SITS",
+      "page_id": 4621,
+      "url": "https://gunkies.org/wiki/SITS",
+      "revision": 36102,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/small-incompatible-timesharing-system"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "SITS file system",
+      "page_id": 7390,
+      "url": "https://gunkies.org/wiki/SITS_file_system",
+      "revision": 30052,
+      "categories": [
+        "Category:File Systems"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:File Systems."
+    },
+    {
+      "page_title": "Solaris",
+      "page_id": 473,
+      "url": "https://gunkies.org/wiki/Solaris",
+      "revision": 32850,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/solaris"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Spooler",
+      "page_id": 8939,
+      "url": "https://gunkies.org/wiki/Spooler",
+      "revision": 35582,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Stanford Time-Sharing System",
+      "page_id": 7748,
+      "url": "https://gunkies.org/wiki/Stanford_Time-Sharing_System",
+      "revision": 30030,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/stanford-time-sharing-system"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "SunOS",
+      "page_id": 319,
+      "url": "https://gunkies.org/wiki/SunOS",
+      "revision": 31924,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/sunos"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Swapping",
+      "page_id": 4398,
+      "url": "https://gunkies.org/wiki/Swapping",
+      "revision": 19588,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Symbolic link",
+      "page_id": 4662,
+      "url": "https://gunkies.org/wiki/Symbolic_link",
+      "revision": 31454,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "System call",
+      "page_id": 7111,
+      "url": "https://gunkies.org/wiki/System_call",
+      "revision": 26737,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Task",
+      "page_id": 4458,
+      "url": "https://gunkies.org/wiki/Task",
+      "revision": 19853,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "TENEX",
+      "page_id": 3831,
+      "url": "https://gunkies.org/wiki/TENEX",
+      "revision": 34763,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-10 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/tenex"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "TENEX file system layout",
+      "page_id": 6909,
+      "url": "https://gunkies.org/wiki/TENEX_file_system_layout",
+      "revision": 35471,
+      "categories": [
+        "Category:File Systems"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:File Systems."
+    },
+    {
+      "page_title": "Text terminals supported by WAITS",
+      "page_id": 7734,
+      "url": "https://gunkies.org/wiki/Text_terminals_supported_by_WAITS",
+      "revision": 35804,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/waits"
+      ],
+      "note": "WAITS terminal inventory."
+    },
+    {
+      "page_title": "THE VAXORCIST",
+      "page_id": 6918,
+      "url": "https://gunkies.org/wiki/THE_VAXORCIST",
+      "revision": 25893,
+      "categories": [
+        "Category:DEC Humor"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:DEC Humor."
+    },
+    {
+      "page_title": "The VMS-MicroVMS Merge",
+      "page_id": 7548,
+      "url": "https://gunkies.org/wiki/The_VMS-MicroVMS_Merge",
+      "revision": 33032,
+      "categories": [
+        "Category:VMS"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/vms"
+      ],
+      "note": "Product-line history."
+    },
+    {
+      "page_title": "Thread",
+      "page_id": 5272,
+      "url": "https://gunkies.org/wiki/Thread",
+      "revision": 32144,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Time-sharing",
+      "page_id": 3162,
+      "url": "https://gunkies.org/wiki/Time-sharing",
+      "revision": 36783,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "Top",
+      "page_id": 495,
+      "url": "https://gunkies.org/wiki/Top",
+      "revision": 34278,
+      "categories": [
+        "Category:UNIX Applications"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX Applications."
+    },
+    {
+      "page_title": "TOPS-10",
+      "page_id": 3802,
+      "url": "https://gunkies.org/wiki/TOPS-10",
+      "revision": 31940,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:PDP-10 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/tops-10"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "TOPS-20",
+      "page_id": 208,
+      "url": "https://gunkies.org/wiki/TOPS-20",
+      "revision": 34764,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:PDP-10 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/tops-20"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "TripOS",
+      "page_id": 4183,
+      "url": "https://gunkies.org/wiki/TripOS",
+      "revision": 15313,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/tripos"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "TROPIX",
+      "page_id": 507,
+      "url": "https://gunkies.org/wiki/TROPIX",
+      "revision": 20192,
+      "categories": [
+        "Category:UNIX Clones"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/tropix"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "TROPIX Manual",
+      "page_id": 518,
+      "url": "https://gunkies.org/wiki/TROPIX_Manual",
+      "revision": 21396,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/tropix"
+      ],
+      "note": "Manual for TROPIX."
+    },
+    {
+      "page_title": "TSR",
+      "page_id": 768,
+      "url": "https://gunkies.org/wiki/TSR",
+      "revision": 20451,
+      "categories": [
+        "Category:DOS Enhancements"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:DOS Enhancements."
+    },
+    {
+      "page_title": "TSS/8",
+      "page_id": 4382,
+      "url": "https://gunkies.org/wiki/TSS/8",
+      "revision": 21806,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:PDP-8 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/tss-8"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "TYMCOM-IX",
+      "page_id": 6900,
+      "url": "https://gunkies.org/wiki/TYMCOM-IX",
+      "revision": 25824,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/tymcom-ix"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "TYMCOM-X",
+      "page_id": 4134,
+      "url": "https://gunkies.org/wiki/TYMCOM-X",
+      "revision": 33887,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-10 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/tymcom-x"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "UCSB On-Line System",
+      "page_id": 8975,
+      "url": "https://gunkies.org/wiki/UCSB_On-Line_System",
+      "revision": 36290,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/ucsb-on-line-system"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "ULTRIX",
+      "page_id": 321,
+      "url": "https://gunkies.org/wiki/ULTRIX",
+      "revision": 36796,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:ULTRIX",
+        "Category:Unix-based OS's",
+        "Category:VAX Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/ultrix"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "ULTRIX Diskless Mangement Services",
+      "page_id": 7162,
+      "url": "https://gunkies.org/wiki/ULTRIX_Diskless_Mangement_Services",
+      "revision": 26968,
+      "categories": [
+        "Category:ULTRIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:ULTRIX."
+    },
+    {
+      "page_title": "ULTRIX Remote Console",
+      "page_id": 7164,
+      "url": "https://gunkies.org/wiki/ULTRIX_Remote_Console",
+      "revision": 36676,
+      "categories": [
+        "Category:ULTRIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/ultrix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "ULTRIX Remote Installation Service",
+      "page_id": 7154,
+      "url": "https://gunkies.org/wiki/ULTRIX_Remote_Installation_Service",
+      "revision": 35335,
+      "categories": [
+        "Category:ULTRIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/ultrix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "UNIX",
+      "page_id": 147,
+      "url": "https://gunkies.org/wiki/UNIX",
+      "revision": 36483,
+      "categories": [
+        "Category:Operating Systems",
+        "Category:UNIX"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/unix"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "UNIX a.out file",
+      "page_id": 6854,
+      "url": "https://gunkies.org/wiki/UNIX_a.out_file",
+      "revision": 25489,
+      "categories": [
+        "Category:UNIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX."
+    },
+    {
+      "page_title": "Unix dump/restore tape format",
+      "page_id": 7320,
+      "url": "https://gunkies.org/wiki/Unix_dump/restore_tape_format",
+      "revision": 36138,
+      "categories": [
+        "Category:UNIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX."
+    },
+    {
+      "page_title": "Unix Eighth Edition",
+      "page_id": 3256,
+      "url": "https://gunkies.org/wiki/Unix_Eighth_Edition",
+      "revision": 36104,
+      "categories": [
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Research Unix edition"
+    },
+    {
+      "page_title": "UNIX Fifth Edition",
+      "page_id": 1318,
+      "url": "https://gunkies.org/wiki/UNIX_Fifth_Edition",
+      "revision": 28781,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Research Unix edition"
+    },
+    {
+      "page_title": "UNIX file system",
+      "page_id": 3671,
+      "url": "https://gunkies.org/wiki/UNIX_file_system",
+      "revision": 36291,
+      "categories": [
+        "Category:File Systems",
+        "Category:UNIX"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:File Systems."
+    },
+    {
+      "page_title": "UNIX First Edition",
+      "page_id": 357,
+      "url": "https://gunkies.org/wiki/UNIX_First_Edition",
+      "revision": 36390,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Research Unix edition"
+    },
+    {
+      "page_title": "UNIX Fourth Edition",
+      "page_id": 6935,
+      "url": "https://gunkies.org/wiki/UNIX_Fourth_Edition",
+      "revision": 37103,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Research Unix edition"
+    },
+    {
+      "page_title": "Unix interoperability with PDP-10",
+      "page_id": 4291,
+      "url": "https://gunkies.org/wiki/Unix_interoperability_with_PDP-10",
+      "revision": 36137,
+      "categories": [
+        "Category:UNIX Applications"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX Applications."
+    },
+    {
+      "page_title": "Unix Ninth Edition",
+      "page_id": 3258,
+      "url": "https://gunkies.org/wiki/Unix_Ninth_Edition",
+      "revision": 28013,
+      "categories": [
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Research Unix edition"
+    },
+    {
+      "page_title": "UNIX Second Edition",
+      "page_id": 6937,
+      "url": "https://gunkies.org/wiki/UNIX_Second_Edition",
+      "revision": 31776,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Research Unix edition"
+    },
+    {
+      "page_title": "Unix Seventh Edition",
+      "page_id": 374,
+      "url": "https://gunkies.org/wiki/Unix_Seventh_Edition",
+      "revision": 36437,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Research Unix edition"
+    },
+    {
+      "page_title": "UNIX Sixth Edition",
+      "page_id": 413,
+      "url": "https://gunkies.org/wiki/UNIX_Sixth_Edition",
+      "revision": 36438,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Research Unix edition"
+    },
+    {
+      "page_title": "UNIX System III",
+      "page_id": 739,
+      "url": "https://gunkies.org/wiki/UNIX_System_III",
+      "revision": 31805,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix OS's",
+        "Category:VAX Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/unix-system-v"
+      ],
+      "note": "AT&T/USG Unix lineage version"
+    },
+    {
+      "page_title": "UNIX System IV",
+      "page_id": 1330,
+      "url": "https://gunkies.org/wiki/UNIX_System_IV",
+      "revision": 28307,
+      "categories": [
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/unix-system-v"
+      ],
+      "note": "AT&T/USG Unix lineage version"
+    },
+    {
+      "page_title": "UNIX System V",
+      "page_id": 1374,
+      "url": "https://gunkies.org/wiki/UNIX_System_V",
+      "revision": 36054,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix OS's",
+        "Category:VAX Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/unix-system-v"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Unix SYSVr2",
+      "page_id": 1373,
+      "url": "https://gunkies.org/wiki/Unix_SYSVr2",
+      "revision": 20017,
+      "categories": [
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/unix-system-v"
+      ],
+      "note": "AT&T/USG Unix lineage version"
+    },
+    {
+      "page_title": "Unix SYSVr3",
+      "page_id": 5843,
+      "url": "https://gunkies.org/wiki/Unix_SYSVr3",
+      "revision": 31804,
+      "categories": [
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/unix-system-v"
+      ],
+      "note": "AT&T/USG Unix lineage version"
+    },
+    {
+      "page_title": "Unix SYSVr4",
+      "page_id": 3719,
+      "url": "https://gunkies.org/wiki/Unix_SYSVr4",
+      "revision": 20018,
+      "categories": [
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/unix-system-v"
+      ],
+      "note": "AT&T/USG Unix lineage version"
+    },
+    {
+      "page_title": "Unix Tenth Edition",
+      "page_id": 6895,
+      "url": "https://gunkies.org/wiki/Unix_Tenth_Edition",
+      "revision": 25754,
+      "categories": [
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Research Unix edition"
+    },
+    {
+      "page_title": "UNIX Third Edition",
+      "page_id": 6936,
+      "url": "https://gunkies.org/wiki/UNIX_Third_Edition",
+      "revision": 31777,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-11 Operating Systems",
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Research Unix edition"
+    },
+    {
+      "page_title": "UNIX V6 dump analysis",
+      "page_id": 5760,
+      "url": "https://gunkies.org/wiki/UNIX_V6_dump_analysis",
+      "revision": 26846,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX Practical Guides."
+    },
+    {
+      "page_title": "UNIX V6 internals",
+      "page_id": 5763,
+      "url": "https://gunkies.org/wiki/UNIX_V6_internals",
+      "revision": 34089,
+      "categories": [
+        "Category:UNIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX."
+    },
+    {
+      "page_title": "UNIX V6 memory layout",
+      "page_id": 5694,
+      "url": "https://gunkies.org/wiki/UNIX_V6_memory_layout",
+      "revision": 30326,
+      "categories": [
+        "Category:UNIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX."
+    },
+    {
+      "page_title": "UNIX* System V and 4.1C BSD",
+      "page_id": 2780,
+      "url": "https://gunkies.org/wiki/UNIX*_System_V_and_4.1C_BSD",
+      "revision": 19969,
+      "categories": [
+        "Category:CSRG BSD",
+        "Category:Unix OS's"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/unix-system-v",
+        "systems/berkeley-software-distribution"
+      ],
+      "note": "Comparative document."
+    },
+    {
+      "page_title": "Unix/32V",
+      "page_id": 382,
+      "url": "https://gunkies.org/wiki/Unix/32V",
+      "revision": 36981,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:Unix OS's",
+        "Category:VAX Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/unix-32v"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "UNIX/370",
+      "page_id": 7887,
+      "url": "https://gunkies.org/wiki/UNIX/370",
+      "revision": 36440,
+      "categories": [
+        "Category:IBM Operating Systems",
+        "Category:Unix OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/unix-370"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "UnixWare",
+      "page_id": 1393,
+      "url": "https://gunkies.org/wiki/UnixWare",
+      "revision": 18368,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/unixware"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Upgrading UNIX Sixth Edition",
+      "page_id": 5707,
+      "url": "https://gunkies.org/wiki/Upgrading_UNIX_Sixth_Edition",
+      "revision": 28791,
+      "categories": [
+        "Category:UNIX Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/research-unix"
+      ],
+      "note": "Installation, operation, or maintenance page."
+    },
+    {
+      "page_title": "USG UNIX",
+      "page_id": 6575,
+      "url": "https://gunkies.org/wiki/USG_UNIX",
+      "revision": 28315,
+      "categories": [
+        "Category:Unix OS's"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/unix-system-v"
+      ],
+      "note": "AT&T/USG Unix lineage version"
+    },
+    {
+      "page_title": "UUCP",
+      "page_id": 9127,
+      "url": "https://gunkies.org/wiki/UUCP",
+      "revision": 36708,
+      "categories": [
+        "Category:UNIX"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX."
+    },
+    {
+      "page_title": "Uudecode",
+      "page_id": 2589,
+      "url": "https://gunkies.org/wiki/Uudecode",
+      "revision": 19955,
+      "categories": [
+        "Category:UNIX Applications"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX Applications."
+    },
+    {
+      "page_title": "Uuencoded",
+      "page_id": 2590,
+      "url": "https://gunkies.org/wiki/Uuencoded",
+      "revision": 19956,
+      "categories": [
+        "Category:UNIX Applications"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:UNIX Applications."
+    },
+    {
+      "page_title": "VAX Diagnostic Supervisor",
+      "page_id": 7900,
+      "url": "https://gunkies.org/wiki/VAX_Diagnostic_Supervisor",
+      "revision": 36962,
+      "categories": [
+        "Category:VMS Practical Guides"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [],
+      "note": "Page belongs to Category:VMS Practical Guides."
+    },
+    {
+      "page_title": "VAXELN",
+      "page_id": 7094,
+      "url": "https://gunkies.org/wiki/VAXELN",
+      "revision": 26777,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:VAX Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/vaxeln"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "VENIX Graphics on the Professional",
+      "page_id": 7915,
+      "url": "https://gunkies.org/wiki/VENIX_Graphics_on_the_Professional",
+      "revision": 30737,
+      "categories": [
+        "Category:VENIX",
+        "Category:VENIX Tutorials"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/pro-venix"
+      ],
+      "note": "PRO/VENIX graphics guide."
+    },
+    {
+      "page_title": "Versions of important ITS software",
+      "page_id": 8314,
+      "url": "https://gunkies.org/wiki/Versions_of_important_ITS_software",
+      "revision": 33347,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/incompatible-timesharing-system"
+      ],
+      "note": "ITS software-version inventory."
+    },
+    {
+      "page_title": "Virtual DOS Machine",
+      "page_id": 597,
+      "url": "https://gunkies.org/wiki/Virtual_DOS_Machine",
+      "revision": 33608,
+      "categories": [
+        "Category:Microsoft Operating Environments"
+      ],
+      "disposition": "operating-environment",
+      "catalog_records": [],
+      "note": "Page belongs to Category:Microsoft Operating Environments."
+    },
+    {
+      "page_title": "Virtual machine",
+      "page_id": 3761,
+      "url": "https://gunkies.org/wiki/Virtual_machine",
+      "revision": 35393,
+      "categories": [
+        "Category:OS Basics"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:OS Basics."
+    },
+    {
+      "page_title": "VM/370",
+      "page_id": 771,
+      "url": "https://gunkies.org/wiki/VM/370",
+      "revision": 33082,
+      "categories": [
+        "Category:IBM Operating Systems"
+      ],
+      "disposition": "covered-lineage-or-alias",
+      "catalog_records": [
+        "systems/virtual-machine-facility-370"
+      ],
+      "note": "Covered by the VM lineage record."
+    },
+    {
+      "page_title": "VM/386",
+      "page_id": 2439,
+      "url": "https://gunkies.org/wiki/VM/386",
+      "revision": 20284,
+      "categories": [
+        "Category:Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/vm-386"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    },
+    {
+      "page_title": "VMS",
+      "page_id": 180,
+      "url": "https://gunkies.org/wiki/VMS",
+      "revision": 35498,
+      "categories": [
+        "Category:DEC Operating Systems",
+        "Category:VAX Operating Systems",
+        "Category:VMS"
+      ],
+      "disposition": "covered-lineage-or-alias",
+      "catalog_records": [
+        "systems/vms"
+      ],
+      "note": "Catalog title is OpenVMS."
+    },
+    {
+      "page_title": "VMS Software, Inc.",
+      "page_id": 6920,
+      "url": "https://gunkies.org/wiki/VMS_Software,_Inc.",
+      "revision": 25903,
+      "categories": [
+        "Category:VMS"
+      ],
+      "disposition": "organization",
+      "catalog_records": [],
+      "note": "Company page, not the VMS operating system."
+    },
+    {
+      "page_title": "WAITS",
+      "page_id": 4086,
+      "url": "https://gunkies.org/wiki/WAITS",
+      "revision": 36964,
+      "categories": [
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-10 Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/waits"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "WAITS on-disk file structure",
+      "page_id": 7772,
+      "url": "https://gunkies.org/wiki/WAITS_on-disk_file_structure",
+      "revision": 35336,
+      "categories": [
+        "Category:File Systems"
+      ],
+      "disposition": "non-system-concept",
+      "catalog_records": [],
+      "note": "Page belongs to Category:File Systems."
+    },
+    {
+      "page_title": "WAITS system directories",
+      "page_id": 7778,
+      "url": "https://gunkies.org/wiki/WAITS_system_directories",
+      "revision": 30062,
+      "categories": [
+        "Category:File Systems",
+        "Category:Non-DEC Operating Systems",
+        "Category:PDP-10 Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/waits"
+      ],
+      "note": "WAITS directory inventory."
+    },
+    {
+      "page_title": "Win32s",
+      "page_id": 567,
+      "url": "https://gunkies.org/wiki/Win32s",
+      "revision": 20454,
+      "categories": [
+        "Category:DOS Enhancements"
+      ],
+      "disposition": "supporting-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:DOS Enhancements."
+    },
+    {
+      "page_title": "Windows 1.0",
+      "page_id": 595,
+      "url": "https://gunkies.org/wiki/Windows_1.0",
+      "revision": 32889,
+      "categories": [
+        "Category:Microsoft Operating Environments"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Microsoft Windows release or prerelease"
+    },
+    {
+      "page_title": "Windows 1.0 Alpha",
+      "page_id": 3857,
+      "url": "https://gunkies.org/wiki/Windows_1.0_Alpha",
+      "revision": 19982,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Microsoft Windows release or prerelease"
+    },
+    {
+      "page_title": "Windows 1.0 Beta",
+      "page_id": 3855,
+      "url": "https://gunkies.org/wiki/Windows_1.0_Beta",
+      "revision": 19983,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Microsoft Windows release or prerelease"
+    },
+    {
+      "page_title": "Windows 1.0 Developer Release 5",
+      "page_id": 3859,
+      "url": "https://gunkies.org/wiki/Windows_1.0_Developer_Release_5",
+      "revision": 32888,
+      "categories": [
+        "Category:Microsoft Operating Environments"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Microsoft Windows release or prerelease"
+    },
+    {
+      "page_title": "Windows 1.0 Premiere Edition",
+      "page_id": 3863,
+      "url": "https://gunkies.org/wiki/Windows_1.0_Premiere_Edition",
+      "revision": 33251,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Microsoft Windows release or prerelease"
+    },
+    {
+      "page_title": "Windows 2.0",
+      "page_id": 596,
+      "url": "https://gunkies.org/wiki/Windows_2.0",
+      "revision": 32881,
+      "categories": [
+        "Category:Microsoft Operating Environments"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Microsoft Windows release or prerelease"
+    },
+    {
+      "page_title": "Windows 3.0",
+      "page_id": 577,
+      "url": "https://gunkies.org/wiki/Windows_3.0",
+      "revision": 32891,
+      "categories": [
+        "Category:Microsoft Operating Environments"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Microsoft Windows release or prerelease"
+    },
+    {
+      "page_title": "Windows 3.00.55 Beta",
+      "page_id": 3853,
+      "url": "https://gunkies.org/wiki/Windows_3.00.55_Beta",
+      "revision": 32890,
+      "categories": [
+        "Category:Microsoft Operating Environments"
+      ],
+      "disposition": "operating-environment",
+      "catalog_records": [],
+      "note": "Page belongs to Category:Microsoft Operating Environments."
+    },
+    {
+      "page_title": "Windows 3.1",
+      "page_id": 578,
+      "url": "https://gunkies.org/wiki/Windows_3.1",
+      "revision": 32887,
+      "categories": [
+        "Category:Microsoft Operating Environments"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Microsoft Windows release or prerelease"
+    },
+    {
+      "page_title": "Windows 3.2",
+      "page_id": 1085,
+      "url": "https://gunkies.org/wiki/Windows_3.2",
+      "revision": 32885,
+      "categories": [
+        "Category:Microsoft Operating Environments"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Microsoft Windows release or prerelease"
+    },
+    {
+      "page_title": "Windows 95",
+      "page_id": 566,
+      "url": "https://gunkies.org/wiki/Windows_95",
+      "revision": 20460,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Microsoft Windows release or prerelease"
+    },
+    {
+      "page_title": "Windows 98",
+      "page_id": 3623,
+      "url": "https://gunkies.org/wiki/Windows_98",
+      "revision": 19603,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Microsoft Windows release or prerelease"
+    },
+    {
+      "page_title": "Windows ME",
+      "page_id": 5833,
+      "url": "https://gunkies.org/wiki/Windows_ME",
+      "revision": 22871,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows"
+      ],
+      "note": "Windows lineage release."
+    },
+    {
+      "page_title": "Windows NT",
+      "page_id": 554,
+      "url": "https://gunkies.org/wiki/Windows_NT",
+      "revision": 32892,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/windows-nt"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Windows NT 3.1 Betas",
+      "page_id": 2470,
+      "url": "https://gunkies.org/wiki/Windows_NT_3.1_Betas",
+      "revision": 20200,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows-nt"
+      ],
+      "note": "Windows NT prerelease, SDK, or compatibility list"
+    },
+    {
+      "page_title": "Windows NT 3.1 December 1991 beta",
+      "page_id": 2473,
+      "url": "https://gunkies.org/wiki/Windows_NT_3.1_December_1991_beta",
+      "revision": 33269,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows-nt"
+      ],
+      "note": "Windows NT prerelease, SDK, or compatibility list"
+    },
+    {
+      "page_title": "Windows NT 3.1 HCL",
+      "page_id": 556,
+      "url": "https://gunkies.org/wiki/Windows_NT_3.1_HCL",
+      "revision": 19988,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/windows-nt"
+      ],
+      "note": "Windows NT prerelease, SDK, or compatibility list"
+    },
+    {
+      "page_title": "Windows NT 3.1 March 1993 beta",
+      "page_id": 2475,
+      "url": "https://gunkies.org/wiki/Windows_NT_3.1_March_1993_beta",
+      "revision": 19989,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows-nt"
+      ],
+      "note": "Windows NT prerelease, SDK, or compatibility list"
+    },
+    {
+      "page_title": "Windows NT 3.1 October 1991 beta",
+      "page_id": 2471,
+      "url": "https://gunkies.org/wiki/Windows_NT_3.1_October_1991_beta",
+      "revision": 19990,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows-nt"
+      ],
+      "note": "Windows NT prerelease, SDK, or compatibility list"
+    },
+    {
+      "page_title": "Windows NT 3.1 October 1992 beta",
+      "page_id": 2477,
+      "url": "https://gunkies.org/wiki/Windows_NT_3.1_October_1992_beta",
+      "revision": 19991,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "covered-release",
+      "catalog_records": [
+        "systems/windows-nt"
+      ],
+      "note": "Windows NT prerelease, SDK, or compatibility list"
+    },
+    {
+      "page_title": "Windows NT 3.1 SDK",
+      "page_id": 1386,
+      "url": "https://gunkies.org/wiki/Windows_NT_3.1_SDK",
+      "revision": 19992,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/windows-nt"
+      ],
+      "note": "Windows NT prerelease, SDK, or compatibility list"
+    },
+    {
+      "page_title": "Windows NT 3.5 HCL",
+      "page_id": 619,
+      "url": "https://gunkies.org/wiki/Windows_NT_3.5_HCL",
+      "revision": 19993,
+      "categories": [
+        "Category:Microsoft Operating Systems"
+      ],
+      "disposition": "supporting-document",
+      "catalog_records": [
+        "systems/windows-nt"
+      ],
+      "note": "Windows NT prerelease, SDK, or compatibility list"
+    },
+    {
+      "page_title": "WinG",
+      "page_id": 616,
+      "url": "https://gunkies.org/wiki/WinG",
+      "revision": 32959,
+      "categories": [
+        "Category:Microsoft Operating Environments"
+      ],
+      "disposition": "operating-environment",
+      "catalog_records": [],
+      "note": "Page belongs to Category:Microsoft Operating Environments."
+    },
+    {
+      "page_title": "XENIX",
+      "page_id": 403,
+      "url": "https://gunkies.org/wiki/XENIX",
+      "revision": 36439,
+      "categories": [
+        "Category:Unix-based OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/xenix"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "Xv6",
+      "page_id": 8601,
+      "url": "https://gunkies.org/wiki/Xv6",
+      "revision": 33761,
+      "categories": [
+        "Category:Unix OS's"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/xv6"
+      ],
+      "note": "Exact normalized catalog name or alias."
+    },
+    {
+      "page_title": "XXDP diagnostic package",
+      "page_id": 6325,
+      "url": "https://gunkies.org/wiki/XXDP_diagnostic_package",
+      "revision": 35177,
+      "categories": [
+        "Category:PDP-11 Diagnostic Software",
+        "Category:PDP-11 Operating Systems"
+      ],
+      "disposition": "diagnostic-software",
+      "catalog_records": [],
+      "note": "Page belongs to Category:PDP-11 Diagnostic Software."
+    },
+    {
+      "page_title": "Yggdrasil Linux",
+      "page_id": 7659,
+      "url": "https://gunkies.org/wiki/Yggdrasil_Linux",
+      "revision": 29556,
+      "categories": [
+        "Category:Linux"
+      ],
+      "disposition": "cataloged-system",
+      "catalog_records": [
+        "systems/yggdrasil-linux"
+      ],
+      "note": "Curated Gunkies-discovered system record."
+    }
+  ]
+}

@@ -14,16 +14,17 @@ pagination, and CSV export.
 The frozen English Wikipedia baseline is fully dispositioned: 754 normalized
 candidates from 901 list occurrences. A separate native-language discovery
 release covers ten non-English language traditions plus the Russian/Elbrus
-ecosystem pass. The bundle contains 530 system-lineage records: 438 from the
-English baseline and Elbrus seed, 91 systems found by the multilingual
-comparison, and the source-resolved TI Explorer System Software lineage.
-Releases, aliases, groupings, non-OS items, and unresolved
-identities remain explicit inventory results rather than being forced into
-system records.
+ecosystem pass. The bundle contains 577 system-lineage records: the original
+530-system English, multilingual, Elbrus, and TI Explorer release; five
+Lisp-machine-coverage additions; DTSS and Small ITS; and 40 systems discovered
+through the recursive Computer History Wiki category audit. Releases, aliases,
+groupings, non-OS items, and unresolved identities remain explicit inventory
+results rather than being forced into system records.
 
 # Catalog
 
 * [Operating systems](systems/) - System lineages, releases, variants, and surviving artifacts.
+* [Discovery inventories](inventory/) - Frozen English, multilingual, preservation, Lisp-machine, and Gunkies coverage ledgers.
 * [Graphical environments](environments/) - Desktop environments, operating environments, window systems, and interface shells.
 * [Organizations](organizations/) - Companies, universities, research groups, and other responsible bodies.
 * [Hardware platforms](hardware/) - Machines and architectures on which cataloged systems ran.

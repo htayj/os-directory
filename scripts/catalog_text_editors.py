@@ -576,6 +576,21 @@ CURATED = {
     "systems/small-incompatible-timesharing-system": [
         curated("TINTE", "integral", "https://github.com/pdp11/sits", "full-screen-text", "documented", "preservation-project"),
     ],
+    "systems/batch-11-dos-11": [
+        curated("EDIT-11", "bundled-default", "https://gunkies.org/wiki/DOS/BATCH", "line-oriented", "documented", "historical-computing-wiki"),
+    ],
+    "systems/camexec": [
+        curated("TECO", "native", "https://gunkies.org/wiki/Camexec", "command-oriented", "documented", "historical-computing-wiki"),
+    ],
+    "systems/magicsix": [
+        curated("SINE", "native", "https://gunkies.org/wiki/MagicSix", "emacs-family", "documented", "historical-computing-wiki"),
+    ],
+    "systems/nord-tss": [
+        curated("QED", "bundled-optional", "https://gunkies.org/wiki/NORD-TSS", "command-oriented", "documented", "historical-computing-wiki"),
+    ],
+    "systems/stanford-time-sharing-system": [
+        curated("TVEDIT", "integral", "https://gunkies.org/wiki/Stanford_Time-Sharing_System", "full-screen-text", "documented", "historical-computing-wiki"),
+    ],
 }
 
 
@@ -697,14 +712,20 @@ def insert(record: Path, entry: dict) -> None:
         ).strip()
         text = text[: inline.start()] + f"field_dispositions: {flow}" + text[inline.end() :]
     else:
-        disposition_lines = (
-            f"  {DISPOSITION_START}\n"
-            f"  - {{ field: text_editors, disposition: {disposition}, "
-            f"checked_at: {RUN_DATE} }}\n"
-            f"  {DISPOSITION_END}"
-        )
         if marker not in text:
             raise ValueError(f"{record}: no field_dispositions")
+        sequence = re.search(
+            r"^field_dispositions:\n(?P<body>(?:[ \t]*#.*\n)*)(?P<indent>[ \t]*)- ",
+            text,
+            re.MULTILINE,
+        )
+        indent = sequence.group("indent") if sequence else "  "
+        disposition_lines = (
+            f"{indent}{DISPOSITION_START}\n"
+            f"{indent}- {{ field: text_editors, disposition: {disposition}, "
+            f"checked_at: {RUN_DATE} }}\n"
+            f"{indent}{DISPOSITION_END}"
+        )
         text = text.replace(marker, marker + disposition_lines + "\n", 1)
 
     closing = text.find("\n---", 4)
@@ -733,7 +754,37 @@ def main() -> int:
         output = []
         for path, system in systems.items():
             if path in existing:
-                output.append(existing[path])
+                entry = existing[path]
+                associations = merge_associations(
+                    entry.get("associations", []),
+                    CURATED.get(path, []),
+                    deep_research_associations(system),
+                )
+                changed = associations != entry.get("associations", [])
+                if changed:
+                    entry = entry | {
+                        "disposition": (
+                            "has-associations"
+                            if associations
+                            else "no-evidence-found"
+                        ),
+                        "searched": sorted(
+                            set(entry.get("searched", []))
+                            | {"curated-primary-sources"}
+                        ),
+                        "note": (
+                            "One or more relationships are documented by curated "
+                            "primary, institutional, or preservation sources."
+                        ),
+                        "associations": associations,
+                    }
+                output.append(entry)
+                if not args.no_write_records and (
+                    changed
+                    or BLOCK_START
+                    not in system["record"].read_text(encoding="utf-8")
+                ):
+                    insert(system["record"], entry)
                 continue
             associations = merge_associations(
                 CURATED.get(path, []),

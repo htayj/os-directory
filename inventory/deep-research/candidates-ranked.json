@@ -22124,81 +22124,6 @@
       "priority_score": 133
     },
     {
-      "path": "systems/batch-11-dos-11",
-      "title": "DEC BATCH-11/DOS-11",
-      "aliases": [
-        "DEC BATCH-11/DOS-11"
-      ],
-      "discovery_languages": [
-        "en"
-      ],
-      "catalog_level": "inventory",
-      "missing_fields": [
-        "organizations",
-        "countries_of_origin",
-        "design_purposes",
-        "lifecycle_events",
-        "rights_regime",
-        "licenses",
-        "programming_languages",
-        "system_organization",
-        "kernels",
-        "interfaces",
-        "platforms",
-        "text_editors"
-      ],
-      "provisional_fields": [
-        "country_of_origin",
-        "developer",
-        "development_status",
-        "first_release",
-        "gui",
-        "last_updated",
-        "latest_release",
-        "license",
-        "platforms",
-        "programming_languages",
-        "source_model"
-      ],
-      "first_pass_attributes": {
-        "source": "https://en.wikipedia.org/wiki/DEC_BATCH-11/DOS-11",
-        "retrieved_at": "2026-07-26",
-        "assertion_status": "provisional",
-        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
-        "fields": {
-          "developer": "Digital Equipment Corporation",
-          "country_of_origin": "United States",
-          "purpose": null,
-          "programming_languages": "FOCAL , Fortran -IV, MACRO-11 , TECO",
-          "first_release": "1970 ; 56 years ago ( 1970 )",
-          "latest_release": "V09-20C / June 1974 ; 52 years ago ( 1974-06 )",
-          "last_updated": "V09-20C / June 1974 ; 52 years ago ( 1974-06 )",
-          "development_status": "Discontinued",
-          "source_model": "Closed source",
-          "os_family": null,
-          "gui": "Command-line interface",
-          "platforms": "PDP-11",
-          "kernel_type": null,
-          "license": "Proprietary"
-        },
-        "country_evidence": {
-          "assertion_status": "inferred",
-          "method": "inferred-from-developer-country",
-          "source": "https://www.wikidata.org/wiki/Q690079"
-        }
-      },
-      "existing_sources": [
-        {
-          "id": "wikipedia",
-          "title": "DEC BATCH-11/DOS-11",
-          "resource": "https://en.wikipedia.org/wiki/DEC_BATCH-11/DOS-11",
-          "source_kind": "article"
-        }
-      ],
-      "existing_text_editors": [],
-      "priority_score": 133
-    },
-    {
       "path": "systems/dos-vs",
       "title": "DOS/VS",
       "aliases": [
@@ -36403,6 +36328,89 @@
       "priority_score": 115
     },
     {
+      "path": "systems/batch-11-dos-11",
+      "title": "DEC BATCH-11/DOS-11",
+      "aliases": [
+        "DEC BATCH-11/DOS-11"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [
+        "country_of_origin",
+        "developer",
+        "development_status",
+        "first_release",
+        "gui",
+        "last_updated",
+        "latest_release",
+        "license",
+        "platforms",
+        "programming_languages",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/DEC_BATCH-11/DOS-11",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "Digital Equipment Corporation",
+          "country_of_origin": "United States",
+          "purpose": null,
+          "programming_languages": "FOCAL , Fortran -IV, MACRO-11 , TECO",
+          "first_release": "1970 ; 56 years ago ( 1970 )",
+          "latest_release": "V09-20C / June 1974 ; 52 years ago ( 1974-06 )",
+          "last_updated": "V09-20C / June 1974 ; 52 years ago ( 1974-06 )",
+          "development_status": "Discontinued",
+          "source_model": "Closed source",
+          "os_family": null,
+          "gui": "Command-line interface",
+          "platforms": "PDP-11",
+          "kernel_type": null,
+          "license": "Proprietary"
+        },
+        "country_evidence": {
+          "assertion_status": "inferred",
+          "method": "inferred-from-developer-country",
+          "source": "https://www.wikidata.org/wiki/Q690079"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia",
+          "title": "DEC BATCH-11/DOS-11",
+          "resource": "https://en.wikipedia.org/wiki/DEC_BATCH-11/DOS-11",
+          "source_kind": "article"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "EDIT-11",
+          "relationship": "bundled-default",
+          "interface_style": "line-oriented",
+          "source": "https://gunkies.org/wiki/DOS/BATCH",
+          "source_kind": "historical-computing-wiki",
+          "assertion_status": "documented"
+        }
+      ],
+      "priority_score": 115
+    },
+    {
       "path": "systems/dragonfly-bsd",
       "title": "DragonFly BSD",
       "aliases": [
@@ -39484,6 +39492,42 @@
       "priority_score": 103
     },
     {
+      "path": "systems/risos-arpa-terminal-system",
+      "title": "RISOS/ARPA Terminal System",
+      "aliases": [
+        "RISOS/ARPA Terminal System",
+        "RATS"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "organizations",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-risos-arpa-terminal-system",
+          "title": "RISOS/ARPA Terminal System",
+          "resource": "https://gunkies.org/w/index.php?title=RISOS/ARPA_Terminal_System&oldid=36089",
+          "source_kind": "historical-computing-wiki",
+          "revision": 36089
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 98
+    },
+    {
       "path": "systems/beos",
       "title": "BeOS",
       "aliases": [
@@ -40247,6 +40291,383 @@
       ],
       "existing_text_editors": [],
       "priority_score": 93
+    },
+    {
+      "path": "systems/amber-operating-system",
+      "title": "Amber Operating System",
+      "aliases": [
+        "Amber Operating System",
+        "Amber"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-amber-operating-system",
+          "title": "Amber Operating System",
+          "resource": "https://gunkies.org/w/index.php?title=Amber_Operating_System&oldid=36992",
+          "source_kind": "historical-computing-wiki",
+          "revision": 36992
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 88
+    },
+    {
+      "path": "systems/august",
+      "title": "August",
+      "aliases": [
+        "August"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-august",
+          "title": "August",
+          "resource": "https://gunkies.org/w/index.php?title=August&oldid=32028",
+          "source_kind": "historical-computing-wiki",
+          "revision": 32028
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 88
+    },
+    {
+      "path": "systems/foonex",
+      "title": "FOONEX",
+      "aliases": [
+        "FOONEX"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-foonex",
+          "title": "FOONEX",
+          "resource": "https://gunkies.org/w/index.php?title=FOONEX&oldid=23025",
+          "source_kind": "historical-computing-wiki",
+          "revision": 23025
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 88
+    },
+    {
+      "path": "systems/interactive-application-system",
+      "title": "Interactive Application System",
+      "aliases": [
+        "Interactive Application System",
+        "IAS"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-interactive-application-system",
+          "title": "Interactive Application System",
+          "resource": "https://gunkies.org/w/index.php?title=Interactive_Application_System&oldid=35198",
+          "source_kind": "historical-computing-wiki",
+          "revision": 35198
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 88
+    },
+    {
+      "path": "systems/joss",
+      "title": "JOSS",
+      "aliases": [
+        "JOSS",
+        "JOHNNIAC Open Shop System"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-joss",
+          "title": "JOSS",
+          "resource": "https://gunkies.org/w/index.php?title=JOSS&oldid=30142",
+          "source_kind": "historical-computing-wiki",
+          "revision": 30142
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 88
+    },
+    {
+      "path": "systems/lsx",
+      "title": "LSX",
+      "aliases": [
+        "LSX"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-lsx",
+          "title": "LSX",
+          "resource": "https://gunkies.org/w/index.php?title=LSX&oldid=28114",
+          "source_kind": "historical-computing-wiki",
+          "revision": 28114
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 88
+    },
+    {
+      "path": "systems/mini-unix",
+      "title": "MINI-UNIX",
+      "aliases": [
+        "MINI-UNIX"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-mini-unix",
+          "title": "MINI-UNIX",
+          "resource": "https://gunkies.org/w/index.php?title=MINI-UNIX&oldid=35879",
+          "source_kind": "historical-computing-wiki",
+          "revision": 35879
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 88
+    },
+    {
+      "path": "systems/minits",
+      "title": "MINITS",
+      "aliases": [
+        "MINITS"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-minits",
+          "title": "MINITS",
+          "resource": "https://gunkies.org/w/index.php?title=MINITS&oldid=36103",
+          "source_kind": "historical-computing-wiki",
+          "revision": 36103
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 88
+    },
+    {
+      "path": "systems/pdp-1-x-time-sharing-system",
+      "title": "PDP-1-X Time Sharing System",
+      "aliases": [
+        "PDP-1-X Time Sharing System"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-pdp-1-x-time-sharing-system",
+          "title": "PDP-1-X Time Sharing System",
+          "resource": "https://gunkies.org/w/index.php?title=PDP-1-X_Time_Sharing_System&oldid=36067",
+          "source_kind": "historical-computing-wiki",
+          "revision": 36067
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 88
+    },
+    {
+      "path": "systems/tymcom-ix",
+      "title": "TYMCOM-IX",
+      "aliases": [
+        "TYMCOM-IX"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-tymcom-ix",
+          "title": "TYMCOM-IX",
+          "resource": "https://gunkies.org/w/index.php?title=TYMCOM-IX&oldid=25824",
+          "source_kind": "historical-computing-wiki",
+          "revision": 25824
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 88
+    },
+    {
+      "path": "systems/tymcom-x",
+      "title": "TYMCOM-X",
+      "aliases": [
+        "TYMCOM-X"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-tymcom-x",
+          "title": "TYMCOM-X",
+          "resource": "https://gunkies.org/w/index.php?title=TYMCOM-X&oldid=33887",
+          "source_kind": "historical-computing-wiki",
+          "revision": 33887
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 88
     },
     {
       "path": "systems/classic-mac-os",
@@ -41093,6 +41514,579 @@
       "priority_score": 83
     },
     {
+      "path": "systems/apex-tx-2",
+      "title": "APEX",
+      "aliases": [
+        "APEX"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-apex-tx-2",
+          "title": "APEX",
+          "resource": "https://gunkies.org/w/index.php?title=APEX&oldid=36818",
+          "source_kind": "historical-computing-wiki",
+          "revision": 36818
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/ants-terminal-system",
+      "title": "ARPA Network Terminal System",
+      "aliases": [
+        "ARPA Network Terminal System",
+        "ANTS",
+        "ANTS terminal system"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "organizations",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-ants-terminal-system",
+          "title": "ANTS terminal system",
+          "resource": "https://gunkies.org/w/index.php?title=ANTS_terminal_system&oldid=26800",
+          "source_kind": "historical-computing-wiki",
+          "revision": 26800
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/bsd-os",
+      "title": "BSD/OS",
+      "aliases": [
+        "BSD/OS",
+        "BSD/386"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-bsd-os",
+          "title": "BSD/OS",
+          "resource": "https://gunkies.org/w/index.php?title=BSD/OS&oldid=20054",
+          "source_kind": "historical-computing-wiki",
+          "revision": 20054
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/cal-time-sharing-system",
+      "title": "CAL Time-Sharing System",
+      "aliases": [
+        "CAL Time-Sharing System",
+        "CAL-TSS"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-cal-time-sharing-system",
+          "title": "CAL Time-Sharing System",
+          "resource": "https://gunkies.org/w/index.php?title=CAL_Time-Sharing_System&oldid=32655",
+          "source_kind": "historical-computing-wiki",
+          "revision": 32655
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/demos-soviet-unix",
+      "title": "DEMOS",
+      "aliases": [
+        "DEMOS",
+        "ДЕМОС"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-demos-soviet-unix",
+          "title": "DEMOS",
+          "resource": "https://gunkies.org/w/index.php?title=DEMOS&oldid=36149",
+          "source_kind": "historical-computing-wiki",
+          "revision": 36149
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/fuzzball-operating-system",
+      "title": "Fuzzball",
+      "aliases": [
+        "Fuzzball"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-fuzzball-operating-system",
+          "title": "Fuzzball",
+          "resource": "https://gunkies.org/w/index.php?title=Fuzzball&oldid=36303",
+          "source_kind": "historical-computing-wiki",
+          "revision": 36303
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/mvs",
+      "title": "MVS",
+      "aliases": [
+        "MVS",
+        "Multiple Virtual Storage"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-mvs",
+          "title": "MVS",
+          "resource": "https://gunkies.org/w/index.php?title=MVS&oldid=24563",
+          "source_kind": "historical-computing-wiki",
+          "revision": 24563
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/network-unix",
+      "title": "Network UNIX",
+      "aliases": [
+        "Network UNIX"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-network-unix",
+          "title": "Network UNIX",
+          "resource": "https://gunkies.org/w/index.php?title=Network_UNIX&oldid=27865",
+          "source_kind": "historical-computing-wiki",
+          "revision": 27865
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/nord-ops",
+      "title": "NORD-OPS",
+      "aliases": [
+        "NORD-OPS"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-nord-ops",
+          "title": "NORD-OPS",
+          "resource": "https://gunkies.org/w/index.php?title=NORD-OPS&oldid=27633",
+          "source_kind": "historical-computing-wiki",
+          "revision": 27633
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/tropix",
+      "title": "TROPIX",
+      "aliases": [
+        "TROPIX"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-tropix",
+          "title": "TROPIX",
+          "resource": "https://gunkies.org/w/index.php?title=TROPIX&oldid=20192",
+          "source_kind": "historical-computing-wiki",
+          "revision": 20192
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/tss-8",
+      "title": "TSS/8",
+      "aliases": [
+        "TSS/8",
+        "TSS-8"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-tss-8",
+          "title": "TSS/8",
+          "resource": "https://gunkies.org/w/index.php?title=TSS/8&oldid=21806",
+          "source_kind": "historical-computing-wiki",
+          "revision": 21806
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/ucsb-on-line-system",
+      "title": "UCSB On-Line System",
+      "aliases": [
+        "UCSB On-Line System",
+        "On-Line System"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-ucsb-on-line-system",
+          "title": "UCSB On-Line System",
+          "resource": "https://gunkies.org/w/index.php?title=UCSB_On-Line_System&oldid=36290",
+          "source_kind": "historical-computing-wiki",
+          "revision": 36290
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/unix-32v",
+      "title": "UNIX/32V",
+      "aliases": [
+        "UNIX/32V",
+        "32V"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-unix-32v",
+          "title": "Unix/32V",
+          "resource": "https://gunkies.org/w/index.php?title=Unix/32V&oldid=36981",
+          "source_kind": "historical-computing-wiki",
+          "revision": 36981
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/unix-370",
+      "title": "UNIX/370",
+      "aliases": [
+        "UNIX/370"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-unix-370",
+          "title": "UNIX/370",
+          "resource": "https://gunkies.org/w/index.php?title=UNIX/370&oldid=36440",
+          "source_kind": "historical-computing-wiki",
+          "revision": 36440
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/vaxeln",
+      "title": "VAXELN",
+      "aliases": [
+        "VAXELN"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-vaxeln",
+          "title": "VAXELN",
+          "resource": "https://gunkies.org/w/index.php?title=VAXELN&oldid=26777",
+          "source_kind": "historical-computing-wiki",
+          "revision": 26777
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/vm-386",
+      "title": "VM/386",
+      "aliases": [
+        "VM/386"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-vm-386",
+          "title": "VM/386",
+          "resource": "https://gunkies.org/w/index.php?title=VM/386&oldid=20284",
+          "source_kind": "historical-computing-wiki",
+          "revision": 20284
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
+      "path": "systems/yggdrasil-linux",
+      "title": "Yggdrasil Linux/GNU/X",
+      "aliases": [
+        "Yggdrasil Linux/GNU/X",
+        "Yggdrasil Linux",
+        "Yggdrasil",
+        "LGX"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-yggdrasil-linux",
+          "title": "Yggdrasil Linux",
+          "resource": "https://gunkies.org/w/index.php?title=Yggdrasil_Linux&oldid=29556",
+          "source_kind": "historical-computing-wiki",
+          "revision": 29556
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 78
+    },
+    {
       "path": "systems/waha-linux",
       "title": "واحــة لينكس",
       "aliases": [
@@ -41580,6 +42574,169 @@
       "priority_score": 73
     },
     {
+      "path": "systems/camexec",
+      "title": "Camexec",
+      "aliases": [
+        "Camexec"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-camexec",
+          "title": "Camexec",
+          "resource": "https://gunkies.org/w/index.php?title=Camexec&oldid=34032",
+          "source_kind": "historical-computing-wiki",
+          "revision": 34032
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "TECO",
+          "relationship": "native",
+          "interface_style": "command-oriented",
+          "source": "https://gunkies.org/wiki/Camexec",
+          "source_kind": "historical-computing-wiki",
+          "assertion_status": "documented"
+        }
+      ],
+      "priority_score": 70
+    },
+    {
+      "path": "systems/magicsix",
+      "title": "MagicSix",
+      "aliases": [
+        "MagicSix"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-magicsix",
+          "title": "MagicSix",
+          "resource": "https://gunkies.org/w/index.php?title=MagicSix&oldid=35332",
+          "source_kind": "historical-computing-wiki",
+          "revision": 35332
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "SINE",
+          "relationship": "native",
+          "interface_style": "emacs-family",
+          "source": "https://gunkies.org/wiki/MagicSix",
+          "source_kind": "historical-computing-wiki",
+          "assertion_status": "documented"
+        }
+      ],
+      "priority_score": 70
+    },
+    {
+      "path": "systems/stanford-time-sharing-system",
+      "title": "Stanford Time-Sharing System",
+      "aliases": [
+        "Stanford Time-Sharing System",
+        "Thor",
+        "Odin",
+        "Zeus"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-stanford-time-sharing-system",
+          "title": "Stanford Time-Sharing System",
+          "resource": "https://gunkies.org/w/index.php?title=Stanford_Time-Sharing_System&oldid=30030",
+          "source_kind": "historical-computing-wiki",
+          "revision": 30030
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "TVEDIT",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "source": "https://gunkies.org/wiki/Stanford_Time-Sharing_System",
+          "source_kind": "historical-computing-wiki",
+          "assertion_status": "documented"
+        }
+      ],
+      "priority_score": 70
+    },
+    {
+      "path": "systems/386bsd",
+      "title": "386BSD",
+      "aliases": [
+        "386BSD",
+        "386 BSD",
+        "Jolix"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-386bsd",
+          "title": "386BSD",
+          "resource": "https://gunkies.org/w/index.php?title=386BSD&oldid=36295",
+          "source_kind": "historical-computing-wiki",
+          "revision": 36295
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 68
+    },
+    {
       "path": "systems/human68k",
       "title": "Human68k",
       "aliases": [
@@ -41735,6 +42892,171 @@
           "note": "Sharp devotes a full manual part to the screen editor ED; the Japanese preservation transcription identifies ED.X as a full-screen editor running on Human68k."
         }
       ],
+      "priority_score": 68
+    },
+    {
+      "path": "systems/mert",
+      "title": "MERT",
+      "aliases": [
+        "MERT",
+        "Multi-Environment Real Time"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "system_organization",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-mert",
+          "title": "MERT operating system",
+          "resource": "https://gunkies.org/w/index.php?title=MERT_operating_system&oldid=36500",
+          "source_kind": "historical-computing-wiki",
+          "revision": 36500
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 68
+    },
+    {
+      "path": "systems/micro-operating-system",
+      "title": "Micro Operating System",
+      "aliases": [
+        "Micro Operating System",
+        "MOS operating system",
+        "MOS"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-micro-operating-system",
+          "title": "MOS operating system",
+          "resource": "https://gunkies.org/w/index.php?title=MOS_operating_system&oldid=33097",
+          "source_kind": "historical-computing-wiki",
+          "revision": 33097
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 68
+    },
+    {
+      "path": "systems/pro-venix",
+      "title": "PRO/VENIX",
+      "aliases": [
+        "PRO/VENIX",
+        "VENIX/PRO"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-pro-venix",
+          "title": "PRO/VENIX",
+          "resource": "https://gunkies.org/w/index.php?title=PRO/VENIX&oldid=32800",
+          "source_kind": "historical-computing-wiki",
+          "revision": 32800
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 68
+    },
+    {
+      "path": "systems/rts-8",
+      "title": "RTS-8",
+      "aliases": [
+        "RTS-8",
+        "RTS/8"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-rts-8",
+          "title": "RTS-8",
+          "resource": "https://gunkies.org/w/index.php?title=RTS-8&oldid=22441",
+          "source_kind": "historical-computing-wiki",
+          "revision": 22441
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 68
+    },
+    {
+      "path": "systems/sintran",
+      "title": "SINTRAN",
+      "aliases": [
+        "SINTRAN"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-sintran",
+          "title": "SINTRAN",
+          "resource": "https://gunkies.org/w/index.php?title=SINTRAN&oldid=24520",
+          "source_kind": "historical-computing-wiki",
+          "revision": 24520
+        }
+      ],
+      "existing_text_editors": [],
       "priority_score": 68
     },
     {
@@ -42250,6 +43572,48 @@
       "priority_score": 63
     },
     {
+      "path": "systems/nord-tss",
+      "title": "NORD-TSS",
+      "aliases": [
+        "NORD-TSS",
+        "NORD Time Sharing System"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-nord-tss",
+          "title": "NORD-TSS",
+          "resource": "https://gunkies.org/w/index.php?title=NORD-TSS&oldid=27640",
+          "source_kind": "historical-computing-wiki",
+          "revision": 27640
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "QED",
+          "relationship": "bundled-optional",
+          "interface_style": "command-oriented",
+          "source": "https://gunkies.org/wiki/NORD-TSS",
+          "source_kind": "historical-computing-wiki",
+          "assertion_status": "documented"
+        }
+      ],
+      "priority_score": 60
+    },
+    {
       "path": "systems/alto-executive",
       "title": "Alto Executive",
       "aliases": [
@@ -42329,6 +43693,38 @@
           "title": "Dartmouth DTSS documentation archive",
           "resource": "https://bitsavers.org/pdf/dartmouth/dtss/",
           "source_kind": "documentation-archive"
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 58
+    },
+    {
+      "path": "systems/elf-operating-system",
+      "title": "ELF operating system",
+      "aliases": [
+        "ELF operating system",
+        "ELF"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "rights_regime",
+        "licenses",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-elf-operating-system",
+          "title": "ELF operating system",
+          "resource": "https://gunkies.org/w/index.php?title=ELF_operating_system&oldid=27849",
+          "source_kind": "historical-computing-wiki",
+          "revision": 27849
         }
       ],
       "existing_text_editors": [],

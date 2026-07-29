@@ -3,11 +3,11 @@
   "as_of": "2026-07-29",
   "repository": "https://github.com/htayj/os-directory",
   "stats": {
-    "systems": 537,
-    "systems_with_editors": 79,
-    "associations": 239,
-    "unique_editors": 118,
-    "documented_associations": 37,
+    "systems": 577,
+    "systems_with_editors": 84,
+    "associations": 244,
+    "unique_editors": 121,
+    "documented_associations": 42,
     "provisional_associations": 202
   },
   "systems": [
@@ -32,6 +32,37 @@
       "kernel": [],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "386bsd",
+      "title": "386BSD",
+      "description": "William and Lynne Jolitz's i386 port and release of the BSD Net/2 code, ancestral to FreeBSD and NetBSD.",
+      "record_path": "systems/386bsd/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/386bsd/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "commodity-i386-unix"
+      ],
+      "programming_language": [],
+      "license": [
+        "BSD license"
+      ],
+      "first_release": "1992-03-17",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "Intel i386"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -385,6 +416,36 @@
       "kernel": [],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "amber-operating-system",
+      "title": "Amber Operating System",
+      "description": "A Multics-influenced operating system developed for the S-1 supercomputer.",
+      "record_path": "systems/amber-operating-system/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/amber-operating-system/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "supercomputer-operation",
+        "research"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "S-1 supercomputer"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -753,6 +814,38 @@
       "editors": []
     },
     {
+      "id": "ants-terminal-system",
+      "title": "ARPA Network Terminal System",
+      "description": "A PDP-11 ARPANET terminal-host system combining TIP-like access with local storage and peripheral services.",
+      "record_path": "systems/ants-terminal-system/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/ants-terminal-system/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "arpanet-terminal-host",
+        "network-access"
+      ],
+      "programming_language": [
+        "PEESPOL"
+      ],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-11"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "aos-2",
       "title": "Academic Operating System",
       "description": "Draft operating-system identity pending core research.",
@@ -806,6 +899,36 @@
       "kernel": [],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "apex-tx-2",
+      "title": "APEX",
+      "description": "A time- and memory-sharing executive for quick-response online applications on the MIT Lincoln Laboratory TX-2.",
+      "record_path": "systems/apex-tx-2/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/apex-tx-2/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "interactive-timesharing",
+        "online-applications"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "TX-2"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -1217,6 +1340,37 @@
       "editors": []
     },
     {
+      "id": "august",
+      "title": "August",
+      "description": "A TENEX-derived PDP-10 operating system created for Douglas Engelbart's Augment project at Tymshare.",
+      "record_path": "systems/august/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/august/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "interactive-collaborative-computing"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "PDP-10",
+        "Foonly F4",
+        "Tymshare 26KL"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "aurora-os",
       "title": "Aurora OS",
       "description": "Draft operating-system identity pending core research.",
@@ -1473,9 +1627,19 @@
         "PDP-11"
       ],
       "kernel": [],
-      "editor_disposition": "no-evidence-found",
-      "editor_checked_at": "2026-07-26",
-      "editors": []
+      "editor_disposition": "has-associations",
+      "editor_checked_at": "2026-07-29",
+      "editors": [
+        {
+          "name": "EDIT-11",
+          "relationship": "bundled-default",
+          "interface_style": "line-oriented",
+          "assertion_status": "documented",
+          "source": "https://gunkies.org/wiki/DOS/BATCH",
+          "source_kind": "historical-computing-wiki",
+          "note": ""
+        }
+      ]
     },
     {
       "id": "bcos-olivetti",
@@ -1987,6 +2151,36 @@
       "editors": []
     },
     {
+      "id": "bsd-os",
+      "title": "BSD/OS",
+      "description": "BSDi's commercial BSD operating system, originally released as BSD/386.",
+      "record_path": "systems/bsd-os/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/bsd-os/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "commercial-unix"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "Intel i386",
+        "SPARC"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "burroughs-mcp",
       "title": "Burroughs MCP",
       "description": "Burroughs/Unisys Master Control Program operating-system lineage.",
@@ -2111,6 +2305,36 @@
       "editors": []
     },
     {
+      "id": "cal-time-sharing-system",
+      "title": "CAL Time-Sharing System",
+      "description": "An experimental time-sharing operating system developed at UC Berkeley for the CDC 6400.",
+      "record_path": "systems/cal-time-sharing-system/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/cal-time-sharing-system/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "academic-timesharing",
+        "operating-system-research"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1969-07",
+      "latest_release": "",
+      "last_updated": "1971-11",
+      "gui": [],
+      "platform": [
+        "CDC 6400"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "calyxos",
       "title": "CalyxOS",
       "description": "Draft operating-system identity pending core research.",
@@ -2136,6 +2360,46 @@
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
       "editors": []
+    },
+    {
+      "id": "camexec",
+      "title": "Camexec",
+      "description": "An ITS-style PDP-11 timesharing operating system used by Camex's newspaper display-ad production system.",
+      "record_path": "systems/camexec/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/camexec/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "timesharing",
+        "newspaper-display-ad-production"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-11/35"
+      ],
+      "kernel": [],
+      "editor_disposition": "has-associations",
+      "editor_checked_at": "2026-07-29",
+      "editors": [
+        {
+          "name": "TECO",
+          "relationship": "native",
+          "interface_style": "command-oriented",
+          "assertion_status": "documented",
+          "source": "https://gunkies.org/wiki/Camexec",
+          "source_kind": "historical-computing-wiki",
+          "note": ""
+        }
+      ]
     },
     {
       "id": "canaima-gnu-linux",
@@ -3603,6 +3867,39 @@
       "editors": []
     },
     {
+      "id": "demos-soviet-unix",
+      "title": "DEMOS",
+      "description": "A Soviet Unix lineage combining AT&T Unix and BSD material with Russian-localized and locally developed utilities.",
+      "record_path": "systems/demos-soviet-unix/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/demos-soviet-unix/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "SU"
+      ],
+      "purpose": [
+        "general-purpose-unix",
+        "localized-computing"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1983",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "PDP-11",
+        "SM 1700",
+        "Motorola 68020",
+        "IBM PC compatibles"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "diams",
       "title": "DIAMS",
       "description": "Draft multilingual inventory record for DIAMS.",
@@ -4453,6 +4750,39 @@
       "editors": []
     },
     {
+      "id": "elf-operating-system",
+      "title": "ELF operating system",
+      "description": "A real-time multiprogramming PDP-11 operating system used for ARPANET terminal access and later experimental Internet routers.",
+      "record_path": "systems/elf-operating-system/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/elf-operating-system/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "network-terminal-host",
+        "real-time-networking",
+        "router-research"
+      ],
+      "programming_language": [
+        "Assembly language"
+      ],
+      "license": [],
+      "first_release": "1974",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-11"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "emui",
       "title": "EMUI",
       "description": "Draft operating-system identity pending core research.",
@@ -5141,6 +5471,35 @@
       "editors": []
     },
     {
+      "id": "foonex",
+      "title": "FOONEX",
+      "description": "A TENEX-derived operating system for Foonly's PDP-10-compatible computers.",
+      "record_path": "systems/foonex/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/foonex/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "interactive-timesharing"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "Foonly PDP-10-compatible systems"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "freebsd",
       "title": "FreeBSD",
       "description": "Draft inventory record for FreeBSD.",
@@ -5427,6 +5786,37 @@
       "kernel": [],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "fuzzball-operating-system",
+      "title": "Fuzzball",
+      "description": "David Mills's PDP-11 experimental networking operating system, widely used as an NSFNET backbone router and time server.",
+      "record_path": "systems/fuzzball-operating-system/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/fuzzball-operating-system/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "network-prototyping",
+        "router",
+        "time-service"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-11"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -6897,6 +7287,37 @@
       "editors": []
     },
     {
+      "id": "interactive-application-system",
+      "title": "Interactive Application System",
+      "description": "DEC's PDP-11 operating system configurable for time-sharing, multi-user, or real-time operation.",
+      "record_path": "systems/interactive-application-system/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/interactive-application-system/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "timesharing",
+        "multi-user-computing",
+        "real-time-computing"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-11"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "interactive-unix",
       "title": "Interactive Unix",
       "description": "Draft inventory record for Interactive Unix.",
@@ -7428,6 +7849,39 @@
       "kernel": [],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "joss",
+      "title": "JOSS",
+      "description": "RAND's interactive time-sharing system and programming environment, first for JOHNNIAC and later the PDP-6.",
+      "record_path": "systems/joss/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/joss/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "interactive-programming",
+        "timesharing",
+        "education"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "JOHNNIAC",
+        "DEC PDP-6",
+        "IBM System/370"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -8312,6 +8766,36 @@
       ]
     },
     {
+      "id": "lsx",
+      "title": "LSX",
+      "description": "A reduced Sixth Edition Unix variant for small PDP-11 systems without memory management.",
+      "record_path": "systems/lsx/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/lsx/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "small-system-unix"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "LSI-11",
+        "PDP-11/05"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "lynxos",
       "title": "LynxOS",
       "description": "Draft inventory record for LynxOS.",
@@ -8782,6 +9266,47 @@
       "editors": []
     },
     {
+      "id": "magicsix",
+      "title": "MagicSix",
+      "description": "A Multics-like operating system developed by MIT's Architecture Machine Group for Interdata and Perkin-Elmer 32-bit computers.",
+      "record_path": "systems/magicsix/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/magicsix/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "interactive-research-computing",
+        "graphics-research"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "Interdata 8/32",
+        "Perkin-Elmer 32-bit systems"
+      ],
+      "kernel": [],
+      "editor_disposition": "has-associations",
+      "editor_checked_at": "2026-07-29",
+      "editors": [
+        {
+          "name": "SINE",
+          "relationship": "native",
+          "interface_style": "emacs-family",
+          "assertion_status": "documented",
+          "source": "https://gunkies.org/wiki/MagicSix",
+          "source_kind": "historical-computing-wiki",
+          "note": ""
+        }
+      ]
+    },
+    {
       "id": "magnussoft-zeta",
       "title": "magnussoft ZETA",
       "description": "Discontinued BeOS-derived operating-system distribution marketed by magnussoft.",
@@ -8952,6 +9477,42 @@
       "editors": []
     },
     {
+      "id": "mert",
+      "title": "MERT",
+      "description": "Bell Labs' multi-environment real-time PDP-11 operating system with an early microkernel-like organization.",
+      "record_path": "systems/mert/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/mert/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "real-time-computing",
+        "multi-environment-operation"
+      ],
+      "programming_language": [
+        "Assembly language",
+        "C"
+      ],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-11/45",
+        "DEC PDP-11/70"
+      ],
+      "kernel": [
+        "microkernel-like"
+      ],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "micrium-os",
       "title": "Micrium OS",
       "description": "Draft inventory record for Micrium OS.",
@@ -8984,6 +9545,42 @@
       ],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "micro-operating-system",
+      "title": "Micro Operating System",
+      "description": "Jim Mathis's cooperative real-time multitasking kernel for packet switches and related network appliances.",
+      "record_path": "systems/micro-operating-system/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/micro-operating-system/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "packet-switch-operation",
+        "real-time-networking"
+      ],
+      "programming_language": [
+        "MACRO-11",
+        "C"
+      ],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-11",
+        "Motorola 68000",
+        "Intel x86",
+        "AMD 29000"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -9096,6 +9693,67 @@
       "kernel": [],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "mini-unix",
+      "title": "MINI-UNIX",
+      "description": "A reduced Sixth Edition Unix variant for PDP-11 models without memory management.",
+      "record_path": "systems/mini-unix/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/mini-unix/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "small-system-unix"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "PDP-11/05",
+        "LSI-11"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
+      "id": "minits",
+      "title": "MINITS",
+      "description": "An MIT PDP-11 multitasking operating system used primarily for network routers, terminal concentrators, graphics terminals, and Chaosnet front ends.",
+      "record_path": "systems/minits/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/minits/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "network-infrastructure",
+        "router",
+        "terminal-concentrator"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-11"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -10011,6 +10669,36 @@
       "editors": []
     },
     {
+      "id": "mvs",
+      "title": "MVS",
+      "description": "IBM's multitasking, multi-user, and batch operating-system lineage for System/370-class mainframes.",
+      "record_path": "systems/mvs/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/mvs/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "mainframe-batch",
+        "multi-user-computing"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1974",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "IBM System/370 and compatibles"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "navix",
       "title": "네빅스 (NAVIX; Naver Linux)",
       "description": "Draft multilingual inventory record for 네빅스 (NAVIX; Naver Linux).",
@@ -10178,6 +10866,36 @@
       ],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "network-unix",
+      "title": "Network UNIX",
+      "description": "The University of Illinois ARPANET networking extension to Fifth and Sixth Edition Unix.",
+      "record_path": "systems/network-unix/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/network-unix/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "arpanet-host",
+        "networked-unix"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1975",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-11"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -10416,6 +11134,79 @@
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
       "editors": []
+    },
+    {
+      "id": "nord-ops",
+      "title": "NORD-OPS",
+      "description": "A mass-storage-oriented Norsk Data operating layer providing batch and conversational services as tasks under SINTRAN.",
+      "record_path": "systems/nord-ops/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/nord-ops/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "NO"
+      ],
+      "purpose": [
+        "mass-storage-operation",
+        "batch-processing",
+        "conversational-computing"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "NORD-1",
+        "NORD-5",
+        "NORD-10"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
+      "id": "nord-tss",
+      "title": "NORD-TSS",
+      "description": "Norsk Data's general-purpose time-sharing system with protected files, batch processing, messaging, and interactive development tools.",
+      "record_path": "systems/nord-tss/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/nord-tss/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "NO"
+      ],
+      "purpose": [
+        "timesharing",
+        "interactive-development"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1973",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "NORD computers"
+      ],
+      "kernel": [],
+      "editor_disposition": "has-associations",
+      "editor_checked_at": "2026-07-29",
+      "editors": [
+        {
+          "name": "QED",
+          "relationship": "bundled-optional",
+          "interface_style": "command-oriented",
+          "assertion_status": "documented",
+          "source": "https://gunkies.org/wiki/NORD-TSS",
+          "source_kind": "historical-computing-wiki",
+          "note": ""
+        }
+      ]
     },
     {
       "id": "nos",
@@ -11973,6 +12764,36 @@
       "editors": []
     },
     {
+      "id": "pdp-1-x-time-sharing-system",
+      "title": "PDP-1-X Time Sharing System",
+      "description": "MIT RLE's experimental capability-oriented time-sharing operating system for the modified PDP-1-X.",
+      "record_path": "systems/pdp-1-x-time-sharing-system/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/pdp-1-x-time-sharing-system/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "academic-timesharing",
+        "operating-system-research"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "PDP-1-X"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "pen-geos",
       "title": "PEN/GEOS",
       "description": "Draft operating-system identity pending core research.",
@@ -12485,6 +13306,36 @@
       ],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "pro-venix",
+      "title": "PRO/VENIX",
+      "description": "VenturCom's Version 7 Unix-derived multi-user real-time workstation system for the DEC Professional 350.",
+      "record_path": "systems/pro-venix/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/pro-venix/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "multi-user-workstation",
+        "real-time-unix"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1983",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC Professional 350"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -13188,6 +14039,35 @@
       "editors": []
     },
     {
+      "id": "risos-arpa-terminal-system",
+      "title": "RISOS/ARPA Terminal System",
+      "description": "A PDP-11 ARPANET terminal system influenced by Multics and MIT's PDP-1-X time-sharing work.",
+      "record_path": "systems/risos-arpa-terminal-system/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/risos-arpa-terminal-system/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "arpanet-terminal-host"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-11"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "rockbox",
       "title": "Rockbox",
       "description": "Draft inventory record for Rockbox.",
@@ -13471,6 +14351,35 @@
       ],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "rts-8",
+      "title": "RTS-8",
+      "description": "DEC's compact fixed-priority real-time operating system for the PDP-8 family.",
+      "record_path": "systems/rts-8/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/rts-8/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "real-time-monitoring-and-control"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1976",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-8 family"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -13874,6 +14783,41 @@
       ],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "sintran",
+      "title": "SINTRAN",
+      "description": "The Norwegian SINTRAN operating-system family, spanning the original 1968 monitor, SINTRAN II, and SINTRAN III.",
+      "record_path": "systems/sintran/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/sintran/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "NO"
+      ],
+      "purpose": [
+        "real-time-computing",
+        "multi-user-computing"
+      ],
+      "programming_language": [
+        "Fortran",
+        "NORD PL"
+      ],
+      "license": [],
+      "first_release": "1968",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "NORD-1",
+        "NORD-10",
+        "ND-100"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -14327,6 +15271,46 @@
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
       "editors": []
+    },
+    {
+      "id": "stanford-time-sharing-system",
+      "title": "Stanford Time-Sharing System",
+      "description": "Stanford's experimental PDP-1 time-sharing systems, predecessors that influenced WAITS.",
+      "record_path": "systems/stanford-time-sharing-system/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/stanford-time-sharing-system/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "academic-timesharing",
+        "interactive-graphics-research"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-1"
+      ],
+      "kernel": [],
+      "editor_disposition": "has-associations",
+      "editor_checked_at": "2026-07-29",
+      "editors": [
+        {
+          "name": "TVEDIT",
+          "relationship": "integral",
+          "interface_style": "full-screen-text",
+          "assertion_status": "documented",
+          "source": "https://gunkies.org/wiki/Stanford_Time-Sharing_System",
+          "source_kind": "historical-computing-wiki",
+          "note": ""
+        }
+      ]
     },
     {
       "id": "startos",
@@ -15633,6 +16617,37 @@
       "editors": []
     },
     {
+      "id": "tropix",
+      "title": "TROPIX",
+      "description": "A Unix-compatible operating system independently developed at the Federal University of Rio de Janeiro.",
+      "record_path": "systems/tropix/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/tropix/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "BR"
+      ],
+      "purpose": [
+        "unix-compatible-general-purpose-computing",
+        "academic-development"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1985",
+      "latest_release": "",
+      "last_updated": "2008-12",
+      "gui": [],
+      "platform": [
+        "Motorola 68010",
+        "IBM PC compatibles"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "trsdos",
       "title": "TRSDOS",
       "description": "Draft operating-system identity pending core research.",
@@ -15777,6 +16792,36 @@
       "kernel": [],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "tss-8",
+      "title": "TSS/8",
+      "description": "DEC's general-purpose multi-user time-sharing operating system for PDP-8 computers.",
+      "record_path": "systems/tss-8/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/tss-8/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "general-purpose-timesharing",
+        "interactive-programming"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1968",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-8 family"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -15974,6 +17019,65 @@
       "editors": []
     },
     {
+      "id": "tymcom-ix",
+      "title": "TYMCOM-IX",
+      "description": "Tymshare's enhanced Berkeley Timesharing System for the SDS 940.",
+      "record_path": "systems/tymcom-ix/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/tymcom-ix/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "commercial-timesharing"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "SDS 940"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
+      "id": "tymcom-x",
+      "title": "TYMCOM-X",
+      "description": "Tymshare's PDP-10 time-sharing operating-system lineage, later adapted to KS10 hardware as TYMCOM-XX.",
+      "record_path": "systems/tymcom-x/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/tymcom-x/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "commercial-timesharing"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "PDP-10",
+        "DECSYSTEM-20 KS10"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "ubuntu-kylin",
       "title": "优麒麟",
       "description": "Draft multilingual inventory record for 优麒麟.",
@@ -16031,6 +17135,36 @@
       ],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "ucsb-on-line-system",
+      "title": "UCSB On-Line System",
+      "description": "The University of California, Santa Barbara's ARPANET-connected time-sharing system for an IBM System/360 Model 75.",
+      "record_path": "systems/ucsb-on-line-system/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/ucsb-on-line-system/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "academic-timesharing",
+        "arpanet-host"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1971",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "IBM System/360 Model 75"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -16343,6 +17477,65 @@
       ]
     },
     {
+      "id": "unix-32v",
+      "title": "UNIX/32V",
+      "description": "Bell Labs' first widely influential 32-bit Unix port, derived from Seventh Edition Unix for the VAX-11/780.",
+      "record_path": "systems/unix-32v/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/unix-32v/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "32-bit-unix-port"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1979",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "VAX-11/780"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
+      "id": "unix-370",
+      "title": "UNIX/370",
+      "description": "Two historical efforts to host Unix user environments on IBM System/370-class hardware under TSS/370 or VM/370.",
+      "record_path": "systems/unix-370/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/unix-370/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "mainframe-unix-port"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "IBM System/370",
+        "Amdahl 470V/6"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "unix-system-v",
       "title": "UNIX System V",
       "description": "AT&T UNIX System V operating-system lineage.",
@@ -16617,6 +17810,36 @@
       ]
     },
     {
+      "id": "vaxeln",
+      "title": "VAXELN",
+      "description": "DEC's VAX real-time operating system for dedicated scientific, industrial, workstation, and control applications.",
+      "record_path": "systems/vaxeln/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/vaxeln/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "dedicated-real-time-applications",
+        "industrial-control"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC VAX"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "versados",
       "title": "VERSAdos",
       "description": "Draft inventory record for VERSAdos.",
@@ -16774,6 +17997,36 @@
       ],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "vm-386",
+      "title": "VM/386",
+      "description": "IGC's DOS-launched protected-mode multi-user and multitasking operating system for Intel 386-compatible computers.",
+      "record_path": "systems/vm-386/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/vm-386/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "multi-user-dos-hosting",
+        "multitasking"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "Intel 80386 and later"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -18263,6 +19516,37 @@
       ],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "yggdrasil-linux",
+      "title": "Yggdrasil Linux/GNU/X",
+      "description": "An early plug-and-play Linux distribution designed as a complete system on CD-ROM.",
+      "record_path": "systems/yggdrasil-linux/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/yggdrasil-linux/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "general-purpose-linux",
+        "live-cd-distribution",
+        "automatic-hardware-configuration"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "1992-12-08",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "Intel i386"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {

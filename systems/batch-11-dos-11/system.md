@@ -9,7 +9,7 @@ as_of: 2026-07-26
 catalog_completeness: { level: inventory, note: Draft coverage record; no verified claim is asserted. }
 field_dispositions:
   # BEGIN GENERATED TEXT EDITOR DISPOSITION
-  - { field: text_editors, disposition: no-evidence-found, checked_at: 2026-07-26 }
+  - { field: text_editors, disposition: documented, checked_at: 2026-07-29 }
   # END GENERATED TEXT EDITOR DISPOSITION
   - { field: organizations, disposition: not-researched, checked_at: 2026-07-26 }
   - { field: countries_of_origin, disposition: not-researched, checked_at: 2026-07-26 }
@@ -66,12 +66,17 @@ first_pass_attributes:
 # BEGIN GENERATED TEXT EDITORS
 text_editor_research:
   inventory: /inventory/text-editor-associations.json
-  checked_at: '2026-07-26'
-  disposition: no-evidence-found
-  note: No editor relationship was found in the linked Wikipedia page or direct Wikidata
-    text-editor platform statements; primary manuals and distribution manifests still
-    require research.
-text_editors: []
+  checked_at: '2026-07-29'
+  disposition: has-associations
+  note: One or more relationships are documented by curated primary, institutional,
+    or preservation sources.
+text_editors:
+- name: EDIT-11
+  relationship: bundled-default
+  interface_style: line-oriented
+  source: https://gunkies.org/wiki/DOS/BATCH
+  source_kind: historical-computing-wiki
+  assertion_status: documented
 # END GENERATED TEXT EDITORS
 ---
 
