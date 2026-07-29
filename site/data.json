@@ -3,11 +3,11 @@
   "as_of": "2026-07-29",
   "repository": "https://github.com/htayj/os-directory",
   "stats": {
-    "systems": 577,
-    "systems_with_editors": 84,
-    "associations": 244,
-    "unique_editors": 121,
-    "documented_associations": 42,
+    "systems": 581,
+    "systems_with_editors": 85,
+    "associations": 245,
+    "unique_editors": 122,
+    "documented_associations": 43,
     "provisional_associations": 202
   },
   "systems": [
@@ -1642,6 +1642,35 @@
       ]
     },
     {
+      "id": "bbn-exec-iii",
+      "title": "BBN Exec III",
+      "description": "A preserved executive system for Bolt, Beranek and Newman's PDP-1-class computer, currently represented by sorted documentation and listings.",
+      "record_path": "systems/bbn-exec-iii/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/bbn-exec-iii/system.md",
+      "catalog_level": "identity",
+      "catalog_status": "draft",
+      "development_status": "discontinued-with-documentary-preservation",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "computer-executive-operation"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "BBN PDP-1 / PDP-1D family"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "bcos-olivetti",
       "title": "BCOS",
       "description": "Draft multilingual inventory record; factual research is pending.",
@@ -2837,6 +2866,51 @@
           "assertion_status": "provisional",
           "source": "https://en.wikipedia.org/w/index.php?title=Coherent_%28operating_system%29&oldid=1319367048",
           "source_kind": "wikipedia-system-page",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "colorforth",
+      "title": "colorForth",
+      "description": "Chuck Moore's compact color-tokenized Forth language, operating system, and integrated development environment for standalone PC-compatible hardware.",
+      "record_path": "systems/colorforth/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/colorforth/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "inactive-original-with-web-archive",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "minimal-standalone-programming-environment",
+        "vlsi-design-tool-host"
+      ],
+      "programming_language": [
+        "colorForth"
+      ],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [
+        "graphical-color-coded-integrated-environment",
+        "graphical-semantic-text"
+      ],
+      "platform": [
+        "Pentium-class IBM PC compatibles"
+      ],
+      "kernel": [],
+      "editor_disposition": "has-associations",
+      "editor_checked_at": "2026-07-29",
+      "editors": [
+        {
+          "name": "colorForth editor",
+          "relationship": "integral",
+          "interface_style": "graphical-semantic-text",
+          "assertion_status": "documented",
+          "source": "https://colorforth.github.io/cf.htm",
+          "source_kind": "preserved-official-site",
           "note": ""
         }
       ]
@@ -12794,6 +12868,36 @@
       "editors": []
     },
     {
+      "id": "pdp-6-timesharing-system-1-4",
+      "title": "PDP-6 Timesharing System 1.4",
+      "description": "A preserved version of Digital Equipment Corporation's manufacturer-supported PDP-6 multiprogramming and time-sharing system.",
+      "record_path": "systems/pdp-6-timesharing-system-1-4/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/pdp-6-timesharing-system-1-4/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued-original-with-partial-reconstruction",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "interactive-timesharing",
+        "multiprogramming"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "DEC PDP-6"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
+      "editors": []
+    },
+    {
       "id": "pen-geos",
       "title": "PEN/GEOS",
       "description": "Draft operating-system identity pending core research.",
@@ -16015,6 +16119,36 @@
       ],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "ti-system-v-68",
+      "title": "TI System V/68",
+      "description": "Texas Instruments' Motorola 68000-family UNIX System V port for the TI S1500 and HP 9000-1500 workstation lineage.",
+      "record_path": "systems/ti-system-v-68/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/ti-system-v-68/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "discontinued-with-restricted-preservation",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "workstation-unix"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [],
+      "platform": [
+        "TI S1500 / HP 9000-1500",
+        "Motorola 68000 family"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {

@@ -14,12 +14,15 @@ pagination, and CSV export.
 The frozen English Wikipedia baseline is fully dispositioned: 754 normalized
 candidates from 901 list occurrences. A separate native-language discovery
 release covers ten non-English language traditions plus the Russian/Elbrus
-ecosystem pass. The bundle contains 577 system-lineage records: the original
+ecosystem pass. The bundle contains 581 system-lineage records: the original
 530-system English, multilingual, Elbrus, and TI Explorer release; five
 Lisp-machine-coverage additions; DTSS and Small ITS; and 40 systems discovered
-through the recursive Computer History Wiki category audit. Releases, aliases,
-groupings, non-OS items, and unresolved identities remain explicit inventory
-results rather than being forced into system records.
+through the recursive Computer History Wiki category audit; plus PDP-6
+Timesharing System 1.4, BBN Exec III, TI System V/68, and colorForth found
+through a complete audit of Lars Brinkhoff's publicly visible GitHub
+organization memberships. Releases, aliases, groupings, non-OS items, and
+unresolved identities remain explicit inventory results rather than being
+forced into system records.
 
 # Catalog
 

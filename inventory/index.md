@@ -28,6 +28,10 @@ Generated and curated inventories used to establish catalog coverage.
   system mappings for 27 selected preservation projects after screening all
   208 public profile repositories, with ownership, fork, and verified external
   contribution boundaries.
+* [Lars Brinkhoff public GitHub-organization audit](preservation/lars-github-org-audit.md) -
+  a complete snapshot and disposition of 26 publicly visible memberships and
+  210 public repositories, including preservation clusters for DEC, BBN, TI,
+  Lisp-machine, Unix, networking, language, and emulator history.
 * [Computer History Wiki operating-system coverage](gunkies/coverage.md) -
   complete dispositions for 330 pages across all 35 recursively discovered
   categories, including 40 newly cataloged historical systems.

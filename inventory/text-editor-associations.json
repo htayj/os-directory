@@ -606,6 +606,14 @@
       ]
     },
     {
+      "path": "systems/bbn-exec-iii",
+      "title": "BBN Exec III",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/bcos-olivetti",
       "title": "BCOS",
       "disposition": "no-evidence-found",
@@ -1083,6 +1091,25 @@
           "source_kind": "wikipedia-system-page",
           "source_revision": 1319367048,
           "assertion_status": "provisional"
+        }
+      ]
+    },
+    {
+      "path": "systems/colorforth",
+      "title": "colorForth",
+      "disposition": "has-associations",
+      "searched": [
+        "curated-primary-sources"
+      ],
+      "note": "One or more relationships are documented by curated primary or institutional sources.",
+      "associations": [
+        {
+          "name": "colorForth editor",
+          "relationship": "integral",
+          "interface_style": "graphical-semantic-text",
+          "source": "https://colorforth.github.io/cf.htm",
+          "source_kind": "preserved-official-site",
+          "assertion_status": "documented"
         }
       ]
     },
@@ -5194,6 +5221,14 @@
       "associations": []
     },
     {
+      "path": "systems/pdp-6-timesharing-system-1-4",
+      "title": "PDP-6 Timesharing System 1.4",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
+      "associations": []
+    },
+    {
       "path": "systems/pen-geos",
       "title": "PEN/GEOS",
       "disposition": "no-evidence-found",
@@ -6409,6 +6444,14 @@
         "wikidata-text-editor-platform-statements"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/ti-system-v-68",
+      "title": "TI System V/68",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {

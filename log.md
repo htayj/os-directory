@@ -2,6 +2,19 @@
 
 ## 2026-07-29
 
+* **Public organization audit**: Captured all 26 publicly visible GitHub
+  organization memberships for Lars Brinkhoff and all 210 public repositories
+  reported by those organizations, with a complete organization disposition
+  and 102 preservation-relevant repository selections.
+* **Organization catalog additions**: Added PDP-6 Timesharing System 1.4, BBN
+  Exec III, TI System V/68, and colorForth from the PDP-6, BBN-1D, TI-S1500,
+  and colorforth preservation collections.
+* **Organization evidence boundaries**: Public membership is treated as a
+  discovery lead rather than proof of authorship or contribution; private and
+  non-public memberships are outside the observable snapshot.
+* **Restricted preservation material**: Recorded the TI System V/68 archive's
+  stated PII and proprietary-license restrictions without inspecting,
+  copying, or publishing the restricted filesystem contents.
 * **Gunkies coverage**: Recursively captured 330 unique pages across 35
   Computer History Wiki operating-system categories, pinned every source page
   by revision and content hash, and assigned every page a catalog or non-system

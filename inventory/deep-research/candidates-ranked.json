@@ -40362,6 +40362,46 @@
       "priority_score": 88
     },
     {
+      "path": "systems/bbn-exec-iii",
+      "title": "BBN Exec III",
+      "aliases": [
+        "BBN Exec III",
+        "Exec-III"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "identity",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "exec-iii-repo",
+          "title": "Exec-III",
+          "resource": "https://github.com/BBN-1D/Exec-III",
+          "source_kind": "preservation-project"
+        },
+        {
+          "id": "bbn-org",
+          "title": "BBN-1D GitHub organization",
+          "resource": "https://github.com/BBN-1D",
+          "source_kind": "preservation-organization"
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 88
+    },
+    {
       "path": "systems/foonex",
       "title": "FOONEX",
       "aliases": [
@@ -40596,6 +40636,46 @@
           "resource": "https://gunkies.org/w/index.php?title=PDP-1-X_Time_Sharing_System&oldid=36067",
           "source_kind": "historical-computing-wiki",
           "revision": 36067
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 88
+    },
+    {
+      "path": "systems/pdp-6-timesharing-system-1-4",
+      "title": "PDP-6 Timesharing System 1.4",
+      "aliases": [
+        "PDP-6 Timesharing System 1.4",
+        "TS-1.4"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "pdp6-ts-repo",
+          "title": "DEC PDP-6 timesharing system 1.4",
+          "resource": "https://github.com/PDP-6/TS-1.4",
+          "source_kind": "preservation-project"
+        },
+        {
+          "id": "pdp6-manual",
+          "title": "PDP-6 Multiprogramming System Manual",
+          "resource": "https://bitsavers.org/pdf/dec/pdp6/DEC-6-0-EX-SYS-UM-IP-PRE00_Multiprogramming_System_Manual_1965.pdf",
+          "source_kind": "contemporary-manual"
         }
       ],
       "existing_text_editors": [],
@@ -43060,6 +43140,43 @@
       "priority_score": 68
     },
     {
+      "path": "systems/ti-system-v-68",
+      "title": "TI System V/68",
+      "aliases": [
+        "TI System V/68"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "tisysv-repo",
+          "title": "TI System V/68 Extracted Filesystems",
+          "resource": "https://github.com/TI-S1500/TISYSV68-FS",
+          "source_kind": "preservation-project"
+        },
+        {
+          "id": "ti-org",
+          "title": "TI S1500 / HP 9000-1500 preservation organization",
+          "resource": "https://github.com/TI-S1500",
+          "source_kind": "preservation-organization"
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 68
+    },
+    {
       "path": "systems/ios",
       "title": "iOS",
       "aliases": [
@@ -44549,6 +44666,50 @@
       ],
       "existing_text_editors": [],
       "priority_score": 41
+    },
+    {
+      "path": "systems/colorforth",
+      "title": "colorForth",
+      "aliases": [
+        "colorForth"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "kernels"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "colorforth-site",
+          "title": "colorForth",
+          "resource": "https://colorforth.github.io/cf.htm",
+          "source_kind": "preserved-official-site"
+        },
+        {
+          "id": "colorforth-repo",
+          "title": "colorforth.com website mirror",
+          "resource": "https://github.com/colorforth/colorforth.github.io",
+          "source_kind": "preservation-repository"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "colorForth editor",
+          "relationship": "integral",
+          "interface_style": "graphical-semantic-text",
+          "source": "https://colorforth.github.io/cf.htm",
+          "source_kind": "preserved-official-site",
+          "assertion_status": "documented"
+        }
+      ],
+      "priority_score": 40
     },
     {
       "path": "systems/small-incompatible-timesharing-system",

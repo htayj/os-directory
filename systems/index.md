@@ -49,6 +49,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Banyan VINES](banyan-vines/) - Draft operating-system identity pending core research.
 * [BareMetal](baremetal/) - Draft operating-system identity pending core research.
 * [Barrelfish](barrelfish/) - Draft operating-system identity pending core research.
+* [BBN Exec III](bbn-exec-iii/) - A preserved executive system for Bolt, Beranek and Newman's PDP-1-class computer, currently represented by sorted documentation and listings.
 * [BCOS](bcos-olivetti/) - Draft multilingual inventory record; factual research is pending.
 * [BeIA](beia/) - Be Inc.'s named BeOS-derived information-appliance operating system.
 * [BeOS](beos/) - Be Inc.'s operating-system lineage.
@@ -86,6 +87,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Classic Mac OS](classic-mac-os/) - Historical Macintosh operating-system lineage preceding Mac OS X.
 * [CLIP OS](clip-os/) - Draft multilingual inventory record for CLIP OS.
 * [Coherent](coherent/) - Draft operating-system identity pending core research.
+* [colorForth](colorforth/) - Chuck Moore's compact color-tokenized Forth language, operating system, and integrated development environment for standalone PC-compatible hardware.
 * [ColorOS](coloros/) - Draft operating-system identity pending core research.
 * [Compatible Time-Sharing System](compatible-time-sharing-system/) - Draft operating-system identity pending core research.
 * [Concurrent CP/M](concurrent-cp-m/) - Digital Research successor operating system to CP/M-80 and MP/M-80.
@@ -363,6 +365,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [PC-MOS/386](pc-mos-386/) - Draft inventory record for PC-MOS/386.
 * [PCOS (Professional Computer Operating System)](pcos-olivetti/) - Draft multilingual inventory record for PCOS (Professional Computer Operating System).
 * [PDP-1-X Time Sharing System](pdp-1-x-time-sharing-system/) - MIT RLE's experimental capability-oriented time-sharing operating system for the modified PDP-1-X.
+* [PDP-6 Timesharing System 1.4](pdp-6-timesharing-system-1-4/) - A preserved version of Digital Equipment Corporation's manufacturer-supported PDP-6 multiprogramming and time-sharing system.
 * [PEN/GEOS](pen-geos/) - Draft operating-system identity pending core research.
 * [PenPoint OS](penpoint-os/) - Draft inventory record for PenPoint OS.
 * [pfSense](pfsense/) - Draft inventory record for pfSense.
@@ -459,6 +462,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [THEOS](theos/) - Draft operating-system identity pending core research.
 * [Thoth](thoth/) - Draft inventory record for Thoth.
 * [ThreadX](threadx/) - Draft inventory record for ThreadX.
+* [TI System V/68](ti-system-v-68/) - Texas Instruments' Motorola 68000-family UNIX System V port for the TI S1500 and HP 9000-1500 workstation lineage.
 * [TI-RTOS](ti-rtos-kernel/) - Draft operating-system identity pending core research.
 * [Time Sharing Operating System](time-sharing-operating-system/) - Draft inventory record for Time Sharing Operating System.
 * [TinyOS](tinyos/) - Draft inventory record for TinyOS.

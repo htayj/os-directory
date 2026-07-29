@@ -591,6 +591,9 @@ CURATED = {
     "systems/stanford-time-sharing-system": [
         curated("TVEDIT", "integral", "https://gunkies.org/wiki/Stanford_Time-Sharing_System", "full-screen-text", "documented", "historical-computing-wiki"),
     ],
+    "systems/colorforth": [
+        curated("colorForth editor", "integral", "https://colorforth.github.io/cf.htm", "graphical-semantic-text", "documented", "preserved-official-site"),
+    ],
 }
 
 

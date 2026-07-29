@@ -1,0 +1,205 @@
+{
+  "schema_version": "0.1",
+  "as_of": "2026-07-29",
+  "source": "inventory/preservation/lars-github-org-source.json",
+  "repository_snapshot": "inventory/preservation/lars-github-org-repositories.json",
+  "scope_note": "This audit covers publicly visible GitHub organization memberships only. Organization membership and organization-owned repositories do not establish that Lars Brinkhoff authored or contributed to every project.",
+  "organizations": [
+    {"login": "got-lambda", "classification": "general-community", "note": "Programming meetup organization; no historical-computing preservation project identified."},
+    {"login": "nocrew", "classification": "historical-computing", "note": "Preserves an Atari ST emulator."},
+    {"login": "Lisp-se", "classification": "general-community", "note": "Swedish Lisp community repositories, not a historical-system archive."},
+    {"login": "ForthHub", "classification": "language-history", "note": "Preserves historical Forth implementations and documentation."},
+    {"login": "Sylog", "classification": "commercial-unrelated", "note": "Commercial technology organization; public repository is unrelated to preservation."},
+    {"login": "DataRespons", "classification": "empty-public-org", "note": "No public repositories at the snapshot date."},
+    {"login": "saildart", "classification": "preservation-focused", "note": "Stanford AI Laboratory DART tape, WAITS, simulator-media, and application preservation."},
+    {"login": "awesome-cpus", "classification": "historical-computing", "note": "Machine-family reference and document collections."},
+    {"login": "PDP-10", "classification": "preservation-focused", "note": "Large PDP-10 software, operating-system, media, emulator, language, and documentation archive."},
+    {"login": "PDP-6", "classification": "preservation-focused", "note": "PDP-6 operating systems, programs, editors, and primary documentation."},
+    {"login": "ICtech", "classification": "empty-public-org", "note": "No public repositories at the snapshot date."},
+    {"login": "colorforth", "classification": "preservation-focused", "note": "Mirror of Chuck Moore's colorforth.com system documentation and downloads."},
+    {"login": "NetWinder", "classification": "empty-public-org", "note": "No public repositories at the snapshot date."},
+    {"login": "utoh", "classification": "language-history", "note": "Preserves Pygmy Forth variants."},
+    {"login": "ArchMach", "classification": "preservation-focused", "note": "MIT Architecture Machine Group documents, MagicSix, and SINE preservation."},
+    {"login": "Chaosnet", "classification": "preservation-focused", "note": "Historical Chaosnet implementations, operating-system integrations, hardware drawings, and restoration tools."},
+    {"login": "aaron-marcus", "classification": "historical-design-archive", "note": "Historical cybernetic-design material, adjacent to rather than directly cataloging operating systems."},
+    {"login": "ricomputermuseum", "classification": "preservation-focused", "note": "Rhode Island Computer Museum hardware, documentation, restoration tools, and software."},
+    {"login": "ablevm", "classification": "contemporary-technology", "note": "Contemporary virtual-machine and Forth development, not primarily historical preservation."},
+    {"login": "pdp11", "classification": "preservation-focused", "note": "PDP-11 operating-system, network, game, and source reconstruction projects."},
+    {"login": "legends-of-computing", "classification": "empty-public-org", "note": "No public repositories at the snapshot date."},
+    {"login": "get-a-clu", "classification": "language-history", "note": "CLU implementation and environment preservation across ITS, BSD, and Sun systems."},
+    {"login": "TYMNET", "classification": "preservation-focused", "note": "TYMNET documentation archive."},
+    {"login": "TI-S1500", "classification": "preservation-focused", "note": "TI S1500 and HP 9000-1500 hardware, ROM, toolchain, documentation, and TI System V/68 preservation."},
+    {"login": "Computer-History-and-Simulation-Group", "classification": "preservation-focused", "note": "SIMH releases, binaries, emulator work, and media-conversion tools."},
+    {"login": "BBN-1D", "classification": "preservation-focused", "note": "BBN PDP-1D Exec III, Logo, documentation, and reconstruction tooling."}
+  ],
+  "clusters": [
+    {
+      "organization": "nocrew",
+      "repositories": ["nocrew/ostis"],
+      "artifact_kinds": ["emulator"],
+      "systems": ["systems/atari-tos"],
+      "machine_families": ["Atari ST"],
+      "note": "Atari ST emulator useful for running preserved TOS software."
+    },
+    {
+      "organization": "ForthHub",
+      "repositories": ["ForthHub/cmFORTH", "ForthHub/FIG-Forth", "ForthHub/F83", "ForthHub/OneForth", "ForthHub/BB4Wforth", "ForthHub/Atlast", "ForthHub/only-standard-definitions"],
+      "artifact_kinds": ["language-runtime", "software-history"],
+      "systems": [],
+      "machine_families": ["Apple II", "Atari ST", "IBM PC compatibles"],
+      "note": "Historical Forth implementations are preserved as language systems; they are not silently promoted to operating systems."
+    },
+    {
+      "organization": "saildart",
+      "repositories": ["saildart/undart-2016", "saildart/waits-disk-kits", "saildart/remix", "saildart/KA10sn32", "saildart/waits6.17J", "saildart/waits9.18B", "saildart/geomed"],
+      "artifact_kinds": ["format-recovery-tool", "media-image", "emulator", "source-history", "application-preservation"],
+      "systems": ["systems/waits"],
+      "machine_families": ["PDP-6", "PDP-10 KA10"],
+      "note": "DART extraction, WAITS disk construction, preserved WAITS releases, KA10 simulation, and SAIL application material."
+    },
+    {
+      "organization": "awesome-cpus",
+      "repositories": ["awesome-cpus/awesome-cpus-m88k", "awesome-cpus/awesome-cpus-pdp10", "awesome-cpus/awesome-cpus-i860", "awesome-cpus/awesome-cpus-pic", "awesome-cpus/pdp8", "awesome-cpus/b5000", "awesome-cpus/vector"],
+      "artifact_kinds": ["hardware-documentation"],
+      "systems": [],
+      "machine_families": ["Motorola 88000", "PDP-10", "Intel i860", "PIC", "PDP-8", "Burroughs B5000", "vector processors"],
+      "note": "Hardware-reference collections provide platform context rather than operating-system evidence."
+    },
+    {
+      "organization": "PDP-10",
+      "repositories": ["PDP-10/klh10", "PDP-10/its", "PDP-10/tenex", "PDP-10/FOONEX", "PDP-10/waits", "PDP-10/TOPS-10", "PDP-10/panda", "PDP-10/Tymcom-X", "PDP-10/TOPS-20AN", "PDP-10/tops20-build"],
+      "artifact_kinds": ["emulator", "source-reconstruction", "media-image"],
+      "systems": ["systems/incompatible-timesharing-system", "systems/tenex", "systems/foonex", "systems/waits", "systems/tops-10", "systems/tops-20", "systems/tymcom-x"],
+      "machine_families": ["PDP-10"],
+      "note": "Core runnable or build-oriented PDP-10 operating-system preservation."
+    },
+    {
+      "organization": "PDP-10",
+      "repositories": ["PDP-10/itstar", "PDP-10/tops10-tapes", "PDP-10/its-vault", "PDP-10/bsys", "PDP-10/sri-nic", "PDP-10/imsss"],
+      "artifact_kinds": ["format-recovery-tool", "media-image", "source-history"],
+      "systems": ["systems/incompatible-timesharing-system", "systems/tenex", "systems/tops-10"],
+      "machine_families": ["PDP-10"],
+      "note": "Tape manipulation, preserved system media, ITS vault material, TENEX BSYS extraction, and historical site dumps."
+    },
+    {
+      "organization": "PDP-10",
+      "repositories": ["PDP-10/emacs", "PDP-10/amis", "PDP-10/fine"],
+      "artifact_kinds": ["software-history", "application-preservation"],
+      "systems": ["systems/tops-10", "systems/tops-20"],
+      "machine_families": ["PDP-10"],
+      "note": "TECO Emacs and Emacs-family editor preservation."
+    },
+    {
+      "organization": "PDP-10",
+      "repositories": ["PDP-10/documents", "PDP-10/microcode", "PDP-10/maxc", "PDP-10/wpi"],
+      "artifact_kinds": ["documentation-archive", "hardware-documentation", "source-history"],
+      "systems": ["systems/tenex"],
+      "machine_families": ["PDP-10", "Xerox MAXC"],
+      "note": "Documentation, microcode, machine-site, and MAXC context collections."
+    },
+    {
+      "organization": "PDP-6",
+      "repositories": ["PDP-6/JOSS-II", "PDP-6/ITS-138", "PDP-6/TS-1.4", "PDP-6/documents", "PDP-6/TECO-6"],
+      "artifact_kinds": ["source-reconstruction", "documentation-archive", "software-history"],
+      "systems": ["systems/joss", "systems/incompatible-timesharing-system", "systems/pdp-6-timesharing-system-1-4"],
+      "machine_families": ["PDP-6"],
+      "note": "JOSS, early ITS, DEC timesharing, editor, and primary PDP-6 material."
+    },
+    {
+      "organization": "colorforth",
+      "repositories": ["colorforth/colorforth.github.io"],
+      "artifact_kinds": ["documentation-archive", "software-history"],
+      "systems": ["systems/colorforth"],
+      "machine_families": ["Pentium-class IBM PC compatibles"],
+      "note": "Preserved official colorForth website and downloads."
+    },
+    {
+      "organization": "utoh",
+      "repositories": ["utoh/pygmy-forth", "utoh/riscy-pygness", "utoh/pygmy64"],
+      "artifact_kinds": ["language-runtime", "software-history"],
+      "systems": [],
+      "machine_families": ["IBM PC compatibles", "Python-hosted systems"],
+      "note": "Pygmy Forth history and ports; cataloged as language implementations rather than operating systems."
+    },
+    {
+      "organization": "ArchMach",
+      "repositories": ["ArchMach/documents", "ArchMach/Sine", "ArchMach/Magic-Six"],
+      "artifact_kinds": ["documentation-archive", "application-preservation", "source-history"],
+      "systems": ["systems/magicsix"],
+      "machine_families": ["Interdata 7/32", "Interdata 8/32", "Perkin-Elmer 32-bit systems"],
+      "note": "MIT Architecture Machine Group documents and MagicSix/SINE preservation."
+    },
+    {
+      "organization": "Chaosnet",
+      "repositories": ["Chaosnet/minits", "Chaosnet/amber", "Chaosnet/Chaosnet-for-4.1BSD", "Chaosnet/Chaosnet-for-VMS", "Chaosnet/suds-drawings", "Chaosnet/chaosnet-tools", "Chaosnet/config-files-from-dns", "Chaosnet/pictures"],
+      "artifact_kinds": ["source-history", "network-restoration", "hardware-documentation", "documentation-archive"],
+      "systems": ["systems/minits", "systems/amber-operating-system", "systems/berkeley-software-distribution", "systems/vms"],
+      "machine_families": ["PDP-11", "VAX", "MIT Lisp machines"],
+      "note": "MINITS, Amber documentation, BSD/VMS integrations, Chaosnet hardware drawings, tools, configuration, and images."
+    },
+    {
+      "organization": "aaron-marcus",
+      "repositories": ["aaron-marcus/cybernetic-landscapes"],
+      "artifact_kinds": ["documentation-archive"],
+      "systems": [],
+      "machine_families": [],
+      "note": "Historical interaction and cybernetic-design archive adjacent to interface-history research."
+    },
+    {
+      "organization": "ricomputermuseum",
+      "repositories": ["ricomputermuseum/CJL-Wisdom", "ricomputermuseum/Warrens_Flipchip_Tester", "ricomputermuseum/DEC-PDP-12"],
+      "artifact_kinds": ["documentation-archive", "hardware-restoration-tool", "hardware-documentation"],
+      "systems": [],
+      "machine_families": ["PDP-8", "PDP-12", "DEC Flip-Chip modules"],
+      "note": "Museum restoration tooling and DEC machine knowledge."
+    },
+    {
+      "organization": "pdp11",
+      "repositories": ["pdp11/network-unix-v6", "pdp11/sits", "pdp11/fuzzball-operating-system", "pdp11/elf-operating-system", "pdp11/mos-operating-system", "pdp11/camexec", "pdp11/nswit"],
+      "artifact_kinds": ["source-reconstruction", "source-history", "network-restoration"],
+      "systems": ["systems/network-unix", "systems/small-incompatible-timesharing-system", "systems/fuzzball-operating-system", "systems/elf-operating-system", "systems/micro-operating-system", "systems/camexec"],
+      "machine_families": ["PDP-11"],
+      "note": "PDP-11 operating systems and historically important network/router software."
+    },
+    {
+      "organization": "get-a-clu",
+      "repositories": ["get-a-clu/its-pdp10-clu", "get-a-clu/portable-clu", "get-a-clu/vax-clu", "get-a-clu/sun-clu", "get-a-clu/clu2c", "get-a-clu/X10", "get-a-clu/updated-pclu"],
+      "artifact_kinds": ["language-runtime", "application-preservation", "software-history"],
+      "systems": ["systems/incompatible-timesharing-system", "systems/berkeley-software-distribution", "systems/sunos"],
+      "machine_families": ["PDP-10", "VAX", "Sun-2", "Sun-3"],
+      "note": "CLU implementations and associated X10 material across historical hosts."
+    },
+    {
+      "organization": "TYMNET",
+      "repositories": ["TYMNET/docs"],
+      "artifact_kinds": ["documentation-archive"],
+      "systems": [],
+      "machine_families": ["TYMNET network systems"],
+      "note": "TYMNET documentation useful for Tymshare operating-system and networking context."
+    },
+    {
+      "organization": "TI-S1500",
+      "repositories": ["TI-S1500/unixtool", "TI-S1500/s5fstool", "TI-S1500/ROMs", "TI-S1500/Hardware", "TI-S1500/GNU-S1500", "TI-S1500/TISYSV68-FS", "TI-S1500/bitsavers", "TI-S1500/GCC-1.x", "TI-S1500/TI1500_GCC"],
+      "artifact_kinds": ["format-recovery-tool", "media-image", "hardware-documentation", "source-history", "documentation-archive"],
+      "systems": ["systems/ti-system-v-68"],
+      "machine_families": ["TI S1500", "HP 9000-1500"],
+      "note": "TI System V/68 filesystems and tools plus ROM, hardware, toolchain, and documentation preservation."
+    },
+    {
+      "organization": "Computer-History-and-Simulation-Group",
+      "repositories": ["Computer-History-and-Simulation-Group/SIMH-v3.12-2", "Computer-History-and-Simulation-Group/OpenSIMH_Binaries", "Computer-History-and-Simulation-Group/AXPbox", "Computer-History-and-Simulation-Group/Open-SIMH", "Computer-History-and-Simulation-Group/wteledsk", "Computer-History-and-Simulation-Group/SIMH-v3.12-3"],
+      "artifact_kinds": ["emulator", "format-recovery-tool"],
+      "systems": [],
+      "machine_families": ["DEC PDP families", "DEC VAX", "DEC Alpha"],
+      "note": "SIMH and AXPbox emulator preservation plus disk-image conversion."
+    },
+    {
+      "organization": "BBN-1D",
+      "repositories": ["BBN-1D/Exec-III", "BBN-1D/LOGO", "BBN-1D/macro1d"],
+      "artifact_kinds": ["documentation-archive", "source-reconstruction", "language-runtime"],
+      "systems": ["systems/bbn-exec-iii"],
+      "machine_families": ["BBN PDP-1D"],
+      "note": "Exec III documentation/listings, PDP-1 Logo, and cross-assembly tooling."
+    }
+  ]
+}

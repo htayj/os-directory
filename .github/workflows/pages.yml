@@ -8,6 +8,7 @@ on:
       - "scripts/build_pages_site.py"
       - "scripts/validate_lisp_machine_coverage.py"
       - "scripts/validate_larsbrinkhoff_preservation.py"
+      - "scripts/validate_lars_github_org_coverage.py"
       - "scripts/validate_gunkies_coverage.py"
       - "inventory/lisp-machine-os-coverage.json"
       - "inventory/preservation/**"
@@ -42,6 +43,7 @@ jobs:
         run: |
           python scripts/validate_lisp_machine_coverage.py
           python scripts/validate_larsbrinkhoff_preservation.py
+          python scripts/validate_lars_github_org_coverage.py
           python scripts/validate_gunkies_coverage.py
           python scripts/validate_text_editor_coverage.py
           python scripts/validate_pages_site.py
