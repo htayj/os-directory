@@ -1,13 +1,13 @@
 {
   "schema_version": "0.1",
-  "as_of": "2026-07-26",
+  "as_of": "2026-07-29",
   "repository": "https://github.com/htayj/os-directory",
   "stats": {
-    "systems": 530,
-    "systems_with_editors": 74,
-    "associations": 234,
-    "unique_editors": 115,
-    "documented_associations": 32,
+    "systems": 535,
+    "systems_with_editors": 78,
+    "associations": 238,
+    "unique_editors": 117,
+    "documented_associations": 36,
     "provisional_associations": 202
   },
   "systems": [
@@ -330,6 +330,38 @@
       "kernel": [],
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
+      "editors": []
+    },
+    {
+      "id": "alto-executive",
+      "title": "Alto Executive",
+      "description": "Xerox Alto-family command executive and boot environment used to start Interlisp-D on Xerox 1100 Lisp workstations.",
+      "record_path": "systems/alto-executive/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/alto-executive/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "inactive",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "boot-and-command-execution"
+      ],
+      "programming_language": [],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [
+        "text-command",
+        "command-line"
+      ],
+      "platform": [
+        "Xerox 1100 Scientific Information Processor"
+      ],
+      "kernel": [],
+      "editor_disposition": "no-evidence-found",
+      "editor_checked_at": "2026-07-29",
       "editors": []
     },
     {
@@ -5423,6 +5455,56 @@
       "editors": []
     },
     {
+      "id": "genera",
+      "title": "Genera",
+      "description": "Symbolics' Lisp-written operating system and integrated software-development environment for Symbolics Lisp machines and later virtual platforms.",
+      "record_path": "systems/genera/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/genera/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "historical-commercial-lineage",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "evolutionary-software-development",
+        "artificial-intelligence-application-development"
+      ],
+      "programming_language": [
+        "Lisp"
+      ],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [
+        "graphical",
+        "graphical-and-command"
+      ],
+      "platform": [
+        "Symbolics 3600 family",
+        "Symbolics XL and UX families",
+        "Symbolics MacIvory",
+        "Symbolics NXP1000"
+      ],
+      "kernel": [
+        "no-protected-conventional-kernel-boundary"
+      ],
+      "editor_disposition": "has-associations",
+      "editor_checked_at": "2026-07-29",
+      "editors": [
+        {
+          "name": "Zmacs",
+          "relationship": "integral",
+          "interface_style": "graphical",
+          "assertion_status": "documented",
+          "source": "https://bitsavers.org/pdf/symbolics/software/genera_8/Genera_Workbook.pdf",
+          "source_kind": "official-system-manual",
+          "note": ""
+        }
+      ]
+    },
+    {
       "id": "genode",
       "title": "Genode",
       "description": "Draft operating-system identity pending core research.",
@@ -6813,6 +6895,56 @@
       ]
     },
     {
+      "id": "interlisp-d-medley",
+      "title": "Interlisp-D / Medley",
+      "description": "Xerox's integrated graphical Interlisp workstation environment, later renamed Medley and ported from D-machines to a virtual machine.",
+      "record_path": "systems/interlisp-d-medley/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/interlisp-d-medley/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "maintained-preservation-lineage",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "interactive-lisp-development",
+        "personal-graphical-workstation"
+      ],
+      "programming_language": [
+        "Interlisp",
+        "BCPL"
+      ],
+      "license": [
+        "MIT"
+      ],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [
+        "graphical"
+      ],
+      "platform": [
+        "Xerox Dorado",
+        "Xerox Dolphin / 1100",
+        "Xerox Dandelion / 1108",
+        "Xerox Daybreak / 1186"
+      ],
+      "kernel": [],
+      "editor_disposition": "has-associations",
+      "editor_checked_at": "2026-07-29",
+      "editors": [
+        {
+          "name": "TEdit",
+          "relationship": "native",
+          "interface_style": "graphical",
+          "assertion_status": "documented",
+          "source": "https://xeroxparcarchive.computerhistory.org/Xerox_PARC_source_code.html",
+          "source_kind": "institutional-source-archive",
+          "note": ""
+        }
+      ]
+    },
+    {
       "id": "ios",
       "title": "iOS",
       "description": "Apple's mobile operating system for iPhone, formerly iPhone OS.",
@@ -8099,6 +8231,52 @@
       "editors": []
     },
     {
+      "id": "lmi-lisp-machine-software",
+      "title": "LMI Lisp Machine Software",
+      "description": "Lisp Machines, Inc.'s integrated Lisp-machine system software for Series III and Lambda hardware.",
+      "record_path": "systems/lmi-lisp-machine-software/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/lmi-lisp-machine-software/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "inactive",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "interactive-software-development",
+        "large-lisp-application-development"
+      ],
+      "programming_language": [
+        "Lisp Machine Lisp"
+      ],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [
+        "graphical",
+        "graphical-and-listener"
+      ],
+      "platform": [
+        "LMI Series III",
+        "LMI Lambda"
+      ],
+      "kernel": [],
+      "editor_disposition": "has-associations",
+      "editor_checked_at": "2026-07-29",
+      "editors": [
+        {
+          "name": "ZMACS",
+          "relationship": "integral",
+          "interface_style": "graphical",
+          "assertion_status": "documented",
+          "source": "https://bitsavers.org/pdf/lmi/LMI_LispSW_Overview_Jun82.pdf",
+          "source_kind": "vendor-software-overview",
+          "note": ""
+        }
+      ]
+    },
+    {
       "id": "lynxos",
       "title": "LynxOS",
       "description": "Draft inventory record for LynxOS.",
@@ -8962,6 +9140,52 @@
       "editor_disposition": "no-evidence-found",
       "editor_checked_at": "2026-07-26",
       "editors": []
+    },
+    {
+      "id": "mit-lisp-machine-system-software",
+      "title": "MIT Lisp Machine system software",
+      "description": "MIT AI Laboratory's Lisp Machine Lisp operating system and integrated environment for the CONS/CADR lineage.",
+      "record_path": "systems/mit-lisp-machine-system-software/system.md",
+      "record_url": "https://github.com/htayj/os-directory/blob/main/systems/mit-lisp-machine-system-software/system.md",
+      "catalog_level": "core",
+      "catalog_status": "draft",
+      "development_status": "inactive",
+      "country": [
+        "US"
+      ],
+      "purpose": [
+        "artificial-intelligence-research",
+        "interactive-software-development"
+      ],
+      "programming_language": [
+        "Lisp Machine Lisp"
+      ],
+      "license": [],
+      "first_release": "",
+      "latest_release": "",
+      "last_updated": "",
+      "gui": [
+        "graphical",
+        "graphical-and-listener"
+      ],
+      "platform": [
+        "MIT CONS",
+        "MIT CADR"
+      ],
+      "kernel": [],
+      "editor_disposition": "has-associations",
+      "editor_checked_at": "2026-07-29",
+      "editors": [
+        {
+          "name": "Zwei",
+          "relationship": "integral",
+          "interface_style": "graphical",
+          "assertion_status": "documented",
+          "source": "https://bitsavers.org/pdf/mit/cadr/chinual_3rdEd_Mar81.pdf",
+          "source_kind": "contemporary-system-manual",
+          "note": ""
+        }
+      ]
     },
     {
       "id": "miui",

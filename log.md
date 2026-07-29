@@ -1,5 +1,16 @@
 # Bundle Update Log
 
+## 2026-07-29
+
+* **Lisp-machine coverage**: Audited every machine family explicitly named by
+  the Computer History Wiki LISP-machine page and added a structured
+  machine-to-operating-system inventory.
+* **Catalog additions**: Added MIT Lisp Machine system software, LMI Lisp
+  Machine Software, Genera, Alto Executive, and Interlisp-D/Medley records.
+* **Identity boundaries**: Retained FAST LISP, EVLIS, TAO/ELIS, FACOM α, and
+  LIME with explicit non-OS or unresolved-host dispositions rather than
+  inventing operating-system identities.
+
 ## 2026-07-27
 
 * **Deep-research tooling**: Added a ranked 530-system gap audit, non-overlapping Terra manifests, a source-first multilingual research guide, structured result validation, review summaries, and idempotent record attachment.

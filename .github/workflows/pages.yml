@@ -6,6 +6,8 @@ on:
     paths:
       - ".github/workflows/pages.yml"
       - "scripts/build_pages_site.py"
+      - "scripts/validate_lisp_machine_coverage.py"
+      - "inventory/lisp-machine-os-coverage.json"
       - "site/**"
       - "systems/**/system.md"
   workflow_dispatch:
@@ -34,6 +36,7 @@ jobs:
         run: python scripts/build_pages_site.py
       - name: Validate catalog coverage
         run: |
+          python scripts/validate_lisp_machine_coverage.py
           python scripts/validate_text_editor_coverage.py
           python scripts/validate_pages_site.py
           node --check site/app.js

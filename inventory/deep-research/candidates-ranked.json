@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1",
-  "as_of": "2026-07-27",
+  "as_of": "2026-07-29",
   "core_fields": [
     "organizations",
     "countries_of_origin",
@@ -7216,6 +7216,83 @@
       "priority_score": 143
     },
     {
+      "path": "systems/coherent",
+      "title": "Coherent",
+      "aliases": [
+        "Coherent"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms",
+        "text_editors"
+      ],
+      "provisional_fields": [
+        "country_of_origin",
+        "developer",
+        "development_status",
+        "first_release",
+        "gui",
+        "kernel_type",
+        "last_updated",
+        "latest_release",
+        "license",
+        "os_family",
+        "platforms",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/Coherent_(operating_system)",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "Mark Williams Company",
+          "country_of_origin": "United States",
+          "purpose": null,
+          "programming_languages": null,
+          "first_release": "1980 ; 46 years ago ( 1980 )",
+          "latest_release": "4.2.14 / 1994 ; 32 years ago ( 1994 )",
+          "last_updated": "4.2.14 / 1994 ; 32 years ago ( 1994 )",
+          "development_status": "Discontinued",
+          "source_model": "Closed source; open sourced in 2015",
+          "os_family": "Unix-like",
+          "gui": "Command-line ( KornShell )",
+          "platforms": "PDP-11 , x86 ( 8088 , 286 , 386 , 486 ), Motorola 68000 , Zilog Z8000",
+          "kernel_type": "Monolithic",
+          "license": "2015: BSD-3-Clause Original: Proprietary"
+        },
+        "country_evidence": {
+          "assertion_status": "inferred",
+          "method": "inferred-from-developer-headquarters",
+          "source": "https://www.wikidata.org/wiki/Q570986"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 143
+    },
+    {
       "path": "systems/coloros",
       "title": "ColorOS",
       "aliases": [
@@ -12631,79 +12708,6 @@
           "platforms": "ARM , MIPS , Power ISA , x86",
           "kernel_type": "Monolithic ( Linux )",
           "license": "Apache 2.0 and GPL v2"
-        }
-      },
-      "existing_sources": [
-        {
-          "id": "wikipedia-list",
-          "title": "List of operating systems",
-          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
-          "source_kind": "list"
-        }
-      ],
-      "existing_text_editors": [],
-      "priority_score": 143
-    },
-    {
-      "path": "systems/orvyl-and-wylbur",
-      "title": "ORVYL and WYLBUR",
-      "aliases": [
-        "ORVYL and WYLBUR"
-      ],
-      "discovery_languages": [
-        "en"
-      ],
-      "catalog_level": "inventory",
-      "missing_fields": [
-        "organizations",
-        "countries_of_origin",
-        "design_purposes",
-        "development_status",
-        "lifecycle_events",
-        "rights_regime",
-        "licenses",
-        "programming_languages",
-        "system_organization",
-        "kernels",
-        "interfaces",
-        "platforms",
-        "text_editors"
-      ],
-      "provisional_fields": [
-        "country_of_origin",
-        "developer",
-        "development_status",
-        "first_release",
-        "license",
-        "platforms",
-        "programming_languages",
-        "source_model"
-      ],
-      "first_pass_attributes": {
-        "source": "https://en.wikipedia.org/wiki/ORVYL_and_WYLBUR",
-        "retrieved_at": "2026-07-26",
-        "assertion_status": "provisional",
-        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
-        "fields": {
-          "developer": "Stanford University",
-          "country_of_origin": "United States",
-          "purpose": null,
-          "programming_languages": "360/370 Assembly language",
-          "first_release": "1967, 1968",
-          "latest_release": null,
-          "last_updated": null,
-          "development_status": "Discontinued",
-          "source_model": "Originally Open source ; the later proprietary versions had licensed source",
-          "os_family": null,
-          "gui": null,
-          "platforms": "IBM S/360, S/370, and successors",
-          "kernel_type": null,
-          "license": "Originally public domain; the later proprietary versions had distinct licenses"
-        },
-        "country_evidence": {
-          "assertion_status": "inferred",
-          "method": "inferred-from-developer-country",
-          "source": "https://www.wikidata.org/wiki/Q41506"
         }
       },
       "existing_sources": [
@@ -29365,75 +29369,6 @@
       "priority_score": 133
     },
     {
-      "path": "systems/stratus-vos",
-      "title": "Stratus VOS",
-      "aliases": [
-        "Stratus VOS"
-      ],
-      "discovery_languages": [
-        "en"
-      ],
-      "catalog_level": "inventory",
-      "missing_fields": [
-        "organizations",
-        "countries_of_origin",
-        "design_purposes",
-        "lifecycle_events",
-        "rights_regime",
-        "licenses",
-        "programming_languages",
-        "system_organization",
-        "kernels",
-        "interfaces",
-        "platforms",
-        "text_editors"
-      ],
-      "provisional_fields": [
-        "developer",
-        "development_status",
-        "kernel_type",
-        "last_updated",
-        "latest_release",
-        "license",
-        "os_family",
-        "platforms",
-        "programming_languages",
-        "source_model"
-      ],
-      "first_pass_attributes": {
-        "source": "https://en.wikipedia.org/wiki/Stratus_VOS",
-        "retrieved_at": "2026-07-26",
-        "assertion_status": "provisional",
-        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
-        "fields": {
-          "developer": "Stratus Technologies",
-          "country_of_origin": null,
-          "purpose": null,
-          "programming_languages": "PL/I , C , Assembly language",
-          "first_release": null,
-          "latest_release": "19.3.1bx / May 2025",
-          "last_updated": "19.3.1bx / May 2025",
-          "development_status": "Current",
-          "source_model": "Closed source",
-          "os_family": "Multics-like",
-          "gui": null,
-          "platforms": "i860 , x86 , PA-RISC , 68k",
-          "kernel_type": "Monolithic kernel",
-          "license": "Kernel: Stratus Technologies Drivers, libraries, and user-land programs: Stratus Technologies , Other"
-        }
-      },
-      "existing_sources": [
-        {
-          "id": "wikipedia",
-          "title": "Stratus VOS",
-          "resource": "https://en.wikipedia.org/wiki/Stratus_VOS",
-          "source_kind": "article"
-        }
-      ],
-      "existing_text_editors": [],
-      "priority_score": 133
-    },
-    {
       "path": "systems/syllable-desktop",
       "title": "Syllable Desktop",
       "aliases": [
@@ -32474,92 +32409,6 @@
       "priority_score": 125
     },
     {
-      "path": "systems/coherent",
-      "title": "Coherent",
-      "aliases": [
-        "Coherent"
-      ],
-      "discovery_languages": [
-        "en"
-      ],
-      "catalog_level": "inventory",
-      "missing_fields": [
-        "organizations",
-        "countries_of_origin",
-        "design_purposes",
-        "development_status",
-        "lifecycle_events",
-        "rights_regime",
-        "licenses",
-        "programming_languages",
-        "system_organization",
-        "kernels",
-        "interfaces",
-        "platforms"
-      ],
-      "provisional_fields": [
-        "country_of_origin",
-        "developer",
-        "development_status",
-        "first_release",
-        "gui",
-        "kernel_type",
-        "last_updated",
-        "latest_release",
-        "license",
-        "os_family",
-        "platforms",
-        "source_model"
-      ],
-      "first_pass_attributes": {
-        "source": "https://en.wikipedia.org/wiki/Coherent_(operating_system)",
-        "retrieved_at": "2026-07-26",
-        "assertion_status": "provisional",
-        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
-        "fields": {
-          "developer": "Mark Williams Company",
-          "country_of_origin": "United States",
-          "purpose": null,
-          "programming_languages": null,
-          "first_release": "1980 ; 46 years ago ( 1980 )",
-          "latest_release": "4.2.14 / 1994 ; 32 years ago ( 1994 )",
-          "last_updated": "4.2.14 / 1994 ; 32 years ago ( 1994 )",
-          "development_status": "Discontinued",
-          "source_model": "Closed source; open sourced in 2015",
-          "os_family": "Unix-like",
-          "gui": "Command-line ( KornShell )",
-          "platforms": "PDP-11 , x86 ( 8088 , 286 , 386 , 486 ), Motorola 68000 , Zilog Z8000",
-          "kernel_type": "Monolithic",
-          "license": "2015: BSD-3-Clause Original: Proprietary"
-        },
-        "country_evidence": {
-          "assertion_status": "inferred",
-          "method": "inferred-from-developer-headquarters",
-          "source": "https://www.wikidata.org/wiki/Q570986"
-        }
-      },
-      "existing_sources": [
-        {
-          "id": "wikipedia-list",
-          "title": "List of operating systems",
-          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
-          "source_kind": "list"
-        }
-      ],
-      "existing_text_editors": [
-        {
-          "name": "Emacs",
-          "relationship": "ported",
-          "interface_style": null,
-          "source": "https://en.wikipedia.org/w/index.php?title=Coherent_%28operating_system%29&oldid=1319367048",
-          "source_kind": "wikipedia-system-page",
-          "source_revision": 1319367048,
-          "assertion_status": "provisional"
-        }
-      ],
-      "priority_score": 125
-    },
-    {
       "path": "systems/dos-v",
       "title": "DOS/V",
       "aliases": [
@@ -34227,6 +34076,115 @@
           "interface_style": "full-screen-text",
           "source": "https://en.wikipedia.org/wiki/Extensible_VAX_Editor",
           "source_kind": "editor-history-secondary-reference",
+          "assertion_status": "provisional"
+        },
+        {
+          "name": "LSE",
+          "relationship": "historically-prominent",
+          "interface_style": null,
+          "source": "https://en.wikipedia.org/w/index.php?title=OpenVMS&oldid=1363459274",
+          "source_kind": "wikipedia-system-page",
+          "source_revision": 1363459274,
+          "assertion_status": "provisional"
+        },
+        {
+          "name": "TECO",
+          "relationship": "bundled-optional",
+          "interface_style": null,
+          "source": "https://en.wikipedia.org/w/index.php?title=OpenVMS&oldid=1363459274",
+          "source_kind": "wikipedia-system-page",
+          "source_revision": 1363459274,
+          "assertion_status": "provisional"
+        },
+        {
+          "name": "Visual Studio Code",
+          "relationship": "integral",
+          "interface_style": null,
+          "source": "https://en.wikipedia.org/w/index.php?title=OpenVMS&oldid=1363459274",
+          "source_kind": "wikipedia-system-page",
+          "source_revision": 1363459274,
+          "assertion_status": "provisional"
+        }
+      ],
+      "priority_score": 125
+    },
+    {
+      "path": "systems/orvyl-and-wylbur",
+      "title": "ORVYL and WYLBUR",
+      "aliases": [
+        "ORVYL and WYLBUR"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "development_status",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [
+        "country_of_origin",
+        "developer",
+        "development_status",
+        "first_release",
+        "license",
+        "platforms",
+        "programming_languages",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/ORVYL_and_WYLBUR",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "Stanford University",
+          "country_of_origin": "United States",
+          "purpose": null,
+          "programming_languages": "360/370 Assembly language",
+          "first_release": "1967, 1968",
+          "latest_release": null,
+          "last_updated": null,
+          "development_status": "Discontinued",
+          "source_model": "Originally Open source ; the later proprietary versions had licensed source",
+          "os_family": null,
+          "gui": null,
+          "platforms": "IBM S/360, S/370, and successors",
+          "kernel_type": null,
+          "license": "Originally public domain; the later proprietary versions had distinct licenses"
+        },
+        "country_evidence": {
+          "assertion_status": "inferred",
+          "method": "inferred-from-developer-country",
+          "source": "https://www.wikidata.org/wiki/Q41506"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia-list",
+          "title": "List of operating systems",
+          "resource": "https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1365063001",
+          "source_kind": "list"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "Emacs",
+          "relationship": "historically-prominent",
+          "interface_style": null,
+          "source": "https://en.wikipedia.org/w/index.php?title=ORVYL_and_WYLBUR&oldid=1360449701",
+          "source_kind": "wikipedia-system-page",
+          "source_revision": 1360449701,
           "assertion_status": "provisional"
         }
       ],
@@ -37739,6 +37697,84 @@
           "interface_style": "full-screen-text",
           "source": "https://en.wikipedia.org/wiki/Vi_(text_editor)",
           "source_kind": "editor-history-secondary-reference",
+          "assertion_status": "provisional"
+        }
+      ],
+      "priority_score": 115
+    },
+    {
+      "path": "systems/stratus-vos",
+      "title": "Stratus VOS",
+      "aliases": [
+        "Stratus VOS"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "inventory",
+      "missing_fields": [
+        "organizations",
+        "countries_of_origin",
+        "design_purposes",
+        "lifecycle_events",
+        "rights_regime",
+        "licenses",
+        "programming_languages",
+        "system_organization",
+        "kernels",
+        "interfaces",
+        "platforms"
+      ],
+      "provisional_fields": [
+        "developer",
+        "development_status",
+        "kernel_type",
+        "last_updated",
+        "latest_release",
+        "license",
+        "os_family",
+        "platforms",
+        "programming_languages",
+        "source_model"
+      ],
+      "first_pass_attributes": {
+        "source": "https://en.wikipedia.org/wiki/Stratus_VOS",
+        "retrieved_at": "2026-07-26",
+        "assertion_status": "provisional",
+        "note": "Raw discovery metadata from the linked English Wikipedia infobox; normalize and verify against stronger sources before marking verified.",
+        "fields": {
+          "developer": "Stratus Technologies",
+          "country_of_origin": null,
+          "purpose": null,
+          "programming_languages": "PL/I , C , Assembly language",
+          "first_release": null,
+          "latest_release": "19.3.1bx / May 2025",
+          "last_updated": "19.3.1bx / May 2025",
+          "development_status": "Current",
+          "source_model": "Closed source",
+          "os_family": "Multics-like",
+          "gui": null,
+          "platforms": "i860 , x86 , PA-RISC , 68k",
+          "kernel_type": "Monolithic kernel",
+          "license": "Kernel: Stratus Technologies Drivers, libraries, and user-land programs: Stratus Technologies , Other"
+        }
+      },
+      "existing_sources": [
+        {
+          "id": "wikipedia",
+          "title": "Stratus VOS",
+          "resource": "https://en.wikipedia.org/wiki/Stratus_VOS",
+          "source_kind": "article"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "Visual Studio Code",
+          "relationship": "historically-prominent",
+          "interface_style": null,
+          "source": "https://en.wikipedia.org/w/index.php?title=Stratus_VOS&oldid=1334695313",
+          "source_kind": "wikipedia-system-page",
+          "source_revision": 1334695313,
           "assertion_status": "provisional"
         }
       ],
@@ -42250,6 +42286,36 @@
       "priority_score": 63
     },
     {
+      "path": "systems/alto-executive",
+      "title": "Alto Executive",
+      "aliases": [
+        "Alto Executive"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "licenses",
+        "programming_languages",
+        "kernels",
+        "text_editors"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "xerox-1100-manual",
+          "title": "Using Interlisp-D on the Xerox 1100",
+          "resource": "https://xeroxparcarchive.computerhistory.org/eris/lispmanual/.CHAPX1100.PRESS%211.pdf",
+          "source_kind": "contemporary-system-manual"
+        }
+      ],
+      "existing_text_editors": [],
+      "priority_score": 58
+    },
+    {
       "path": "systems/mos",
       "title": "Acorn MOS",
       "aliases": [
@@ -43312,6 +43378,93 @@
       "priority_score": 35
     },
     {
+      "path": "systems/lmi-lisp-machine-software",
+      "title": "LMI Lisp Machine Software",
+      "aliases": [
+        "LMI Lisp Machine Software"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "licenses",
+        "kernels"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-lisp-machine",
+          "title": "LISP machine",
+          "resource": "https://gunkies.org/w/index.php?title=LISP_machine&oldid=36748",
+          "source_kind": "historical-computing-wiki"
+        },
+        {
+          "id": "lmi-overview",
+          "title": "Overview of the LMI Lisp Machine Software",
+          "resource": "https://www.bitsavers.org/pdf/lmi/LMI_LispSW_Overview_Jun82.pdf",
+          "source_kind": "vendor-software-overview"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "ZMACS",
+          "relationship": "integral",
+          "interface_style": "graphical",
+          "source": "https://bitsavers.org/pdf/lmi/LMI_LispSW_Overview_Jun82.pdf",
+          "source_kind": "vendor-software-overview",
+          "assertion_status": "documented"
+        }
+      ],
+      "priority_score": 30
+    },
+    {
+      "path": "systems/mit-lisp-machine-system-software",
+      "title": "MIT Lisp Machine system software",
+      "aliases": [
+        "MIT Lisp Machine system software",
+        "Lisp Machine operating system"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "licenses",
+        "kernels"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-lisp-machine",
+          "title": "LISP machine",
+          "resource": "https://gunkies.org/w/index.php?title=LISP_machine&oldid=36748",
+          "source_kind": "historical-computing-wiki"
+        },
+        {
+          "id": "mit-lm-manual",
+          "title": "Lisp Machine Manual, third edition",
+          "resource": "https://bitsavers.org/pdf/mit/cadr/chinual_3rdEd_Mar81.pdf",
+          "source_kind": "contemporary-system-manual"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "Zwei",
+          "relationship": "integral",
+          "interface_style": "graphical",
+          "source": "https://bitsavers.org/pdf/mit/cadr/chinual_3rdEd_Mar81.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented"
+        }
+      ],
+      "priority_score": 30
+    },
+    {
       "path": "systems/v",
       "title": "V",
       "aliases": [
@@ -43632,6 +43785,110 @@
       ],
       "existing_text_editors": [],
       "priority_score": 23
+    },
+    {
+      "path": "systems/genera",
+      "title": "Genera",
+      "aliases": [
+        "Genera",
+        "Open Genera"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "licenses"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "gunkies-lisp-machine",
+          "title": "LISP machine",
+          "resource": "https://gunkies.org/w/index.php?title=LISP_machine&oldid=36748",
+          "source_kind": "historical-computing-wiki"
+        },
+        {
+          "id": "genera-concepts",
+          "title": "Genera Concepts",
+          "resource": "https://bitsavers.org/pdf/symbolics/software/genera_8/Genera_Concepts.pdf",
+          "source_kind": "official-system-manual"
+        },
+        {
+          "id": "genera-index",
+          "title": "Symbolics Genera 8 documentation index",
+          "resource": "https://bitsavers.org/pdf/symbolics/software/genera_8/",
+          "source_kind": "documentation-archive-index"
+        },
+        {
+          "id": "open-genera-guide",
+          "title": "Open Genera Installation Guide",
+          "resource": "https://bitsavers.org/pdf/symbolics/software/genera_8/Open_Genera_Installation_Guide.pdf",
+          "source_kind": "official-installation-guide"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "Zmacs",
+          "relationship": "integral",
+          "interface_style": "graphical",
+          "source": "https://bitsavers.org/pdf/symbolics/software/genera_8/Genera_Workbook.pdf",
+          "source_kind": "official-system-manual",
+          "assertion_status": "documented"
+        }
+      ],
+      "priority_score": 20
+    },
+    {
+      "path": "systems/interlisp-d-medley",
+      "title": "Interlisp-D / Medley",
+      "aliases": [
+        "Interlisp-D",
+        "Medley"
+      ],
+      "discovery_languages": [
+        "en"
+      ],
+      "catalog_level": "core",
+      "missing_fields": [
+        "lifecycle_events",
+        "kernels"
+      ],
+      "provisional_fields": [],
+      "first_pass_attributes": {},
+      "existing_sources": [
+        {
+          "id": "xerox-1100-manual",
+          "title": "Using Interlisp-D on the Xerox 1100",
+          "resource": "https://xeroxparcarchive.computerhistory.org/eris/lispmanual/.CHAPX1100.PRESS%211.pdf",
+          "source_kind": "contemporary-system-manual"
+        },
+        {
+          "id": "parc-archive",
+          "title": "Xerox PARC source code archive: Lisp and Interlisp",
+          "resource": "https://xeroxparcarchive.computerhistory.org/Xerox_PARC_source_code.html",
+          "source_kind": "institutional-source-archive"
+        },
+        {
+          "id": "interlisp-project",
+          "title": "Medley Interlisp Project",
+          "resource": "https://interlisp.org/",
+          "source_kind": "official-preservation-project"
+        }
+      ],
+      "existing_text_editors": [
+        {
+          "name": "TEdit",
+          "relationship": "native",
+          "interface_style": "graphical",
+          "source": "https://xeroxparcarchive.computerhistory.org/Xerox_PARC_source_code.html",
+          "source_kind": "institutional-source-archive",
+          "assertion_status": "documented"
+        }
+      ],
+      "priority_score": 20
     },
     {
       "path": "systems/compatible-time-sharing-system",

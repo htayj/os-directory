@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1",
-  "as_of": "2026-07-26",
+  "as_of": "2026-07-29",
   "systems": [
     {
       "path": "systems/1b",
@@ -126,6 +126,14 @@
         "english-wikipedia-exact-title-query"
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
+      "associations": []
+    },
+    {
+      "path": "systems/alto-executive",
+      "title": "Alto Executive",
+      "disposition": "no-evidence-found",
+      "searched": [],
+      "note": "No editor relationship was established during the incremental source-backed record addition.",
       "associations": []
     },
     {
@@ -2129,6 +2137,25 @@
       "associations": []
     },
     {
+      "path": "systems/genera",
+      "title": "Genera",
+      "disposition": "has-associations",
+      "searched": [
+        "curated-primary-sources"
+      ],
+      "note": "One or more relationships are documented by curated primary or institutional sources.",
+      "associations": [
+        {
+          "name": "Zmacs",
+          "relationship": "integral",
+          "interface_style": "graphical",
+          "source": "https://bitsavers.org/pdf/symbolics/software/genera_8/Genera_Workbook.pdf",
+          "source_kind": "official-system-manual",
+          "assertion_status": "documented"
+        }
+      ]
+    },
+    {
       "path": "systems/genode",
       "title": "Genode",
       "disposition": "no-evidence-found",
@@ -2665,6 +2692,25 @@
           "source": "https://en.wikipedia.org/wiki/Vi_(text_editor)",
           "source_kind": "editor-history-secondary-reference",
           "assertion_status": "provisional"
+        }
+      ]
+    },
+    {
+      "path": "systems/interlisp-d-medley",
+      "title": "Interlisp-D / Medley",
+      "disposition": "has-associations",
+      "searched": [
+        "curated-primary-sources"
+      ],
+      "note": "One or more relationships are documented by curated primary or institutional sources.",
+      "associations": [
+        {
+          "name": "TEdit",
+          "relationship": "native",
+          "interface_style": "graphical",
+          "source": "https://xeroxparcarchive.computerhistory.org/Xerox_PARC_source_code.html",
+          "source_kind": "institutional-source-archive",
+          "assertion_status": "documented"
         }
       ]
     },
@@ -3255,6 +3301,25 @@
       "associations": []
     },
     {
+      "path": "systems/lmi-lisp-machine-software",
+      "title": "LMI Lisp Machine Software",
+      "disposition": "has-associations",
+      "searched": [
+        "curated-primary-sources"
+      ],
+      "note": "One or more relationships are documented by curated primary or institutional sources.",
+      "associations": [
+        {
+          "name": "ZMACS",
+          "relationship": "integral",
+          "interface_style": "graphical",
+          "source": "https://bitsavers.org/pdf/lmi/LMI_LispSW_Overview_Jun82.pdf",
+          "source_kind": "vendor-software-overview",
+          "assertion_status": "documented"
+        }
+      ]
+    },
+    {
       "path": "systems/lynxos",
       "title": "LynxOS",
       "disposition": "no-evidence-found",
@@ -3736,6 +3801,25 @@
       ],
       "note": "No editor relationship was found in the linked Wikipedia page or direct Wikidata text-editor platform statements; primary manuals and distribution manifests still require research.",
       "associations": []
+    },
+    {
+      "path": "systems/mit-lisp-machine-system-software",
+      "title": "MIT Lisp Machine system software",
+      "disposition": "has-associations",
+      "searched": [
+        "curated-primary-sources"
+      ],
+      "note": "One or more relationships are documented by curated primary or institutional sources.",
+      "associations": [
+        {
+          "name": "Zwei",
+          "relationship": "integral",
+          "interface_style": "graphical",
+          "source": "https://bitsavers.org/pdf/mit/cadr/chinual_3rdEd_Mar81.pdf",
+          "source_kind": "contemporary-system-manual",
+          "assertion_status": "documented"
+        }
+      ]
     },
     {
       "path": "systems/miui",

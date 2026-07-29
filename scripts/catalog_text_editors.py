@@ -22,7 +22,7 @@ OUTPUT = INVENTORY / "text-editor-associations.json"
 PAGE_CACHE = INVENTORY / "text-editor-page-snapshots.json"
 WIKIDATA_CACHE = INVENTORY / "text-editor-wikidata.json"
 USER_AGENT = "HistoricalOSCatalog/0.1 (text-editor relationship pass)"
-RUN_DATE = "2026-07-26"
+RUN_DATE = "2026-07-29"
 BLOCK_START = "# BEGIN GENERATED TEXT EDITORS"
 BLOCK_END = "# END GENERATED TEXT EDITORS"
 DISPOSITION_START = "# BEGIN GENERATED TEXT EDITOR DISPOSITION"
@@ -561,6 +561,18 @@ CURATED = {
         curated("ISPF editor", "bundled-optional", ISPF, "full-screen-text", "documented", "vendor-documentation"),
         curated("oedit", "bundled-default", "https://www.ibm.com/docs/en/zos/3.2.0?topic=descriptions-oedit-edit-text", "full-screen-text", "documented", "vendor-documentation"),
     ],
+    "systems/mit-lisp-machine-system-software": [
+        curated("Zwei", "integral", "https://bitsavers.org/pdf/mit/cadr/chinual_3rdEd_Mar81.pdf", "graphical", "documented", "contemporary-system-manual"),
+    ],
+    "systems/lmi-lisp-machine-software": [
+        curated("ZMACS", "integral", "https://bitsavers.org/pdf/lmi/LMI_LispSW_Overview_Jun82.pdf", "graphical", "documented", "vendor-software-overview"),
+    ],
+    "systems/genera": [
+        curated("Zmacs", "integral", "https://bitsavers.org/pdf/symbolics/software/genera_8/Genera_Workbook.pdf", "graphical", "documented", "official-system-manual"),
+    ],
+    "systems/interlisp-d-medley": [
+        curated("TEdit", "native", "https://xeroxparcarchive.computerhistory.org/Xerox_PARC_source_code.html", "graphical", "documented", "institutional-source-archive"),
+    ],
 }
 
 
@@ -701,8 +713,70 @@ def insert(record: Path, entry: dict) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--no-write-records", action="store_true")
+    parser.add_argument(
+        "--preserve-existing",
+        action="store_true",
+        help=(
+            "Keep existing inventory entries and generated record blocks unchanged; "
+            "add coverage only for newly created system records from curated or "
+            "deep-research evidence, without querying public APIs."
+        ),
+    )
     args = parser.parse_args()
     systems = all_systems()
+    if args.preserve_existing:
+        existing_payload = json.loads(OUTPUT.read_text(encoding="utf-8"))
+        existing = {item["path"]: item for item in existing_payload["systems"]}
+        output = []
+        for path, system in systems.items():
+            if path in existing:
+                output.append(existing[path])
+                continue
+            associations = merge_associations(
+                CURATED.get(path, []),
+                deep_research_associations(system),
+            )
+            entry = {
+                "path": path,
+                "title": system["title"],
+                "disposition": (
+                    "has-associations" if associations else "no-evidence-found"
+                ),
+                "searched": ["curated-primary-sources"] if associations else [],
+                "note": (
+                    "One or more relationships are documented by curated primary "
+                    "or institutional sources."
+                    if associations
+                    else "No editor relationship was established during the "
+                    "incremental source-backed record addition."
+                ),
+                "associations": associations,
+            }
+            output.append(entry)
+            if not args.no_write_records:
+                insert(system["record"], entry)
+        OUTPUT.write_text(
+            json.dumps(
+                {
+                    "schema_version": existing_payload["schema_version"],
+                    "as_of": RUN_DATE,
+                    "systems": output,
+                },
+                ensure_ascii=False,
+                indent=2,
+                sort_keys=False,
+            )
+            + "\n",
+            encoding="utf-8",
+        )
+        found = sum(bool(entry["associations"]) for entry in output)
+        associations = sum(len(entry["associations"]) for entry in output)
+        print(
+            f"Incremental text-editor coverage: {found}/{len(output)} systems "
+            f"have {associations} associations."
+        )
+        return 0
+
     mapping = linked_pages()
     linked_paths = set(mapping)
     for path, system in systems.items():

@@ -1,0 +1,128 @@
+{
+  "schema_version": "0.1",
+  "as_of": "2026-07-29",
+  "source": {
+    "title": "LISP machine",
+    "url": "https://gunkies.org/w/index.php?title=LISP_machine&oldid=36748",
+    "revision": 36748
+  },
+  "scope_note": "This inventory maps every explicitly named machine, manufacturer family, or Japanese machine on the source page to documented operating systems or integrated system software. A language implementation or host-attached processor is not silently promoted to an operating system.",
+  "entries": [
+    {
+      "machine": "MIT CONS",
+      "organization": "MIT Artificial Intelligence Laboratory",
+      "country": "US",
+      "associated_software": ["MIT Lisp Machine system software"],
+      "catalog_records": ["systems/mit-lisp-machine-system-software"],
+      "disposition": "cataloged",
+      "evidence": [
+        "https://gunkies.org/w/index.php?title=LISP_machine&oldid=36748",
+        "https://bitsavers.org/pdf/mit/cadr/chinual_3rdEd_Mar81.pdf"
+      ],
+      "note": "The manual describes the Lisp Machine language and operating system; the CONS was the prototype predecessor of the CADR."
+    },
+    {
+      "machine": "MIT CADR",
+      "organization": "MIT Artificial Intelligence Laboratory",
+      "country": "US",
+      "associated_software": ["MIT Lisp Machine system software"],
+      "catalog_records": ["systems/mit-lisp-machine-system-software"],
+      "disposition": "cataloged",
+      "evidence": [
+        "https://gunkies.org/w/index.php?title=LISP_machine&oldid=36748",
+        "https://bitsavers.org/pdf/mit/cadr/chinual_3rdEd_Mar81.pdf"
+      ]
+    },
+    {
+      "machine": "Symbolics Lisp-machine families",
+      "organization": "Symbolics",
+      "country": "US",
+      "associated_software": ["Genera"],
+      "catalog_records": ["systems/genera"],
+      "disposition": "cataloged",
+      "evidence": [
+        "https://bitsavers.org/pdf/symbolics/software/genera_8/Genera_Concepts.pdf",
+        "https://bitsavers.org/pdf/symbolics/software/genera_8/"
+      ]
+    },
+    {
+      "machine": "Lisp Machines, Inc. Series III and Lambda",
+      "organization": "Lisp Machines, Inc.",
+      "country": "US",
+      "associated_software": ["LMI Lisp Machine Software"],
+      "catalog_records": ["systems/lmi-lisp-machine-software"],
+      "disposition": "cataloged",
+      "evidence": ["https://www.bitsavers.org/pdf/lmi/LMI_LispSW_Overview_Jun82.pdf"]
+    },
+    {
+      "machine": "Texas Instruments Explorer family",
+      "organization": "Texas Instruments",
+      "country": "US",
+      "associated_software": ["Explorer System Software"],
+      "catalog_records": ["systems/explorer-system-software"],
+      "disposition": "cataloged",
+      "evidence": ["https://archive.org/details/bitsavers_tiexplorerorerSystemSoftwareRelease4.1ReleaseNo_24621564"]
+    },
+    {
+      "machine": "Xerox D-machines and commercial Lisp workstations",
+      "organization": "Xerox",
+      "country": "US",
+      "associated_software": ["Alto Executive", "Interlisp-D", "Medley"],
+      "catalog_records": ["systems/alto-executive", "systems/interlisp-d-medley"],
+      "disposition": "cataloged-with-layering-note",
+      "evidence": [
+        "https://xeroxparcarchive.computerhistory.org/eris/lispmanual/.CHAPX1100.PRESS%211.pdf",
+        "https://xeroxparcarchive.computerhistory.org/Xerox_PARC_source_code.html"
+      ],
+      "note": "The Xerox 1100 boots the Alto Executive, which starts Interlisp-D. Interlisp-D/Medley is cataloged as an integrated graphical operating environment, preserving the contemporary boot-layer distinction."
+    },
+    {
+      "machine": "TAKITAC-7",
+      "organization": "Kobe University",
+      "country": "JP",
+      "associated_software": ["FAST LISP"],
+      "catalog_records": [],
+      "disposition": "no-separate-operating-system-established",
+      "evidence": ["https://museum.ipsj.or.jp/en/computer/other/0001.html"]
+    },
+    {
+      "machine": "EVLIS",
+      "organization": "Osaka University",
+      "country": "JP",
+      "associated_software": ["EVLIS Lisp 1.5-compatible processing system"],
+      "catalog_records": [],
+      "disposition": "no-separate-operating-system-established",
+      "evidence": ["https://museum.ipsj.or.jp/en/computer/other/0003.html"]
+    },
+    {
+      "machine": "ELIS and ELIS-8100/8200",
+      "organization": "NTT and NTT-IT",
+      "country": "JP",
+      "associated_software": ["TAO/ELIS"],
+      "catalog_records": [],
+      "disposition": "integrated-language-environment-not-established-as-os",
+      "evidence": [
+        "https://museum.ipsj.or.jp/en/computer/other/0004.html",
+        "https://www.nue.org/nue/tao/bitao/elis-design.html"
+      ]
+    },
+    {
+      "machine": "FACOM α",
+      "organization": "Fujitsu",
+      "country": "JP",
+      "associated_software": ["FACOM α Lisp processing software"],
+      "catalog_records": [],
+      "disposition": "host-operating-system-unresolved",
+      "evidence": ["https://museum.ipsj.or.jp/en/computer/other/0006.html"]
+    },
+    {
+      "machine": "LIME",
+      "organization": "NEC",
+      "country": "JP",
+      "associated_software": ["UTI-Lisp execution environment"],
+      "catalog_records": [],
+      "disposition": "host-operating-system-unresolved",
+      "evidence": ["https://museum.ipsj.or.jp/en/computer/other/0008.html"]
+    }
+  ]
+}

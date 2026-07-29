@@ -14,6 +14,8 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "inventory" / "deep-research"
 MANIFESTS = OUTPUT / "manifests"
 RESULTS = OUTPUT / "results"
+AUDIT_DATE = "2026-07-29"
+WAVE_001_DATE = "2026-07-27"
 
 FIELD_SOURCES = {
     "organizations": ("organizations",),
@@ -195,7 +197,7 @@ def main() -> int:
         json.dumps(
             {
                 "schema_version": "0.1",
-                "as_of": "2026-07-27",
+                "as_of": AUDIT_DATE,
                 "core_fields": list(FIELD_SOURCES),
                 "systems": ranked,
             },
@@ -221,7 +223,7 @@ def main() -> int:
             "schema_version": "0.1",
             "batch_id": batch_id,
             "theme": definition["theme"],
-            "as_of": "2026-07-27",
+            "as_of": WAVE_001_DATE,
             "agent_guide": "schema/deep-research-agent-guide.md",
             "result_path": f"inventory/deep-research/results/{batch_id}.json",
             "systems": systems,

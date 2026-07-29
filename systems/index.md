@@ -14,6 +14,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Acorn MOS](mos/) - Machine Operating System firmware for Acorn's BBC Microcomputer range.
 * [ACOS-2](acos-2/) - Draft multilingual inventory record; factual research is pending.
 * [AdaOS](adaos/) - Draft multilingual inventory record; factual research is pending.
+* [Alto Executive](alto-executive/) - Xerox Alto-family command executive and boot environment used to start Interlisp-D on Xerox 1100 Lisp workstations.
 * [Amdahl UTS](uts/) - Draft inventory record for Amdahl UTS.
 * [Amiga Unix](amiga-unix/) - Commodore port of AT&T UNIX System V for Amiga 2500UX and 3000UX systems.
 * [AmigaOS](amigaos/) - Operating-system lineage for Commodore Amiga computers, with later maintained branches.
@@ -161,6 +162,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [FUSS (Free Upgrade for a digitally Sustainable School)](fuss-linux/) - Draft multilingual inventory record; factual research is pending.
 * [Gargoyle](gargoyle/) - Draft inventory record for Gargoyle.
 * [GCOS](gcos/) - Draft inventory record for GCOS.
+* [Genera](genera/) - Symbolics' Lisp-written operating system and integrated software-development environment for Symbolics Lisp machines and later virtual platforms.
 * [Genode](genode/) - Draft operating-system identity pending core research.
 * [GEORGE](george/) - Draft operating-system identity pending core research.
 * [GEOS](geos/) - 8-bit graphical operating-system lineage.
@@ -202,6 +204,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [INTEGRITY](integrity/) - Draft operating-system identity pending core research.
 * [INTEGRITY-178B](integrity-178b/) - Draft operating-system identity pending core research.
 * [Interactive Unix](interactive-unix/) - Draft inventory record for Interactive Unix.
+* [Interlisp-D / Medley](interlisp-d-medley/) - Xerox's integrated graphical Interlisp workstation environment, later renamed Medley and ported from D-machines to a virtual machine.
 * [iOS](ios/) - Apple's mobile operating system for iPhone, formerly iPhone OS.
 * [IOS-XR](ios-xr/) - Draft operating-system identity pending core research.
 * [iPadOS](ipados/) - Apple operating system for iPad devices.
@@ -235,6 +238,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [Linux](linux/) - Draft operating-system identity pending core research.
 * [Linux Caixa Mágica](linux-caixa-magica/) - Draft multilingual inventory record for Linux Caixa Mágica.
 * [LiteOS](liteos/) - Draft inventory record for LiteOS.
+* [LMI Lisp Machine Software](lmi-lisp-machine-software/) - Lisp Machines, Inc.'s integrated Lisp-machine system software for Series III and Lambda hardware.
 * [LynxOS](lynxos/) - Draft inventory record for LynxOS.
 * [M0n0wall](m0n0wall/) - Draft inventory record for M0n0wall.
 * [macOS](macos/) - Apple's operating system for Mac computers, formerly Mac OS X and OS X.
@@ -257,6 +261,7 @@ Draft system-lineage records currently present in this bundle. Their individual 
 * [MINIX](minix/) - Draft inventory record for MINIX.
 * [MiNT](mint/) - Draft inventory record for MiNT.
 * [MIPS RISC/os](risc-os-2/) - Draft operating-system identity pending core research.
+* [MIT Lisp Machine system software](mit-lisp-machine-system-software/) - MIT AI Laboratory's Lisp Machine Lisp operating system and integrated environment for the CONS/CADR lineage.
 * [MIUI](miui/) - Draft operating-system identity pending core research.
 * [MK-DOS](mk-dos/) - Draft operating-system identity pending core research.
 * [MkLinux](mklinux/) - Linux distribution and operating-system port for selected Macintosh computers.
